@@ -1,339 +1,485 @@
 {
     "World": [
         {
-            "headline": "US Iran War News: Iran criticizes US, Trump pauses military strike.",
-            "summary": "Iran has intensified its criticism of the United States, accusing Washington of hindering diplomatic efforts in the West Asia conflict and breaching promises. Meanwhile, President Trump paused a planned military strike on Iran, citing ongoing negotiations and requests from Gulf allies. He expressed optimism for a deal without military action.",
+            "headline": "'PM's hair was on fire': Trump & Netanyahu spar over Iran war in phone call",
+            "summary": "Donald Trump and Benjamin Netanyahu reportedly had a heated phone call, where Trump vividly described Netanyahu's anger over the Iran war as his 'hair being on fire'. The disagreement focused on future strategies for the conflict with Iran, underscoring significant tensions in their relationship over this critical geopolitical issue.",
             "key_points": [
-                "Iran accuses US of \"contradictory behaviors\" obstructing diplomacy in West Asia.",
-                "Iran reportedly forwarded a 14-point diplomatic proposal to Washington.",
-                "US President Trump paused a planned military strike on Iran.",
-                "Trump believes a deal without military action is possible, citing Gulf allies' requests."
+                "Donald Trump and Benjamin Netanyahu engaged in a tense phone conversation.",
+                "Their primary disagreement was over the strategy for the Iran war.",
+                "Trump used strong language to describe Netanyahu's heated reaction.",
+                "The call highlights strained relations between the leaders concerning Iran policy."
             ]
         },
         {
-            "headline": "Putin arrives in China for strategic talks with Xi Jinping, affirming unprecedented ties.",
-            "summary": "Russian President Putin has arrived in Beijing for an official two-day visit to engage in strategic partnership talks with Chinese President Xi Jinping. Putin declared Russia-China relations have reached an \"unprecedented level,\" aiming to significantly strengthen their alliance. Ahead of his arrival, Putin addressed the Chinese people, highlighting bilateral cooperation.",
+            "headline": "Another military operation on cards? USS Nimitz enters Caribbean amid US-Cuba tensions",
+            "summary": "The USS Nimitz aircraft carrier has been deployed to the Caribbean Sea, intensifying tensions between the United States and Cuba. This strategic move sparks speculation about a potential military operation, occurring simultaneously with heightened diplomatic friction and recent US legal actions against Cuban officials like Raúl Castro.",
             "key_points": [
-                "Russian President Putin is on a two-day official visit to Beijing.",
-                "He is holding strategic partnership talks with Chinese President Xi Jinping.",
-                "Putin stated that Russia-China relations have reached an \"unprecedented level.\"",
-                "The visit aims to significantly strengthen their strategic alliance."
+                "The USS Nimitz aircraft carrier has entered the Caribbean Sea.",
+                "This deployment increases US-Cuba tensions.",
+                "Speculation arises about a possible military operation.",
+                "The move coincides with new US legal actions against Cuban figures."
             ]
         },
         {
-            "headline": "'Melodi' moment in Rome: Italian PM Meloni welcomes PM Modi for strategic partnership talks.",
-            "summary": "Italian Prime Minister Giorgia Meloni welcomed India's PM Narendra Modi to Rome for discussions aimed at elevating bilateral ties to a special strategic partnership. The visit focuses on strengthening cooperation, particularly through the India-Middle East-Europe Economic Corridor (IMEC), with goals for annual summits and a €20 billion trade target by 2029.",
+            "headline": "From 'Melodi' camaraderie to strategic deals: Key takeaways from PM Modi’s Italy visit",
+            "summary": "Indian Prime Minister Modi's visit to Italy solidified a strong personal rapport with Italian PM Giorgia Meloni, fostering a 'Melodi' camaraderie. The trip led to crucial strategic agreements in areas like defense, the India-Middle East-Europe Economic Corridor (IMEC), and technology cooperation, aiming to significantly enhance bilateral ties and regional influence for India.",
             "key_points": [
-                "PM Modi's visit to Rome to enhance India-Italy bilateral ties to a strategic partnership.",
-                "Focus on strengthening cooperation via the India-Middle East-Europe Economic Corridor (IMEC).",
-                "Plans include annual summits and a €20 billion trade target by 2029.",
-                "Italian PM Meloni extended a warm welcome to PM Modi."
+                "PM Modi's Italy visit strengthened rapport with PM Giorgia Meloni, dubbed 'Melodi'.",
+                "Strategic deals were forged in defense, IMEC, and technology cooperation.",
+                "The visit seeks to deepen India-Italy bilateral relations.",
+                "It aims to boost India's regional influence."
             ]
         },
         {
-            "headline": "US poll reveals growing public opposition to Israel aid and Iran war plans.",
-            "summary": "A New York Times/Siena University survey indicates strong American opposition to military aid for Israel and military action against Iran. Only 30% support war with Iran, 64% oppose it, and most respondents reject continued US military aid to Israel, especially younger voters. The poll also presents challenges for Donald Trump on these foreign policy issues.",
+            "headline": "US Acknowledges 42 Aircraft Losses, Tehran Warns More Surprises If War Resumes",
+            "summary": "A US Congressional Research Service report has disclosed that 42 American aircraft were either destroyed or damaged during the war with Iran, including advanced fighter jets and drones. In response, Iran's Foreign Minister claimed extensive US losses and asserted they struck an F-35, reigniting debate on airpower vulnerabilities and the escalating risks of future conflict.",
             "key_points": [
-                "Major US poll shows growing American opposition to military aid for Israel and war with Iran.",
-                "Only 30% support war with Iran, 64% oppose it; most reject continued US military aid to Israel.",
-                "Younger voters show increased sympathy for Palestinians.",
-                "The poll highlights challenges for Donald Trump on foreign policy."
+                "A US report confirms 42 American aircraft were lost or damaged in the Iran conflict.",
+                "Losses include F-15E Strike Eagles, KC-135 tankers, and MQ-9 Reaper drones.",
+                "Iran claims massive US casualties and an F-35 strike, warning of further actions.",
+                "The revelations intensify debate on military vulnerabilities and future conflict risks."
             ]
         },
         {
-            "headline": "WHO warns of alarming Ebola outbreak with 136 deaths and no cure.",
-            "summary": "The World Health Organization has issued a stark warning regarding a rapidly escalating Ebola outbreak, noting 136 fatalities with no available vaccine or cure. The WHO expressed serious concern over the \"scale and speed\" of the contagion, highlighting the urgent global health threat it poses.",
+            "headline": "Leaked document reveals how US may have forced Imran Khan out",
+            "summary": "An independent news outlet, Drop Site, published a diplomatic cable allegedly detailing how the US government may have influenced the removal of Imran Khan from Pakistan's leadership. This leak has reignited Khan’s long-standing claims of a foreign-backed conspiracy, once again bringing Pakistan’s fragile civil-military balance under intense scrutiny.",
             "key_points": [
-                "Ebola outbreak has resulted in 136 deaths.",
-                "No vaccine or cure is currently available for this strain.",
-                "WHO warns about the unprecedented \"scale and speed\" of the outbreak.",
-                "The situation represents a critical global health emergency."
+                "A leaked diplomatic cable suggests US involvement in Imran Khan's ouster.",
+                "The document was published by independent news outlet Drop Site.",
+                "It supports Khan's claims of a foreign-backed conspiracy.",
+                "The leak has renewed scrutiny on Pakistan’s civil-military relations."
             ]
         },
         {
-            "headline": "Pakistan's claim of hitting two non-existent Indian airbases exposed.",
-            "summary": "Pakistan's assertion of striking two Indian airbases, Rajouri and Mamun, during \"Operation Bunyan Ul Marsoos\" has been disproven as these locations do not exist. This claim follows India's effective interception and destruction of all Pakistani missiles and drone swarms in a retaliatory action last year, highlighting a disparity in military claims and realities.",
+            "headline": "US Signals NATO Military Pullback As Europe Braces For Smaller American War Commitment",
+            "summary": "The Trump administration is reportedly preparing to reduce the military assets the United States would commit to NATO during a major conflict, scaling down its wartime commitments. This move, potentially to be unveiled in Brussels, follows troop reductions in Germany and canceled rotations to Poland, raising concerns among European allies heavily reliant on American military support.",
             "key_points": [
-                "Pakistan falsely claimed striking two non-existent Indian airbases: Rajouri and Mamun.",
-                "The claim was part of their \"Operation Bunyan Ul Marsoos\" counter-action.",
-                "It follows India's successful interception of Pakistani missiles and drones last year.",
-                "The incident highlights a discrepancy in Pakistan's military reporting."
+                "The Trump administration plans to reduce US military commitments to NATO.",
+                "The Pentagon intends to scale down wartime contributions under the NATO Force Model.",
+                "This follows troop reductions in Germany and canceled rotations to Poland.",
+                "European allies are concerned due to their deep dependence on US military assets."
             ]
         },
         {
-            "headline": "Russia initiates massive three-day nuclear drills.",
-            "summary": "Russia has commenced large-scale three-day nuclear drills, a significant military exercise designed to test the readiness and capabilities of its strategic nuclear forces. These drills send a clear signal regarding Russia's defense posture and highlight the ongoing geopolitical tensions.",
+            "headline": "Trump Warns Nuclear Iran Could Destroy Israel & Put LA At Risk, Hints Fresh Strikes Just Days Away",
+            "summary": "Donald Trump has heightened pressure on Iran, asserting that renewed US strikes could commence within days if negotiations fail. Speaking from the White House, Trump declared Iran would not obtain a nuclear weapon and suggested a 'big hit' might be necessary, outlining a tight timeline for potential military action and predicting a drop in oil prices if a deal is reached.",
             "key_points": [
-                "Russia has started massive three-day nuclear drills.",
-                "The exercises aim to test the readiness of strategic nuclear forces.",
-                "This signifies a major military development.",
-                "The drills reflect ongoing geopolitical tensions."
+                "Donald Trump warned of imminent US strikes against Iran if talks collapse.",
+                "He vowed Iran would not acquire nuclear weapons and hinted at a 'big hit'.",
+                "Trump outlined a timeline for potential strikes, ranging from Friday to early next week.",
+                "He also predicted a plunge in oil prices if a deal is reached, raising tensions."
             ]
         },
         {
-            "headline": "'Islamophobic Attack' Outside San Diego Mosque Leaves 3 Dead in Teen Gunmen Shooting.",
-            "summary": "An alleged \"Islamophobic attack\" occurred outside a mosque in San Diego, resulting in the deaths of three individuals after a deadly shooting carried out by two teenage gunmen. The incident has raised concerns about hate crimes and community safety, prompting investigations into the motivations behind the violence.",
+            "headline": "Trump Cover-Up Blown? Report Reveals Pentagon Concealed Iran-Backed Militia Attack On U.S. Aircraft",
+            "summary": "A new investigation by The Atlantic claims a significant Pentagon cover-up regarding a US Air Force KC-135 Stratotanker collision over Iraq, which killed six airmen. The report alleges hostile fire from Kataib Hezbollah militia caused the crash, contradicting Defense Secretary Pete Hegseth's previous statements about 'friendly skies' and exposing frantic evasive maneuvers by pilots.",
             "key_points": [
-                "Three people were killed in a shooting outside a San Diego mosque.",
-                "The attack is being investigated as a possible \"Islamophobic Attack.\"",
-                "Two teenage gunmen were reportedly responsible for the deadly incident.",
-                "The event raises concerns about hate crimes and religious intolerance."
+                "The Atlantic report alleges a Pentagon cover-up regarding a US aircraft collision in Iraq.",
+                "The crash, which killed six US airmen, was reportedly caused by hostile fire from Kataib Hezbollah.",
+                "This contradicts official statements about 'friendly skies' in the region.",
+                "US pilots were forced into extreme evasive maneuvers leading to the fatal incident."
             ]
         },
         {
-            "headline": "Russia denounces irresponsible actions targeting UAE nuclear facility.",
-            "summary": "Russia's Foreign Ministry has issued a strong denouncement of what it termed \"irresponsible actions\" targeting the UAE's nuclear facility. This statement highlights international concerns over potential threats to nuclear safety and regional stability in the Middle East.",
+            "headline": "Russia-China Partnership Strengthening Despite Western Pressure: Lavrov",
+            "summary": "Russian Foreign Minister Sergey Lavrov stated that the partnership between Russia and China is growing stronger, despite significant pressure from Western nations. This robust alliance is seen as a counterweight to Western influence and underscores a deepening strategic cooperation between the two global powers.",
             "key_points": [
-                "Russia's Foreign Ministry denounced \"irresponsible actions.\"",
-                "These actions reportedly targeted a UAE nuclear facility.",
-                "The statement underscores concerns for nuclear safety.",
-                "It reflects broader worries about regional stability in the Middle East."
+                "Russian FM Lavrov affirms strengthening Russia-China partnership.",
+                "The alliance is growing despite Western pressure.",
+                "It acts as a counterweight to Western influence.",
+                "The partnership reflects deepening strategic cooperation."
             ]
         },
         {
-            "headline": "US prepares for test-fire of Minuteman III Intercontinental Ballistic Missile.",
-            "summary": "The United States is reportedly set to conduct a test-fire of its Minuteman III Intercontinental Ballistic Missile. This planned test is part of ongoing efforts to maintain and verify the readiness and effectiveness of the nation's strategic defense capabilities.",
+            "headline": "Putin Wraps Up His Visit to China: All You Need to Know",
+            "summary": "Russian President Vladimir Putin concluded a significant visit to China, during which key agreements were reached and bilateral ties were reaffirmed. The visit focused on strengthening economic and strategic cooperation, particularly in energy, and underscored the deepening relationship between Moscow and Beijing in the face of global geopolitical shifts.",
             "key_points": [
-                "The US is planning a test-fire of the Minuteman III ICBM.",
-                "The test is part of maintaining strategic defense capabilities.",
-                "It aims to verify missile readiness and effectiveness."
+                "Russian President Putin concluded a high-stakes visit to China.",
+                "Key agreements were reached during the visit.",
+                "The visit focused on strengthening economic and strategic cooperation.",
+                "It highlighted deepening Russia-China ties amid global changes."
             ]
         },
         {
-            "headline": "Kiev confirms spread of Hantavirus among Ukrainian soldiers.",
-            "summary": "Ukrainian authorities in Kiev have confirmed an outbreak and spread of Hantavirus among its soldiers. This health development adds another layer of challenge for military personnel amid ongoing conflicts, raising concerns for troop welfare and operational readiness.",
+            "headline": "The New START Treaty: The US-Russia Path to Nuclear Limits",
+            "summary": "The New START Treaty, a landmark agreement between the United States and Russia, outlines a framework for limiting and reducing strategic offensive arms. This treaty is a crucial mechanism for maintaining nuclear stability and preventing an arms race between the two largest nuclear powers, despite recent geopolitical tensions.",
             "key_points": [
-                "Kiev confirmed Hantavirus spread among Ukrainian soldiers.",
-                "The outbreak adds to challenges faced by military personnel.",
-                "Concerns are raised for troop welfare.",
-                "The health issue impacts operational readiness."
+                "The New START Treaty is a US-Russia agreement on strategic offensive arms reduction.",
+                "It is vital for maintaining global nuclear stability.",
+                "The treaty aims to prevent an arms race between the two powers.",
+                "It remains a critical instrument despite current geopolitical challenges."
+            ]
+        },
+        {
+            "headline": "Russia and China Reach Key Energy Agreements: Kremlin Aide Ushakov",
+            "summary": "Kremlin aide Yury Ushakov announced that Russia and China have finalized significant energy agreements, further cementing their economic partnership. These deals, likely struck during recent high-level talks, aim to bolster energy cooperation between the two nations and contribute to their long-term strategic alignment.",
+            "key_points": [
+                "Russia and China have reached key energy agreements.",
+                "The announcement was made by Kremlin aide Yury Ushakov.",
+                "The deals aim to strengthen economic and energy cooperation.",
+                "They contribute to the strategic alignment between the two countries."
+            ]
+        },
+        {
+            "headline": "Conflicts Now Impose Sustained Demands on Industrial Production: Indian Army Chief",
+            "summary": "The Indian Army Chief has highlighted that ongoing global conflicts are creating continuous and heavy demands on industrial production capabilities worldwide. His statement underscores the necessity for nations, including India, to bolster their manufacturing and defense industrial bases to meet the material requirements of modern warfare and maintain strategic readiness.",
+            "key_points": [
+                "Indian Army Chief notes global conflicts demand sustained industrial production.",
+                "Modern warfare requires continuous material supply.",
+                "Nations, including India, must strengthen industrial bases.",
+                "This is crucial for maintaining defense readiness."
+            ]
+        },
+        {
+            "headline": "Rosatom Set to Sign Three Agreements During Putin's Visit to China: CEO",
+            "summary": "Rosatom, Russia's state nuclear energy corporation, is slated to sign three new agreements during President Putin's visit to China, according to its CEO. These agreements likely pertain to nuclear energy cooperation, further deepening technological and industrial ties between the two nations in a critical strategic sector.",
+            "key_points": [
+                "Rosatom plans to sign three agreements during Putin's China visit.",
+                "The agreements will focus on nuclear energy cooperation.",
+                "This will deepen technological and industrial ties between Russia and China.",
+                "The nuclear sector is a critical strategic area for both nations."
+            ]
+        },
+        {
+            "headline": "BrahMos Deal in Focus as Indian Defence Minister Lands in Vietnam",
+            "summary": "The potential BrahMos missile deal is a central topic as India's Defence Minister visits Vietnam, signaling a strengthening of bilateral defense ties. This high-profile visit underscores India's strategic outreach in Southeast Asia and Vietnam's interest in modernizing its military capabilities, potentially impacting regional security dynamics.",
+            "key_points": [
+                "The BrahMos missile deal is a key agenda item for India's Defence Minister in Vietnam.",
+                "The visit aims to strengthen India-Vietnam bilateral defense ties.",
+                "It highlights India's strategic outreach in Southeast Asia.",
+                "Vietnam is seeking to modernize its military capabilities."
+            ]
+        },
+        {
+            "headline": "How Could Russia Help India Alleviate the Middle East Crisis?",
+            "summary": "Russia could potentially assist India in mitigating the Middle East crisis through diplomatic leverage and strategic collaboration. By coordinating efforts, Russia and India might contribute to de-escalation, foster dialogue, and support stability in the volatile region, leveraging their respective international relationships and influence.",
+            "key_points": [
+                "Russia could assist India in alleviating the Middle East crisis.",
+                "This involves diplomatic leverage and strategic collaboration.",
+                "Joint efforts could promote de-escalation and dialogue.",
+                "Both nations can use their influence to support regional stability."
+            ]
+        },
+        {
+            "headline": "Biolabs in Ukraine Secretly Developed Offensive Capabilities: US Ret. Lt. Col.",
+            "summary": "A retired US Lieutenant Colonel has alleged that biolabs in Ukraine were secretly developing offensive capabilities, raising international concerns about biological weapons. This controversial claim, if proven, would significantly impact geopolitical stability and international agreements on biological warfare, fueling ongoing debates and investigations.",
+            "key_points": [
+                "US Ret. Lt. Col. claims Ukrainian biolabs secretly developed offensive capabilities.",
+                "The allegation raises international concerns about biological weapons.",
+                "If true, it would impact geopolitical stability.",
+                "The claim fuels ongoing debates and investigations."
+            ]
+        },
+        {
+            "headline": "Russian FM Sergey Lavrov Holds Meeting With PM Narendra Modi",
+            "summary": "Russian Foreign Minister Sergey Lavrov met with Indian Prime Minister Narendra Modi, reinforcing strong bilateral ties between the two nations. The high-level meeting likely covered various aspects of strategic partnership, including economic cooperation, defense, and regional security issues, signaling continued engagement despite global geopolitical shifts.",
+            "key_points": [
+                "Russian FM Lavrov met with Indian PM Narendra Modi.",
+                "The meeting aimed to reinforce strong bilateral ties.",
+                "Discussions likely included economic cooperation, defense, and regional security.",
+                "It signals continued strategic engagement between the two nations."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Indian Stock Market Tumbles: Sensex Down Over 600 Points, Nifty50 Below 23,500.",
-            "summary": "India's Nifty50 and BSE Sensex experienced a significant decline in early trading on Wednesday, with the Sensex dropping over 600 points and Nifty50 falling below 23,500. Market experts attribute the pressure to factors like a persistent fall in the rupee and elevated crude oil prices, despite recent buying by Foreign Institutional Investors.",
+            "headline": "Could Elon Musk become world’s first trillionaire? SpaceX IPO, Mars dream & money math",
+            "summary": "Elon Musk is positioned to become the world's first trillionaire as SpaceX prepares for what could be Wall Street's largest IPO. The company's projected $1.25 trillion valuation, combined with Musk's majority stake and his expansive ventures in AI, Starlink, and Mars colonization, are propelling him towards this unprecedented financial milestone.",
             "key_points": [
-                "BSE Sensex opened over 600 points down, Nifty50 fell below 23,500.",
-                "Market sentiment is dampened by a falling rupee and high crude oil prices.",
-                "Equities are expected to trade within a narrow range or remain under pressure.",
-                "US President Trump's comments on the Iran conflict led to lower oil prices initially."
+                "Elon Musk is on track to become the world's first trillionaire.",
+                "SpaceX's impending IPO is expected to be monumental, valued at $1.25 trillion.",
+                "Musk's majority stake in SpaceX is a key driver of his wealth.",
+                "His other ambitious projects (AI, Starlink, Mars) also contribute significantly."
             ]
         },
         {
-            "headline": "New labor codes could reduce your in-hand salary despite a raise.",
-            "summary": "Employees might see a reduction in their take-home pay even after receiving a raise, due to changes in how social security benefits are calculated under the new labor codes. These adjustments, set to be implemented by employers, could lead to a lower net salary for workers.",
+            "headline": "Stock market today: Sensex jumps over 500 points, Nifty50 trades above 23,800",
+            "summary": "India's equity markets witnessed a positive opening on Thursday, with the BSE Sensex climbing over 500 points and the NSE Nifty50 trading above the 23,800 mark. Despite this initial surge, market experts urge caution due to persistent macroeconomic headwinds like a weakening rupee, Brent crude prices exceeding $100 per barrel, and elevated US bond yields, which continue to strain financial conditions.",
             "key_points": [
-                "New labor codes are changing social security benefit calculations.",
-                "This could lead to a decrease in an employee's in-hand salary.",
-                "The change might occur even if an employee receives a salary raise.",
-                "Employers will be adjusting calculations based on the new regulations."
+                "Indian stock markets (Sensex, Nifty50) opened positively, with Sensex up over 500 points.",
+                "Market sentiment remains cautious due to challenging macroeconomic factors.",
+                "Key headwinds include a weak rupee, high Brent crude prices, and elevated US bond yields.",
+                "Analysts emphasize a decisive Nifty breakout above 23,800 for a sustained upward trend."
             ]
         },
         {
-            "headline": "India's stance on US oil sanction waiver for Russian oil analyzed.",
-            "summary": "The article explores the reasons behind India's resistance to a US oil sanction waiver concerning Russian oil imports. It delves into India's energy security needs, economic interests, and geopolitical considerations that inform its independent foreign policy decisions in the global energy market.",
+            "headline": "Former vice chairman on why Tata Sons should not be listed",
+            "summary": "A former vice chairman of Tata Sons has voiced strong opposition to the company's potential IPO, arguing it could dilute the organization's unique role within the broader Tata Group. He suggests that a public listing might not generate substantial value and could fundamentally alter Tata Sons' distinct governance and long-term strategic approach.",
             "key_points": [
-                "India is pushing back against US oil sanction waivers on Russian oil.",
-                "This stance is driven by India's energy security requirements.",
-                "Economic and geopolitical factors play a crucial role in India's decision-making.",
-                "India maintains an independent foreign policy regarding its energy imports."
+                "Former Tata Sons vice chairman argues against the company's IPO.",
+                "He believes a public listing could undermine its special role within the Tata Group.",
+                "He doubts the IPO would unlock significant shareholder value.",
+                "The move could alter the company's distinct governance and strategic vision."
             ]
         },
         {
-            "headline": "Indian Rupee hits new record low against US Dollar at 96.53.",
-            "summary": "The Indian Rupee has depreciated significantly, reaching a new all-time low of 96.53 against the US dollar. This decline reflects broader economic pressures and global market dynamics impacting India's currency strength.",
+            "headline": "FMCG volume growth may slow to 3-4% this year",
+            "summary": "The Fast-Moving Consumer Goods (FMCG) sector in India is anticipated to experience a notable slowdown in volume growth, with projections suggesting a range of 3-4% for the current year. This deceleration is largely attributed to broader economic pressures, including inflationary trends and a general tightening of consumer spending power across the country.",
             "key_points": [
-                "Indian Rupee reached a new low of 96.53 against the US dollar.",
-                "The depreciation indicates ongoing economic pressures.",
-                "This is a significant event in India's financial markets."
+                "India's FMCG sector is expected to see slower volume growth this year.",
+                "Projected growth is between 3-4%.",
+                "The slowdown is linked to broader economic pressures.",
+                "Inflation and reduced consumer spending are key contributing factors."
             ]
         },
         {
-            "headline": "India approves over $2 billion for new railway lines to transform freight movement.",
-            "summary": "India has sanctioned over $2 billion for the development of new railway lines, a significant investment aimed at revolutionizing freight movement across the country. This strategic infrastructure push is expected to boost economic efficiency and enhance logistics capabilities, supporting the 'Atmanirbhar Bharat' vision.",
+            "headline": "Investors moving away from stocks, going for MFs: Sebi",
+            "summary": "SEBI reports a noticeable shift in investor behavior, with a growing number moving away from direct stock market investments and increasingly favoring mutual funds (MFs). This trend indicates a preference for professionally managed portfolios, potentially driven by market volatility, a desire for diversification, or a more cautious approach to risk in the current financial climate.",
+            "key_points": [
+                "SEBI notes a trend of investors shifting from direct stocks to mutual funds.",
+                "This indicates a preference for professionally managed portfolios.",
+                "Reasons include market volatility, diversification, and risk aversion.",
+                "The shift impacts the dynamics of India's financial investment landscape."
+            ]
+        },
+        {
+            "headline": "Hormuz chaos nears month 3: Oil prices climb as tightened supplies squeeze fuel reserves",
+            "summary": "As instability in the Strait of Hormuz persists into its third month, global oil prices are continuing to rise significantly. The ongoing tensions in this crucial maritime chokepoint are leading to a tightening of worldwide oil supplies and exerting considerable pressure on global fuel reserves, which in turn impacts economies reliant on stable energy costs.",
+            "key_points": [
+                "Instability in the Strait of Hormuz has lasted almost three months.",
+                "This has led to a significant increase in global oil prices.",
+                "Tensions are causing tightened worldwide oil supplies.",
+                "Global fuel reserves are under pressure, affecting energy-dependent economies."
+            ]
+        },
+        {
+            "headline": "Buying Russian Crude Reduces Pressure on Indian Rupee: Oil Analyst",
+            "summary": "An oil analyst suggests that India's strategy of purchasing Russian crude oil helps alleviate pressure on the Indian Rupee. This approach provides a more affordable energy source, reducing the country's import bill and consequently supporting the stability of its currency amidst global economic fluctuations.",
+            "key_points": [
+                "Buying Russian crude oil benefits the Indian Rupee.",
+                "It provides India with a more affordable energy source.",
+                "This strategy helps reduce the country's import bill.",
+                "It supports the Indian Rupee's stability in global markets."
+            ]
+        },
+        {
+            "headline": "What’s Driving India’s Pushback on US Oil Sanction Waiver on Russian Oil?",
+            "summary": "India's resistance to US pressure regarding sanctions waivers for Russian oil imports is driven by complex economic and strategic factors. The country prioritizes its energy security and seeks to maintain diverse supply sources, leveraging favorable pricing from Russia while navigating its geopolitical relationships with the United States and other global powers.",
+            "key_points": [
+                "India is pushing back against US pressure on Russian oil sanctions.",
+                "The decision is driven by economic and strategic considerations.",
+                "India prioritizes energy security and diverse supply sources.",
+                "Favorable pricing from Russia plays a key role in its stance."
+            ]
+        },
+        {
+            "headline": "How Could India Benefit From Afghanistan's Participation in INSTC?",
+            "summary": "India stands to gain significant economic and strategic benefits from Afghanistan's potential involvement in the International North-South Transport Corridor (INSTC). Afghanistan's participation could enhance regional connectivity, facilitate trade routes to Central Asia and Europe, and provide India with crucial access to new markets, bypassing traditional, more challenging routes.",
+            "key_points": [
+                "Afghanistan's INSTC participation offers India economic and strategic benefits.",
+                "It could improve regional connectivity and trade routes.",
+                "India could gain crucial access to Central Asian and European markets.",
+                "The route bypasses more difficult traditional trade paths."
+            ]
+        },
+        {
+            "headline": "How Does Global Energy Crisis Affect Atmanirbhar Bharat?",
+            "summary": "The ongoing global energy crisis poses significant challenges and opportunities for India's Atmanirbhar Bharat (Self-Reliant India) initiative. While rising energy costs can strain economic growth and increase import bills, it also incentivizes domestic production and investment in renewable energy, pushing India towards greater energy independence.",
+            "key_points": [
+                "Global energy crisis impacts India's Atmanirbhar Bharat initiative.",
+                "Rising energy costs present economic challenges.",
+                "The crisis incentivizes domestic energy production.",
+                "It promotes investment in renewable energy for self-reliance."
+            ]
+        },
+        {
+            "headline": "India’s Big Railway Push: Over $2 Bln Approved for New Lines That Will Transform Freight Movement",
+            "summary": "India has approved over $2 billion for the development of new railway lines, marking a significant push to transform its freight movement capabilities. This massive infrastructure investment aims to enhance logistics efficiency, reduce transportation costs, and boost economic growth by facilitating faster and more reliable movement of goods across the country.",
             "key_points": [
                 "India approved over $2 billion for new railway lines.",
-                "The investment aims to transform freight movement across the country.",
-                "It is a strategic infrastructure push for economic efficiency.",
-                "The project supports the 'Atmanirbhar Bharat' initiative."
+                "The investment aims to transform freight movement.",
+                "It seeks to enhance logistics efficiency and reduce transportation costs.",
+                "The project is expected to boost economic growth."
             ]
         },
         {
-            "headline": "PepsiCo announces major 5,700 crore expansion plan in India.",
-            "summary": "PepsiCo is making a substantial investment in India with a new expansion plan valued at 5,700 crore rupees. This move signals the company's increased commitment to the Indian market and its growth strategies in the region.",
+            "headline": "North-South Corridor Beats Middle East Route for Strategic Trade: Expert",
+            "summary": "An expert suggests that the International North-South Transport Corridor (INSTC) is proving to be a more advantageous route for strategic trade than traditional Middle East routes. The INSTC offers a shorter, more cost-effective, and efficient pathway for goods movement, promising significant benefits for participating countries, including India, by enhancing regional connectivity and economic integration.",
             "key_points": [
-                "PepsiCo plans a significant expansion in India.",
-                "The investment is valued at 5,700 crore rupees.",
-                "This demonstrates PepsiCo's deeper commitment to the Indian market.",
-                "The expansion will likely involve growth strategies and increased operations."
-            ]
-        },
-        {
-            "headline": "TCS staff report salary cuts post-appraisal, company disputes claims.",
-            "summary": "Employees at Tata Consultancy Services (TCS) have reported receiving salary cuts after their appraisals, a claim which the company has publicly disagreed with. This situation highlights potential discrepancies or misunderstandings regarding compensation adjustments within one of India's largest IT firms.",
-            "key_points": [
-                "TCS employees claim salary cuts following recent appraisals.",
-                "Tata Consultancy Services has denied these allegations.",
-                "The situation indicates a dispute over compensation adjustments.",
-                "This affects a major workforce in India's IT sector."
+                "INSTC is deemed superior to Middle East routes for strategic trade by an expert.",
+                "It offers a shorter, more cost-effective, and efficient trade pathway.",
+                "The corridor promises significant economic benefits for participating nations.",
+                "It enhances regional connectivity and economic integration, particularly for India."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Netflix introduces 'VOID,' an AI model capable of altering movie plots.",
-            "summary": "Netflix has unveiled a new artificial intelligence model named 'VOID' that possesses the innovative capability to change the plot of a movie. This development could revolutionize content creation and personalized storytelling within the entertainment industry, offering new interactive experiences for viewers.",
+            "headline": "‘India needs AI to fight AI as cyber threats grow",
+            "summary": "With the escalating sophistication of cyber threats, India faces an imperative to harness Artificial Intelligence (AI) as a crucial defense mechanism against these evolving digital dangers. The increasing complexity of cyber attacks necessitates the development and deployment of advanced AI-driven security solutions to safeguard critical national infrastructure, sensitive data, and overall national security.",
             "key_points": [
-                "Netflix developed 'VOID', an AI model.",
-                "'VOID' can change a movie's plot.",
-                "This innovation could revolutionize content creation.",
-                "It may lead to new interactive viewer experiences."
+                "India urgently needs to deploy AI to combat growing cyber threats.",
+                "Cyber threats are becoming increasingly sophisticated.",
+                "AI-driven defenses are crucial for national security.",
+                "This protects critical infrastructure and sensitive data."
             ]
         },
         {
-            "headline": "AI data centers causing 'stress' for tech companies and private insurers.",
-            "summary": "The rapid proliferation and demands of AI data centers are reportedly creating significant stress not only for technology companies managing them but also for private insurers. This indicates a growing concern over the financial risks, operational complexities, and potential liabilities associated with these powerful, energy-intensive infrastructures.",
+            "headline": "Twin-Seat Booster Dose For Su-57 Amid India's Rafale Deal Imbroglio",
+            "summary": "Amid India's complex Rafale deal situation, a potential 'twin-seat booster' for Russia's Su-57 fighter jet is gaining attention. This development suggests ongoing efforts to enhance advanced military aircraft capabilities, possibly influencing future defense procurement decisions, especially for countries like India navigating strategic arms acquisitions.",
             "key_points": [
-                "AI data centers are causing stress for tech companies.",
-                "Private insurers are also facing challenges due to these data centers.",
-                "Concerns include financial risks, operational complexities, and liabilities.",
-                "The issue highlights the broader impact of AI infrastructure."
+                "Focus on Russia's Su-57 jet amid India's Rafale deal complexities.",
+                "The 'twin-seat booster' refers to potential enhancements for the Su-57.",
+                "It highlights ongoing military aircraft development.",
+                "This could influence future defense acquisition decisions for India."
+            ]
+        },
+        {
+            "headline": "Vietnam Jumps on BrahMos Bandwagon: Why is the Missile in Demand Across Asia?",
+            "summary": "Vietnam's increasing interest in the BrahMos missile highlights the system's growing demand across Asia, driven by its advanced capabilities and strategic deterrence. The missile, a joint Indian-Russian venture, offers nations a potent defense asset, making it attractive for countries seeking to bolster their military prowess and regional security.",
+            "key_points": [
+                "Vietnam shows growing interest in the BrahMos missile.",
+                "The missile is in high demand across Asia due to its advanced capabilities.",
+                "BrahMos offers strategic deterrence and potent defense assets.",
+                "It's a joint Indian-Russian venture, appealing to nations strengthening militaries."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Amitabh Bachchan not hospitalized, confirms exclusive report debunking false rumors.",
-            "summary": "Exclusive reports have confirmed that Bollywood icon Amitabh Bachchan has not been hospitalized, debunking earlier false rumors circulating in the media. This clarification provides relief to fans and corrects misinformation regarding the veteran actor's health status.",
+            "headline": "Drishyam 3: Mohanlal’s Georgekutty faces a bigger threat in Jeethu Joseph’s thriller",
+            "summary": "The highly anticipated 'Drishyam 3' promises to escalate the stakes for Mohanlal's iconic character, Georgekutty, who will confront an even more formidable challenge in Jeethu Joseph’s thrilling narrative. This next installment is expected to deepen the suspense and complexities, potentially pushing the beloved protagonist to his limits in a new, dangerous scenario.",
             "key_points": [
-                "False reports about Amitabh Bachchan's hospitalization have been debunked.",
-                "Exclusive sources confirmed the Bollywood star is not hospitalized.",
-                "The news provides relief and corrects misinformation for his fans."
+                "Mohanlal's character, Georgekutty, faces a greater threat in 'Drishyam 3'.",
+                "The film, directed by Jeethu Joseph, is expected to be a thrilling narrative.",
+                "The plot promises increased suspense and complexity.",
+                "Georgekutty will be pushed to his limits in a new, dangerous situation."
             ]
         },
         {
-            "headline": "Darshan's wife Vijayalakshmi visits Bengaluru jail with son amid ongoing case.",
-            "summary": "Vijayalakshmi, wife of actor Darshan, visited Bengaluru jail with their son, amidst the ongoing legal proceedings involving the actor. Her visit underscores the family's support and involvement during a challenging period for the prominent film personality.",
+            "headline": "'Drishyam 3' X review: ‘Banger interval’ wins attention",
+            "summary": "'Drishyam 3' is garnering significant buzz and positive early reception, particularly for its 'banger interval' sequence that critics and audiences are praising for its thrilling and engaging quality. This enthusiastic response suggests the film is effectively building suspense and promises an intense and captivating cinematic experience.",
             "key_points": [
-                "Actor Darshan's wife, Vijayalakshmi, visited him in Bengaluru jail.",
-                "She was accompanied by their son.",
-                "The visit took place amidst ongoing legal proceedings involving Darshan."
+                "'Drishyam 3' is receiving positive early reviews.",
+                "The film's 'interval' sequence is particularly praised for its thrilling nature.",
+                "It indicates strong suspense building within the narrative.",
+                "The film promises an intense and captivating cinematic experience."
             ]
         },
         {
-            "headline": "'Drishyam 3' achieves massive pre-sales, crossing Rs 21 crore.",
-            "summary": "The highly anticipated film 'Drishyam 3' has garnered impressive pre-sales figures, reportedly crossing Rs 21 crore even before its release. This significant collection indicates strong audience anticipation and a promising start for the movie at the box office.",
+            "headline": "'Drishyam 3': Telugu rights dispute",
+            "summary": "A significant legal dispute has arisen concerning the Telugu rights for the upcoming film 'Drishyam 3', which could potentially delay its production or distribution in the Telugu-speaking regions. This conflict over intellectual property highlights the intricate commercial landscape and legal challenges inherent in India's diverse film industry.",
             "key_points": [
-                "Drisyam 3' recorded pre-sales exceeding Rs 21 crore.",
-                "The high figures indicate strong audience anticipation.",
-                "This suggests a promising box office performance for the film."
+                "A legal dispute has emerged over the Telugu rights for 'Drishyam 3'.",
+                "This could impact the film's production or distribution in Telugu regions.",
+                "The conflict highlights complexities in the film industry's commercial landscape.",
+                "It points to legal challenges in adapting films across different Indian languages."
             ]
         },
         {
-            "headline": "Paresh Rawal confirms 'Hera Pheri 3' is happening, dispels delay rumors.",
-            "summary": "Actor Paresh Rawal has confirmed that the much-awaited 'Hera Pheri 3' is indeed happening, dismissing recent reports of delays. He also revealed that shooting for the film is set to commence soon, exciting fans of the beloved comedy franchise.",
+            "headline": "Tom Hanks shares a supportive message for Aston Villa",
+            "summary": "Renowned Hollywood actor Tom Hanks, a well-known and vocal supporter of the football club Aston Villa, recently conveyed a message of encouragement to his favorite team. His public expressions of fandom often draw considerable media attention and bring an extra spotlight to the club and its dedicated fanbase, particularly during pivotal moments in their season.",
             "key_points": [
-                "Paresh Rawal confirmed that 'Hera Pheri 3' is in production.",
-                "He dismissed rumors of delays for the film.",
-                "Shooting for the movie is expected to start soon.",
-                "Fans of the popular comedy franchise are highly anticipated."
+                "Tom Hanks, a famous Aston Villa fan, sent a supportive message.",
+                "His message was directed towards the football club.",
+                "His public support often brings increased media attention to the team.",
+                "Such messages are typically shared during significant phases of the club's season."
+            ]
+        },
+        {
+            "headline": "Matthew Perry's belongings to be auctioned for charity",
+            "summary": "The personal possessions of the late acclaimed actor Matthew Perry are slated for an upcoming auction, with all proceeds designated for various charitable causes. This philanthropic initiative aims to respectfully honor his legacy and contribute to organizations that reflect his lifelong commitment to giving back, especially following his public battles with addiction.",
+            "key_points": [
+                "Personal belongings of the late actor Matthew Perry will be auctioned.",
+                "All proceeds from the auction are designated for charity.",
+                "The initiative aims to honor Perry's legacy.",
+                "It reflects his commitment to philanthropic causes, especially related to addiction."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Prince Yadav receives maiden India ODI call-up, marking a remarkable rise in cricket.",
-            "summary": "Prince Yadav has earned his first call-up to India's ODI squad for the series against Afghanistan, capping an extraordinary journey from tennis-ball cricket to the national side. Spotted for his yorkers and supported through setbacks, including a two-year age fudging ban, his dedication has finally paid off.",
+            "headline": "'We could have handled it better': Tamim Iqbal on Bangladesh’s T20 World Cup pull out",
+            "summary": "Tamim Iqbal, a prominent Bangladeshi cricketer, has openly stated that Bangladesh's withdrawal from the T20 World Cup could have been managed more effectively. His comments reflect potential dissatisfaction within the team regarding the decision-making process, suggesting a belief that a more transparent or strategic approach was warranted for such a significant event.",
             "key_points": [
-                "Prince Yadav earned his maiden India ODI call-up for the Afghanistan series.",
-                "He rose from playing tennis-ball cricket in Najafgarh.",
-                "He overcame challenges, including a two-year ban for age fudging.",
-                "His coach, Amit Vashishtha, played a crucial role in his development."
+                "Tamim Iqbal believes Bangladesh's T20 World Cup pull-out was mishandled.",
+                "His statement implies internal dissatisfaction with the decision process.",
+                "He suggests a more effective or strategic approach was needed.",
+                "The comments highlight concerns around the team's absence from the tournament."
             ]
         },
         {
-            "headline": "Vaibhav Sooryavanshi's explosive 93 leads Rajasthan Royals to victory; earns praise.",
-            "summary": "Fifteen-year-old Vaibhav Sooryavanshi's stunning 93 runs off 38 balls secured a dominant seven-wicket win for Rajasthan Royals over Lucknow Super Giants. His exceptional innings, which effectively sealed the match and impressed rival owner Sanjiv Goenka, moves Rajasthan closer to the playoffs.",
+            "headline": "BCCI worried whether Rohit Sharma can stay fit till 2027 ODI World Cup",
+            "summary": "The BCCI is expressing growing concerns over the long-term fitness of key players Rohit Sharma and Hardik Pandya, particularly their ability to maintain peak physical condition through to the 2027 ODI World Cup. Despite their inclusion in the Afghanistan series, the board remains wary of their consistent performance in the 50-over format, prompting an urgent review of their fitness and a search for reliable backup options.",
             "key_points": [
-                "Vaibhav Sooryavanshi scored 93 off 38 balls, leading Rajasthan Royals to victory.",
-                "The performance secured a dominant seven-wicket win against Lucknow Super Giants.",
-                "Sanjiv Goenka, rival owner, praised the young player's innings.",
-                "The win significantly boosted Rajasthan Royals' playoff chances."
+                "BCCI is concerned about Rohit Sharma and Hardik Pandya's fitness for the 2027 ODI World Cup.",
+                "Doubts persist about their sustained effectiveness in the 50-over format.",
+                "The board is urgently seeking fitness updates and evaluating backup options.",
+                "Hardik Pandya's bowling readiness is a specific point of concern."
             ]
         },
         {
-            "headline": "Ramandeep Singh's journey from Chandigarh to Team India via KKR: Gully to Glory.",
-            "summary": "Ramandeep Singh's path from local Chandigarh cricket to securing a spot in Team India through his tenure with KKR is highlighted as a 'Gully to Glory' story. His dedication and performance have seen him rise through the ranks, showcasing a remarkable achievement for a young talent.",
+            "headline": "IPL 2026 scripts history! KKR’s win over Mumbai Indians sets an all-time record",
+            "summary": "IPL 2026 has marked a historic milestone by recording 42 successful chases, surpassing the previous record set during the 2016 season. Kolkata Knight Riders' decisive victory over Mumbai Indians contributed to this achievement, underscoring a significant and evolving trend in the league where teams batting second are consistently finding success and tilting match outcomes.",
             "key_points": [
-                "Ramandeep Singh's inspiring journey from Chandigarh cricket to Team India.",
-                "His success is attributed to his performance with KKR.",
-                "This showcases a significant achievement for a young Indian talent.",
-                "The narrative emphasizes his rise from local beginnings to national recognition."
-            ]
-        },
-        {
-            "headline": "Techie loses Rs 1.46 lakh in fake RCB vs CSK IPL ticket scam.",
-            "summary": "A tech professional fell victim to an online scam, losing Rs 1.46 lakh after attempting to purchase fake tickets for an RCB vs CSK IPL match. The incident highlights the prevalence of fraud during major sporting events and warns fans to be cautious when buying tickets online.",
-            "key_points": [
-                "A techie lost Rs 1.46 lakh in an IPL ticket scam.",
-                "The victim attempted to buy fake tickets for an RCB vs CSK match.",
-                "The incident underscores the risk of online fraud during major sports events.",
-                "Fans are advised to exercise caution when purchasing tickets."
-            ]
-        },
-        {
-            "headline": "Diamond League Final: Neeraj Chopra's event preview, time, and live telecast for India.",
-            "summary": "An event preview for Neeraj Chopra's participation in the Diamond League Final provides details on his competition, along with the timings and live telecast information relevant for Indian viewers. The focus is on the Indian Olympic javelin thrower's performance in this prestigious international athletic event.",
-            "key_points": [
-                "Preview of Neeraj Chopra's event at the Diamond League Final is available.",
-                "Information on event timing and live telecast in India is provided.",
-                "The article focuses on the Indian Olympic javelin thrower.",
-                "It covers his participation in a prestigious international athletic event."
+                "IPL 2026 set a new record with 42 successful chases.",
+                "This achievement surpassed the previous record from the 2016 season.",
+                "Kolkata Knight Riders' win over Mumbai Indians contributed to this milestone.",
+                "The trend indicates a significant advantage for teams batting second in the league."
             ]
         }
     ],
-    "Science": [],
+    "Science": [
+        {
+            "headline": "Multibillion-Dollar Unaccountable Market Lurks Behind Global Biosecurity Facade - Expert",
+            "summary": "An expert claims a multibillion-dollar unaccountable market operates behind the guise of global biosecurity, raising serious concerns about transparency and oversight. This hidden market could potentially involve unregulated research, illicit biological agents, or uncontrolled dual-use technologies, posing significant risks to public health and international security.",
+            "key_points": [
+                "An expert alleges a multibillion-dollar unaccountable market in global biosecurity.",
+                "Concerns are raised about transparency and oversight.",
+                "Potential involvement of unregulated research or illicit biological agents.",
+                "It poses risks to public health and international security."
+            ]
+        }
+    ],
     "Health": [
         {
-            "headline": "India's brutal 48°C heatwave disrupts summer travel and poses health risks.",
-            "summary": "India is experiencing a severe heatwave with temperatures soaring to 48°C, significantly impacting summer travel plans across the country. The extreme heat not only causes disruptions but also poses serious health risks to the population.",
+            "headline": "Mystery substance scare: 3 dead, first responders quarantined over toxic exposure in US",
+            "summary": "A suspected drug overdose in a rural New Mexico setting tragically claimed three lives and led to the quarantine of over a dozen first responders due to toxic exposure. Emergency personnel experienced severe symptoms such as nausea and dizziness after encountering an unknown substance, necessitating extensive decontamination protocols and raising public safety concerns.",
             "key_points": [
-                "India is facing a brutal heatwave with temperatures reaching 48°C.",
-                "The extreme heat is significantly disrupting summer travel plans.",
-                "The soaring temperatures pose serious health risks to the population.",
-                "This weather event has widespread implications across the country."
+                "Three people died in New Mexico from a suspected drug overdose.",
+                "Over a dozen first responders were quarantined due to toxic exposure.",
+                "Personnel suffered severe symptoms from an unknown substance.",
+                "Extensive decontamination efforts were initiated following the incident."
             ]
         },
         {
-            "headline": "Nationwide pharmacy strike protests online medicine delivery platforms today.",
-            "summary": "A nationwide strike by pharmacies is underway today, protesting against online medicine delivery platforms. The strike aims to highlight concerns from traditional pharmacies regarding competition, regulation, and the impact of digital platforms on their business and the healthcare ecosystem.",
+            "headline": "Heatwave alert for Delhi, UP, Punjab, Haryana and more: What to expect over next 5 days",
+            "summary": "Northwest India is currently experiencing extreme heatwave conditions, with temperatures soaring significantly across states like Uttar Pradesh, Delhi, Punjab, and Haryana. Banda in UP recorded a scorching 48°C, and Delhi anticipates reaching 46°C, prompting the IMD to issue severe alerts and advise the public on crucial hydration and protective measures.",
             "key_points": [
-                "Pharmacies across the nation are observing a strike today.",
-                "The protest is specifically against online medicine delivery platforms.",
-                "Traditional pharmacies are raising concerns about competition and regulation.",
-                "The strike highlights the impact of digital platforms on the healthcare ecosystem."
+                "Severe heatwave conditions are gripping Northwest India, including Delhi, UP, Punjab, and Haryana.",
+                "Temperatures are extremely high, with Banda (UP) at 48°C and Delhi expected at 46°C.",
+                "The IMD has issued alerts, advising extreme caution for residents.",
+                "Recommendations include staying hydrated and taking protective measures against the heat."
             ]
         },
         {
-            "headline": "Cancer doctors debunk \"safer alternative\" myth of vaping compared to cigarettes.",
-            "summary": "Cancer doctors are urging young adults to abandon the misconception that vaping is a \"safer alternative\" to traditional cigarettes. They emphasize that both forms of nicotine delivery carry significant health risks and can lead to serious long-term health issues, contrary to popular belief.",
+            "headline": "The hidden health risks of sitting on the toilet too long and why doctors want you to stop scrolling there",
+            "summary": "Doctors are issuing warnings about the overlooked health risks associated with spending excessive time on the toilet, particularly due to smartphone use. Prolonged sitting can contribute to conditions like hemorrhoids, poor posture, and other circulatory issues, urging individuals to minimize their time in the bathroom to protect their health.",
             "key_points": [
-                "Cancer doctors challenge the \"safer alternative\" myth surrounding vaping.",
-                "Young adults are urged to stop believing that vaping is healthier than cigarettes.",
-                "Both vaping and cigarettes pose significant health risks.",
-                "The message aims to correct misinformation regarding nicotine delivery methods."
+                "Doctors warn against prolonged sitting on the toilet, especially with smartphone use.",
+                "Excessive time can lead to health issues such as hemorrhoids.",
+                "It can also contribute to poor posture and circulatory problems.",
+                "Limiting bathroom time is advised for better health."
             ]
         },
         {
-            "headline": "Academic burnout in children: Parents urged to recognize 7 early signs and offer help.",
-            "summary": "Parents are being advised to recognize seven crucial early signs of academic burnout in their children and to intervene promptly. The article provides guidance on identifying this growing issue and offers strategies to help children cope with stress and pressure related to their studies.",
+            "headline": "They never smoked, but they got mouth cancer: What doctors want young people to know now",
+            "summary": "Doctors are raising awareness among young people that mouth cancer is not exclusively linked to smoking and can affect non-smokers. This crucial message aims to educate younger generations about other significant risk factors, including HPV infections, heavy alcohol consumption, and genetic predispositions, emphasizing the importance of early detection and broader preventive strategies.",
             "key_points": [
-                "Parents should be aware of 7 early signs of academic burnout in children.",
-                "Early recognition is crucial for timely intervention.",
-                "Guidance is provided on how to help children manage academic stress.",
-                "The issue addresses children's mental and emotional well-being related to studies."
+                "Mouth cancer can affect non-smokers, a key message for young people.",
+                "Smoking is not the only risk factor for oral cancer.",
+                "HPV infections, heavy alcohol use, and genetics are other contributing factors.",
+                "Early detection and comprehensive prevention strategies are emphasized."
+            ]
+        },
+        {
+            "headline": "Kiev Confirms Spread of Hantavirus Among Ukrainian Soldiers",
+            "summary": "Ukrainian authorities in Kyiv have confirmed the outbreak and spread of Hantavirus among soldiers, posing a significant health challenge amidst the ongoing conflict. This infectious disease, typically transmitted by rodents, raises concerns about troop health and the conditions in conflict zones, requiring immediate medical intervention and preventive measures.",
+            "key_points": [
+                "Kyiv confirms a Hantavirus outbreak among Ukrainian soldiers.",
+                "The infectious disease poses a significant health challenge.",
+                "It raises concerns about troop health in conflict zones.",
+                "Immediate medical and preventive measures are required."
             ]
         }
     ]
