@@ -1,1069 +1,475 @@
 {
     "World": [
         {
-            "headline": "Trump, Pakistan Claim US-Iran Peace Deal Imminent; Tehran Pushes Back Amidst Global Tensions",
-            "summary": "Pakistan's PM claims the US and Iran have agreed on a peace deal, with mediators finalizing details. However, Iranian officials dispute this, stating no final decision has been made and talks are ongoing. US forces intercepted Iranian drones, while US and Israeli officials express differing views on the deal's implications, especially regarding Iran's nuclear program and regional security.",
+            "headline": "US-Iran Peace Deal 'Complete,' to be Signed on Friday Amidst Regional Tensions",
+            "summary": "President Trump announced that the US-Iran peace deal is 'complete' and slated for signing in Switzerland on Friday, aiming to end months of conflict and reopen the Strait of Hormuz. Tehran confirmed the memorandum of understanding but demands verification of US commitments, including the lifting of the naval blockade and sanctions relief, before 60-day negotiations. This development has triggered strong reactions, with Iran's military claiming 'humiliation' of the US and Israel, and Trump publicly criticizing Israeli Prime Minister Netanyahu over military operations in Lebanon.",
             "key_points": [
-                "Pakistan PM Sharif announced a US-Iran peace deal wording agreed upon.",
-                "Iran's Foreign Ministry denies a final decision, calling reports 'speculation'.",
-                "Israel vows independent action against Iran's nuclear program regardless of a US agreement.",
-                "India lodged a protest with the US over attacks killing Indian mariners in the Gulf."
+                "US-Iran peace deal is 'complete' and scheduled for signing in Switzerland on Friday.",
+                "Iran demands verification of US commitments, including lifting blockades and sanctions, before full negotiations.",
+                "The deal aims to reopen the Strait of Hormuz and restore regional stability after months of conflict.",
+                "Tensions persist between the US and Israel, with Trump criticizing Netanyahu's actions in Lebanon."
             ]
         },
         {
-            "headline": "PM Modi's European Tour Focuses on Diplomacy, G7, and Tech Partnerships",
-            "summary": "Prime Minister Narendra Modi has begun a European tour, with a packed agenda including bilateral discussions with French President Macron, a state visit to Slovakia, and attendance at the G7 Summit where a meeting with US President Trump is expected. The tour aims to strengthen high-stakes diplomacy and technology collaborations, concluding with an engagement at VivaTech in Paris.",
+            "headline": "US Navy Ignored Desperate Calls from Indian Crew as Sailor Fought for Life",
+            "summary": "The US Navy reportedly ignored urgent calls for help from the Indian crew of the MT Celestial for three days, during which an Indian sailor was critically ill. The crew submitted a request for immediate intervention on June 13 due to an 'extremely serious situation,' leading to a diplomatic row between India and the US. This incident highlights critical questions about international maritime assistance protocols and the treatment of Indian nationals abroad.",
             "key_points": [
-                "PM Modi is on a European tour for diplomacy and tech partnerships.",
-                "Agenda includes meetings with Macron, G7 Summit, and anticipated Trump meeting.",
-                "The tour concludes with an engagement at VivaTech in Paris."
+                "US Navy allegedly ignored urgent pleas from the Indian crew of MT Celestial for three days.",
+                "An Indian sailor's life was at risk due to the delay in assistance.",
+                "The incident has ignited a diplomatic row between India and the United States.",
+                "It raises concerns about international maritime safety protocols and aid for Indian nationals."
             ]
         },
         {
-            "headline": "RSS Chief Bhagwat Backs Dialogue with Pakistan, Citing Historical Lessons",
-            "summary": "RSS chief Mohan Bhagwat has voiced support for dialogue with Pakistan, echoing sentiments from Hosabale. He emphasized keeping doors open for communication, stating, 'We are not like Hitler,' and implying a need to avoid past mistakes in international relations.",
+            "headline": "Israel Strikes Beirut's Southern Suburb, Casualties Reported; Iran Warns of 'Imminent' Response",
+            "summary": "Israel has carried out strikes on Beirut's southern suburb, resulting in reported casualties, escalating already high tensions in the Middle East. In response, Iran warned of an 'imminent' reaction, potentially jeopardizing the recently announced US-Iran peace deal. The volatile situation underscores the fragility of regional stability amidst ongoing conflicts.",
             "key_points": [
-                "RSS chief Mohan Bhagwat supports dialogue with Pakistan.",
-                "He referenced 'We are not like Hitler' in his statement.",
-                "His stance aligns with Hosabale's on the matter."
+                "Israel conducted strikes in Beirut's southern suburb, causing casualties.",
+                "Iran has issued a warning of an 'imminent' response to the Israeli actions.",
+                "The escalation threatens the recently announced US-Iran peace deal.",
+                "The incident highlights the high and volatile tensions in the Middle East."
             ]
         },
         {
-            "headline": "Unique Factors Credited for Lone Survivor of Air India Flight 171 Crash",
-            "summary": "Viswashkumar Ramesh was the sole survivor of the Air India Flight 171 crash in Ahmedabad on June 12, 2025, which killed 241 people. An internal police assessment attributed his miraculous survival to a combination of his seat's position and a protective 10-foot mud embankment.",
+            "headline": "Deadly Overnight Attacks in Ukraine; Industrial Facilities Struck Deep in Russia",
+            "summary": "Deadly overnight attacks have been reported in Ukraine, while industrial facilities were simultaneously struck deep inside Russia, indicating a significant intensification of the ongoing conflict. Both sides are experiencing severe impacts, with strikes on Russian territory suggesting an expansion of the operational scope beyond frontline areas. The situation reflects a heightened phase of military engagement.",
             "key_points": [
-                "One passenger survived Air India Flight 171 crash in Ahmedabad.",
-                "His survival was due to his seat's position and a mud embankment.",
-                "The crash, on June 12, 2025, killed 241 people."
+                "Deadly overnight attacks occurred in Ukraine.",
+                "Industrial facilities were struck deep within Russian territory.",
+                "These events signify an intensification and expansion of the ongoing conflict.",
+                "Both Ukraine and Russia are experiencing significant military impacts."
             ]
         },
         {
-            "headline": "Indian Test Pilots Prefer Russian Su-57 Over US F-35: Expert",
-            "summary": "An expert claims that Indian test pilots show a preference for the Russian Su-57 fighter jet over the American F-35. This assessment could influence future defense procurements and strategic partnerships for India, highlighting perceived advantages of the Russian aircraft.",
+            "headline": "12 Killed After Skydiving Plane Crashes Near Missouri Airport in US",
+            "summary": "A skydiving plane crashed and caught fire near a Missouri airport in the US, resulting in 12 fatalities. Emergency services quickly responded to the scene, bringing the blaze under control, and authorities have initiated an investigation to determine the cause of the tragic accident. The incident occurred in a field adjacent to the airport, leading to precautionary road closures.",
             "key_points": [
-                "Indian test pilots reportedly favor Russian Su-57.",
-                "They prefer it over the US F-35.",
-                "This could impact India's defense procurement strategy."
+                "A skydiving plane crashed near a Missouri airport, killing 12 people.",
+                "The aircraft caught fire after the impact, prompting an emergency response.",
+                "Authorities have launched an investigation into the cause of the tragic accident.",
+                "The crash occurred in a field next to the airport, leading to local road closures."
             ]
         },
         {
-            "headline": "BrahMos Missile Program Marks 25 Years, Revolutionizing India’s Defense",
-            "summary": "The BrahMos missile program is celebrating its 25th anniversary, recognized as a pivotal development that fundamentally altered India's defense landscape. This Indo-Russian joint venture has significantly boosted India's strike capabilities and strategic autonomy.",
+            "headline": "Thousands Protest G7 Summit in Geneva Ahead of Opening in France",
+            "summary": "Thousands of protesters gathered in Geneva to demonstrate against the G7 summit, which is scheduled to open on Monday in France. The demonstrations highlighted various concerns, including global inequalities, climate change, and corporate power, reflecting strong public sentiment against the policies of the world's leading industrialized nations. Protesters called for greater social and environmental justice.",
             "key_points": [
-                "BrahMos missile program celebrates 25 years.",
-                "It revolutionized India's defense capabilities.",
-                "The program enhanced India's strike power and strategic autonomy."
+                "Thousands protested the G7 summit in Geneva before its opening in France.",
+                "Protesters raised concerns about global inequalities, climate change, and corporate power.",
+                "The demonstrations reflect strong public sentiment against G7 policies.",
+                "Calls were made for greater social and environmental justice."
             ]
         },
         {
-            "headline": "India Declares Itself Ballistic Missile-Proof",
-            "summary": "India has announced a significant achievement in its defense capabilities, declaring itself effectively ballistic missile-proof. This indicates a robust anti-ballistic missile defense system is now in place, enhancing national security.",
+            "headline": "Russian Army Holds Strategic Advantage, Moving Forward in Ukraine: Putin",
+            "summary": "Russian President Vladimir Putin asserted that the Russian Army maintains a strategic advantage and is actively advancing in the Ukraine conflict. His statement underscores Russia's perspective on the current military situation and its operational successes. This declaration comes amidst ongoing fighting and differing international reports on the conflict's progress.",
             "key_points": [
-                "India claims to be ballistic missile-proof.",
-                "This signifies a major defense capability enhancement.",
-                "A robust anti-ballistic missile defense system is implied."
+                "Putin claims the Russian Army holds a strategic advantage in the Ukraine conflict.",
+                "He stated that Russian forces are moving forward.",
+                "These comments reflect Russia's perspective on the military situation.",
+                "The assertion comes amidst ongoing fighting and varying international reports."
             ]
         },
         {
-            "headline": "India Developing New Long-Range Strike Weapons",
-            "summary": "India is actively engaged in the development of new long-range strike weapons, a move that will significantly enhance its defense capabilities. This strategic advancement underscores the nation's commitment to modernizing its military arsenal.",
+            "headline": "Russian Air Defence Systems Shoot Down 330 Ukrainian Drones Overnight",
+            "summary": "The Russian Ministry of Defence reported that its air defense systems successfully destroyed 330 Ukrainian drones overnight. This signifies a large-scale defensive operation and the persistent use of unmanned aerial vehicles in the conflict. The high number of interceptions highlights the ongoing intensity of aerial engagements in the region.",
             "key_points": [
-                "India is developing new long-range strike weapons.",
-                "This will enhance its defense capabilities.",
-                "It signifies modernization of India's military arsenal."
+                "Russian MoD reported destroying 330 Ukrainian drones overnight.",
+                "This indicates a large-scale defensive operation.",
+                "Highlights the persistent and extensive use of drones in the conflict.",
+                "The high number of interceptions reflects intense aerial engagements."
             ]
         },
         {
-            "headline": "India and China to Restore Direct Delhi-Guangzhou Flights",
-            "summary": "India and China are set to restore direct flights between Delhi and Guangzhou, a move that signals improved bilateral connectivity. This resumption is expected to facilitate trade, tourism, and diplomatic ties between the two nations.",
+            "headline": "BrahMos Deal in Focus as Indian Defence Minister Lands in Vietnam",
+            "summary": "The BrahMos missile deal is a central topic as India's Defence Minister visits Vietnam, aiming to strengthen defense cooperation between the two nations. This visit could involve the sale or co-development of the advanced missile system, underscoring India's growing role as a defense exporter. The strategic engagement reflects India's deepening ties in Southeast Asia and its efforts to promote regional security.",
             "key_points": [
-                "Direct flights between Delhi and Guangzhou to be restored.",
-                "Signals improved India-China bilateral connectivity.",
-                "Expected to boost trade, tourism, and diplomacy."
+                "BrahMos missile deal is a key focus during India's Defence Minister's visit to Vietnam.",
+                "The visit aims to strengthen defense cooperation between India and Vietnam.",
+                "Potential sale or co-development of the advanced missile system is on the agenda.",
+                "Highlights India's role as a defense exporter and strategic engagements in Southeast Asia."
             ]
         },
         {
-            "headline": "BrahMos Deal in Focus as Indian Defence Minister Visits Vietnam",
-            "summary": "The potential BrahMos missile deal is a central topic as India's Defence Minister arrives in Vietnam. This visit underscores deepening defense cooperation between the two nations and highlights India's role as a defense exporter.",
+            "headline": "Indian-origin doctor awarded Britain's highest order of British Empire honour",
+            "summary": "Dr. Parveen Kumar, an Indian-origin doctor, has been awarded Britain's highest Order of the British Empire honour, recognizing his significant contributions. This prestigious award celebrates his achievements and dedication in his field, bringing commendation to the Indian diaspora. The recognition highlights the positive impact of individuals of Indian origin in global society.",
             "key_points": [
-                "BrahMos missile deal is a key agenda item during Indian Defence Minister's Vietnam visit.",
-                "The visit aims to deepen defense cooperation.",
-                "India is positioned as a defense exporter."
-            ]
-        },
-        {
-            "headline": "PM Modi Pledges to Voice Global South Aspirations at G7 Summit",
-            "summary": "Prime Minister Narendra Modi announced his intention to represent and articulate the aspirations of the Global South at the upcoming G7 Summit. This statement emphasizes India's role as a key advocate for developing nations on the international stage.",
-            "key_points": [
-                "PM Modi will voice Global South aspirations at the G7 Summit.",
-                "This highlights India's role as an advocate for developing nations.",
-                "The statement underscores a focus on international equity."
-            ]
-        },
-        {
-            "headline": "Maiden Batch of 9 Women Officers Commissioned from IMA",
-            "summary": "A historic moment unfolded as the Indian Military Academy (IMA) commissioned its first-ever batch of nine women officers. This landmark event signifies a significant stride towards gender inclusion and equality within the armed forces.",
-            "key_points": [
-                "The Indian Military Academy commissioned its first batch of women officers.",
-                "Nine women are part of this maiden batch.",
-                "This marks a significant step for gender equality in the armed forces."
-            ]
-        },
-        {
-            "headline": "Aircraft Crashes at Jorhat Airbase; Full Details Pending",
-            "summary": "An aircraft has reportedly crashed at the Jorhat airbase in India, with authorities yet to release full details of the incident. Investigations are likely underway to determine the cause and extent of the damage.",
-            "key_points": [
-                "An aircraft crashed at Jorhat airbase.",
-                "Full details of the incident are awaited.",
-                "Investigations are presumed to be in progress."
-            ]
-        },
-        {
-            "headline": "Actor Prakash Raj to Join Cockroach Janata Party Protest in Bengaluru",
-            "summary": "Actor Prakash Raj is set to participate in a protest organized by the Cockroach Janata Party (CJP) in Bengaluru, demanding the resignation of Union Education Minister Dharmendra Pradhan. The nationwide campaign focuses on alleged examination irregularities and a 'collapse of the education system.'",
-            "key_points": [
-                "Prakash Raj joins CJP protest in Bengaluru.",
-                "The protest demands Union Education Minister's resignation.",
-                "It highlights alleged examination irregularities and education system collapse."
-            ]
-        },
-        {
-            "headline": "Rebel TMC MP's Son Sends Legal Notice to Mamata Banerjee and Party Leaders",
-            "summary": "Dr. Baidyanath Ghosh Dastidar, son of rebel TMC MP Kakoli Ghosh Dastidar, has issued a legal notice to Mamata Banerjee and other party leaders. He denies claims of seeking an assembly ticket, asserting these false statements influenced his mother's political stance, and demands a public apology and retraction.",
-            "key_points": [
-                "Son of rebel TMC MP Kakoli Ghosh Dastidar sent a legal notice to Mamata Banerjee.",
-                "He denies seeking a ticket for Barasat Assembly constituency.",
-                "Demands retraction of false statements and a public apology."
-            ]
-        },
-        {
-            "headline": "UP CM Yogi Adityanath Condemns Derogatory Comments Against Akhilesh Yadav's Daughter",
-            "summary": "Uttar Pradesh Chief Minister Yogi Adityanath strongly denounced disparaging social media remarks targeting Akhilesh Yadav's daughter, emphasizing that such comments against any daughter are unacceptable. He ordered police action and urged the Samajwadi Party chief to ensure his own workers maintain restraint in their language.",
-            "key_points": [
-                "UP CM Yogi Adityanath condemned derogatory comments against Akhilesh Yadav's daughter.",
-                "He stated such remarks are unacceptable for any daughter.",
-                "He directed police action and urged civility in political discourse."
-            ]
-        },
-        {
-            "headline": "High-IQ Indians May Leave US Due to Rising Racism, Says Think Tanker",
-            "summary": "A US-based think tanker suggests that a significant number of high-IQ Indians may choose to leave the United States due to an increase in racism. This potential brain drain highlights a growing concern for the Indian diaspora and US diversity.",
-            "key_points": [
-                "High-IQ Indians may depart the US.",
-                "Reason cited is growing racism.",
-                "This concern was raised by a US-based think tanker."
-            ]
-        },
-        {
-            "headline": "Indian-Origin Man Heroically Saves Girl Falling from London Window",
-            "summary": "A man of Indian origin has been lauded for his heroic actions in London, saving a 3-year-old girl who was falling from a window ledge. His quick thinking and bravery prevented a tragedy.",
-            "key_points": [
-                "An Indian-origin man saved a 3-year-old girl.",
-                "The girl was falling from a window ledge in London.",
-                "His actions are being praised as heroic."
-            ]
-        },
-        {
-            "headline": "Indian Entrepreneur in Belfast Recounts Facing Hatred as Business Burned",
-            "summary": "An Indian entrepreneur in Belfast has shared a harrowing experience, stating that people celebrated as his business was engulfed in flames. He expressed deep shock and disappointment at the extent of hatred he encountered during this traumatic event.",
-            "key_points": [
-                "Indian entrepreneur in Belfast saw people celebrating his business burning.",
-                "He was shocked by the hatred displayed.",
-                "The incident highlights a traumatic experience of racism."
-            ]
-        },
-        {
-            "headline": "Indian Men Praised for Rescuing Woman from Harasser in Canada",
-            "summary": "A viral video shows a group of Indian men in Canada being praised for their swift intervention in saving a distressed woman from a harasser at a cricket ground. Their courageous actions have garnered widespread appreciation.",
-            "key_points": [
-                "Indian men in Canada rescued a distressed woman from a harasser.",
-                "The incident occurred at a cricket ground.",
-                "Their actions went viral and received widespread praise."
-            ]
-        },
-        {
-            "headline": "Chilling Murder Plot by Family Against NRI Maths Teacher Revealed",
-            "summary": "A shocking murder plot involving family members against an Indian-origin maths teacher from Australia, who owned property worth crores in India, has been uncovered. The chilling details reveal a sinister motive possibly linked to wealth.",
-            "key_points": [
-                "An NRI maths teacher from Australia was target of a murder plot.",
-                "Family members are implicated in the plot.",
-                "The motive appears linked to property worth crores in India."
-            ]
-        },
-        {
-            "headline": "Indian-Origin Man Confronts Racist Bullying in Canada, Advocates for Speaking Out",
-            "summary": "An Indian-origin man in Canada bravely confronted racist bullying by directly challenging his aggressors with the question, 'Where do you think I am from?' He has since advocated for others to speak out against discrimination, emphasizing the importance of standing up for oneself.",
-            "key_points": [
-                "Indian-origin man in Canada confronted racist bullying.",
-                "He advocated for people to 'talk back' against discrimination.",
-                "The incident highlights the importance of countering racism."
-            ]
-        },
-        {
-            "headline": "Indian-Origin Family Jumps to Death from London Flat",
-            "summary": "A tragic incident in London saw an Indian-origin couple and their 9-year-old son jump to their deaths from their 36th-floor flat. The heartbreaking event has sent shockwaves through the community.",
-            "key_points": [
-                "An Indian-origin couple and their 9-year-old son died.",
-                "They jumped from a 36th-floor flat in London.",
-                "The incident is a significant tragedy."
-            ]
-        },
-        {
-            "headline": "Indian-Origin Police Officer Tarun Bali Killed on Duty in Canada",
-            "summary": "Indian-origin police officer Tarun Bali was tragically killed while on duty in Ontario, Canada, by an escapee from a mental hospital. His death marks a somber loss for both the police force and the Indian diaspora.",
-            "key_points": [
-                "Indian-origin police officer Tarun Bali was killed on duty.",
-                "The incident occurred in Ontario, Canada.",
-                "The assailant was an escapee from a mental hospital."
-            ]
-        },
-        {
-            "headline": "US-Israeli War Against Iran Continues Since February 2026",
-            "summary": "The conflict described as the 'US-Israeli War Against Iran' has been ongoing since February 28, 2026. This prolonged engagement represents a significant and escalating geopolitical confrontation in the Middle East.",
-            "key_points": [
-                "US-Israeli War Against Iran' has been ongoing since Feb 28, 2026.",
-                "The conflict signifies a major geopolitical confrontation.",
-                "This suggests a prolonged period of military engagement."
-            ]
-        },
-        {
-            "headline": "Northern Sea Route Expected to Redraw Global Trade Map",
-            "summary": "The Northern Sea Route is predicted to soon significantly alter the global trade map, opening new shipping lanes and impacting international commerce. Its growing importance could reshape traditional maritime routes and economic power dynamics.",
-            "key_points": [
-                "Northern Sea Route is expected to redraw the world trade map.",
-                "It will open new shipping lanes.",
-                "Its growing importance impacts global commerce and power dynamics."
-            ]
-        },
-        {
-            "headline": "Putin Claims Russian Army Holds Strategic Advantage and Advances",
-            "summary": "Russian President Vladimir Putin asserted that the Russian army maintains a strategic advantage and is actively moving forward in the ongoing conflict. His statement underscores a claimed offensive posture and tactical superiority.",
-            "key_points": [
-                "Putin claims Russian army has strategic advantage.",
-                "He states the army is 'moving forward.'",
-                "The statement is in context of the Ukraine conflict."
-            ]
-        },
-        {
-            "headline": "Zaporozhye Nuclear Plant Lacks External Power for Over Two Days",
-            "summary": "A spokeswoman reported that the Zaporozhye Nuclear Power Plant has been without external power supply for more than two consecutive days. This extended disruption raises serious concerns about the plant's safety and operational stability.",
-            "key_points": [
-                "Zaporozhye NPP lost external power supply.",
-                "The outage has lasted over two days.",
-                "This raises significant safety concerns for the nuclear plant."
-            ]
-        },
-        {
-            "headline": "Putin Asserts No Country Has Achieved Strategic Defeat Over Russia",
-            "summary": "President Putin declared that no nation has ever succeeded in achieving a strategic defeat over Russia throughout its history. This statement aims to project an image of invincibility and historical resilience for the Russian state.",
-            "key_points": [
-                "Putin claimed Russia has never suffered a strategic defeat.",
-                "This statement highlights Russia's historical resilience.",
-                "It projects an image of invincibility."
-            ]
-        },
-        {
-            "headline": "Russia Claims Downing Hundreds of Ukrainian Drones, Liberating Settlements",
-            "summary": "The Russian Ministry of Defence reports shooting down hundreds of Ukrainian drones and intercepting cruise missiles over recent periods. Concurrently, the Russian army claims to have liberated several settlements, including Priyut, Roskoshnoye, and Khimik in the Donetsk People's Republic, amidst ongoing military operations.",
-            "key_points": [
-                "Russia claims shooting down hundreds of Ukrainian drones and intercepting cruise missiles.",
-                "Russian army claims liberation of Priyut, Roskoshnoye, and Khimik settlements in DPR.",
-                "Russian forces are also reported to have struck Ukrainian military-linked transport and energy facilities."
-            ]
-        },
-        {
-            "headline": "Ukraine and Russia Exchange Strikes as Kyiv Nears EU Accession",
-            "summary": "As Ukraine progresses towards potential EU membership, both Ukraine and Russia continue to engage in mutual strikes. This dual development highlights the ongoing conflict alongside Kyiv's determined pursuit of European integration.",
-            "key_points": [
-                "Ukraine and Russia are exchanging strikes.",
-                "Kyiv is moving closer to EU accession.",
-                "The situation highlights a complex geopolitical dynamic."
-            ]
-        },
-        {
-            "headline": "EU Countries Agree to Unblock Accession Talks with Ukraine and Moldova",
-            "summary": "European Union member states have reached an agreement to unblock accession talks with both Ukraine and Moldova. This pivotal decision paves the way for both countries to move forward on their path towards potential EU membership, marking a significant step in the bloc's expansion.",
-            "key_points": [
-                "EU member states agreed to unblock accession talks.",
-                "Ukraine and Moldova are the countries involved.",
-                "This is a significant step towards their potential EU membership."
-            ]
-        },
-        {
-            "headline": "EU’s Historic Migration Overhaul Takes Effect Amidst Enforcement Doubts",
-            "summary": "The EU’s new, historic migration pact has officially entered into force, representing a significant overhaul of its asylum system. However, concerns are already being raised about the readiness of member countries and the effectiveness of its enforcement, casting doubt on its immediate impact.",
-            "key_points": [
-                "EU's historic migration pact is now in force.",
-                "It represents a significant overhaul of the asylum system.",
-                "Doubts exist regarding member countries' readiness and enforcement effectiveness."
-            ]
-        },
-        {
-            "headline": "Israelis Celebrate First Pride Parade in Tel Aviv Since October 7",
-            "summary": "Thousands of Israelis gathered in Tel Aviv to celebrate the city's first Pride parade since the October 7 attack, filling the streets with rainbow flags and calls for LGBTQ+ rights. The event symbolized resilience and continued advocacy for equality in the region.",
-            "key_points": [
-                "Tel Aviv hosted its first Pride parade since October 7.",
-                "Thousands celebrated, advocating for LGBTQ+ rights.",
-                "The event symbolized resilience and continued advocacy."
-            ]
-        },
-        {
-            "headline": "Gaza Families Search Ruins After Israeli Strikes, Find Brief Escape in World Cup",
-            "summary": "Families in Gaza are engaged in a grim search through the ruins of their homes following recent Israeli strikes, coping with widespread destruction. Amidst the devastation, some residents found a fleeting moment of respite by watching the World Cup opener.",
-            "key_points": [
-                "Gaza families search ruins after Israeli strikes.",
-                "They are dealing with widespread destruction.",
-                "Some residents found brief escape watching World Cup opener."
-            ]
-        },
-        {
-            "headline": "Cuban President Unveils Economic Reforms Amid US Embargo",
-            "summary": "Cuba's president has announced a series of reforms aimed at liberalizing the country's economy, even as it continues to grapple with a long-standing US embargo. These measures seek to stimulate growth and improve living conditions under challenging external pressures.",
-            "key_points": [
-                "Cuban president unveiled economic reforms.",
-                "Aims to liberalize economy despite US embargo.",
-                "Seeks to stimulate growth and improve living conditions."
-            ]
-        },
-        {
-            "headline": "Aid Ship from Colombia Docks in Cuba Amidst Crises",
-            "summary": "A ship from Colombia, carrying crucial aid, has successfully docked in Cuba, aiming to alleviate ongoing crises in the island nation. This humanitarian delivery provides much-needed assistance amidst challenging circumstances.",
-            "key_points": [
-                "Aid ship from Colombia arrived in Cuba.",
-                "Aims to alleviate ongoing crises.",
-                "Provides humanitarian assistance."
+                "Indian-origin doctor Parveen Kumar received Britain's highest Order of the British Empire honour.",
+                "The award recognizes his significant contributions in his field.",
+                "This brings commendation to the Indian diaspora.",
+                "Highlights the positive impact of individuals of Indian origin globally."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "India Increases Russian Oil Imports in May",
-            "summary": "A recent report indicates that India significantly increased its purchases of Russian crude oil during May. This surge in imports from Moscow signals a growing reliance on Russian energy supplies.",
+            "headline": "Sensex Rallies Over 1,100 Points, Nifty Above 23,950 as US-Iran Peace Deal Announced",
+            "summary": "Indian benchmark indices, Sensex and Nifty50, surged significantly in opening trade following the announcement of a US-Iran peace deal, which caused global crude oil prices to fall below $85. This rally helped the Indian markets recover from a two-week losing streak, bolstered by improved global sentiment and the Reserve Bank of India's measures to encourage foreign currency inflows. Investors are now closely monitoring the peace agreement's progress and its broader economic implications, especially for crude oil prices and shipping through the Strait of Hormuz.",
             "key_points": [
-                "India's crude oil imports from Russia increased in May.",
-                "Russia remains a significant source of crude for India.",
-                "This trend highlights India's energy sourcing strategy."
+                "Indian stock markets (Sensex, Nifty50) saw a major rally after the US-Iran peace deal announcement.",
+                "Global crude oil prices dropped below $85 per barrel.",
+                "The rally helped Indian markets recover from recent losses, boosted by global sentiment and RBI measures.",
+                "Investors are watching the deal's impact on oil prices and Strait of Hormuz shipping."
             ]
         },
         {
-            "headline": "Understanding India’s '3Fs' Economic Stress: Fuel, Fertilizers, and Forex",
-            "summary": "This guide explains the critical importance of India's '3Fs' – fuel, fertilizers, and foreign exchange – and why they are currently causing economic stress. These three factors are interconnected and significantly impact the nation's financial stability and growth.",
+            "headline": "Oil Prices Tumble 4% as US-Iran Deal Announced, Hormuz Reopening Expected",
+            "summary": "Oil prices plunged by 4% after President Trump announced a US-Iran peace deal, which includes the anticipated reopening of the Strait of Hormuz. Brent crude fell below $85 per barrel as traders reacted to the prospects of increased global oil supply. This development is expected to have a significant impact on international energy markets, although experts warn of a potentially slow recovery in full supply.",
             "key_points": [
-                "India is experiencing economic stress related to '3Fs': fuel, fertilizers, forex.",
-                "These factors are crucial for the nation's economy.",
-                "Their interconnectedness impacts financial stability."
+                "Oil prices dropped 4% following the announcement of the US-Iran peace deal.",
+                "Brent crude fell below $85 per barrel due to anticipated increased supply.",
+                "The deal is expected to lead to the reopening of the Strait of Hormuz.",
+                "Significant impacts on international energy markets are widely expected."
             ]
         },
         {
-            "headline": "BRICS Adopts Indore Declaration, India to Lead Seed Rights and Digital Agriculture",
-            "summary": "The BRICS nations have adopted the Indore Declaration, outlining key initiatives for cooperation. Under this declaration, India is set to take a leading role in areas concerning seed rights and the advancement of digital agriculture.",
+            "headline": "Noida International Airport Begins Commercial Operations; First IndiGo Flight Lands at Jewar",
+            "summary": "The Noida International Airport officially commenced commercial operations today, with the first IndiGo flight from Lucknow successfully landing at Jewar. This greenfield project marks a significant achievement for Uttar Pradesh, with farmers who provided land for the airport among the inaugural passengers. The airport is set to become a major aviation and cargo hub, stimulating economic growth and easing traffic congestion at Delhi's IGI Airport.",
             "key_points": [
-                "BRICS nations adopted the Indore Declaration.",
-                "India will lead initiatives on seed rights.",
-                "India will also spearhead digital agriculture projects."
+                "Noida International Airport has officially begun commercial operations.",
+                "The first flight was an IndiGo aircraft from Lucknow, landing at Jewar.",
+                "Farmers who contributed land were among the inaugural passengers.",
+                "The airport aims to become a major aviation and cargo hub, boosting economic growth."
             ]
         },
         {
-            "headline": "India Possesses Over 60 Days of Crude and Gas Stocks, Rules Out Energy Crunch",
-            "summary": "Hardeep Singh Puri stated that India currently holds over 60 days' worth of crude oil and natural gas stocks. He assured the public that the nation is well-prepared and ruled out any impending energy supply crunch.",
+            "headline": "Did Crores Go Missing from Ayodhya Ram Temple Donations?",
+            "summary": "A controversy has erupted around the Ayodhya Ram temple over allegations that Rs 5-7.5 crore in donations have gone missing. A former Ayodhya MLA raised the concern, while the temple trust denies any wrongdoing, police found lakhs at an employee's house, and an official suggested the possibility of a 'miscalculation.' The situation is currently under scrutiny, raising questions about financial transparency.",
             "key_points": [
-                "India has over 60 days of crude and gas stocks.",
-                "Hardeep Singh Puri confirmed this.",
-                "An energy supply crunch is ruled out."
+                "Allegations suggest Rs 5-7.5 crore in donations for the Ayodhya Ram temple are missing.",
+                "A former MLA brought the issue to light, though the temple trust denies it.",
+                "Police found lakhs of rupees at a temple employee's residence.",
+                "An official cited a potential 'miscalculation,' raising questions about financial transparency."
             ]
         },
         {
-            "headline": "Government Assures No Fertilizer Shortage for Kharif, Rabi Crops Amid El Niño Preparedness",
-            "summary": "Shivraj Singh Chouhan has assured that there will be no shortage of fertilizers for the upcoming kharif and rabi cropping seasons. The government has affirmed its preparedness to handle potential impacts from the El Niño weather phenomenon.",
+            "headline": "India and France Agree to Ramp Up Trade and Technology Ties, Focus on Make in India",
+            "summary": "India and France have agreed to significantly enhance their trade and technology ties following a meeting between Prime Minister Modi and President Macron. Key areas of collaboration will focus on India's 'Make in India' initiative and civil nuclear cooperation. This partnership aims to boost economic growth, foster innovation, and strengthen strategic collaboration between the two nations.",
             "key_points": [
-                "No fertilizer shortage expected for kharif and rabi crops.",
-                "Government is prepared for El Niño impacts.",
-                "Shivraj Singh Chouhan provided the assurance."
+                "India and France agreed to boost trade and technology cooperation.",
+                "PM Modi and President Macron discussed enhancing bilateral ties.",
+                "Collaboration will focus on the 'Make in India' initiative and civil nuclear cooperation.",
+                "Aims to drive economic growth, innovation, and strategic partnership."
             ]
         },
         {
-            "headline": "India-US Trade Deal Not Imminent, More Talks Expected Post-G7",
-            "summary": "Despite speculation, a trade deal between India and the US is not expected to be announced at the G7 Summit. The USTR indicates that further discussions are required, suggesting the pact is not imminent.",
+            "headline": "FSSAI Targets Misleading 'Healthy,' 'Organic,' and 'Zero Maida' Claims on Food Labels",
+            "summary": "The FSSAI is cracking down on food labels that use misleading claims such as 'healthy,' 'organic,' and 'zero maida,' aiming to ensure greater transparency for consumers. This initiative seeks to prevent consumers from being deceived by unsubstantiated marketing tactics. Food brands making such claims will face scrutiny and potential regulatory action to ensure compliance with labeling standards.",
             "key_points": [
-                "India-US trade deal not expected at G7.",
-                "USTR indicates more talks are needed.",
-                "A pact is not considered imminent."
+                "FSSAI is targeting misleading claims like 'healthy,' 'organic,' and 'zero maida' on food labels.",
+                "The initiative aims to increase transparency and prevent consumer deception.",
+                "Food brands using such claims will face scrutiny and potential regulatory action.",
+                "Ensuring compliance with food labeling standards is the primary goal."
             ]
         },
         {
-            "headline": "Seafarers Often Unaware of 'Dark Ship' Sanctioned Status",
-            "summary": "Many seafarers are reportedly unaware when their vessels operate with a 'dark ship' status, indicating they are sanctioned or involved in illicit activities. This lack of awareness poses significant legal and ethical risks for those working in the maritime industry.",
+            "headline": "Fertiliser Push: Two New Urea Plants to Start Production Soon, Easing Import Dependence",
+            "summary": "India is set to boost its domestic fertiliser production with two new urea plants scheduled to begin operations soon, a move the government states will significantly reduce the country's reliance on imports. This expansion is part of a broader strategy to achieve self-sufficiency in key agricultural inputs. The initiative is expected to strengthen India's agricultural sector and reduce costs for farmers.",
             "key_points": [
-                "Seafarers are often unaware of their ship's sanctioned or 'dark' status.",
-                "'Dark ship' status implies illicit activities or sanctions.",
-                "This creates legal and ethical risks for crew members."
+                "Two new urea plants are set to commence production in India soon.",
+                "The government expects this to significantly reduce dependence on fertiliser imports.",
+                "Part of a larger strategy to achieve self-sufficiency in agricultural inputs.",
+                "Aims to strengthen India's agricultural sector and benefit farmers."
             ]
         },
         {
-            "headline": "Elon Musk Becomes World's First Trillionaire, Driven by SpaceX Success",
-            "summary": "Elon Musk has achieved the status of the world's first trillionaire, largely due to the success of SpaceX. Despite his immense wealth, reports indicate he maintains a modest lifestyle, living in a small home and with humble beginnings.",
+            "headline": "Energy Experts Warn of Slow Oil Supply Recovery After Iran Deal",
+            "summary": "Despite the US-Iran peace deal, energy experts are cautioning that the recovery of global oil supply might be slow due to geopolitical complexities and infrastructure challenges. While the deal could lead to the reopening of the Strait of Hormuz, Iran's full return to the market could face delays. This uncertainty may contribute to continued volatility in global oil prices in the short term.",
             "key_points": [
-                "Elon Musk is the world's first trillionaire.",
-                "SpaceX is a primary contributor to his wealth.",
-                "He maintains a modest personal lifestyle despite his immense fortune."
+                "Energy experts warn of a potentially slow global oil supply recovery post-US-Iran deal.",
+                "Geopolitical complexities and infrastructure challenges may delay Iran's market return.",
+                "Despite the Strait of Hormuz reopening, full supply might not resume quickly.",
+                "Oil prices could remain volatile due to ongoing uncertainties."
             ]
         },
         {
-            "headline": "SpaceX Joins Elite Companies After Blockbuster IPO, Valuation Soars",
-            "summary": "SpaceX has made a historic debut, joining the ranks of the world's most valuable companies following its blockbuster IPO. The company's $75 billion public offering could see an additional $11 billion boost, raising questions from financial experts like Uday Kotak regarding its rapid valuation.",
+            "headline": "Moderna CEO Expresses Deep Concern About Bioterrorism Threats",
+            "summary": "The CEO of Moderna has voiced deep concerns regarding the potential for bioterrorism, highlighting existing vulnerabilities in global health security frameworks. His remarks underscore the critical need for advanced biodefense strategies and enhanced international cooperation to effectively prevent and respond to such threats. This perspective from a pharmaceutical industry leader emphasizes a significant global security challenge.",
             "key_points": [
-                "SpaceX made a blockbuster IPO.",
-                "It joined the world's most valuable companies.",
-                "Its $75 billion IPO could get an $11 billion boost."
+                "Moderna's CEO is deeply concerned about the threat of bioterrorism.",
+                "He highlighted global health security vulnerabilities.",
+                "Stresses the need for advanced biodefense strategies and international cooperation.",
+                "Emphasizes the critical security challenge posed by bioterrorism."
             ]
         },
         {
-            "headline": "Otis D’Souza Becomes Viral Intern at 64 After Building and Retiring from Empire",
-            "summary": "Otis D’Souza, who once washed helicopters and built a business empire before retiring, has become a viral sensation as an intern at 64. His inspiring story exemplifies that it is never too late to embark on a new career path.",
+            "headline": "Ukrainian AI Fintech Startup Chooses Doha as Base After Qatari Backing",
+            "summary": "A Ukrainian AI fintech startup has relocated its operations to Doha, Qatar, after securing substantial investment from Qatari backers. This strategic move highlights the growing trend of tech hubs emerging beyond traditional centers and showcases the resilience of Ukrainian startups. The partnership aims to leverage Qatar's financial resources and strategic location to foster innovation in the fintech sector.",
             "key_points": [
-                "Otis D’Souza became an intern at 64.",
-                "He previously built an empire and retired.",
-                "His story highlights that it's never too late to start anew."
-            ]
-        },
-        {
-            "headline": "US Investors Eye Venezuela Oil Assets Following Trump's Call",
-            "summary": "US investors are reportedly rushing to Venezuela's oil sector, spurred by former President Trump's call for $100 billion in investments. Investment funds are actively targeting energy assets in the country, signaling potential shifts in the region's oil landscape.",
-            "key_points": [
-                "US investors are targeting Venezuelan oil assets.",
-                "This follows a $100 billion investment call from Donald Trump.",
-                "Investment funds are actively pursuing energy assets in Venezuela."
-            ]
-        },
-        {
-            "headline": "Ukrainian AI Fintech Startup Relocates to Doha After Qatari Investment",
-            "summary": "A Ukrainian AI fintech startup has decided to establish its base in Doha, Qatar, following significant backing from Qatari investors. This strategic move highlights the growing investment in AI and fintech in the Middle East, offering a new hub for technological innovation.",
-            "key_points": [
-                "Ukrainian AI fintech startup moves to Doha.",
-                "Relocation follows Qatari investment.",
-                "Highlights Doha's emergence as a tech hub."
-            ]
-        },
-        {
-            "headline": "Spain's Inflation Rate Holds Steady at 3.2% for Third Month",
-            "summary": "Spain's inflation rate has remained consistent at 3.2% for the third consecutive month, indicating a period of stable price growth. This figure provides insights into the country's economic stability amidst broader European financial trends.",
-            "key_points": [
-                "Spain's inflation rate is stable at 3.2%.",
-                "This marks the third consecutive month at this rate.",
-                "Provides insight into Spain's economic stability."
-            ]
-        },
-        {
-            "headline": "New Ferry Service Launched Between Cork and Boulogne",
-            "summary": "A new ferry service has officially commenced operations between Cork and Boulogne, enhancing connectivity and travel options between Ireland and France. This route aims to cater to both passenger and freight demands, boosting regional tourism and trade.",
-            "key_points": [
-                "New ferry service launched connecting Cork and Boulogne.",
-                "Enhances travel options between Ireland and France.",
-                "Aims to boost regional tourism and trade."
-            ]
-        },
-        {
-            "headline": "Europe Reveals Vast Retirement Wealth Gap, Spanning €36,300 to €1.2 Million",
-            "summary": "A stark disparity in retirement wealth has been observed across Europe, with figures ranging dramatically from €36,300 to €1.2 million. This immense gap highlights significant economic inequalities among retirees throughout the continent.",
-            "key_points": [
-                "Europe has a vast retirement wealth gap.",
-                "Wealth ranges from €36,300 to €1.2 million.",
-                "This highlights significant economic inequalities among retirees."
+                "Ukrainian AI fintech startup has moved its operations to Doha.",
+                "The relocation follows significant investment backing from Qatari investors.",
+                "Highlights the growth of new tech hubs and the resilience of Ukrainian startups.",
+                "Aims to leverage Qatar's financial resources and strategic location."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Everyday Chores are Training Tomorrow’s Robots and AI",
-            "summary": "Global companies are employing various individuals, from homemakers to factory workers, to record mundane daily tasks. These video recordings are crucial for training artificial intelligence systems to perform such jobs more efficiently in the future.",
+            "headline": "Elon Musk Claims SpaceX Could Hit $1 Trillion in Revenue by 2030, Exceeding Forecasts",
+            "summary": "Elon Musk has boldly claimed that SpaceX could achieve $1 trillion in revenue by 2030, a projection that significantly surpasses current estimates from institutions like Morgan Stanley. This ambitious target reflects Musk's long-term vision for the space company's rapid growth and diversification across various ventures. His statement underscores the immense potential and disruptive nature of the commercial space industry.",
             "key_points": [
-                "People are being paid to film everyday tasks.",
-                "These recordings are used to train AI systems.",
-                "The goal is to enable AI to perform these tasks better."
+                "Elon Musk projects SpaceX could reach $1 trillion in revenue by 2030.",
+                "This ambitious target significantly exceeds Morgan Stanley's current projections.",
+                "Reflects Musk's vision for rapid growth and diversification in space ventures.",
+                "Highlights the immense potential and disruptive nature of the commercial space industry."
             ]
         },
         {
-            "headline": "Vibhav Altekar, Indian-American Behind Drone Boat in US Hormuz Rescue",
-            "summary": "Vibhav Altekar, an Indian-American, is being recognized as the mastermind behind the drone boat utilized in a recent US rescue operation in the Strait of Hormuz. His technological contribution played a critical role in the successful mission.",
+            "headline": "Infrastructure Boom and AI Fears Drive Civil Engineering's Comeback at Top IITs",
+            "summary": "Civil engineering is experiencing a significant resurgence at India's premier IITs, fueled by the nation's infrastructure boom and growing anxieties about AI's impact on other tech fields. Students are increasingly opting for civil engineering courses, perceiving stable career prospects amidst numerous large-scale development projects. This shift indicates evolving student preferences and changing industry demands within India's technological landscape.",
             "key_points": [
-                "Vibhav Altekar is an Indian-American engineer.",
-                "He developed the drone boat used in a US rescue in the Strait of Hormuz.",
-                "His innovation was crucial to the mission's success."
+                "Civil engineering is seeing a strong comeback at top IITs in India.",
+                "Driven by the country's infrastructure boom and fears of AI's impact on other tech jobs.",
+                "Students are increasingly choosing civil engineering for stable career prospects.",
+                "This trend reflects evolving student interests and industry demands."
             ]
         },
         {
-            "headline": "Putin Claims Russia's Low-Earth Orbit Network Could Surpass Starlink",
-            "summary": "President Putin has detailed Russia's alternative to Starlink, stating that its low-earth orbit network has the potential to even surpass the US satellite internet system. This highlights Russia's ambitions in developing advanced space-based communication technology.",
+            "headline": "PM Modi Declares Innovation is in India’s DNA as Tech Revolution Reshapes Global Order",
+            "summary": "Prime Minister Modi asserted that innovation is an intrinsic part of India's DNA, emphasizing the nation's pivotal role in the ongoing global tech revolution that is fundamentally reshaping the world order. His statement highlights India's growing prominence in technological advancements and its commitment to fostering an innovative ecosystem. This declaration underscores India's aspirations to be a leader in the digital age.",
             "key_points": [
-                "Putin reveals details on Russia's Starlink alternative.",
-                "He claims Russia's LEO network could surpass Starlink.",
-                "This showcases Russia's ambitions in space communication technology."
+                "PM Modi stated that innovation is inherent in India's DNA.",
+                "He emphasized India's pivotal role in the global tech revolution.",
+                "Highlights the nation's growing prominence in technological advancements.",
+                "Underscores India's aspiration for leadership in the digital age."
             ]
         },
         {
-            "headline": "Anthropic Halts Access to Fable 5 and Mythos 5 Due to US Ban",
-            "summary": "AI company Anthropic has halted access to its advanced models, Fable 5 and Mythos 5, for all foreign nationals due to a US government order. This decision stems from concerns about AI sovereignty, mandating the suspension of frontier models to non-US entities.",
+            "headline": "World's First Large-Scale Hydrogen Engine Starts Generating Electricity",
+            "summary": "The world's first large-scale hydrogen engine has successfully commenced generating electricity, marking a significant milestone in sustainable energy technology. This groundbreaking development offers a promising cleaner alternative to traditional fossil fuels for power generation. It signifies a major step towards decarbonization and the wider adoption of hydrogen as a viable energy source.",
             "key_points": [
-                "Anthropic stopped access to Fable 5 and Mythos 5 for foreign nationals.",
-                "This is due to a US government ban.",
-                "Concerns about AI sovereignty are cited as the reason."
+                "The world's first large-scale hydrogen engine has begun generating electricity.",
+                "This marks a significant milestone in sustainable energy technology.",
+                "It offers a promising cleaner alternative to fossil fuels for power generation.",
+                "The development is a major step towards decarbonization and hydrogen adoption."
             ]
         },
         {
-            "headline": "World's First Large-Scale Hydrogen Engine Begins Electricity Generation",
-            "summary": "The world's first large-scale hydrogen engine has successfully commenced generating electricity, marking a significant milestone in renewable energy technology. This breakthrough offers a promising, cleaner alternative for power production.",
+            "headline": "Indian Test Pilots Reportedly Back Russian Su-57 Over US F-35: Expert",
+            "summary": "An expert indicates that India's test pilots reportedly prefer the Russian Su-57 fighter jet over the US F-35, suggesting a preference for its capabilities and suitability for Indian defense needs. This assessment could influence India's future defense acquisitions and strategic partnerships. The comparison highlights different philosophies in fighter jet design and performance, relevant to India's military modernization efforts.",
             "key_points": [
-                "World's first large-scale hydrogen engine is generating electricity.",
-                "This is a milestone in renewable energy technology.",
-                "It offers a cleaner alternative for power production."
+                "Indian test pilots reportedly favor the Russian Su-57 over the US F-35.",
+                "The preference is attributed to its capabilities and suitability for India's defense.",
+                "This could influence future Indian defense acquisitions and strategic partnerships.",
+                "It highlights differing design philosophies in modern fighter jets."
             ]
         },
         {
-            "headline": "Viral Dua Lipa 'Wedding Photos' Revealed to Be AI-Generated",
-            "summary": "Widely circulated 'wedding photos' of Dua Lipa that recently went viral have been exposed as entirely AI-generated. This incident highlights the increasing sophistication of artificial intelligence in creating convincing but fabricated images.",
+            "headline": "Anthropic's Export Ban 'Should Not Be Discriminatory,' European Commission Says",
+            "summary": "The European Commission has stated that Anthropic's export ban on its AI models 'should not be discriminatory,' addressing concerns about fair access to advanced AI technologies. This comment highlights potential issues of monopolistic practices and emphasizes the importance of open and equitable competition in the rapidly evolving artificial intelligence landscape. The Commission's stance aims to ensure a level playing field for AI development and deployment.",
             "key_points": [
-                "Viral Dua Lipa wedding photos were AI-generated.",
-                "The images were fabricated.",
-                "Highlights AI's ability to create convincing fake content."
+                "European Commission says Anthropic's AI export ban should not be discriminatory.",
+                "Addresses concerns about fair access to advanced AI technologies.",
+                "Highlights potential monopolistic practices in the AI market.",
+                "Emphasizes the importance of open and equitable competition in AI."
             ]
         },
         {
-            "headline": "Doctors Desire More AI, But Hospitals Struggle with Adoption",
-            "summary": "While medical professionals are increasingly eager to integrate more AI into their practices, hospitals are struggling to keep pace with the necessary technological adoption and infrastructure upgrades. This gap highlights a challenge in bringing advanced AI tools to healthcare.",
+            "headline": "Anthropic's Fable 5 vs. OpenAI: Which AI Model Offers Better Value?",
+            "summary": "The article questions the value proposition of Anthropic's Fable 5, suggesting that OpenAI's services may soon become more affordable, intensifying competition in the AI model market. This comparison highlights the rapidly changing pricing dynamics as advanced AI tools become more widespread. Consumers and businesses are increasingly evaluating cost-effectiveness alongside capability when selecting AI solutions.",
             "key_points": [
-                "Doctors want more AI integration in healthcare.",
-                "Hospitals struggle with the pace of AI adoption.",
-                "Challenges exist in infrastructure and implementation."
-            ]
-        },
-        {
-            "headline": "Brussels to Implement Ban on Shared E-Scooters from 2027",
-            "summary": "Brussels authorities have announced a ban on shared e-scooters, set to take effect from 2027, as part of new urban mobility regulations. This decision aims to address issues such as sidewalk clutter and safety concerns associated with the vehicles.",
-            "key_points": [
-                "Brussels will ban shared e-scooters starting 2027.",
-                "The ban is part of new urban mobility regulations.",
-                "Aims to address issues like clutter and safety."
-            ]
-        },
-        {
-            "headline": "Portugal to Introduce Autonomous Driving Test Rules in July",
-            "summary": "Portugal is set to implement new regulations for autonomous driving tests starting in July, paving the way for advanced vehicle technologies. This move signals the country's commitment to embracing future mobility solutions and developing a framework for self-driving cars.",
-            "key_points": [
-                "Portugal will roll out autonomous driving test rules in July.",
-                "Paves the way for advanced vehicle technologies.",
-                "Shows commitment to future mobility solutions."
-            ]
-        },
-        {
-            "headline": "Anthropic's Fable 5 vs. Potentially Cheaper OpenAI: AI Market Heats Up",
-            "summary": "The value proposition of Anthropic's Fable 5 is being questioned as OpenAI may soon offer more affordable alternatives, intensifying competition in the AI market. This comparison highlights a crucial pricing and accessibility battle among leading AI developers.",
-            "key_points": [
-                "Value of Anthropic's Fable 5 is being debated.",
-                "OpenAI may offer cheaper alternatives soon.",
-                "This indicates rising competition in the AI market."
-            ]
-        },
-        {
-            "headline": "Naples Ring Road Becomes Italy's First Smart Road",
-            "summary": "The Naples ring road has been officially designated as Italy's first smart road, integrating advanced digital and sensor technologies. This transformation aims to enhance traffic flow, improve safety, and offer real-time information to drivers.",
-            "key_points": [
-                "Naples ring road is Italy's first smart road.",
-                "It integrates advanced digital and sensor technologies.",
-                "Aims to improve traffic flow, safety, and information for drivers."
+                "The value proposition of Anthropic's Fable 5 is questioned against potentially cheaper OpenAI services.",
+                "This reflects intense competition and rapidly changing pricing in the AI model market.",
+                "Consumers and businesses are evaluating cost-effectiveness of AI solutions.",
+                "Advanced AI tools are becoming more widespread, driving competitive dynamics."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Diljit Dosanjh's 'Main Vaapas Aaunga' Outperforms Kangana Ranaut's Film, Crosses ₹3 Crore",
-            "summary": "Diljit Dosanjh's film 'Main Vaapas Aaunga' has shown strong box office performance on its second day, surpassing the earnings of Kangana Ranaut's movie. The film has now achieved a total collection exceeding ₹3 crore.",
+            "headline": "Singer Oliver Tree Among Six Killed in Tragic Helicopter Incident",
+            "summary": "Singer Oliver Tree was among six people tragically killed in a helicopter incident, sending shockwaves through the entertainment industry and his fanbase. Tributes have poured in from numerous stars, expressing grief and highlighting his impact on music. The incident is currently under investigation, leaving fans to mourn the loss of a unique artist.",
             "key_points": [
-                "'Main Vaapas Aaunga' starring Diljit Dosanjh earned over ₹3 crore by day 2.",
-                "It outperformed Kangana Ranaut's latest film.",
-                "The film shows strong box office success."
+                "Singer Oliver Tree was tragically killed in a helicopter incident, along with five others.",
+                "His death sent shockwaves through the entertainment industry and his fanbase.",
+                "Numerous stars have paid tribute, expressing grief and acknowledging his impact.",
+                "The cause of the helicopter crash is currently under investigation."
             ]
         },
         {
-            "headline": "Dwayne Johnson Reflects on Missing Oscar Nomination, Finds New Motivation",
-            "summary": "Dwayne Johnson candidly discusses his feelings about not receiving an Oscar nomination for 'The Smashing Machine.' He states that this experience, initially perceived as a setback, has instead ignited a strong drive within him for future endeavors.",
+            "headline": "Imtiaz Ali: 'My Inspiration Comes From Life, Not Cinema'",
+            "summary": "Renowned filmmaker Imtiaz Ali stated that his inspiration for storytelling is drawn directly from life experiences rather than from cinema itself. He believes that genuine narratives are rooted in real-world observations and human emotions. This unique perspective often influences the relatable and profound themes explored in his critically acclaimed movies.",
             "key_points": [
-                "Dwayne Johnson missed an Oscar nomination for 'The Smashing Machine'.",
-                "He initially thought the nomination mattered significantly.",
-                "The experience has motivated him further in his career."
+                "Filmmaker Imtiaz Ali draws creative inspiration from life experiences, not cinema.",
+                "He believes genuine narratives stem from real-world observations and human emotions.",
+                "This perspective shapes the relatable and profound themes in his films.",
+                "His approach emphasizes authenticity in storytelling."
             ]
         },
         {
-            "headline": "David Hockney: From Nature's Lover to Climate Crisis Evoker, Redefining Modernity",
-            "summary": "David Hockney, a prominent artist, has evolved his work from celebrating nature to confronting the climate crisis. Through his art, he has compelled viewers to critically examine modern existence and its challenges.",
+            "headline": "Marie Antoinette Still Receives Letters, Highlighting Enduring Fascination with History",
+            "summary": "The article reveals the peculiar phenomenon of Marie Antoinette still receiving letters from people, including modern-day correspondents, decades after her execution. This ongoing practice highlights the enduring fascination with historical figures and the symbolic power of the past. The phenomenon creates a unique and often anachronistic connection between contemporary individuals and history.",
             "key_points": [
-                "David Hockney's art has transitioned from nature themes to climate crisis.",
-                "His work forces a direct look at modernity.",
-                "He is described as evoking the climate crisis through his art."
-            ]
-        },
-        {
-            "headline": "Rashmika Mandanna's Dress Becomes a Wardrobe Aspiration",
-            "summary": "Actress Rashmika Mandanna recently showcased a dress that has quickly captured the attention of many, becoming a highly coveted item. Her outfit is being described as a fashion statement every woman would desire in their collection.",
-            "key_points": [
-                "Rashmika Mandanna wore a highly desirable dress.",
-                "The dress is seen as a fashion aspiration for women.",
-                "Her style choice has gained significant attention."
-            ]
-        },
-        {
-            "headline": "Sydney Sweeney and Other Celebrities Spotted at Knicks vs Spurs Game 5",
-            "summary": "The article reports on the celebrity attendance at Game 5 of the Knicks vs Spurs match, notably mentioning actress Sydney Sweeney. It provides a comprehensive list of all public figures seen at the event.",
-            "key_points": [
-                "Sydney Sweeney was among celebrities at Knicks vs Spurs Game 5.",
-                "The article lists other celebrity sightings.",
-                "The event attracted significant public figures."
-            ]
-        },
-        {
-            "headline": "Thierry Henry and Andrea Rajacic’s Combined Net Worth Revealed for 2026",
-            "summary": "This article details the combined net worth of football legend Thierry Henry and Andrea Rajacic for 2026. It covers their earnings from various sources including endorsements, investments, and their overall lifestyle.",
-            "key_points": [
-                "Article reveals combined net worth of Thierry Henry and Andrea Rajacic.",
-                "It covers their earnings from endorsements and investments.",
-                "Their lifestyle contributes to the net worth analysis."
-            ]
-        },
-        {
-            "headline": "Speculation Arises: Did Shakira Use a Body Double at World Cup Opener?",
-            "summary": "Speculation is circulating about whether pop star Shakira utilized a body double during her performance at the 2026 World Cup opener. This rumor has sparked debate and curiosity among fans and media alike.",
-            "key_points": [
-                "Speculation about Shakira using a body double at World Cup opener.",
-                "The rumor sparked debate and curiosity.",
-                "Her performance at the 2026 World Cup is in focus."
-            ]
-        },
-        {
-            "headline": "New, Young Hercule Poirot Revealed",
-            "summary": "The character of Hercule Poirot is being reinvented with a notably young actor taking on the iconic role. This fresh portrayal promises a new perspective on the famed detective, intriguing fans and critics alike.",
-            "key_points": [
-                "Hercule Poirot is being played by a very young actor.",
-                "The new portrayal offers a fresh perspective on the character.",
-                "Aims to intrigue fans and critics."
-            ]
-        },
-        {
-            "headline": "Ariana Grande Publicly Slams White House Over Music Use",
-            "summary": "Pop superstar Ariana Grande has publicly criticized the White House, explicitly demanding that her music not be used by the administration. Her strong statement highlights issues of artistic rights and political association.",
-            "key_points": [
-                "Ariana Grande publicly criticized the White House.",
-                "She demanded her music not be used by the administration.",
-                "The statement raises issues of artistic rights and political association."
-            ]
-        },
-        {
-            "headline": "Influential UK Artist David Hockney Dies at 88",
-            "summary": "David Hockney, widely regarded as one of the United Kingdom's most influential artists, has passed away at the age of 88. His death marks the loss of a celebrated figure whose work significantly shaped modern art.",
-            "key_points": [
-                "David Hockney, influential UK artist, died at 88.",
-                "He was a celebrated figure in modern art.",
-                "His passing marks a significant loss to the art world."
-            ]
-        },
-        {
-            "headline": "David Beckham Honored with Star on Hollywood Walk of Fame",
-            "summary": "Football icon David Beckham has been honored with a star on the Hollywood Walk of Fame, recognizing his global influence and celebrity status. The ceremony marked a significant moment in his post-football career.",
-            "key_points": [
-                "David Beckham received a star on Hollywood Walk of Fame.",
-                "Honor recognizes his global influence.",
-                "Significant moment in his post-football career."
+                "Marie Antoinette continues to receive letters from people, even modern ones.",
+                "This highlights an enduring fascination with historical figures.",
+                "It demonstrates the symbolic power of the past.",
+                "The phenomenon creates a unique connection between contemporary individuals and history."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Gurnoor Brar Repays Shubman Gill's Faith, Proves Versatility",
-            "summary": "Gurnoor Brar has demonstrated his capabilities, fulfilling the faith placed in him by Shubman Gill over the past three years. He has shown that he is not limited to a single skill, highlighting his versatile performance.",
+            "headline": "Ashwin Doubts India's T20 World Cup Prospects Despite Dominant Win Over Pakistan",
+            "summary": "Ravichandran Ashwin expressed doubts about India's T20 World Cup 2026 prospects despite a dominant 64-run victory over Pakistan, citing a perceived lack of power-hitting depth compared to rivals like Australia and England. Key performances in the match included Smriti Mandhana's crucial 68, Richa Ghosh's explosive 34*, and Deepti Sharma's historic 5/10 haul. Ashwin's candid assessment suggests concerns about the team's ability to compete with top-tier teams in the tournament's later stages.",
             "key_points": [
-                "Gurnoor Brar's performance justifies Shubman Gill's long-term confidence.",
-                "Brar has shown versatility, moving beyond being a 'one-trick pony.'",
-                "This achievement was three years in the making."
+                "Ravichandran Ashwin expressed doubts about India's T20 World Cup 2026 chances.",
+                "He cited a lack of power-hitting depth compared to rivals like Australia and England.",
+                "India secured a dominant 64-run victory over Pakistan.",
+                "Key performers included Smriti Mandhana (68), Richa Ghosh (34*), and Deepti Sharma (5/10)."
             ]
         },
         {
-            "headline": "Nitish Reddy Pauses Presser for Mother's Call After India's Win",
-            "summary": "Following India's seven-wicket victory over Afghanistan, cricketer Nitish Kumar Reddy charmingly paused his post-match press conference to answer a call from his mother, a moment that resonated widely. Debutants shone with the ball and Shubman Gill anchored the chase with an unbeaten 84.",
+            "headline": "IND A vs SL A Live: Vaibhav Sooryavanshi Falls Early as India A Faces Sri Lanka A in Crucial Tri-Series Clash",
+            "summary": "In a crucial tri-series clash, India A lost an early wicket as Vaibhav Sooryavanshi fell for 21 against Sri Lanka A, who won the toss and elected to field first in Dambulla. India A aims to return to winning ways after a mixed start to the tournament, with all three teams currently level after two rounds. Despite this setback, India A's batting lineup has shown strong form in previous matches, featuring key contributions from Prabhsimran Singh and Tilak Varma.",
             "key_points": [
-                "Nitish Reddy paused his press conference to take a call from his mother.",
-                "This occurred after India's seven-wicket victory against Afghanistan.",
-                "The gesture was widely appreciated."
+                "Vaibhav Sooryavanshi was dismissed for 21, as India A lost an early wicket against Sri Lanka A.",
+                "Sri Lanka A won the toss and chose to field first in the tri-series match.",
+                "India A aims to return to winning ways in this crucial clash, with all teams currently level.",
+                "Despite the early wicket, India A's batting has shown strong form in previous games."
             ]
         },
         {
-            "headline": "India Kicks Off Women's T20 World Cup Campaign Against Pakistan",
-            "summary": "India's Women's T20 World Cup journey commences with a high-stakes match against Pakistan in Birmingham. Despite a strong record and better preparation, Captain Harmanpreet Kaur's squad emphasizes focus, knowing they cannot underestimate their rivals.",
+            "headline": "Germany Dominates Curaçao with a 7-1 Victory in Historic FIFA World Cup Match",
+            "summary": "Germany secured a dominant 7-1 victory against Curaçao in a FIFA World Cup match, showcasing their formidable offensive power. The game also marked a historic moment for Curaçao, as they scored their first-ever goal in the tournament despite the significant loss. This outcome highlights Germany's strength and the competitive, yet sometimes lopsided, nature of World Cup encounters.",
             "key_points": [
-                "India starts Women's T20 World Cup against Pakistan.",
-                "Match is in Birmingham.",
-                "Indian team, led by Harmanpreet Kaur, emphasizes focus despite historical advantage."
-            ]
-        },
-        {
-            "headline": "Experts Predict Shreyas Iyer Could Lead India to World Cup Victory",
-            "summary": "Sports experts are making a bold prediction that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This statement highlights confidence in his strategic capabilities and potential impact on the team.",
-            "key_points": [
-                "Shreyas Iyer is predicted to captain India to a World Cup win.",
-                "Experts are making this 'stunning prediction.'",
-                "This reflects confidence in his leadership."
-            ]
-        },
-        {
-            "headline": "Cricketers, Including Yuvraj Singh, Who Bravely Battled Cancer",
-            "summary": "This article highlights the courageous journeys of several cricketers, from Michael Clarke to Yuvraj Singh, who have publicly battled cancer. Their stories serve as powerful testaments to resilience both on and off the field.",
-            "key_points": [
-                "The article features cricketers who fought cancer.",
-                "Examples include Michael Clarke and Yuvraj Singh.",
-                "Their stories highlight courage and resilience."
-            ]
-        },
-        {
-            "headline": "Sachin Tendulkar Reveals Surprising Favorite Among 201 Wicket-Takers",
-            "summary": "Legendary cricketer Sachin Tendulkar has shared his unexpected choice for a favorite among players who have taken 201 wickets. His selection is anticipated to surprise many cricket enthusiasts.",
-            "key_points": [
-                "Sachin Tendulkar has a surprising favorite among bowlers.",
-                "The bowler has taken 201 wickets.",
-                "His pick is expected to be unexpected by fans."
-            ]
-        },
-        {
-            "headline": "Indian-Origin Jatinder Singh to Lead Oman in Asia Cup 2025",
-            "summary": "Indian-origin cricketer Jatinder Singh has been selected to captain the Oman team in the upcoming Asia Cup 2025. This appointment marks a significant leadership role for him on the international stage.",
-            "key_points": [
-                "Jatinder Singh will captain Oman in Asia Cup 2025.",
-                "He is of Indian origin.",
-                "This is a significant international leadership role."
-            ]
-        },
-        {
-            "headline": "Neeraj Chopra's Diamond League Final: Preview, Timings, and India Telecast Details",
-            "summary": "This article provides a comprehensive preview of Neeraj Chopra's participation in the Diamond League Final, including event timings and live telecast information for audiences in India. Expectations are high for the Indian javelin star's performance.",
-            "key_points": [
-                "Preview of Neeraj Chopra's Diamond League Final event.",
-                "Includes event timings.",
-                "Details on live telecast in India."
-            ]
-        },
-        {
-            "headline": "PM Modi Highlights Chess Popularity Among Indian Youth at FIDE World Cup in India",
-            "summary": "At the FIDE World Cup hosted in India, Prime Minister Modi remarked on the increasing popularity of chess among the nation's youth. His statement underscores the growing engagement of young Indians with the strategic sport.",
-            "key_points": [
-                "PM Modi spoke at the FIDE World Cup in India.",
-                "He noted the growing popularity of chess among Indian youth.",
-                "His remarks highlight youth engagement in strategic sports."
-            ]
-        },
-        {
-            "headline": "Ramandeep Singh's 'Gully to Glory' Journey to Team India via KKR",
-            "summary": "This article chronicles the inspiring 'gully to glory' journey of cricketer Ramandeep Singh, tracing his path from Chandigarh to playing for Team India, notably via his stint with the Kolkata Knight Riders (KKR). His story exemplifies perseverance and talent recognition.",
-            "key_points": [
-                "Ramandeep Singh's journey from local cricket to Team India is highlighted.",
-                "His path included playing for KKR.",
-                "The story showcases his perseverance and talent."
-            ]
-        },
-        {
-            "headline": "Jos Buttler Credits Jayawardene for T20 Opening Role",
-            "summary": "In an exclusive interview, Jos Buttler expressed his gratitude towards Mahela Jayawardene for the opportunity to open in T20 cricket. He credits Jayawardene with believing in his potential for the crucial batting position.",
-            "key_points": [
-                "Jos Buttler credits Mahela Jayawardene.",
-                "Jayawardene gave him the opportunity to open in T20.",
-                "Buttler shared this in an exclusive interview."
-            ]
-        },
-        {
-            "headline": "Virender Sehwag Faces Backlash for Promoting India vs Pakistan Match",
-            "summary": "Cricketer Virender Sehwag has come under criticism for promoting an India vs Pakistan match, with many reminding him of the 'Pahalgam' incident. The backlash highlights sensitive public sentiment surrounding historical events and sports rivalries.",
-            "key_points": [
-                "Virender Sehwag faced criticism for promoting India vs Pakistan match.",
-                "The backlash invoked the 'Pahalgam' reference.",
-                "Public sentiment remains sensitive regarding such events."
-            ]
-        },
-        {
-            "headline": "Aaryavir Sehwag, Son of Virender Sehwag, Shows Promising Cricket Talent",
-            "summary": "Aaryavir Sehwag, son of legendary cricketer Virender Sehwag, is making headlines for his impressive cricketing skills, notably smashing boundaries with ease. His emergence signals the potential continuation of a cricketing legacy.",
-            "key_points": [
-                "Aaryavir Sehwag, Virender Sehwag's son, is showcasing cricket talent.",
-                "He is noted for hitting boundaries effortlessly.",
-                "This marks a promising start to his cricketing journey."
-            ]
-        },
-        {
-            "headline": "Sachin Tendulkar Explains Dhoni's Promotion Over Yuvraj",
-            "summary": "Sachin Tendulkar has finally broken his silence, revealing two key reasons behind MS Dhoni's promotion over Yuvraj Singh in a pivotal match. His explanation sheds light on a long-debated strategic decision in Indian cricket history.",
-            "key_points": [
-                "Sachin Tendulkar explained Dhoni's promotion over Yuvraj.",
-                "He provided 'two reasons' for the decision.",
-                "This clarifies a long-standing debate in cricket."
-            ]
-        },
-        {
-            "headline": "Hanuma Vihari Joins Tripura Cricket Team After Leaving Andhra Pradesh",
-            "summary": "Cricketer Hanuma Vihari has made a significant move, joining the Tripura cricket team after his departure from Andhra Pradesh. This transfer marks a new chapter in his domestic cricket career.",
-            "key_points": [
-                "Hanuma Vihari moved from Andhra Pradesh.",
-                "He has joined the Tripura cricket team.",
-                "This is a significant change in his domestic career."
-            ]
-        },
-        {
-            "headline": "Rohit Sharma Opens Up About Needing to 'Go Back Again'",
-            "summary": "Rohit Sharma has candidly shared his thoughts, expressing a feeling of needing to 'go back again' in his cricketing journey. His statement hints at a period of reflection or a need to revisit fundamental aspects of his game or preparation.",
-            "key_points": [
-                "Rohit Sharma stated he needs to 'go back again.'",
-                "His comments suggest a period of introspection or revisiting basics.",
-                "The context implies a focus on his cricketing journey."
-            ]
-        },
-        {
-            "headline": "Sarfaraz Hits Back-to-Back Centuries, Sending Strong Message to Selectors",
-            "summary": "Sarfaraz Khan has delivered exceptional performances, scoring back-to-back centuries, which is seen as a powerful statement to national selectors. His consistent form is making a compelling case for his inclusion in higher-level cricket.",
-            "key_points": [
-                "Sarfaraz Khan scored back-to-back centuries.",
-                "His performance sends a strong message to selectors.",
-                "He is making a strong case for national selection."
-            ]
-        },
-        {
-            "headline": "Samson's Century Overshadowed by Muhammad's Performance in KCL Thriller",
-            "summary": "In a thrilling Kerala Cricket League (KCL) match, Sanju Samson smashed a century, but it was Muhammad who ultimately stole the show with his impactful performance. The game provided high drama and memorable individual achievements.",
-            "key_points": [
-                "Sanju Samson scored a century in a KCL match.",
-                "Muhammad's performance was the highlight.",
-                "The match was described as a thriller."
-            ]
-        },
-        {
-            "headline": "NFL Trade Rumors: Broncos and Cowboys Eyeing New Orleans Saints RB",
-            "summary": "Trade rumors suggest that the Denver Broncos and Dallas Cowboys are leading contenders to acquire a $24.5 million running back from the New Orleans Saints. This potential move is generating significant buzz in the NFL.",
-            "key_points": [
-                "Denver Broncos and Dallas Cowboys are top contenders for a New Orleans Saints RB.",
-                "The running back is valued at $24.5 million.",
-                "Trade rumors are circulating in the NFL."
-            ]
-        },
-        {
-            "headline": "Former All-Pro Linebacker Aldon Smith Dies at 36",
-            "summary": "Aldon Smith, a former San Francisco 49ers outside linebacker and a dominant pass rusher, has died suddenly at the age of 36. The cause of death has not been publicly disclosed, with his career marked by immense talent but also repeated off-field issues and NFL suspensions.",
-            "key_points": [
-                "Former NFL player Aldon Smith died at 36.",
-                "Cause of death not yet public.",
-                "His career was successful but also plagued by off-field problems and suspensions."
-            ]
-        },
-        {
-            "headline": "Bosnia Unites Behind Viral 'Take Me to America' Anthem at World Cup",
-            "summary": "Bosnia and Herzegovina's national team and fans have rallied behind a viral anthem, 'Take Me to America,' at the World Cup. The song has become a powerful symbol of unity and national spirit for the country during the tournament.",
-            "key_points": [
-                "Bosnia is united by a viral anthem at the World Cup.",
-                "The song is 'Take Me to America.'",
-                "It symbolizes unity and national spirit."
-            ]
-        },
-        {
-            "headline": "USA Kicks Off World Cup Campaign with Impressive Start",
-            "summary": "The United States has made a strong and impressive start to its World Cup campaign, signaling a promising performance in the tournament. This initial success sets a positive tone for their upcoming matches.",
-            "key_points": [
-                "USA had an impressive start to its World Cup campaign.",
-                "This indicates a promising tournament performance.",
-                "The initial success sets a positive tone."
-            ]
-        },
-        {
-            "headline": "Under-16 Curfew Enforced in France for Brazil vs Morocco Match",
-            "summary": "An under-16 curfew is being enforced in specific areas of France during the Brazil vs Morocco World Cup match. This measure aims to manage public order and safety during high-profile sporting events.",
-            "key_points": [
-                "An under-16 curfew is enforced in France for Brazil vs Morocco match.",
-                "The measure is for specific areas.",
-                "It aims to manage public order during the World Cup."
-            ]
-        },
-        {
-            "headline": "The Pelé Index Warns Against Football Club Ownership",
-            "summary": "For those aspiring to own a football club, the 'Pelé Index' serves as a cautionary tale, offering a warning about the complexities and potential pitfalls. This analytical tool or historical reference suggests that such ventures require careful consideration.",
-            "key_points": [
-                "The 'Pelé Index' warns against football club ownership.",
-                "It highlights complexities and pitfalls.",
-                "Suggests careful consideration for such ventures."
-            ]
-        },
-        {
-            "headline": "Analysts with Perfect Track Record Predict New World Cup 2026 Winner",
-            "summary": "Analysts who have accurately predicted two previous World Cup winners are now forecasting a new champion for the 2026 tournament. Their latest prediction is generating significant interest among sports enthusiasts and betting markets.",
-            "key_points": [
-                "Analysts with a perfect World Cup prediction record.",
-                "They predicted a new winner for World Cup 2026.",
-                "Their forecast is garnering significant interest."
-            ]
-        },
-        {
-            "headline": "F1 Champion Lewis Hamilton Faces Heated Backlash",
-            "summary": "Formula 1 champion Lewis Hamilton is currently experiencing significant public backlash for undisclosed reasons. The situation has drawn considerable attention and debate among fans and media.",
-            "key_points": [
-                "Lewis Hamilton is facing heated public backlash.",
-                "The reasons for the backlash are not specified.",
-                "The situation has drawn considerable attention."
+                "Germany achieved a dominant 7-1 victory over Curaçao in the FIFA World Cup.",
+                "Curaçao scored its first-ever goal in the history of the tournament.",
+                "The match highlighted Germany's strong offensive capabilities.",
+                "It was a historic moment for Curaçao despite the large score difference."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Scientists Discover Vast Subterranean Fungal Network Spanning 110 Quadrillion Kilometers",
-            "summary": "In a discovery likened to 'Project Hail Mary,' scientists have uncovered an enormous, hidden fungal network beneath the Earth's surface. This colossal network is estimated to stretch an astonishing 110 quadrillion kilometers, representing a significant finding in subterranean biology.",
+            "headline": "Rare Goblin Shark Filmed Alive in the Wild for the First Time, Revealing Ancient Secrets",
+            "summary": "A rare goblin shark has been filmed alive in its natural deep-sea habitat for the first time, offering unprecedented insights into this ancient species. This groundbreaking footage reveals secrets about the 125-million-year-old living fossil, providing valuable data for marine biologists. The discovery offers a unique opportunity to study a creature long shrouded in mystery, potentially reshaping our understanding of deep-sea ecosystems.",
             "key_points": [
-                "A massive fungal network was discovered beneath Earth.",
-                "It is estimated to span 110 quadrillion kilometers.",
-                "The discovery is compared to 'Project Hail Mary.'"
+                "A rare goblin shark was filmed alive in its natural habitat for the first time.",
+                "The footage provides unprecedented insights into this 125-million-year-old living fossil.",
+                "The discovery offers valuable data for marine biologists.",
+                "It provides a unique opportunity to study a creature previously shrouded in mystery."
             ]
         },
         {
-            "headline": "400-Year-Old Finnish Burial Reveals Conflicting Biological Data",
-            "summary": "A 400-year-old burial site in Finland has yielded the remains of a man whose bones, DNA, and teeth present contradictory narratives about his life. This intriguing discovery challenges conventional interpretations of ancient human remains.",
+            "headline": "Meet Dr. Kumarasamy Thangaraj: The Padma Shri Scientist Whose DNA Discovery Could Rewrite Human Migration",
+            "summary": "Dr. Kumarasamy Thangaraj, a recipient of the Padma Shri, has made a groundbreaking DNA discovery that could fundamentally alter our understanding of human migration out of Africa 65,000 years ago. His research provides critical new evidence, potentially rewriting established theories of human origins and dispersal across the globe. This significant scientific contribution has profound implications for anthropology and genetics.",
             "key_points": [
-                "A 400-year-old burial in Finland was discovered.",
-                "The man's bones, DNA, and teeth provide conflicting information.",
-                "The discovery poses questions about interpreting ancient remains."
+                "Dr. Kumarasamy Thangaraj made a groundbreaking DNA discovery.",
+                "His research could rewrite theories about human migration out of Africa 65,000 years ago.",
+                "The Padma Shri scientist's work provides critical new evidence for human origins.",
+                "This contribution has significant implications for anthropology and genetics."
             ]
         },
         {
-            "headline": "Mysterious Post-WWI 'Sleeping Sickness' Locked Patients in Endless Slumber",
-            "summary": "A mysterious disease that emerged after World War I caused patients to sleep for days, fundamentally altering them upon waking. This enigmatic illness locked individuals in endless sleep states, leaving a profound impact on their lives and baffling medical professionals.",
+            "headline": "Why Blood Donations Remain Irreplaceable Despite Advances in Science",
+            "summary": "Despite significant advancements in medical science, blood donations continue to be an irreplaceable and vital resource. The complex composition of blood and its various components means that artificial substitutes cannot fully replicate its functions or life-saving capabilities. This highlights the critical and ongoing need for voluntary blood donations to support healthcare and save lives worldwide.",
             "key_points": [
-                "A mysterious disease affected patients after WWI.",
-                "It caused prolonged sleep and permanent changes upon waking.",
-                "The illness locked individuals in endless sleep states."
+                "Blood donations remain irreplaceable despite major scientific advancements.",
+                "Artificial substitutes cannot fully replicate the complex functions of real blood.",
+                "There is a critical and ongoing need for voluntary blood donations.",
+                "Blood donations are essential for supporting healthcare and saving lives globally."
             ]
         },
         {
-            "headline": "San Andreas Fault Reaches Highest Stress Level in 1,000 Years",
-            "summary": "Scientists report that the San Andreas fault is currently experiencing its highest stress levels in a millennium. This alarming development raises concerns about potential seismic activity in the region.",
+            "headline": "How to Identify a Death Adder Snake: Physical Traits, Behavior, and Scientific Insights",
+            "summary": "The article provides a comprehensive guide on identifying a death adder snake in the wild, detailing its distinctive physical traits, behavioral signs, and scientific insights into this dangerous Australian ambush predator. Understanding these characteristics is crucial for safety in regions where the snake is prevalent. This information helps in recognizing and avoiding one of Australia's most venomous species.",
             "key_points": [
-                "San Andreas fault is at its highest stress level in 1,000 years.",
-                "This raises concerns about potential seismic activity.",
-                "The finding comes from scientific reports."
-            ]
-        },
-        {
-            "headline": "Scientists Concerned by Record Winter Heat in Antarctica",
-            "summary": "Scientists are expressing significant concern over the record-breaking winter heat observed in Antarctica. This unusual phenomenon raises alarms about climate change and its accelerated impact on polar regions.",
-            "key_points": [
-                "Antarctica is experiencing record winter heat.",
-                "Scientists are expressing significant concern.",
-                "Raises alarms about climate change and polar impacts."
-            ]
-        },
-        {
-            "headline": "El Niño Begins, Potentially Strongest Since 1950 and Worst on Record",
-            "summary": "The El Niño weather phenomenon has commenced, with predictions suggesting it could be one of the strongest since 1950 and potentially the worst on record. This global climate pattern is expected to have significant and widespread impacts on weather systems worldwide.",
-            "key_points": [
-                "El Niño has begun.",
-                "It could be one of the strongest since 1950.",
-                "Predictions suggest it could be the worst on record, with widespread impacts."
-            ]
-        },
-        {
-            "headline": "Study: Poverty's Impact on Children's Brains Outweighs Parenting or IQ",
-            "summary": "A new study indicates that poverty has a more significant impact on the development of children's brains than either parenting styles or innate IQ. This research highlights the profound and lasting effects of socioeconomic factors on cognitive development.",
-            "key_points": [
-                "Poverty significantly impacts children's brain development.",
-                "Its influence is greater than parenting or IQ.",
-                "Highlights profound effects of socioeconomic factors on cognition."
-            ]
-        },
-        {
-            "headline": "Scientists Identify Key Ages of Accelerated Human Aging",
-            "summary": "Researchers have pinpointed specific periods in life when the human body undergoes accelerated aging, which are reportedly earlier than commonly believed. This discovery sheds new light on the aging process and its various stages.",
-            "key_points": [
-                "Scientists identified specific ages when the body ages faster.",
-                "These periods occur earlier than generally thought.",
-                "The discovery offers new insights into the aging process."
+                "Provides a comprehensive guide on identifying death adder snakes in the wild.",
+                "Details physical traits, behavioral signs, and scientific insights.",
+                "Death adders are dangerous Australian ambush predators.",
+                "Understanding these characteristics is crucial for safety in their prevalent regions."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Sejal Pawar row: Medical students’ body criticises cadaver remarks, calls Pranit More a ‘curse on society’",
-            "summary": "A medical students' body has strongly condemned remarks made by Pranit More regarding cadavers, labeling him a 'curse on society.' This comes amidst a larger controversy involving Sejal Pawar.",
+            "headline": "Benadryl Abuse Among Teens Spikes Amidst Social Media Challenge; Poison Center Calls Double",
+            "summary": "Benadryl abuse among teenagers has seen a sharp increase, driven by a dangerous social media challenge, leading to more than double the number of calls to Poison Centers in 2026. This alarming trend highlights the severe risks associated with online challenges and drug misuse among youth. Health authorities are issuing urgent warnings to parents and teens about the potential for overdose and adverse health effects.",
             "key_points": [
-                "Medical students' body criticizes Pranit More's cadaver remarks.",
-                "They called More a 'curse on society.'",
-                "The controversy is linked to the ongoing Sejal Pawar row."
+                "Teen Benadryl abuse is spiking due to a dangerous social media challenge.",
+                "Poison Center calls related to Benadryl abuse more than doubled in 2026.",
+                "This trend highlights severe risks of online challenges and drug misuse among youth.",
+                "Health authorities are issuing urgent warnings about overdose and adverse health effects."
             ]
         },
         {
-            "headline": "Gen Z Quietly Exits Dating Apps, Still Seeks Connections",
-            "summary": "Gen Z is reportedly moving away from traditional dating applications, seeking alternative methods for finding romantic partners. Despite abandoning apps, this generation remains committed to forming genuine connections.",
+            "headline": "The Most Important Health Test You've Never Heard Of, Set to Change Healthcare",
+            "summary": "The article highlights a crucial health test that remains largely unknown to the public but is poised to become increasingly prominent due to its significance. It aims to educate individuals on proactive health management and its potential to prevent serious medical conditions. Understanding this test could lead to earlier diagnoses and significantly improved health outcomes for many.",
             "key_points": [
-                "Gen Z is abandoning dating apps.",
-                "They are still actively seeking relationships.",
-                "This suggests a shift in how younger generations approach romance."
+                "Discusses a crucial but little-known health test that is gaining prominence.",
+                "Aims to educate the public on proactive health management.",
+                "The test has the potential to prevent serious medical conditions.",
+                "It could lead to earlier diagnoses and significantly improved health outcomes."
             ]
         },
         {
-            "headline": "Doctors Highlight Non-Pain Symptoms of Cancer Often Ignored",
-            "summary": "Medical professionals are raising awareness that not all cancers initially present with pain, urging people to pay attention to other subtle, everyday symptoms. Many individuals tend to overlook these critical indicators, leading to delayed diagnoses.",
+            "headline": "'Working-Mother Guilt': Exploring a Pervasive Feeling No One Warns About",
+            "summary": "The article delves into the pervasive guilt experienced by working mothers, a feeling often intensified by societal expectations and career demands. Through interviews with three mothers, it illustrates their emotional struggles across various life challenges, from demanding jobs to family crises. Ultimately, the piece advocates that no mother should feel guilty about their choices, whether pursuing a career or staying at home.",
             "key_points": [
-                "Cancer can manifest without initial pain.",
-                "Everyday, non-pain symptoms are often ignored.",
-                "Ignoring these signs can lead to delayed diagnosis."
+                "Explores the pervasive 'working-mother guilt' intensified by societal expectations and career demands.",
+                "Interviews with three mothers illustrate their emotional struggles.",
+                "Highlights challenges ranging from demanding jobs to family crises.",
+                "Advocates that no mother should feel guilty about their life choices."
             ]
         },
         {
-            "headline": "Rising Incidence of Brain Fog Affects Focus, Memory, and Clarity",
-            "summary": "Brain fog is becoming increasingly prevalent, causing a growing number of individuals to struggle with concentration, memory retention, and clear thinking. This phenomenon indicates a significant concern regarding cognitive health across populations.",
+            "headline": "Kidney Stones, Infections: Nephrologist Explains Dehydration's Impact on Kidneys",
+            "summary": "A nephrologist explains the severe consequences of dehydration on kidney health, including its role in the formation of kidney stones and increased susceptibility to infections. The article emphasizes the critical importance of adequate hydration in maintaining optimal renal function and preventing serious health issues. Understanding these risks is vital for promoting long-term kidney care and overall well-being.",
             "key_points": [
-                "Brain fog is increasingly common.",
-                "It impairs focus, memory, and clear thinking.",
-                "This trend raises concerns about cognitive health."
+                "A nephrologist explains the severe effects of dehydration on kidney health.",
+                "Dehydration contributes to kidney stone formation and increased infection risk.",
+                "Adequate hydration is crucial for maintaining optimal renal function.",
+                "Understanding these risks is vital for long-term kidney care."
             ]
         },
         {
-            "headline": "'Football Fever' During World Cup May Pose Heart Risks",
-            "summary": "Experts suggest that excessive 'football fever' or intense emotional engagement during the World Cup could potentially be detrimental to heart health. The heightened stress and excitement associated with major sporting events may pose risks for some individuals.",
+            "headline": "Can Microplastics Affect Your Ability to Conceive? Fertility Specialist Weighs In",
+            "summary": "A fertility specialist discusses the potential impact of microplastics on human conception, addressing growing concerns about environmental pollutants in reproductive health. The article provides insights into what is currently known about microplastics and their possible effects on fertility. It aims to inform individuals trying to conceive about potential environmental factors that might influence their chances.",
             "key_points": [
-                "Intense 'football fever' during World Cup may harm heart health.",
-                "Heightened stress and excitement pose risks.",
-                "Fans are advised to manage their emotional response."
+                "A fertility specialist discusses microplastics' potential impact on human conception.",
+                "Addresses growing concerns about environmental pollutants in reproductive health.",
+                "Provides insights into current knowledge about microplastics and fertility.",
+                "Aims to inform individuals about environmental factors influencing conception."
             ]
         },
         {
-            "headline": "Prediction: Alcohol Consumption to Decline for Five Years",
-            "summary": "A forecast suggests that global alcohol consumption is expected to decrease over the next five years. This trend could reflect changing health awareness, social habits, or economic factors influencing beverage choices.",
+            "headline": "Are High-Protein Diets and Supplements Putting Your Liver at Risk?",
+            "summary": "The article investigates whether the popular trend of high-protein diets and supplements could pose a risk to liver health. It explores the potential strain on the liver from excessive protein intake and offers expert insights into balancing nutritional goals with organ protection. This piece aims to inform individuals about the potential health consequences of the protein craze.",
             "key_points": [
-                "Alcohol consumption is predicted to decline globally.",
-                "The trend is expected to last for the next five years.",
-                "Could reflect changing health awareness or social habits."
+                "Investigates if high-protein diets and supplements risk liver health.",
+                "Explores potential strain on the liver from excessive protein intake.",
+                "Offers expert insights on balancing nutrition with organ protection.",
+                "Aims to inform about potential health consequences of the protein craze."
             ]
         },
         {
-            "headline": "WHO: Most Heat-Related Deaths in Europe Are Preventable",
-            "summary": "The World Health Organization (WHO) has stated that the majority of heat-related deaths occurring in Europe are largely preventable. This declaration emphasizes the effectiveness of public health interventions and awareness campaigns in mitigating the risks of extreme heat.",
+            "headline": "Heat-Related Deaths in Europe Are Largely Preventable, Says WHO",
+            "summary": "The World Health Organization (WHO) has stated that a significant proportion of heat-related deaths occurring in Europe are largely preventable. This underscores the critical need for effective public health strategies, including early warning systems and protective measures during heatwaves, to mitigate health impacts. The WHO urges governments and individuals to take proactive steps to safeguard vulnerable populations from extreme temperatures.",
             "key_points": [
-                "WHO says most heat-related deaths in Europe are preventable.",
-                "Emphasizes effectiveness of public health interventions.",
-                "Highlights role of awareness campaigns in mitigating heat risks."
+                "WHO states that many heat-related deaths in Europe are preventable.",
+                "Highlights the need for effective public health strategies and early warning systems.",
+                "Urges protective measures during heatwaves to mitigate health impacts.",
+                "Governments and individuals should take proactive steps to protect vulnerable populations."
             ]
         },
         {
-            "headline": "WHO Europe Chief Advises Fans to Enjoy World Cup Despite US Travel Bans",
-            "summary": "The WHO Europe chief encouraged fans to enjoy the World Cup, even amidst US travel bans. The advice aims to balance public health precautions with the benefits of social engagement and the enjoyment of major events.",
+            "headline": "Doctors Want More AI, But Hospitals Struggle to Keep Up with Implementation",
+            "summary": "While doctors are increasingly eager to adopt more AI technologies to enhance healthcare, their hospitals are struggling to keep pace with the necessary infrastructure and integration requirements. This disparity highlights the significant investment and strategic planning needed to fully leverage AI's potential in medical settings. The disconnect slows down innovation and efficient healthcare delivery.",
             "key_points": [
-                "WHO Europe chief encouraged World Cup enjoyment.",
-                "Advice comes despite US travel bans.",
-                "Balances public health with social engagement."
+                "Doctors are keen to adopt more AI technologies in healthcare.",
+                "Hospitals face challenges in infrastructure and integration for AI implementation.",
+                "This disparity highlights the need for significant investment and strategic planning.",
+                "The slow pace of adoption hinders innovation in healthcare delivery."
             ]
         },
         {
-            "headline": "AI Simulations of Human Emotion May Advance Mental Health Research",
-            "summary": "Researchers are exploring whether AI simulations of human emotion could significantly contribute to advancing mental health research. This innovative approach offers new avenues for understanding complex emotional states and developing novel therapeutic strategies.",
+            "headline": "Poverty Shapes Children's Brains More Than Parenting or IQ, Study Says",
+            "summary": "A new study suggests that socioeconomic poverty has a more profound impact on children's brain development than factors like parenting styles or innate IQ. This research underscores the lasting effects of economic disadvantage on cognitive growth and potential from an early age. The findings call for greater societal attention and intervention to alleviate poverty for improved child development outcomes.",
             "key_points": [
-                "AI simulations of human emotion are being explored.",
-                "Could advance mental health research.",
-                "Offers new ways to understand emotions and develop therapies."
+                "Poverty has a more significant impact on children's brain development than parenting or IQ.",
+                "The study highlights the lasting effects of economic disadvantage on cognitive growth.",
+                "Findings suggest early socioeconomic disadvantage impacts potential.",
+                "Calls for greater societal attention to alleviating poverty for child development."
             ]
         }
     ]
