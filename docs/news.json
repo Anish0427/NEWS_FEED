@@ -1,1067 +1,465 @@
 {
     "World": [
         {
-            "headline": "US says Iran, Iran says US: Who really broke ceasefire this time?",
-            "summary": "This article indicates a blame game between the US and Iran regarding a ceasefire violation. Both nations are accusing each other of being responsible for the latest breach.",
+            "headline": "Middle East tensions escalate: Sirens sound in Bahrain again as Iran threatens US naval base",
+            "summary": "Tensions in the Middle East remain high as Iran and the United States exchange warnings following US strikes on Iranian military infrastructure. This escalation comes after a drone attack on a commercial cargo ship in the Strait of Hormuz, prompting fears for global energy security and shipping freedom. A trilateral agreement between the US, Israel, and Lebanon aims for peace, but Hezbollah rejects it.",
             "key_points": [
-                "US and Iran accuse each other of breaking ceasefire.",
-                "Highlights ongoing tensions between the two countries."
+                "US and Iran exchange warnings after US strikes on Iranian targets in retaliation for a drone attack on a commercial ship.",
+                "Iran's IRGC claims retaliatory attacks and threatens a broader military response.",
+                "A US-brokered trilateral agreement between Israel and Lebanon aims for peace, but Hezbollah rejects the deal.",
+                "Global attention remains focused on the fragile ceasefire and regional stability, alongside humanitarian concerns."
             ]
         },
         {
-            "headline": "Polygamous sect leader, Bateman, convicted of child abuse after girls found trapped in Arizona trailer",
-            "summary": "Bateman, a leader of a polygamous sect, has been convicted of child abuse charges. The conviction follows the discovery of girls trapped in a trailer in Arizona.",
+            "headline": "Global warming is pushing Europe’s heatwave — we cannot stick our head in the sand on climate",
+            "summary": "Europe is currently experiencing a severe heatwave, prompting urgent calls for climate action from various leaders. Scientists warn that global warming is directly contributing to these extreme weather events, emphasizing the need to address climate change head-on before impacts become irreversible. Measures like providing frozen treats to zoo animals and cooling public spaces are being implemented across the continent.",
             "key_points": [
-                "Polygamous sect leader Bateman convicted.",
-                "Conviction for child abuse.",
-                "Girls found trapped in Arizona trailer."
+                "Europe is enduring a major heatwave, with temperatures reaching record-breaking levels.",
+                "Climate experts link the extreme heat directly to global warming, urging immediate action.",
+                "Public health advisories and practical measures are being taken to help cope with the heat.",
+                "The situation highlights the increasing urgency to address climate change's global impacts."
             ]
         },
         {
-            "headline": "Death, dust and desperation: Venezuela's twin earthquakes leave nearly 1,000 dead, trail of despair",
-            "summary": "Twin earthquakes have devastated Venezuela, resulting in nearly 1,000 fatalities and widespread despair. The country is grappling with massive destruction and a dire humanitarian crisis.",
+            "headline": "Pakistan: 4 troops, 6 terrorists killed in 90-minute gun battle at Karachi rangers HQ",
+            "summary": "Pakistani security forces successfully thwarted a major militant assault on a Sindh Rangers compound in Karachi, resulting in a fierce 90-minute gun battle. The coordinated attack, claimed by Jamaat-ul-Ahrar, tragically led to the deaths of four Rangers personnel and six terrorists. This incident marks the first significant terrorist strike in the city since October 2024, highlighting ongoing security challenges in the region.",
             "key_points": [
-                "Twin earthquakes in Venezuela caused nearly 1,000 deaths.",
-                "Led to widespread destruction and despair.",
-                "Country faces a severe humanitarian crisis."
+                "Militants attacked a Sindh Rangers compound in Karachi, Pakistan.",
+                "Four Rangers personnel and six terrorists were killed in the 90-minute gun battle.",
+                "The attack, claimed by Jamaat-ul-Ahrar, signifies ongoing security challenges.",
+                "This is the first major terrorist strike in Karachi since October 2024."
             ]
         },
         {
-            "headline": "Netanyahu says Israel to remain in south Lebanon despite US-backed peace framework",
-            "summary": "Israeli Prime Minister Netanyahu stated that Israeli troops will remain in southern Lebanon until Hezbollah is disarmed, despite a new US-backed trilateral peace agreement. This stance underscores Israel's commitment to its security zone, even as Lebanon's army prepares to take control. The US lauded the accord as a step towards peace, though Hezbollah has rejected the negotiations.",
+            "headline": "Venezuela quake victims rage as death toll hits 1,430",
+            "summary": "Venezuela is grappling with a humanitarian crisis as the death toll from recent earthquakes has climbed to 1,430, with thousands more reported missing. Survivors express anger and frustration over the perceived lack of immediate and effective aid, despite international efforts to send rescue personnel and supplies. The European Union has begun sending aid through its Civil Protection Mechanism in response to the catastrophe.",
             "key_points": [
-                "Netanyahu insists Israeli troops stay in south Lebanon.",
-                "Condition for withdrawal is Hezbollah's disarmament.",
-                "Decision made despite US-backed trilateral peace framework, which Hezbollah rejects."
+                "Recent 7.2 and 7.5 magnitude earthquakes in Venezuela killed 1,430 people.",
+                "Over 50,000 people are reported missing, deepening the humanitarian crisis.",
+                "Survivors are expressing rage over the slow and insufficient rescue efforts.",
+                "The European Union is sending aid via its Civil Protection Mechanism."
             ]
         },
         {
-            "headline": "Why some US green card holders should rethink their India trip",
-            "summary": "A recent Supreme Court ruling has granted US border officials broader powers over travelers with criminal cases, prompting some US green card holders to reconsider trips to India. This change means returning from India may no longer be a routine process for those affected.",
+            "headline": "PM Modi hands over Made-in-India patrol vessel, to Seychelles for maritime security",
+            "summary": "Prime Minister Narendra Modi presented a Made-in-India fast patrol vessel to Seychelles, reinforcing bilateral ties and enhancing maritime security cooperation. This initiative underscores India's commitment to supporting its partners in the Indian Ocean region and strengthening regional stability. PM Modi also became the first Indian PM to address Seychelles National Assembly, joining the island nation's 50th independence celebration.",
             "key_points": [
-                "US Supreme Court ruling gives border officials wider powers.",
-                "Impacts US green card holders with criminal cases.",
-                "Travel from India to the US may become complicated."
+                "PM Modi presented a Made-in-India fast patrol vessel to Seychelles.",
+                "The gesture aims to strengthen maritime security and bilateral ties.",
+                "India boosts Seychelles with major development projects.",
+                "PM Modi is the first Indian PM to address Seychelles' National Assembly during their 50th independence celebrations."
             ]
         },
         {
-            "headline": "US conducts strikes on Iran hours after Trump's 'foolish violation' remark over Hormuz attack",
-            "summary": "The US launched strikes on Iran, occurring just hours after former President Trump's strong criticism of Iran's actions regarding the Strait of Hormuz. These strikes escalate already heightened tensions between the two nations following an alleged attack on a commercial ship.",
+            "headline": "Planning a US trip? Getting a tourist visa just became a lot tougher for Indians as wait times stretch to 9.5 months",
+            "summary": "Indian citizens planning to visit the United States face significantly increased challenges in obtaining tourist visas, with wait times now extending up to 9.5 months. This prolonged processing period complicates travel plans and highlights a growing bottleneck in the visa application system for Indian applicants, making last-minute travel nearly impossible. The situation is forcing many to reconsider their travel itineraries to the US.",
             "key_points": [
-                "US conducted strikes on Iran.",
-                "Followed Trump's \"foolish violation\" remark.",
-                "Escalates tensions after alleged Hormuz attack."
+                "US tourist visa wait times for Indian applicants have stretched to 9.5 months.",
+                "The extended processing period complicates travel plans for Indian citizens.",
+                "This bottleneck in the visa system is a significant challenge for Indian travelers.",
+                "Many Indians are now reconsidering their US travel plans due to delays."
             ]
         },
         {
-            "headline": "Iran claims retaliatory strikes on US sites in Gulf, warns of 'broader response'",
-            "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has claimed responsibility for retaliatory attacks on US military positions in the Gulf, following US strikes on Iranian infrastructure. Tehran warns that any new American aggression will trigger a much broader military response, further escalating Middle East tensions despite a ceasefire.",
+            "headline": "'Even Steve Jobs got fired from his own company': Immigration attorneys say H-1Bs should plan ahead for layoff, they are not US citizens",
+            "summary": "Immigration attorneys are advising H-1B visa holders in the US to proactively prepare for potential layoffs, reminding them that their non-citizen status makes them vulnerable. They emphasize the need for contingency plans, drawing parallels to high-profile professional setbacks to underscore the precariousness of their employment situation. This comes amidst reports of an Indian student at Tesla facing multiple F1 visa rejections.",
             "key_points": [
-                "Iran's IRGC claims retaliatory strikes on US Gulf positions.",
-                "Warns of \"broader military response\" to new US strikes.",
-                "Escalates Middle East tensions despite ongoing ceasefire."
+                "H-1B visa holders in the US are advised to plan for potential layoffs.",
+                "Attorneys stress that non-citizen status increases vulnerability during job cuts.",
+                "The advice includes preparing contingency plans for employment stability.",
+                "The counsel highlights the precarious nature of H-1B employment, citing high-profile examples."
             ]
         },
         {
-            "headline": "Huge MISSILE ATTACK Warning In UAE; Dubai, Abu Dhabi 'FORCED' To Take Shelter",
-            "summary": "A massive missile attack warning was issued in the UAE, forcing residents of Dubai and Abu Dhabi to seek shelter. The incident highlights heightened security concerns in the region.",
+            "headline": "In the midst of raging riots in Belfast, this Indian woman did what Indians do best",
+            "summary": "Amidst escalating anti-immigrant riots spreading through Northern Ireland's Belfast, an Indian woman responded by channeling her cultural upbringing of hospitality and community. She transformed fear into kindness by cooking and sharing meals with others, demonstrating how compassion and shared food could travel across a frightened city, fostering connection during conflict.",
             "key_points": [
-                "UAE cities Dubai and Abu Dhabi received a missile attack warning.",
-                "Residents were forced to take shelter.",
-                "Indicates heightened security concerns in the region."
+                "Anti-immigrant riots escalated in Belfast, Northern Ireland.",
+                "An Indian woman responded by cooking and sharing meals with residents.",
+                "Her actions brought kindness and community amidst the fear and conflict.",
+                "The story highlights the power of hospitality in challenging times."
             ]
         },
         {
-            "headline": "Tearful Mullin Unloads On Biden Over Child Trafficking",
-            "summary": "A tearful Mullin heavily criticized President Biden regarding child trafficking, implying severe failures or complicity in addressing the issue. The emotional plea highlights growing concerns and political tension surrounding this humanitarian crisis.",
+            "headline": "MEA cautions Kailash Mansarovar pilgrims against incomplete travel documents after 52 Indians stranded in Nepal",
+            "summary": "India's Ministry of External Affairs (MEA) has issued a cautionary advisory to Kailash Mansarovar pilgrims, urging them to ensure all travel documents are complete and valid. This warning follows an incident where 52 Indian nationals were stranded in Nepal due to incomplete permits, emphasizing the importance of meticulous preparation to avoid disruptions and ensure a smooth pilgrimage.",
             "key_points": [
-                "Mullin criticizes Biden over child trafficking.",
-                "Emotional statement highlights severity of the issue.",
-                "Suggests failures in addressing humanitarian crisis."
+                "MEA advises Kailash Mansarovar pilgrims to ensure complete travel documents.",
+                "52 Indian nationals were recently stranded in Nepal due to incomplete permits.",
+                "Pilgrims must adhere to regulations to avoid travel disruptions.",
+                "The advisory aims to prevent future incidents of stranded travelers."
             ]
         },
         {
-            "headline": "Ex-Trump Adviser John Bolton Pleads Guilty; Faces Prison, Fine And Supervision",
-            "summary": "Former Trump adviser John Bolton has pleaded guilty, now facing potential prison time, a fine, and supervision. This development marks a significant legal outcome for a high-profile figure from the previous administration.",
+            "headline": "Small plane crashes into Beijing's tallest building",
+            "summary": "A small plane has reportedly crashed into Beijing's tallest building, causing significant alarm and triggering emergency response efforts. Details on casualties and the exact circumstances of the incident are still emerging, but authorities have initiated an investigation into the unprecedented event. The crash has drawn global attention to the safety of urban airspaces.",
             "key_points": [
-                "Ex-Trump adviser John Bolton pleaded guilty.",
-                "Faces prison, fine, and supervision.",
-                "Significant legal outcome for a high-profile figure."
+                "A small plane crashed into Beijing's tallest skyscraper.",
+                "Emergency services are on site, with details on casualties still unclear.",
+                "Authorities have launched an investigation into the cause of the accident.",
+                "The incident raises concerns about urban airspace safety."
             ]
         },
         {
-            "headline": "Qatar gas tragedy: Bodies of 12 victims repatriated to India",
-            "summary": "The bodies of 12 victims from the recent gas tragedy in Qatar have been repatriated to India, bringing closure to grieving families. This repatriation highlights the ongoing efforts by Indian authorities to support its citizens working abroad and assist in times of crisis.",
+            "headline": "Russia and Ukraine swap 160 soldiers each in latest prisoner exchange",
+            "summary": "Russia and Ukraine have conducted their latest prisoner exchange, with each side returning 160 soldiers, marking a significant humanitarian development amidst the ongoing conflict. This exchange follows months of negotiations and offers a rare glimpse of cooperation between the warring nations. The swap brings relief to numerous families and potentially paves the way for future humanitarian gestures.",
             "key_points": [
-                "Bodies of 12 Qatar gas tragedy victims repatriated to India.",
-                "Brings closure to grieving families.",
-                "Highlights Indian authorities' support for citizens abroad."
+                "Russia and Ukraine exchanged 160 prisoners of war each.",
+                "The swap is a significant humanitarian development in the ongoing conflict.",
+                "The exchange provides relief to families and suggests potential for future cooperation.",
+                "This marks a rare instance of direct agreement between the warring sides."
             ]
         },
         {
-            "headline": "'First US President to be honoured this way': Donald Trump thanks India after Hyderabad renames road after him",
-            "summary": "Donald Trump expressed gratitude to India after Hyderabad renamed a road in his honor, making him the \"first US President to be honoured this way.\" This gesture highlights the diplomatic ties and personal recognition extended to the former American leader.",
+            "headline": "Ukrainian Drone Strikes WWII Memorial Museum Near Rostov, 12 Injured",
+            "summary": "A Ukrainian drone strike reportedly targeted a WWII Memorial Museum near Rostov, Russia, causing significant damage and injuring 12 individuals. Russian authorities have condemned the attack on a historical site, emphasizing the civilian impact of such actions. The incident further escalates tensions and highlights the broadening scope of the ongoing conflict.",
             "key_points": [
-                "Hyderabad renamed a road after Donald Trump.",
-                "Trump thanked India, noting it's a first for a US President.",
-                "Highlights diplomatic ties and personal recognition."
+                "A Ukrainian drone strike hit a WWII Memorial Museum near Rostov, Russia.",
+                "The attack resulted in 12 injuries and significant damage to the historical site.",
+                "Russian authorities condemned the strike, emphasizing its civilian impact.",
+                "The incident marks an escalation in the ongoing conflict's targeting."
             ]
         },
         {
-            "headline": "Katchatheevu island transfer to Sri Lanka ‘dark chapter’ of Congress: BJP",
-            "summary": "The BJP has criticized the Katchatheevu island transfer to Sri Lanka, labeling it a \"dark chapter\" from the Congress party's history. This political commentary reignites debate over a historical international agreement and its implications.",
+            "headline": "Russian Forces Take Control of Novoskelevatoye in Dnepropetrovsk Region: MoD",
+            "summary": "The Russian Ministry of Defence has announced that its forces have taken full control of the village of Novoskelevatoye in Ukraine's Dnepropetrovsk region. This strategic gain represents another development in the ongoing military operations, as both sides continue to contend for territorial control. The capture indicates a shift in local frontline dynamics.",
             "key_points": [
-                "BJP criticizes Katchatheevu island transfer to Sri Lanka.",
-                "Calls it a \"dark chapter\" of Congress history.",
-                "Reignites debate over historical international agreement."
-            ]
-        },
-        {
-            "headline": "Drone drug trafficking cases up 100-fold in 5 years",
-            "summary": "Cases of drone-enabled drug trafficking have surged dramatically, increasing 100-fold over the past five years. This alarming trend indicates a significant and evolving challenge for law enforcement and national security agencies in combating illicit trade.",
-            "key_points": [
-                "Drone drug trafficking cases increased 100-fold in 5 years.",
-                "Highlights a significant and evolving challenge.",
-                "Concerns for law enforcement and national security."
-            ]
-        },
-        {
-            "headline": "Putin Holds Talks with Belarusian President at Russia's Valdai: Reports",
-            "summary": "Russian President Vladimir Putin held talks with his Belarusian counterpart at Russia's Valdai forum. The discussions likely centered on bilateral relations, regional security, and broader international issues.",
-            "key_points": [
-                "Putin held talks with Belarusian President.",
-                "Meeting took place at Russia's Valdai.",
-                "Discussions likely covered bilateral relations and security."
-            ]
-        },
-        {
-            "headline": "Ukraine Constantly Carries Out Strikes against Zaporozhye NPP and Staff: Rosatom CEO",
-            "summary": "Rosatom's CEO claims Ukraine is continuously striking the Zaporozhye Nuclear Power Plant and its personnel. This accusation raises serious concerns about nuclear safety and the potential for a catastrophic incident in the conflict zone.",
-            "key_points": [
-                "Rosatom CEO alleges Ukrainian strikes on Zaporozhye NPP.",
-                "Claims strikes target plant and staff.",
-                "Raises serious concerns about nuclear safety."
-            ]
-        },
-        {
-            "headline": "Origins of SMO: The History of Ukrainian Conflict",
-            "summary": "This content promises a historical overview of the Ukrainian conflict, delving into the origins of the Special Military Operation (SMO). It aims to provide context for the ongoing geopolitical tensions in the region.",
-            "key_points": [
-                "Provides historical overview of Ukrainian conflict.",
-                "Explores origins of the Special Military Operation.",
-                "Aims to contextualize ongoing geopolitical tensions."
-            ]
-        },
-        {
-            "headline": "Neocolonialism’s Destructive Grip",
-            "summary": "This article likely discusses the pervasive and damaging influence of neocolonialism in contemporary global politics and economics. It probably explores how former colonial powers continue to exert control through indirect means, impacting developing nations.",
-            "key_points": [
-                "Discusses pervasive influence of neocolonialism.",
-                "Examines its destructive impact on global politics/economics.",
-                "Likely explores indirect control by former colonial powers."
-            ]
-        },
-        {
-            "headline": "US–Israeli War Against Iran (February 28, 2026–Present)",
-            "summary": "This headline indicates a prolonged military conflict or significant tensions between the US-Israel alliance and Iran, which has been ongoing since February 2026. It suggests a state of sustained conflict or proxy warfare in the Middle East.",
-            "key_points": [
-                "Indicates ongoing military conflict between US-Israel and Iran.",
-                "Started on February 28, 2026.",
-                "Suggests sustained tensions or proxy warfare in Middle East."
+                "Russian Forces have taken control of Novoskelevatoye village in Dnepropetrovsk region.",
+                "The Russian Ministry of Defence confirmed the capture.",
+                "This represents another tactical gain in the ongoing military conflict.",
+                "The move indicates a shift in local frontline dynamics."
             ]
         },
         {
             "headline": "The New START Treaty: The US-Russia Path to Nuclear Limits",
-            "summary": "This article focuses on the New START Treaty, a key agreement between the US and Russia aimed at limiting strategic offensive arms. It likely discusses its historical significance, current status, and challenges in maintaining nuclear arms control between the two major powers.",
+            "summary": "The New START Treaty continues to represent a crucial path for the United States and Russia in managing and limiting their nuclear arsenals, despite ongoing geopolitical tensions. While its future faces challenges, the treaty remains a foundational agreement for strategic stability and arms control between the two nuclear powers. Discussions on its potential extension or replacement are vital for global security.",
             "key_points": [
-                "Focuses on the New START Treaty.",
-                "Agreement between US and Russia to limit strategic offensive arms.",
-                "Discusses challenges in maintaining nuclear arms control."
-            ]
-        },
-        {
-            "headline": "Kashmir marks Ashura with a powerful show of support for Iran",
-            "summary": "Kashmir observed Ashura with significant demonstrations of support for Iran, showcasing solidarity with the nation during the religious observance. This display highlights strong regional sentiments and geopolitical connections.",
-            "key_points": [
-                "Kashmir observed Ashura.",
-                "Demonstrations showed strong support for Iran.",
-                "Highlights regional sentiments and geopolitical connections."
-            ]
-        },
-        {
-            "headline": "Russia and Ukraine exchange 160 PoWs each in latest swap deal",
-            "summary": "Russia and Ukraine have conducted a prisoner of war exchange, with both sides releasing 160 PoWs each in the latest swap deal. This exchange offers a glimmer of humanitarian progress amidst the ongoing conflict.",
-            "key_points": [
-                "Russia and Ukraine exchanged 160 PoWs each.",
-                "Latest in a series of swap deals.",
-                "Offers humanitarian progress in the conflict."
-            ]
-        },
-        {
-            "headline": "Russian forces smash Ukrainian UAV control points",
-            "summary": "Russian forces have successfully targeted and destroyed Ukrainian Unmanned Aerial Vehicle (UAV) control points. This operation aims to degrade Ukraine's drone capabilities and disrupt its reconnaissance and attack operations.",
-            "key_points": [
-                "Russian forces destroyed Ukrainian UAV control points.",
-                "Aims to degrade Ukraine's drone capabilities.",
-                "Disrupts reconnaissance and attack operations."
-            ]
-        },
-        {
-            "headline": "India dispatches Army medical team to earthquake-hit Venezuela",
-            "summary": "India has dispatched an Army medical team to provide assistance to earthquake-stricken Venezuela. This humanitarian gesture underscores India's commitment to international relief efforts and strengthening bilateral ties.",
-            "key_points": [
-                "India dispatches Army medical team to Venezuela.",
-                "Aid for earthquake-hit region.",
-                "Highlights India's commitment to international relief."
-            ]
-        },
-        {
-            "headline": "Russia's FSB busts Ukraine backed online terror group led by teen in Dagestan",
-            "summary": "Russia's FSB has dismantled an online terror group, allegedly backed by Ukraine and led by a teenager, operating in Dagestan. This bust highlights concerns over cyber-enabled radicalization and cross-border security threats.",
-            "key_points": [
-                "Russia's FSB busted a Ukraine-backed online terror group.",
-                "Group was allegedly led by a teenager in Dagestan.",
-                "Raises concerns about cyber-enabled radicalization and security threats."
-            ]
-        },
-        {
-            "headline": "Kim Jong Un oversees tests of advanced artillery and missile systems in North Korea",
-            "summary": "North Korean leader Kim Jong Un has overseen tests of advanced artillery and missile systems, signaling ongoing military development. These tests contribute to regional tensions and raise concerns about the country's growing armaments.",
-            "key_points": [
-                "Kim Jong Un oversaw tests of advanced artillery and missile systems.",
-                "Signals ongoing military development in North Korea.",
-                "Contributes to regional tensions."
-            ]
-        },
-        {
-            "headline": "Russia's FSB foils terror attack on a courthouse in Mariupol",
-            "summary": "Russia's FSB successfully thwarted a planned terror attack on a courthouse in Mariupol, preventing potential casualties and significant disruption. This operation highlights ongoing security challenges in the region.",
-            "key_points": [
-                "Russia's FSB foiled terror attack in Mariupol.",
-                "Target was a courthouse.",
-                "Highlights ongoing security challenges."
-            ]
-        },
-        {
-            "headline": "BRICS as Global South Voice: What it Means for World Order",
-            "summary": "This article examines the increasing role of BRICS nations as a collective voice for the Global South and its implications for the evolving world order. It likely discusses their influence on international institutions, economic policies, and geopolitical power dynamics.",
-            "key_points": [
-                "Examines BRICS' role as Global South voice.",
-                "Discusses implications for evolving world order.",
-                "Covers influence on international institutions and power dynamics."
-            ]
-        },
-        {
-            "headline": "Militarisation Obsession Could Leave EU Weak and Uncompetitive: Expert",
-            "summary": "An expert warns that the European Union's focus on militarization could paradoxically weaken its economic competitiveness. This perspective suggests that excessive defense spending might divert resources from other critical sectors, impacting overall stability.",
-            "key_points": [
-                "Expert warns EU militarization could lead to weakness.",
-                "Suggests it might impact economic competitiveness.",
-                "Diversion of resources from critical sectors is a concern."
-            ]
-        },
-        {
-            "headline": "US Has Power Over Israel to Stop New War With Iran: Expert",
-            "summary": "An expert argues that the United States possesses sufficient leverage over Israel to prevent a potential new war with Iran. This analysis suggests that US diplomatic and economic influence could be decisive in de-escalating regional tensions.",
-            "key_points": [
-                "Expert argues US has power to stop Israel-Iran war.",
-                "Suggests US leverage over Israel is significant.",
-                "Diplomatic and economic influence could de-escalate tensions."
-            ]
-        },
-        {
-            "headline": "Europe Lost The War And Acts Dangerously",
-            "summary": "This piece asserts that Europe has \"lost the war\" in a broader geopolitical sense and is now acting dangerously, likely referring to its foreign policy or military stances. It offers a critical perspective on Europe's current strategic direction and its potential consequences.",
-            "key_points": [
-                "Asserts Europe has \"lost the war\" geopolitically.",
-                "Claims Europe is now acting dangerously.",
-                "Offers critical perspective on Europe's strategic direction."
-            ]
-        },
-        {
-            "headline": "How Could Russia Help India Alleviate the Middle East Crisis?",
-            "summary": "This analysis discusses potential ways Russia could assist India in mitigating the Middle East crisis. It likely explores diplomatic initiatives, strategic partnerships, and energy-related collaborations to stabilize the region.",
-            "key_points": [
-                "Analyzes how Russia could help India with Middle East crisis.",
-                "Explores diplomatic initiatives and strategic partnerships.",
-                "Considers energy-related collaborations for regional stability."
-            ]
-        },
-        {
-            "headline": "Terrorist Attacks on Nord Stream Pipelines",
-            "summary": "This article covers the reported terrorist attacks on the Nord Stream pipelines, an event with significant geopolitical and energy security implications for Europe. It likely discusses the investigation, potential perpetrators, and the impact on gas supply.",
-            "key_points": [
-                "Covers reported terrorist attacks on Nord Stream pipelines.",
-                "Significant geopolitical and energy security implications.",
-                "Likely discusses investigation and impact on gas supply."
-            ]
-        },
-        {
-            "headline": "West Preparing for Major War in Europe: Russian Deputy Defence Minister",
-            "summary": "Russia's Deputy Defence Minister claims that the West is actively preparing for a major war in Europe. This statement reflects escalating rhetoric and heightened tensions between Russia and NATO countries.",
-            "key_points": [
-                "Russian Deputy Defence Minister claims West preparing for war in Europe.",
-                "Reflects escalating rhetoric.",
-                "Highlights heightened tensions between Russia and NATO."
-            ]
-        },
-        {
-            "headline": "Air Defences Shot Down 660 Ukrainian Drones Overnight: MoD",
-            "summary": "Russia's Ministry of Defense reports that its air defenses shot down 660 Ukrainian drones overnight. This mass interception indicates intensified aerial activity and ongoing efforts to counter drone attacks in the conflict zone.",
-            "key_points": [
-                "Russian MoD reports shooting down 660 Ukrainian drones overnight.",
-                "Indicates intensified aerial activity.",
-                "Highlights ongoing efforts to counter drone attacks."
-            ]
-        },
-        {
-            "headline": "Russia Issues Message to US on Ukraine Military Aid: Foreign Ministry",
-            "summary": "Russia's Foreign Ministry has issued a message to the United States regarding military aid to Ukraine. This communication likely conveys Moscow's strong disapproval and warnings against continued Western support for Kyiv.",
-            "key_points": [
-                "Russia's Foreign Ministry issued message to US.",
-                "Message concerns Ukraine military aid.",
-                "Likely conveys disapproval of Western support for Kyiv."
-            ]
-        },
-        {
-            "headline": "Over 80% Ukraine’s Terrorist War Effort Foreign-Backed: Russian official",
-            "summary": "A Russian official claims that over 80% of Ukraine's \"terrorist war effort\" is foreign-backed, implying significant international involvement. This assertion aims to frame the conflict as externally driven and justifies Russia's actions.",
-            "key_points": [
-                "Russian official claims over 80% of Ukraine's \"terrorist war effort\" is foreign-backed.",
-                "Implies significant international involvement.",
-                "Aims to justify Russia's actions in the conflict."
-            ]
-        },
-        {
-            "headline": "Civilian Casualties from Ukrainian Attacks Highest Since 2026: Russian Mission to UN",
-            "summary": "The Russian Mission to the UN reports that civilian casualties from Ukrainian attacks are the highest they have been since 2026. This claim highlights the devastating human cost of the ongoing conflict and aims to draw international attention to the situation.",
-            "key_points": [
-                "Russian Mission to UN reports highest civilian casualties from Ukrainian attacks since 2026.",
-                "Highlights devastating human cost of conflict.",
-                "Aims to draw international attention."
-            ]
-        },
-        {
-            "headline": "Russia Will Not Support Temporary Solutions in Settlement of Ukrainian Crisis: FM Lavrov",
-            "summary": "Russian Foreign Minister Lavrov stated that Russia will not support temporary solutions in the settlement of the Ukrainian crisis, advocating for a comprehensive and lasting resolution. This indicates Moscow's stance on negotiations and the desired outcome of the conflict.",
-            "key_points": [
-                "FM Lavrov states Russia won't support temporary solutions for Ukraine crisis.",
-                "Advocates for a comprehensive and lasting resolution.",
-                "Indicates Moscow's stance on conflict negotiations."
-            ]
-        },
-        {
-            "headline": "UK Fails to Condemn Ukrainian Strikes on Zaporozhye NPP: Russian Foreign Ministry",
-            "summary": "Russia's Foreign Ministry accused the UK of failing to condemn alleged Ukrainian strikes on the Zaporozhye Nuclear Power Plant. This accusation highlights diplomatic tensions and differing international responses to the conflict's nuclear risks.",
-            "key_points": [
-                "Russian Foreign Ministry accuses UK of not condemning Ukrainian strikes on Zaporozhye NPP.",
-                "Highlights diplomatic tensions.",
-                "Raises concerns about international responses to nuclear risks."
-            ]
-        },
-        {
-            "headline": "Russia to Improve Countermeasures Against Ukrainian Drone Attacks: Security Council Secretary",
-            "summary": "Russia's Security Council Secretary announced plans to improve countermeasures against Ukrainian drone attacks. This indicates an ongoing effort to adapt and strengthen Russia's defensive capabilities in the face of evolving aerial threats.",
-            "key_points": [
-                "Russia plans to improve countermeasures against Ukrainian drone attacks.",
-                "Announced by Security Council Secretary.",
-                "Indicates efforts to strengthen defensive capabilities."
-            ]
-        },
-        {
-            "headline": "Russian Military Units Moving Forward Every Day: Putin",
-            "summary": "President Putin stated that Russian military units are advancing daily, suggesting continuous progress in their operations. This assertion aims to project confidence and success in the ongoing conflict.",
-            "key_points": [
-                "Putin states Russian military units are advancing daily.",
-                "Aims to project confidence in ongoing operations.",
-                "Suggests continuous progress in the conflict."
-            ]
-        },
-        {
-            "headline": "Ukraine’s Neutral, Nuclear-Free Status Must Be Ensured in Practice: Russian FM Lavrov",
-            "summary": "Russian Foreign Minister Lavrov emphasized that Ukraine's neutral and nuclear-free status must be practically ensured. This statement outlines a core demand from Russia for any future settlement of the conflict, focusing on long-term security arrangements.",
-            "key_points": [
-                "FM Lavrov emphasizes Ukraine's neutral and nuclear-free status.",
-                "States it must be ensured in practice.",
-                "Core demand from Russia for future conflict settlement."
+                "The New START Treaty is vital for US-Russia nuclear arms control.",
+                "It sets limits on strategic offensive arms for both nations.",
+                "The treaty is a foundation for global strategic stability.",
+                "Its future is crucial amid geopolitical tensions, requiring continued dialogue."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "'Owner's son joined, I was asked to resign': Employee claims nepotism cost them their job",
-            "summary": "An employee alleges they were forced to resign from their job after the owner's son joined the company, citing nepotism as the reason. This claim highlights concerns about unfair workplace practices and favoritism.",
+            "headline": "'Target Indians and Indians alone': New Zealand foreign minister Winston Peters alleges ‘covert’ immigration changes under FTA",
+            "summary": "New Zealand's Foreign Minister Winston Peters has publicly accused the government of making \"covert\" immigration changes under the Free Trade Agreement (FTA), specifically alleging that these changes are designed to target only Indian immigrants. This accusation raises concerns about discriminatory practices and the transparency of immigration policies, potentially impacting bilateral relations and the Indian diaspora.",
             "key_points": [
-                "Employee claims they were asked to resign.",
-                "Reason cited is nepotism after owner's son joined.",
-                "Raises concerns about unfair workplace practices."
+                "NZ Foreign Minister Winston Peters alleges 'covert' immigration changes under FTA.",
+                "He claims the changes are designed to specifically target Indian immigrants.",
+                "Concerns are raised about discriminatory practices and policy transparency.",
+                "The allegations could impact New Zealand's relations with India."
             ]
         },
         {
-            "headline": "'Gravest sin': Priyanka Gandhi says Ram Temple donation fraud has 'stunned entire nation'; questions role of big players",
-            "summary": "Priyanka Gandhi condemned the alleged fraud in Ram Temple donations, calling it a \"gravest sin\" that has shocked the nation. She raised questions about the involvement of prominent figures in the scam.",
+            "headline": "From inflation to mortgage rates: What moved US economy's report card this week",
+            "summary": "This week's US economic report card was heavily influenced by persistent inflation and fluctuating mortgage rates, impacting consumer spending and investment. These factors contributed to market volatility and continue to shape the financial outlook for households and businesses across the country. The IMF's chief economist also warned that the AI boom could fuel a new wave of inflation.",
             "key_points": [
-                "Priyanka Gandhi denounces Ram Temple donation fraud.",
-                "Labels it a \"gravest sin\" that shocked India.",
-                "Demands inquiry into involvement of \"big players.\"\n"
+                "Persistent inflation and fluctuating mortgage rates were key drivers of the US economy.",
+                "These factors impacted consumer spending, investment, and market volatility.",
+                "The IMF's chief economist suggests the AI boom might contribute to future inflation.",
+                "Economic reports continue to shape the financial outlook for US households and businesses."
             ]
         },
         {
-            "headline": "'Silver missing, Rs 80 lakh recovered': 8 in judicial custody over Ram Mandir donation fraud",
-            "summary": "Eight individuals have been placed in judicial custody in connection with the Ram Mandir donation fraud, where silver is reported missing and Rs 80 lakh has been recovered. The investigation into the large-scale financial irregularity continues.",
+            "headline": "Kotak Mahindra Bank CEO Ashok Vaswani to exit after term ends in December 2026",
+            "summary": "Ashok Vaswani, the Chief Executive Officer of Kotak Mahindra Bank, will be stepping down from his position once his current term concludes in December 2026. This announcement marks a significant leadership transition for one of India's prominent private sector banks, prompting speculation about future strategic directions and succession plans. The bank will now begin the process of identifying his successor.",
             "key_points": [
-                "Eight people in judicial custody for Ram Mandir donation fraud.",
-                "Silver reported missing, Rs 80 lakh recovered.",
-                "Investigation into financial irregularity ongoing."
+                "Kotak Mahindra Bank CEO Ashok Vaswani will exit in December 2026.",
+                "His departure marks a significant leadership change for the bank.",
+                "The announcement prompts focus on future strategic directions and succession.",
+                "The bank is expected to initiate a search for a new CEO."
             ]
         },
         {
-            "headline": "Couple denied boarding despite valid passes, spent night at airport; airline to pay Rs 62,000",
-            "summary": "SpiceJet has been ordered to pay Rs 62,078 to a Haj couple who were denied boarding despite having valid passes and consequently spent a night at the airport. A Srinagar consumer commission found the airline guilty of deficiency in service and unfair trade practice for the inexplicable refusal.",
+            "headline": "'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub",
+            "summary": "Union Minister Ashwini Vaishnaw has expressed strong confidence that Jewar is poised to become the \"Silicon Valley of North India,\" transforming into a major hub for chip manufacturing. This vision highlights government efforts to boost indigenous semiconductor production and attract significant investment in high-tech industries in the region. This strategic development is expected to create numerous jobs and foster economic growth.",
             "key_points": [
-                "SpiceJet ordered to pay Rs 62,078 to a couple.",
-                "Couple denied boarding with valid passes, spent night at airport.",
-                "Airline found guilty of deficiency in service and unfair trade practice."
+                "Jewar is envisioned as the 'Silicon Valley of North India' for chip manufacturing.",
+                "Union Minister Ashwini Vaishnaw supports this strategic development.",
+                "The initiative aims to boost indigenous semiconductor production.",
+                "It is expected to attract investment and create jobs in high-tech industries."
             ]
         },
         {
-            "headline": "Hidden cams, CCTV footage: How SIT tracked down Ram temple donation theft accused",
-            "summary": "An SIT utilized hidden cameras and CCTV footage to trace the accused involved in the Ram Temple donation theft. Eight individuals have been arrested, with Rs 80 lakh recovered and silver also reported missing in connection with the elaborate fraud.",
+            "headline": "Just 14% of MSMEs get formal loans despite India's digital finance boom: Report",
+            "summary": "A recent report reveals that a mere 14% of Micro, Small, and Medium Enterprises (MSMEs) in India are able to secure formal loans, despite the country's rapid advancements in digital finance. This disparity highlights a significant gap in financial inclusion for a critical sector of the Indian economy, posing challenges for their growth and stability. The report emphasizes the need for targeted policy interventions to address this issue.",
             "key_points": [
-                "SIT used hidden cameras and CCTV to track Ram Temple donation thieves.",
-                "Eight accused arrested in connection with the theft.",
-                "Rs 80 lakh recovered and silver reported missing."
+                "Only 14% of Indian MSMEs receive formal loans, despite digital finance growth.",
+                "This indicates a significant financial inclusion gap for a critical economic sector.",
+                "Lack of access to formal credit poses challenges for MSME growth and stability.",
+                "The report suggests a need for targeted policy interventions to improve access."
             ]
         },
         {
-            "headline": "Trump Drops ‘100% TARIFF’ Bombshell In Explosive New ‘TRADE WAR’ With European Allies",
-            "summary": "Donald Trump has announced a potential \"100% tariff\" on European allies, signaling an explosive new trade war. This move could significantly impact international economic relations and global trade policies.",
+            "headline": "China's industrial profit growth slows for first time in 6 months as weak domestic demand bites",
+            "summary": "China's industrial profit growth experienced a slowdown for the first time in six months, largely attributed to softening domestic demand and ongoing supply chain issues. This deceleration signals challenges within the Chinese economy, as manufacturers grapple with reduced consumer spending and a less robust market environment. The trend raises concerns about the country's overall economic recovery post-pandemic.",
             "key_points": [
-                "Trump proposes \"100% tariff\" on European allies.",
-                "Signals an impending trade war.",
-                "Potential for significant impact on global trade."
+                "China's industrial profit growth slowed for the first time in six months.",
+                "The slowdown is primarily due to weak domestic demand.",
+                "Manufacturers are facing challenges in a less robust market environment.",
+                "This trend raises concerns about China's economic recovery."
             ]
         },
         {
-            "headline": "Netflix expands NFL partnership with Thanksgiving Eve Packers-Rams game and growing exclusive coverage plans",
-            "summary": "Netflix is significantly expanding its partnership with the NFL, announcing exclusive coverage plans that include a Thanksgiving Eve Packers-Rams game. This move solidifies Netflix's foray into live sports and broadens its content offerings.",
+            "headline": "India-US trade deal close to finalisation: Rubio",
+            "summary": "US Secretary of State Marco Rubio has indicated that a comprehensive trade deal between India and the United States is nearing finalization. This agreement is expected to significantly boost economic cooperation and bilateral trade between the two nations, fostering stronger strategic ties. The deal could open new markets and streamline trade processes, benefiting various sectors in both countries.",
             "key_points": [
-                "Netflix expands NFL partnership.",
-                "Includes exclusive Thanksgiving Eve Packers-Rams game.",
-                "Signals Netflix's growing presence in live sports."
-            ]
-        },
-        {
-            "headline": "Nitin Nabin discusses digital public infrastructure, clean energy with envoys of 23 EU countries",
-            "summary": "Nitin Nabin engaged in discussions with envoys from 23 EU countries regarding digital public infrastructure and clean energy initiatives. These talks aim to foster international collaboration on critical economic and environmental policies.",
-            "key_points": [
-                "Nitin Nabin discussed digital public infrastructure.",
-                "Also discussed clean energy with 23 EU envoys.",
-                "Aims for international collaboration on key policies."
-            ]
-        },
-        {
-            "headline": "Homebuyers can seek relief for delay after possession: Supreme Court",
-            "summary": "The Supreme Court has ruled that homebuyers can seek relief for delays even after taking possession of their property. This landmark decision strengthens consumer rights in the real estate sector, allowing redressal for construction delays regardless of handover.",
-            "key_points": [
-                "Supreme Court rules homebuyers can seek relief for delays post-possession.",
-                "Strengthens consumer rights in real estate.",
-                "Allows redressal for construction delays after property handover."
-            ]
-        },
-        {
-            "headline": "Loss-making Air India stops crew laundry services on international layovers",
-            "summary": "Struggling with financial losses, Air India has halted laundry services for its crew on international layovers as a cost-cutting measure. This decision reflects the airline's efforts to reduce expenditures amidst ongoing operational challenges.",
-            "key_points": [
-                "Air India stops crew laundry services on international layovers.",
-                "Measure taken due to financial losses.",
-                "Reflects cost-cutting efforts by the airline."
-            ]
-        },
-        {
-            "headline": "Goldman, EY upbeat on India growth on lower crude prices",
-            "summary": "Goldman Sachs and EY are expressing optimism about India's economic growth prospects, largely attributed to a drop in global crude oil prices. This favorable outlook suggests positive impacts on India's inflation and import bills, fostering a conducive environment for expansion.",
-            "key_points": [
-                "Goldman Sachs and EY are optimistic about India's economic growth.",
-                "Lower crude oil prices are a key factor for this positive outlook.",
-                "Suggests positive impacts on inflation and import bills in India."
-            ]
-        },
-        {
-            "headline": "Make use of FTAs, other schemes to boost shipments, government tells businesses",
-            "summary": "The government is urging businesses to leverage Free Trade Agreements (FTAs) and various other schemes to enhance their export shipments. This push aims to boost India's international trade and economic growth by encouraging companies to capitalize on existing benefits.",
-            "key_points": [
-                "Government encourages businesses to use FTAs.",
-                "Aims to boost export shipments.",
-                "Goal is to enhance India's international trade."
-            ]
-        },
-        {
-            "headline": "HDFC review finds no evidence backing ex-chairman’s charges",
-            "summary": "An internal review at HDFC has concluded that there is no evidence to support the charges made by the former chairman. This finding aims to clear the institution of allegations, reinforcing its corporate governance.",
-            "key_points": [
-                "HDFC review found no evidence for ex-chairman's charges.",
-                "Aims to clear the institution of allegations.",
-                "Reinforces corporate governance."
-            ]
-        },
-        {
-            "headline": "Humble Re 1 retains coining glory despite rise of digital payments",
-            "summary": "Despite the widespread adoption of digital payments, the humble one-rupee coin continues to hold its significance and popularity in India. This resilience highlights its enduring cultural and practical importance in everyday transactions.",
-            "key_points": [
-                "One-rupee coin remains significant despite digital payments.",
-                "Retains popularity and cultural importance.",
-                "Highlights its resilience in everyday transactions."
-            ]
-        },
-        {
-            "headline": "India's economy may grow up to 6.8% in FY27 as domestic demand stays resilient: EY",
-            "summary": "EY forecasts India's economy could grow up to 6.8% in FY27, driven by resilient domestic demand. This optimistic projection underscores the underlying strength of the Indian market in sustaining economic expansion.",
-            "key_points": [
-                "EY projects India's economy to grow up to 6.8% in FY27.",
-                "Growth driven by resilient domestic demand.",
-                "Underscores strength of Indian market."
-            ]
-        },
-        {
-            "headline": "Uber’s Prabhjeet Singh to be OpenAI’s MD in India",
-            "summary": "Prabhjeet Singh, formerly of Uber, is set to become OpenAI's Managing Director in India, marking a significant leadership appointment for the AI giant in the country. This move signals OpenAI's expanding focus on the Indian market and its talent pool.",
-            "key_points": [
-                "Prabhjeet Singh appointed OpenAI's MD in India.",
-                "Previously held a leadership role at Uber.",
-                "Signals OpenAI's expanding focus on the Indian market."
-            ]
-        },
-        {
-            "headline": "Exporters flag concerns over revised Fema rules",
-            "summary": "Indian exporters have raised concerns regarding the recently revised Fema (Foreign Exchange Management Act) rules, which they fear could complicate international trade operations. These concerns highlight potential challenges for businesses navigating new regulatory landscapes.",
-            "key_points": [
-                "Exporters raise concerns over revised Fema rules.",
-                "Fear complications for international trade operations.",
-                "Highlights challenges with new regulatory landscape."
-            ]
-        },
-        {
-            "headline": "US judge: No quick dismissal of Adani case",
-            "summary": "A US judge has ruled against a quick dismissal of the Adani case, indicating that legal proceedings will continue. This decision keeps the high-profile corporate legal battle in the spotlight, with implications for the Adani Group.",
-            "key_points": [
-                "US judge denied quick dismissal of Adani case.",
-                "Legal proceedings will continue.",
-                "Keeps high-profile corporate legal battle in spotlight."
-            ]
-        },
-        {
-            "headline": "Volkswagen considers 4 factory closures, 1 lakh job cuts amid China competition, tariff pressure",
-            "summary": "Volkswagen is reportedly considering closing four factories and cutting 100,000 jobs, primarily due to intense competition from Chinese manufacturers and global tariff pressures. This potential restructuring highlights significant challenges in the automotive industry and the impact of geopolitical trade dynamics.",
-            "key_points": [
-                "Volkswagen may close four factories and cut 100,000 jobs.",
-                "Driven by China competition and tariff pressures.",
-                "Highlights challenges in global automotive industry."
-            ]
-        },
-        {
-            "headline": "US stock market today: AI stocks sink again, pulling Wall Street towards weekly loss",
-            "summary": "AI stocks experienced another decline in the US stock market, contributing to Wall Street heading towards a weekly loss. This downturn reflects investor volatility and potential concerns in the technology sector.",
-            "key_points": [
-                "AI stocks declined again in US market.",
-                "Contributed to Wall Street's potential weekly loss.",
-                "Reflects investor volatility in technology sector."
-            ]
-        },
-        {
-            "headline": "India-UK FTA must drive transformational growth, not just higher trade: Piyush Goyal",
-            "summary": "Piyush Goyal emphasized that the India-UK Free Trade Agreement (FTA) should aim for transformational growth rather than merely increasing trade volumes. His statement calls for a strategic partnership that fosters deeper economic and industrial integration.",
-            "key_points": [
-                "Piyush Goyal advocates for transformational growth via India-UK FTA.",
-                "Stresses going beyond just higher trade volumes.",
-                "Calls for deeper economic and industrial integration."
-            ]
-        },
-        {
-            "headline": "India's defence stocks are booming despite global chaos",
-            "summary": "India's defense stocks are experiencing a significant boom, defying global market volatility and geopolitical chaos. This surge reflects increased domestic demand, government initiatives, and a push for self-reliance in the defense sector.",
-            "key_points": [
-                "India's defense stocks are booming.",
-                "Occurring despite global market volatility.",
-                "Driven by domestic demand and self-reliance initiatives."
-            ]
-        },
-        {
-            "headline": "What’s Fuelling India’s Military Stock Surge Amid Global Turmoil",
-            "summary": "This analysis explores the factors driving the surge in India's military stocks despite international instability. It likely delves into domestic policy, geopolitical positioning, and the push for indigenous defense manufacturing.",
-            "key_points": [
-                "Analyzes reasons for India's military stock surge.",
-                "Occurs amidst global turmoil.",
-                "Likely examines domestic policy and indigenous manufacturing."
-            ]
-        },
-        {
-            "headline": "What’s Driving India’s Pushback on US Oil Sanction Waiver on Russian Oil?",
-            "summary": "This article explores the reasons behind India's resistance to US pressure regarding sanction waivers for Russian oil. It likely delves into India's energy security needs, economic interests, and independent foreign policy stance.",
-            "key_points": [
-                "Explores India's pushback on US sanctions waiver for Russian oil.",
-                "Likely driven by energy security and economic interests.",
-                "Reflects India's independent foreign policy."
-            ]
-        },
-        {
-            "headline": "How Could India Benefit From Afghanistan's Participation in INSTC?",
-            "summary": "This piece analyzes the potential benefits for India if Afghanistan participates in the International North-South Transport Corridor (INSTC). It likely examines improved trade connectivity, regional economic integration, and strategic advantages.",
-            "key_points": [
-                "Analyzes India's benefits from Afghanistan joining INSTC.",
-                "Potential for improved trade connectivity.",
-                "Strategic advantages and regional economic integration."
-            ]
-        },
-        {
-            "headline": "BrahMos Deal in Focus as Indian Defence Minister Lands in Vietnam",
-            "summary": "The BrahMos missile deal is a central topic as the Indian Defence Minister visits Vietnam, signaling strong defense cooperation between the two nations. This visit aims to strengthen strategic partnerships and potentially finalize key military agreements.",
-            "key_points": [
-                "BrahMos missile deal in focus during Indian Defence Minister's Vietnam visit.",
-                "Signals strong defense cooperation.",
-                "Aims to strengthen strategic partnerships."
-            ]
-        },
-        {
-            "headline": "How Does Global Energy Crisis Affect Atmanirbhar Bharat?",
-            "summary": "This article explores the impact of the global energy crisis on India's 'Atmanirbhar Bharat' (Self-Reliant India) initiative. It likely discusses challenges to energy independence, economic resilience, and strategic responses to fluctuating global energy markets.",
-            "key_points": [
-                "Examines global energy crisis impact on 'Atmanirbhar Bharat'.",
-                "Discusses challenges to energy independence.",
-                "Covers economic resilience and strategic responses."
+                "India and the US are close to finalizing a major trade deal, according to Marco Rubio.",
+                "The agreement aims to significantly boost bilateral economic cooperation.",
+                "It is expected to strengthen strategic ties between the two nations.",
+                "The deal could open new markets and streamline trade processes for both countries."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "US approves limited rollout of Anthropic's Mythos 5 AI model",
-            "summary": "US authorities have partially lifted restrictions on Anthropic's advanced AI model, Mythos 5, allowing access to select cybersecurity firms after initial national security concerns. This limited rollout comes with improved safeguards, indicating an evolving regulatory approach to cutting-edge AI.",
+            "headline": "Chinese and Japanese companies launch AI models, claim they are as powerful as Anthropic’s Mythos",
+            "summary": "Chinese and Japanese technology firms have recently unveiled new artificial intelligence models, asserting that their capabilities rival those of Anthropic’s highly regarded Mythos. This development signals intense competition in the global AI landscape, with Asian tech giants rapidly advancing in sophisticated AI research and deployment. These new models are expected to challenge the dominance of Western AI players in various applications.",
             "key_points": [
-                "US approves limited rollout of Anthropic's Mythos 5 AI model.",
-                "Access granted to select cybersecurity firms.",
-                "Follows initial national security concerns and improved safeguards."
+                "Chinese and Japanese tech firms have launched powerful new AI models.",
+                "They claim their AI capabilities rival Anthropic’s Mythos.",
+                "The development signifies intense global competition in AI research.",
+                "Asian tech giants are rapidly advancing in sophisticated AI deployment."
             ]
         },
         {
-            "headline": "AI’s newest apprentices: Directors in boardrooms",
-            "summary": "Artificial intelligence is increasingly being integrated into corporate governance, with discussions now focusing on AI's role as \"apprentice\" directors in boardrooms. This trend points to a future where AI assists in strategic decision-making and oversight.",
+            "headline": "Desi Gagan enables 1st satellite-guided jet landing in India",
+            "summary": "India has successfully achieved its first satellite-guided jet landing, utilizing the indigenous \"Desi Gagan\" system developed for enhanced navigation. This landmark achievement significantly enhances aviation safety and efficiency within the country, showcasing India's growing capabilities in advanced navigation and aerospace technology. The system promises to improve flight operations, especially in challenging weather conditions.",
             "key_points": [
-                "AI is being integrated into corporate governance.",
-                "Discussions on AI as \"apprentice\" directors in boardrooms.",
-                "Points to future AI assistance in strategic decision-making."
+                "India successfully conducted its first satellite-guided jet landing using the 'Desi Gagan' system.",
+                "This indigenous technology enhances aviation safety and efficiency.",
+                "It showcases India's growing capabilities in advanced navigation and aerospace.",
+                "The system is expected to improve flight operations, particularly in adverse weather."
             ]
         },
         {
-            "headline": "India's 'Eye in the Sky' is now fully combat-ready",
-            "summary": "India's advanced airborne early warning and control (AEW&C) system, dubbed the 'Eye in the Sky,' has achieved full combat readiness. This development significantly enhances the nation's aerial surveillance and defense capabilities.",
+            "headline": "Anthropic cleared to restore Mythos 5 to certain US organisations",
+            "summary": "Anthropic, a leading AI research company, has received clearance to reinstate its Mythos 5 AI model for specific US organizations after a period of restriction. This decision allows these entities to resume using the advanced AI system, potentially accelerating their research and operational capabilities. The clearance underscores a renewed confidence in the model's ethical and technical safeguards.",
             "key_points": [
-                "India's 'Eye in the Sky' (AEW&C system) is combat-ready.",
-                "Significantly enhances aerial surveillance.",
-                "Boosts national defense capabilities."
-            ]
-        },
-        {
-            "headline": "Russia begins production of PD-8 engines for the SJ-100 — the jet India wants to build",
-            "summary": "Russia has commenced production of PD-8 engines intended for the SJ-100 aircraft, a jet that India has expressed interest in building. This development signifies potential technological collaboration in aerospace between the two nations.",
-            "key_points": [
-                "Russia started PD-8 engine production for SJ-100 jet.",
-                "SJ-100 is a jet India wants to build.",
-                "Signals potential aerospace tech collaboration with India."
-            ]
-        },
-        {
-            "headline": "India's Test Pilots Back Russian Su-57 Over US F-35: Expert",
-            "summary": "An expert indicates that India's test pilots reportedly prefer the Russian Su-57 fighter jet over the US F-35. This preference, if accurate, could influence future defense procurements and strategic partnerships.",
-            "key_points": [
-                "Expert states India's test pilots prefer Russian Su-57.",
-                "Preference is over the US F-35 fighter jet.",
-                "Could influence future defense procurements."
-            ]
-        },
-        {
-            "headline": "Twin-Seat Booster Dose For Su-57 Amid India's Rafale Deal Imbroglio",
-            "summary": "Amidst India's ongoing Rafale deal complexities, discussions around a twin-seat variant of the Russian Su-57 are emerging. This \"booster dose\" for the Su-57 could present an alternative or complementary option for India's air force modernization.",
-            "key_points": [
-                "Twin-seat Su-57 variant discussed amidst India's Rafale deal issues.",
-                "Could be an alternative for India's air force.",
-                "Reflects ongoing complexities in India's military procurement."
+                "Anthropic's Mythos 5 AI model has been cleared for restoration to specific US organizations.",
+                "This enables the resumption of advanced AI system usage for beneficiaries.",
+                "The clearance is expected to accelerate research and operational capabilities.",
+                "It suggests renewed confidence in the model's ethical and technical safeguards."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Fairytales are real, I saw one today': Tamannaah Bhatia and Trisha Krishnan turn bridesmaids at Avantika Sundar's Goa wedding",
-            "summary": "Actresses Tamannaah Bhatia and Trisha Krishnan served as bridesmaids at Avantika Sundar's wedding in Goa, creating a star-studded event. The event was described as a real-life fairytale by attendees.",
+            "headline": "Naslen's next with 'Kumbalangi Nights' director Madhu C. Narayanan: Shoot to begin in July 2026 - Reports",
+            "summary": "Actor Naslen is reportedly set to star in a new film directed by Madhu C. Narayanan, known for 'Kumbalangi Nights,' with shooting scheduled to commence in July 2026. This collaboration between the promising actor and acclaimed director is generating considerable anticipation within the Malayalam film industry. Fans are eager to see what unique storytelling this duo will bring to the screen.",
             "key_points": [
-                "Tamannaah Bhatia and Trisha Krishnan were bridesmaids.",
-                "Attended Avantika Sundar's wedding in Goa.",
-                "Event described as a \"fairytale.\"\n"
+                "Naslen to star in a new film directed by 'Kumbalangi Nights' director Madhu C. Narayanan.",
+                "The shooting for the upcoming project is scheduled to begin in July 2026.",
+                "This collaboration is highly anticipated within the Malayalam film industry.",
+                "It promises a unique blend of talent from a promising actor and an acclaimed director."
             ]
         },
         {
-            "headline": "Parag Tyagi misses late wife Shefali Jariwala; says, ‘I’m counting down the days until we meet again’",
-            "summary": "Actor Parag Tyagi expressed his deep grief and longing for his late wife, Shefali Jariwala. He shared emotional sentiments about counting the days until they can be reunited.",
+            "headline": "Sai Durgha Tej’s ‘Sambarala Yeti Gattu’ enters final shooting schedule; Release date announcement soon",
+            "summary": "Sai Durgha Tej's upcoming film ‘Sambarala Yeti Gattu’ has officially entered its final shooting schedule, indicating that production is nearing completion. Fans can expect an announcement regarding the movie's release date in the near future, building excitement for the Telugu project. The cast and crew are working diligently to wrap up filming efficiently.",
             "key_points": [
-                "Parag Tyagi mourns late wife Shefali Jariwala.",
-                "Expresses deep longing and hope for reunion.",
-                "Highlights his emotional state after her passing."
+                "Sai Durgha Tej’s ‘Sambarala Yeti Gattu’ has entered its final shooting schedule.",
+                "Production for the Telugu film is nearing completion.",
+                "A release date announcement is expected soon, generating anticipation.",
+                "The cast and crew are diligently working to finalize the film."
             ]
         },
         {
-            "headline": "Brad Pitt and Edward Norton's 'Fight Club' REUNION after 27 years sparks meme-fest; actors join Leonardo DiCaprio, Colin Farrell for USA vs Turkiye World Cup match",
-            "summary": "Brad Pitt and Edward Norton, stars of \"Fight Club,\" reunited after 27 years at a USA vs. Turkiye World Cup match, alongside Leonardo DiCaprio and Colin Farrell. Their unexpected appearance sparked a massive meme-fest online.",
+            "headline": "Actor Sonu quits Kala Hiran: Film made to TARNISH Salman",
+            "summary": "Actor Sonu has withdrawn from the film 'Kala Hiran,' alleging that the project was specifically designed to tarnish the reputation of Bollywood superstar Salman Khan. This departure highlights growing controversy around the film's intent and has sparked debate within the industry regarding its potentially malicious agenda. Sonu's decision underscores ethical concerns among some actors regarding politically charged projects.",
             "key_points": [
-                "Brad Pitt and Edward Norton reunited after 27 years.",
-                "Attended a World Cup match with other celebrities.",
-                "Their reunion triggered a viral meme-fest."
+                "Actor Sonu quit the film 'Kala Hiran,' citing its intent to tarnish Salman Khan.",
+                "The controversy highlights ethical concerns within the Bollywood industry.",
+                "The film's alleged malicious agenda has sparked debate.",
+                "Sonu's withdrawal brings attention to actors' choices in controversial projects."
             ]
         },
         {
-            "headline": "Angel Reese shines at Met Gala 2026, bringing old Hollywood style and spotlight to women’s sports",
-            "summary": "Angel Reese made a dazzling appearance at the Met Gala 2026, showcasing old Hollywood style and simultaneously drawing significant attention to women's sports. Her presence at the prestigious event amplified her platform beyond the basketball court.",
+            "headline": "‘Supergirl’ BO day 2: Milly Alcock’s film misses Rs 3 crore mark in India",
+            "summary": "Milly Alcock's highly anticipated film 'Supergirl' struggled at the Indian box office on its second day, failing to cross the Rs 3 crore mark. Despite initial buzz and a strong international presence, the superhero movie faces challenges in drawing a larger audience in India, indicating a slower-than-expected performance in this crucial market. This performance could impact future superhero releases in the region.",
             "key_points": [
-                "Angel Reese attended Met Gala 2026.",
-                "Showcased old Hollywood style.",
-                "Used the platform to spotlight women's sports."
-            ]
-        },
-        {
-            "headline": "‘Citizen Vigilante’ released for free on X by Elon Musk and Ewe Boll",
-            "summary": "The film 'Citizen Vigilante' has been released for free on the platform X, a move spearheaded by Elon Musk and Ewe Boll. This unconventional distribution method allows wide public access to the movie.",
-            "key_points": [
-                "Film 'Citizen Vigilante' released for free.",
-                "Distributed on X by Elon Musk and Ewe Boll.",
-                "Represents an unconventional film distribution strategy."
-            ]
-        },
-        {
-            "headline": "Lewis Hamilton’s painful Ferrari secret emerges while Kim Kardashian's romance draws new scrutiny",
-            "summary": "A \"painful secret\" regarding Lewis Hamilton's Ferrari move has reportedly surfaced, while Kim Kardashian's romantic life is once again under intense scrutiny. These celebrity developments are currently drawing widespread public attention.",
-            "key_points": [
-                "Lewis Hamilton's Ferrari secret reportedly emerged.",
-                "Kim Kardashian's romance faces new scrutiny.",
-                "Both are drawing significant public attention."
-            ]
-        },
-        {
-            "headline": "Ariana Grande reunites with ex-boyfriend Ricky Alvarez in Texas; spark romance buzz",
-            "summary": "Ariana Grande has reportedly reunited with her ex-boyfriend Ricky Alvarez in Texas, sparking fresh romance rumors. This comes after her recent split from 'Wicked' co-star Ethan Slater, putting her personal life back in the spotlight.",
-            "key_points": [
-                "Ariana Grande reunited with ex-boyfriend Ricky Alvarez.",
-                "Reunion sparks new romance rumors.",
-                "Follows her split from Ethan Slater."
+                "Milly Alcock’s 'Supergirl' failed to cross the Rs 3 crore mark in India on Day 2.",
+                "The film’s box office performance is slower than anticipated.",
+                "It struggles to attract a larger audience despite initial buzz.",
+                "This performance could influence future superhero film strategies in the Indian market."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "'We failed': Abhishek Sharma explains India's shock defeat to Ireland",
-            "summary": "Abhishek Sharma acknowledged India's failure to adapt to conditions after their unexpected 34-run defeat to Ireland in the first T20I in Belfast. Despite his quickfire fifty, India was bowled out for 148, giving Ireland a 1-0 series lead.",
+            "headline": "Argentina vs Jordan LIVE: Lionel Messi's record-breaking strike seals Argentina's 3-1 win over Jordan",
+            "summary": "Lionel Messi created history by scoring a record-breaking goal, leading Argentina to a 3-1 victory over Jordan in their final World Cup Group J match. Coming off the bench, Messi's appearance marked his 202nd international match and a FIFA-record 29th World Cup appearance, solidifying his legendary status in football. He also became the outright leading men's World Cup scorer with 18 goals, surpassing Miroslav Klose's previous record.",
             "key_points": [
-                "India suffered a shock 34-run defeat to Ireland in T20I.",
-                "Abhishek Sharma admits India failed to adapt to conditions.",
-                "Ireland secured a 1-0 series lead."
+                "Lionel Messi scored a record-breaking goal in Argentina's 3-1 win over Jordan.",
+                "He made his 202nd international and a FIFA-record 29th World Cup appearance.",
+                "Messi became the outright leading men's World Cup scorer with 18 goals.",
+                "Argentina secured first place in Group J and will face Cape Verde in the Round of 32."
             ]
         },
         {
-            "headline": "Messi, Marx & Márquez: Why Kerala cheers for Latin American football",
-            "summary": "Kerala's fervent support for Latin American football teams goes beyond just the sport, deeply intertwined with the state's passion for 'revolutionary' politics and literature. This unique blend explains the strong cultural affinity.",
+            "headline": "NFL trade rumors: Steelers, packers linked to $42m colts star",
+            "summary": "NFL trade rumors are swirling around Indianapolis Colts star running back Jonathan Taylor, with teams like the Pittsburgh Steelers and Green Bay Packers reportedly showing keen interest. His contract situation and the Colts' uncertain future could lead to a significant \"Giannis-like\" trade, impacting multiple franchises. The discussion highlights contract pressure and front office uncertainty for Indianapolis.",
             "key_points": [
-                "Kerala shows strong support for Latin American football.",
-                "Support linked to state's 'revolutionary' politics.",
-                "Also influenced by Latin American literature."
+                "Jonathan Taylor, the Colts' star running back, is at the center of NFL trade rumors.",
+                "The Pittsburgh Steelers and Green Bay Packers are reportedly interested.",
+                "Taylor's contract situation and the Colts' future could trigger a major trade.",
+                "The scenario is compared to a 'Giannis-like' situation where an elite player might be traded."
             ]
         },
         {
-            "headline": "No debut, but loud cheers: Belfast crowd shows love for Vaibhav Sooryavanshi",
-            "summary": "Teenage cricket sensation Vaibhav Sooryavanshi received a warm reception from the Belfast crowd, even though his India debut is still pending. The focus was on Ireland's historic 34-run victory over India, with debutants like Jai Moondra and Matt Hollard making significant impacts.",
+            "headline": "Netflix expands NFL partnership with Thanksgiving Eve Packers-Rams game and growing exclusive coverage plans",
+            "summary": "Netflix is significantly expanding its partnership with the NFL, announcing plans for an exclusive Thanksgiving Eve game between the Packers and Rams, alongside broader coverage. This move signals Netflix's deeper dive into live sports broadcasting, aiming to attract new subscribers and strengthen its position in the competitive streaming market. The platform views live sports as a key differentiator for subscriber retention.",
             "key_points": [
-                "Vaibhav Sooryavanshi received cheers despite no India debut.",
-                "Ireland secured a historic 34-run victory against India.",
-                "Ireland's debutants made a strong impact in the match."
+                "Netflix is significantly expanding its partnership with the NFL.",
+                "The deal includes an exclusive Thanksgiving Eve game between the Packers and Rams.",
+                "Netflix plans growing exclusive NFL coverage, marking a deeper dive into live sports.",
+                "This strategy aims to attract new subscribers and strengthen its streaming market position."
             ]
         },
         {
-            "headline": "Caitlin Clark injury update: Latest on Indiana Fever star as she hit with major setback",
-            "summary": "Indiana Fever star Caitlin Clark has been ruled out of an upcoming game due to a recurring back injury, coach Stephanie White confirmed. The injury, aggravated during a recent loss, creates uncertainty about her return, though White stated Clark is \"OK\" without providing a firm timeline.",
+            "headline": "MI New York crush LA Knight Riders by 41 runs as Pooran shines, Shepherd creates MLC history",
+            "summary": "MI New York secured a dominant 41-run victory over LA Knight Riders in Major League Cricket (MLC), with Nicholas Pooran's stellar performance leading the charge. Romario Shepherd also created MLC history with his significant contribution, showcasing exceptional individual brilliance. This commanding win further intensifies the competition and highlights the strong form of MI New York in the league.",
             "key_points": [
-                "Caitlin Clark ruled out due to recurring back injury.",
-                "Injury aggravated during recent game.",
-                "No firm timeline for her return."
-            ]
-        },
-        {
-            "headline": "Azzi Fudd ruled out again as Dallas Wings carefully manage ongoing right knee concerns",
-            "summary": "Azzi Fudd has been ruled out once more as the Dallas Wings continue to cautiously manage her persistent right knee issues. This ongoing concern highlights the careful approach teams take with player health and long-term recovery.",
-            "key_points": [
-                "Azzi Fudd ruled out due to ongoing right knee concerns.",
-                "Dallas Wings are carefully managing her condition.",
-                "Emphasizes cautious approach to player injuries."
-            ]
-        },
-        {
-            "headline": "Tina Charles retires after historic WNBA career as all-time rebounding leader and second highest scorer",
-            "summary": "Tina Charles has announced her retirement from the WNBA, concluding a historic career where she became the league's all-time rebounding leader and second-highest scorer. Her departure marks the end of an era for one of basketball's most dominant players.",
-            "key_points": [
-                "Tina Charles retires from WNBA.",
-                "Ends historic career as all-time rebounding leader.",
-                "Also second-highest scorer in league history."
-            ]
-        },
-        {
-            "headline": "Paige Bueckers tops WNBA GM survey as best player to build around ahead of Caitlin Clark and A'ja Wilson",
-            "summary": "Paige Bueckers has been identified as the top player to build a team around in a recent WNBA General Managers survey, surpassing prominent names like Caitlin Clark and A'ja Wilson. This recognition highlights her immense potential and perceived value among league executives.",
-            "key_points": [
-                "Paige Bueckers ranked top in WNBA GM survey.",
-                "Considered best player to build a team around.",
-                "Ranked above Caitlin Clark and A'ja Wilson."
-            ]
-        },
-        {
-            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
-            "summary": "Indian-origin cricketer Jatinder Singh has been selected to lead Oman in the Asia Cup 2025. This appointment marks a significant milestone for Singh and for Omani cricket on the international stage.",
-            "key_points": [
-                "Indian-origin Jatinder Singh to captain Oman in Asia Cup 2025.",
-                "Significant milestone for Singh.",
-                "Boosts Omani cricket on international stage."
+                "MI New York defeated LA Knight Riders by 41 runs in Major League Cricket.",
+                "Nicholas Pooran delivered a stellar performance for MI New York.",
+                "Romario Shepherd achieved MLC history with his contributions.",
+                "The victory demonstrates MI New York's strong form and intensifies league competition."
             ]
         },
         {
             "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "Prime Minister Modi remarked on the growing popularity of chess among Indian youth during the FIDE World Cup being held in India. His statement highlights the increasing engagement of young people in intellectual sports.",
+            "summary": "Prime Minister Narendra Modi, speaking at the FIDE World Cup in India, remarked that chess is experiencing a surge in popularity among the nation's youth. His statement highlights the growing interest in strategic sports and government support for promoting intellectual games across the country. Modi emphasized the game's ability to sharpen minds and foster strategic thinking from a young age.",
             "key_points": [
-                "PM Modi noted chess gaining popularity among Indian youth.",
-                "Statement made during FIDE World Cup in India.",
-                "Highlights growing youth engagement in intellectual sports."
+                "PM Modi stated that chess is gaining popularity among Indian youth at the FIDE World Cup.",
+                "His comments highlight growing interest in strategic intellectual sports.",
+                "The government supports promoting such games across the country.",
+                "Modi emphasized chess's role in sharpening minds and fostering strategic thinking."
             ]
         },
         {
-            "headline": "'We can't forget Pahalgam': Sehwag under fire for promoting IND vs PAK",
-            "summary": "Former cricketer Virender Sehwag is facing criticism for promoting an India vs. Pakistan match, with some arguing that the focus should remain on national tragedies like Pahalgam. The controversy highlights the complex intersection of sports, nationalism, and public sentiment.",
+            "headline": "Gully To Glory: Ramandeep Singh's journey from Chandigarh to Team India via KKR",
+            "summary": "Ramandeep Singh's inspiring journey from the streets of Chandigarh to representing Team India, facilitated by his impressive stint with KKR, embodies a true 'gully to glory' story. His rise highlights the talent emerging from grassroots cricket and the crucial role of domestic leagues in nurturing national players. Singh's dedication and hard work serve as an inspiration for aspiring cricketers across the nation.",
             "key_points": [
-                "Virender Sehwag criticized for promoting IND vs PAK match.",
-                "Critics cite national tragedies like Pahalgam.",
-                "Highlights conflict between sports and national sentiment."
-            ]
-        },
-        {
-            "headline": "'GSL not in competition with other T20 leagues but a partnership': Guyana President",
-            "summary": "The President of Guyana stated that the GSL (Guyana Super League) views itself as a partnership rather than a competitor to other T20 leagues. This emphasizes a collaborative approach to the global cricket landscape.",
-            "key_points": [
-                "Guyana President states GSL is a partnership, not competition.",
-                "Refers to other T20 leagues.",
-                "Emphasizes a collaborative approach in cricket."
-            ]
-        },
-        {
-            "headline": "11 dropped catches in four matches: India's fielding woes threaten Women's T20 World Cup campaign",
-            "summary": "India's Women's T20 World Cup campaign is being jeopardized by significant fielding woes, with 11 catches dropped in just four matches. This alarming statistic highlights a critical area of concern that could impact their tournament performance.",
-            "key_points": [
-                "India's Women's T20 World Cup campaign threatened by fielding woes.",
-                "11 catches dropped in four matches.",
-                "Highlights a critical area for performance improvement."
-            ]
-        },
-        {
-            "headline": "WWE SmackDown Results & Highlights 26-June-2026: Major face-off before Night of Champions, popular star debuts, and more",
-            "summary": "WWE SmackDown featured a major face-off in anticipation of Night of Champions, alongside the debut of a popular star. The event provided key developments and highlights for wrestling fans.",
-            "key_points": [
-                "WWE SmackDown featured a major face-off before Night of Champions.",
-                "A popular star made their debut.",
-                "Provided key developments for wrestling fans."
+                "Ramandeep Singh's journey to Team India started from Chandigarh, via KKR.",
+                "His story embodies a 'gully to glory' narrative in Indian cricket.",
+                "It highlights the talent emerging from grassroots cricket.",
+                "Domestic leagues like KKR play a crucial role in nurturing national players."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Swiss glaciers shrink as climate crisis fuels extreme heat across Europe",
-            "summary": "Switzerland's glaciers are experiencing unprecedented melting, with \"glacier loss day\" arriving early due to a prolonged European heatwave, warm May, and insufficient winter snowfall. Experts warn this rapid ice loss, mirroring 2022's dire conditions, threatens to leave only remnants of glaciers by 2100 and impact vital European river systems.",
-            "key_points": [
-                "Swiss glaciers are rapidly shrinking due to climate crisis.",
-                "Extreme heat, warm May, and low snowfall are accelerating melt.",
-                "Threatens to leave only remnants by 2100, impacting European rivers."
-            ]
-        },
-        {
-            "headline": "Russia's Nuclear Moon Mission REVEALED; Putin's Boldest Space Move Shocks Trump",
-            "summary": "Russia has unveiled plans for a nuclear-powered moon mission, described as Putin's boldest space initiative, which has reportedly shocked former US President Trump. This development signals a new phase in the global space race and potential geopolitical implications for lunar exploration.",
-            "key_points": [
-                "Russia reveals plans for a nuclear moon mission.",
-                "Seen as Putin's boldest space move.",
-                "Expected to have significant geopolitical implications."
-            ]
-        },
-        {
             "headline": "Interstellar comet 3I/ATLAS may be 12 billion years old, making it older than our solar system; the James Webb Space Telescope reveals",
-            "summary": "The James Webb Space Telescope has revealed that interstellar comet 3I/ATLAS may be an astonishing 12 billion years old, making it older than our own solar system. This discovery provides crucial insights into the early universe and comet formation.",
+            "summary": "The James Webb Space Telescope has made a stunning discovery, indicating that interstellar comet 3I/ATLAS could be an astonishing 12 billion years old, predating our own solar system. This finding offers unprecedented insights into the early universe and the origins of cometary bodies, challenging previous astronomical assumptions. Its ancient age makes it one of the oldest known objects in the cosmos.",
             "key_points": [
-                "Interstellar comet 3I/ATLAS may be 12 billion years old.",
-                "Older than our solar system.",
-                "Discovery made by James Webb Space Telescope."
-            ]
-        },
-        {
-            "headline": "Massive asteroid bigger than the Eiffel Tower to zoom past Earth this weekend",
-            "summary": "A massive asteroid, larger than the Eiffel Tower, is set to make a close approach to Earth this weekend, though it poses no threat. Astronomers are providing details on its trajectory and how it can be observed.",
-            "key_points": [
-                "Asteroid larger than Eiffel Tower to pass Earth this weekend.",
-                "Trajectory details and viewing information available.",
-                "Poses no threat to Earth."
+                "Interstellar comet 3I/ATLAS is estimated to be 12 billion years old.",
+                "This age makes it older than our own solar system.",
+                "The discovery was made by the James Webb Space Telescope.",
+                "It provides unprecedented insights into the early universe and comet origins."
             ]
         },
         {
             "headline": "Scientists estimate giant Caribbean sponge may be more than 2,300 years old and still filtering seawater today",
-            "summary": "Scientists estimate a giant Caribbean sponge could be over 2,300 years old, actively filtering seawater to this day. This discovery highlights the incredible longevity and ecological importance of deep-sea organisms.",
+            "summary": "Scientists have estimated that a massive sponge discovered in the Caribbean could be over 2,300 years old, making it one of the longest-living animals known. This ancient organism continues to actively filter seawater, providing valuable insights into longevity, ecosystem resilience, and the potential impacts of climate change on marine life. Its survival offers unique data for biological research.",
             "key_points": [
-                "Giant Caribbean sponge estimated to be over 2,300 years old.",
-                "Still actively filtering seawater.",
-                "Highlights longevity and ecological importance of deep-sea life."
+                "A giant Caribbean sponge is estimated to be over 2,300 years old.",
+                "It is one of the longest-living animals discovered.",
+                "The sponge continues to actively filter seawater, demonstrating resilience.",
+                "The discovery offers insights into longevity and ecosystem health."
             ]
         },
         {
-            "headline": "Is Mars our next ‘home’? NASA just found evidence of life there",
-            "summary": "NASA's Perseverance Rover has discovered evidence of ancient life on Mars, sparking renewed speculation about the planet's potential as a future human habitat. This significant finding fuels scientific inquiry into the origins of life beyond Earth.",
+            "headline": "Massive asteroid bigger than the Eiffel Tower to zoom past Earth this weekend: Time, distance, and here's how to watch",
+            "summary": "A colossal asteroid, reportedly larger than the Eiffel Tower, is set to make a close approach to Earth this weekend, prompting astronomers to provide details on its trajectory and viewing opportunities. While posing no threat, this flyby offers a rare chance for observation and a reminder of the dynamic nature of our solar system. Scientists assure the public that the asteroid will safely pass by without impact.",
             "key_points": [
-                "NASA's Perseverance Rover found evidence of ancient life on Mars.",
-                "Rekindles speculation about Mars as a future human home.",
-                "Significant for scientific inquiry into extraterrestrial life."
+                "A massive asteroid, larger than the Eiffel Tower, will pass Earth this weekend.",
+                "Astronomers have provided details on its trajectory and viewing times.",
+                "The asteroid poses no threat of impact to Earth.",
+                "It offers a rare opportunity for observation and highlights solar system dynamics."
             ]
         },
         {
-            "headline": "Antarctica’s ‘Doomsday Glacier’ is to ‘disintegrate’? Scientists ring alarm bells",
-            "summary": "Scientists are raising alarm bells about Antarctica's Thwaites Glacier, often called the 'Doomsday Glacier,' warning of its potential disintegration. Such an event would have catastrophic global sea-level rise implications.",
+            "headline": "Three wild Himalayan predators share the same turf, hunt at the same hours, and somehow never go to war: Study reveals surprising 'menu' differences",
+            "summary": "A new study in the Himalayas has uncovered a surprising co-existence among three major wild predators who share habitats and hunting times without direct conflict. Researchers found that these predators maintain peace by exhibiting distinct 'menu' differences, minimizing competition and allowing them to thrive in shared territories. This ecological strategy enables resource partitioning despite their close proximity.",
             "key_points": [
-                "Scientists warn of potential disintegration of Thwaites Glacier.",
-                "Known as the 'Doomsday Glacier.'",
-                "Disintegration would have catastrophic global sea-level implications."
-            ]
-        },
-        {
-            "headline": "Ladakh struggled with water for years, then Sonam Wangchuk created an ice stupa as a reservoir",
-            "summary": "After years of water scarcity in Ladakh, innovator Sonam Wangchuk developed ice stupas, artificial glaciers, to serve as vital water reservoirs. This ingenious solution helps address the region's acute water challenges by storing winter melt for use in spring.",
-            "key_points": [
-                "Sonam Wangchuk created ice stupas in Ladakh.",
-                "Solves long-standing water scarcity issue.",
-                "Ice stupas act as reservoirs, storing winter melt."
-            ]
-        },
-        {
-            "headline": "Rosatom-Trained Personnel Gear Up for Reactor Startups in Bangladesh, Turkey",
-            "summary": "Rosatom-trained personnel are preparing for the startup of nuclear reactors in Bangladesh and Turkey, marking significant advancements in these nations' nuclear energy programs. This collaboration underscores Russia's role in global nuclear technology transfer and development.",
-            "key_points": [
-                "Rosatom-trained staff preparing for reactor startups.",
-                "Reactors located in Bangladesh and Turkey.",
-                "Highlights Russia's role in global nuclear energy development."
+                "Three major Himalayan predators coexist peacefully in shared habitats.",
+                "They share turf and hunting hours without engaging in conflict.",
+                "A study reveals surprising 'menu' differences minimize competition for food.",
+                "This unique ecological strategy allows for resource partitioning among apex predators."
             ]
         },
         {
             "headline": "Russian scientists develop advanced material for faster skin healing",
-            "summary": "Russian scientists have developed an advanced material designed to accelerate skin healing, potentially revolutionizing medical treatments for wounds and burns. This breakthrough could lead to faster recovery times and improved patient outcomes.",
+            "summary": "Russian scientists have developed an advanced material designed to significantly accelerate skin healing, offering promising applications in medical treatment. This innovative material aims to improve recovery times for various skin injuries and burns, potentially revolutionizing wound care. The research highlights advancements in biomedical engineering and regenerative medicine.",
             "key_points": [
-                "Russian scientists developed advanced skin healing material.",
-                "Potential to revolutionize wound and burn treatments.",
-                "Aims for faster recovery and improved patient outcomes."
-            ]
-        },
-        {
-            "headline": "Russian scientists develop molecule that could help reverse Parkinson's disease",
-            "summary": "Russian scientists have reportedly developed a new molecule with the potential to help reverse Parkinson's disease. This promising research offers new hope for millions affected by the debilitating neurological condition.",
-            "key_points": [
-                "Russian scientists developed a molecule for Parkinson's disease.",
-                "Could potentially help reverse the disease.",
-                "Offers new hope for neurological treatment."
+                "Russian scientists developed an advanced material for faster skin healing.",
+                "The material holds promise for improving recovery from skin injuries and burns.",
+                "It represents a significant advancement in wound care.",
+                "The research contributes to biomedical engineering and regenerative medicine."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Bella Hadid's heartbreaking Lyme disease confession: 'You wake up with anxiety already living in your body’",
-            "summary": "Supermodel Bella Hadid has openly shared her struggles with Lyme disease, describing the profound anxiety and physical toll it takes. Her confession sheds light on the chronic and often debilitating nature of the illness.",
+            "headline": "Tired all the time and bruising easily? It may be more than just ageing, doctors warn",
+            "summary": "Doctors are cautioning that persistent fatigue and easy bruising might indicate underlying health issues beyond normal aging. These symptoms could be red flags for various conditions, prompting medical professionals to urge individuals experiencing them to seek timely diagnostic evaluation. Ignoring these signs could delay necessary treatment for potentially serious ailments.",
             "key_points": [
-                "Bella Hadid shares personal struggle with Lyme disease.",
-                "Describes waking up with anxiety due to the illness.",
-                "Highlights the debilitating impact of chronic Lyme disease."
+                "Persistent fatigue and easy bruising may signal underlying health issues.",
+                "These symptoms are not always a normal part of aging.",
+                "Doctors recommend seeking timely diagnostic evaluation for these red flags.",
+                "Ignoring these signs could delay treatment for serious conditions."
             ]
         },
         {
-            "headline": "Jackson Labs loses licences over Rajasthan maternal deaths",
-            "summary": "Jackson Labs has lost its licenses following a series of maternal deaths in Rajasthan, indicating serious concerns over medical negligence and patient safety. The decision underscores the critical need for accountability in healthcare facilities.",
+            "headline": "Eating dinner too late? Doctors warn this everyday habit could quietly affect your kidneys and metabolism",
+            "summary": "Doctors are issuing warnings that the common habit of eating dinner too late at night could have silent, detrimental effects on kidney function and metabolic health. This practice disrupts the body's natural rhythms, potentially leading to long-term health complications that are often overlooked. It can impair blood sugar regulation and increase the risk of chronic diseases.",
             "key_points": [
-                "Jackson Labs loses licenses.",
-                "Decision follows Rajasthan maternal deaths.",
-                "Raises concerns over medical negligence and patient safety."
+                "Eating dinner too late at night can negatively impact kidney function.",
+                "The habit also disrupts metabolic health and the body's natural rhythms.",
+                "It may lead to long-term health complications like impaired blood sugar regulation.",
+                "Doctors advise adjusting meal timings to mitigate these risks."
             ]
         },
         {
-            "headline": "2 states, 2 different rules for registration of doctors",
-            "summary": "Two Indian states are operating with differing rules for the registration of doctors, leading to potential inconsistencies and challenges in medical regulation. This disparity highlights the need for a more unified national approach to healthcare professional licensing.",
+            "headline": "Starting IVF soon? 5 crucial questions fertility experts say every couple should ask before treatment begins",
+            "summary": "Fertility experts recommend that couples embarking on In Vitro Fertilization (IVF) treatment ask five crucial questions before beginning the process. These questions cover treatment specifics, success rates, financial implications, emotional support systems, and potential risks, ensuring couples are well-informed and prepared for their journey. Being prepared can significantly reduce stress and improve outcomes.",
             "key_points": [
-                "Two states have different doctor registration rules.",
-                "Creates inconsistencies in medical regulation.",
-                "Suggests need for unified national approach."
+                "Couples starting IVF should ask five crucial questions before treatment.",
+                "Questions should cover treatment specifics, success rates, and financial aspects.",
+                "Inquire about emotional support systems and potential risks.",
+                "Being well-informed can help manage expectations and reduce stress during the IVF journey."
             ]
         },
         {
-            "headline": "Government plans simpler import rule to cut medicine wastage",
-            "summary": "The government is planning to introduce simpler import rules aimed at reducing medicine wastage across the country. This initiative seeks to streamline supply chains and ensure more efficient distribution of essential drugs.",
+            "headline": "Flesh-rotting bacteria: What is Vibrio and should you be worried?",
+            "summary": "Recent outbreaks have brought attention to Vibrio, a type of bacteria capable of causing severe \"flesh-rotting\" infections, raising public concern. Medical experts are clarifying what Vibrio is, how it spreads, and the circumstances under which individuals should be concerned, advising on preventive measures. The bacteria thrive in warm saltwater and can enter the body through open wounds or contaminated seafood.",
             "key_points": [
-                "Government plans simpler medicine import rules.",
-                "Aim is to cut medicine wastage.",
-                "Seeks to streamline supply chains."
+                "Vibrio bacteria causes severe 'flesh-rotting' infections, raising public concern.",
+                "Experts are clarifying how Vibrio spreads and who is at risk.",
+                "The bacteria thrive in warm saltwater and can infect via wounds or seafood.",
+                "Preventive measures are advised to avoid exposure and infection."
             ]
         },
         {
-            "headline": "Hospitals told to make public their kidney transplant success rate",
-            "summary": "Hospitals have been directed to publicly disclose their kidney transplant success rates, promoting transparency and enabling patients to make informed decisions. This measure aims to increase accountability within the healthcare system for complex procedures.",
+            "headline": "Heatwave rage: Why soaring temperatures put people in a bad mood",
+            "summary": "Soaring temperatures during heatwaves are being linked to an increase in irritability and aggression, leading to what is being termed \"heatwave rage.\" Experts explain that extreme heat can disrupt sleep, increase discomfort, and alter neurochemical balances, collectively contributing to a worsening of mood and behavior. The phenomenon underscores the broad impact of climate change on public mental health.",
             "key_points": [
-                "Hospitals directed to publish kidney transplant success rates.",
-                "Aims to promote transparency for patients.",
-                "Increases accountability in healthcare system."
+                "Heatwaves are linked to increased irritability and aggression, dubbed 'heatwave rage'.",
+                "Extreme heat disrupts sleep, causes discomfort, and alters neurochemical balances.",
+                "These factors contribute to a worsening of mood and behavior.",
+                "The phenomenon highlights climate change's impact on mental health."
             ]
         },
         {
-            "headline": "Dick Vitale faces another cancer battle as melanoma spreads but remains confident and determined",
-            "summary": "Legendary sports broadcaster Dick Vitale is facing another battle with cancer as melanoma has spread, but he remains steadfastly confident and determined in his fight. This marks another significant challenge in his health journey, which he approaches with a positive outlook.",
+            "headline": "France: baby dies of heat, fourth child death this week",
+            "summary": "A baby in France has tragically died due to the extreme heat, marking the fourth child fatality linked to the ongoing heatwave in the country this week. Authorities are urging extreme caution and emphasizing protective measures for vulnerable populations, especially children and the elderly, as temperatures continue to soar. This series of deaths underscores the severe public health crisis caused by climate change.",
             "key_points": [
-                "Dick Vitale battling spreading melanoma.",
-                "Faces another cancer challenge.",
-                "Remains confident and determined in his fight."
-            ]
-        },
-        {
-            "headline": "Could tingling and numbness be an early sign of a brain tumour? Neurologist explains the symptoms you shouldn't ignore",
-            "summary": "A neurologist explains that persistent tingling and numbness could be early indicators of a brain tumor, urging individuals not to ignore these symptoms. The advice emphasizes the importance of early detection and medical consultation for neurological changes.",
-            "key_points": [
-                "Tingling and numbness could be early brain tumor signs.",
-                "Neurologist advises not to ignore these symptoms.",
-                "Highlights importance of early detection and medical check-ups."
-            ]
-        },
-        {
-            "headline": "Ebola outbreak surpasses 1,000 cases in Congo: New study warns of high risk of spread to neighbouring countries",
-            "summary": "The Ebola outbreak in Congo has exceeded 1,000 cases, and a new study warns of a high risk of its spread to neighboring countries. This alarming development necessitates urgent international intervention and robust public health measures to contain the deadly virus.",
-            "key_points": [
-                "Ebola outbreak in Congo surpasses 1,000 cases.",
-                "New study warns of high spread risk to neighboring countries.",
-                "Urgent international intervention and public health measures needed."
-            ]
-        },
-        {
-            "headline": "Millions have Fatty Liver without knowing it: Could a daily cup of Black Coffee offer some protection?",
-            "summary": "Millions are unknowingly living with fatty liver disease, a condition that could potentially be mitigated by daily black coffee consumption, according to new research. This insight offers a simple, accessible preventative measure for a widespread health issue.",
-            "key_points": [
-                "Millions suffer from undiagnosed fatty liver disease.",
-                "Daily black coffee consumption might offer protection.",
-                "Provides a simple, accessible preventative measure."
-            ]
-        },
-        {
-            "headline": "Not Again: The World Must Be Too Clever For Yet Another Pandemic Disaster",
-            "summary": "This article emphasizes the urgent need for global preparedness to prevent another pandemic disaster, calling for smarter strategies based on past lessons. It advocates for international cooperation and robust public health infrastructure to safeguard against future outbreaks.",
-            "key_points": [
-                "Emphasizes urgent need for global pandemic preparedness.",
-                "Calls for smarter strategies based on past lessons.",
-                "Advocates for international cooperation and robust health infrastructure."
+                "A baby tragically died in France due to extreme heat, the fourth child fatality this week.",
+                "Authorities urge extreme caution and protective measures for vulnerable groups.",
+                "The ongoing heatwave poses a severe public health crisis.",
+                "These deaths highlight the critical danger of extreme temperatures, especially for children."
             ]
         }
     ]
