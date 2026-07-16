@@ -1,631 +1,531 @@
 {
     "World": [
         {
-            "headline": "'Hormuz to remain closed until end of America's evils': Iran defiant as US continues strikes",
-            "summary": "Iran declared the Strait of Hormuz will remain closed until 'America's evils' end, amidst ongoing US strikes. This defiant stance comes as tensions rapidly escalate in the Middle East, indicating a direct confrontation over the strategic waterway.",
+            "headline": "Middle East crisis: Tehran rocked by US strikes as Iran targets Bahrain and Kuwait",
+            "summary": "The conflict between the United States and Iran has escalated with US military strikes on Iranian defense systems and Iran retaliating against US allies. Commercial shipping in the Strait of Hormuz is at high risk, severely impacting global oil prices and raising fears of a wider regional war. Diplomatic efforts are ongoing to salvage a fragile peace agreement amidst continued military exchanges.",
             "key_points": [
-                "Iran declares Strait of Hormuz will remain closed until US strikes cease.",
-                "The statement reflects escalating tensions and defiance against US actions.",
-                "The situation points to a direct confrontation over the critical shipping lane."
+                "US launched strikes on Iran's coastal defenses and military infrastructure.",
+                "Iran retaliated by targeting US allies (Kuwait, Bahrain, Jordan) and commercial vessels.",
+                "The Strait of Hormuz, a critical energy chokepoint, faces severe shipping risks.",
+                "Global oil prices have risen sharply due to supply disruption fears."
             ]
         },
         {
-            "headline": "US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%",
-            "summary": "US senators have revised a Russia sanctions bill, significantly reducing proposed tariffs on major energy buyers like India and China from 500% to 100%. The updated legislation aims to pressure Moscow while securing broader political support and targeting Russia's shadow fleet and financial institutions.",
+            "headline": "Man charged with murder after Indian woman stabbed to death at home in London",
+            "summary": "A 24-year-old Indian woman was fatally stabbed at her London residence, leading to a murder and attempted murder charge against a man. Her family alleges the attack was racially motivated and is seeking government assistance, having sold land to fund her education in the UK. British Sikh groups have expressed concern over rising race-based attacks targeting vulnerable individuals.",
             "key_points": [
-                "Revised US Russia sanctions bill reduces proposed tariffs on India and China.",
-                "Tariff threat for major energy importers cut from 500% to 100%.",
-                "Legislation aims to pressure Moscow and target its shadow fleet/financial institutions.",
-                "The update seeks to secure broader political support for the sanctions."
-            ]
-        },
-        {
-            "headline": "Trump pressures Netanyahu to pull Israeli forces out of Syria, Lebanon",
-            "summary": "President Trump has urged Prime Minister Netanyahu to withdraw Israeli military forces from Syria, despite Netanyahu's insistence on border security. The US is also pushing for a mutual security arrangement between Israel and Syria, as regional tensions rise due to escalating incidents.",
-            "key_points": [
-                "President Trump urged Netanyahu to withdraw Israeli forces from Syria.",
-                "Netanyahu insists on maintaining presence for border security reasons.",
-                "US is mediating a mutual security arrangement between Israel and Syria.",
-                "Regional tensions are escalating due to recent incidents."
-            ]
-        },
-        {
-            "headline": "Thailand scraps plan to end visa-free entry for Indians",
-            "summary": "Thailand has reversed its previous proposal, reinstating 30-day visa-exempt entries for Indian tourists. This decision aims to boost tourism, which has seen a decline in arrivals from India, aligning with Indian travel behavior after an earlier plan to eliminate visa-free access.",
-            "key_points": [
-                "Thailand reintroduces 30-day visa-free entry for Indian tourists.",
-                "The decision reverses an earlier proposal to end visa-free access.",
-                "Aims to revitalize tourism and boost Indian visitor numbers."
-            ]
-        },
-        {
-            "headline": "FBI adds Indian-origin man to most wanted list over alleged organised crime links",
-            "summary": "The FBI has added Nitish Kaushal, an Indian-origin man, to its most wanted list due to his alleged involvement with the Jaggu Bhagwanpuria organized crime group. This move is part of broader efforts targeting criminal networks, following similar actions against Lawrence Bishnoi and Goldy Brar in connection with a Canadian assassination.",
-            "key_points": [
-                "Indian-origin Nitish Kaushal added to FBI's most wanted list.",
-                "Alleged links to the Jaggu Bhagwanpuria organized crime group.",
-                "Part of a wider crackdown on criminal networks like Lawrence Bishnoi's."
-            ]
-        },
-        {
-            "headline": "Darline Graham sworn in as South Carolina’s first woman senator",
-            "summary": "Darline Graham has been sworn into the US Senate, making history as South Carolina's first woman senator. She was appointed by Governor Henry McMaster to complete the term of her late brother, Lindsey Graham, which runs until January 2027.",
-            "key_points": [
-                "Darline Graham becomes South Carolina's first woman senator.",
-                "She was appointed to complete her late brother Lindsey Graham's term.",
-                "Her term in the US Senate extends until January 2027."
-            ]
-        },
-        {
-            "headline": "Watch: Riots erupt in France after 0-2 FIFA World Cup semifinal defeat to Spain",
-            "summary": "France's 2026 FIFA World Cup journey ended with a 2-0 semifinal loss to Spain, triggering widespread riots across the country. Thousands of disappointed fans gathered in public spaces, with social media claims of unrest circulating, highlighting the national disappointment.",
-            "key_points": [
-                "France lost 2-0 to Spain in the FIFA World Cup semifinal.",
-                "Widespread riots erupted across France following the defeat.",
-                "Thousands of disappointed fans gathered in public squares, causing unrest."
-            ]
-        },
-        {
-            "headline": "Middle East crisis: Government lodges protest with Iran as sailor dies in fresh attacks",
-            "summary": "India has officially protested to Iran following the death of an Indian sailor amidst fresh attacks in the Middle East crisis. This highlights the growing concern for Indian citizens caught in the escalating regional conflict, and India's commitment to protecting its diaspora.",
-            "key_points": [
-                "India lodged a protest with Iran over an Indian sailor's death.",
-                "The incident occurred during renewed attacks in the Middle East.",
-                "India expresses growing concern for its citizens in the conflict zone."
-            ]
-        },
-        {
-            "headline": "On South China Sea, government backs tribunal ruling against Beijing",
-            "summary": "India's government has reiterated its support for the tribunal ruling against Beijing regarding the South China Sea dispute. This stance reinforces international law and transparency in maritime affairs, aligning with broader regional and global interests for a rules-based order.",
-            "key_points": [
-                "India supports the tribunal's ruling against Beijing on the South China Sea.",
-                "The stance emphasizes international law and transparent maritime conduct.",
-                "Aligns with India's broader regional and global strategic interests."
-            ]
-        },
-        {
-            "headline": "Beyond the border: How India is building the firepower to strike targets 1,000km away",
-            "summary": "India is significantly enhancing its military capabilities, developing the firepower to strike targets up to 1,000 km away. This strategic upgrade aims to bolster national security and project power beyond its immediate borders, marking a major defense advancement.",
-            "key_points": [
-                "India is developing military capabilities to strike targets 1,000 km away.",
-                "The initiative aims to bolster national security and project power.",
-                "This signifies a major advancement in India's defense strategy."
-            ]
-        },
-        {
-            "headline": "India and Russia to Sign Northern Sea Route Shipping MoU: Gov't",
-            "summary": "India and Russia are poised to sign a Memorandum of Understanding (MoU) on Northern Sea Route shipping, a move that will significantly impact global trade and logistics. This pact aims to establish a new, shorter maritime corridor, fostering enhanced economic cooperation between the two nations and opening new avenues.",
-            "key_points": [
-                "India and Russia plan to sign an MoU on Northern Sea Route shipping.",
-                "The agreement will establish a new, shorter global maritime trade corridor.",
-                "It aims to enhance economic cooperation and logistics between the two countries."
+                "Indian woman fatally stabbed in her London home; a man has been charged.",
+                "The victim's family claims the attack was racially motivated and seeks government support.",
+                "British Sikh groups are concerned about increasing race-based attacks."
             ]
         },
         {
             "headline": "US–Israeli War Against Iran (February 28, 2026–Present)",
-            "summary": "The US-Israeli conflict against Iran, which began on February 28, 2026, continues to intensify, marking a significant escalation of tensions in the Middle East. The ongoing confrontation has broad geopolitical implications for regional stability and international relations, raising global concerns.",
+            "summary": "The ongoing US-Israeli conflict with Iran includes US strikes on Iran's Shahid Kalantari Port and Iranian retaliation against the US Fifth Fleet drone command center in Bahrain. The US is also accused of strikes that killed at least 30 civilians in southern Iran. US Senators' threat of sanctions on India and China for trading with Russia, while allowing European allies a 'free pass,' highlights perceived hypocrisy in international relations.",
             "key_points": [
-                "The US-Israeli conflict with Iran began on February 28, 2026.",
-                "It represents a significant escalation of tensions in the Middle East.",
-                "The ongoing confrontation has broad geopolitical implications for regional stability."
+                "Ongoing US-Israeli conflict with Iran involving strikes and counter-strikes.",
+                "US targeted Iran's Shahid Kalantari Port despite its link to India.",
+                "Iran retaliated by striking the US Fifth Fleet drone command center in Bahrain.",
+                "US Senators threaten sanctions on India for Russia trade, but not European allies."
             ]
         },
         {
-            "headline": "Energy security is a key focus of Jaishankar’s four-nation Gulf tour: MEA",
-            "summary": "India's External Affairs Minister Jaishankar is undertaking a four-nation Gulf tour with a primary focus on energy security. This diplomatic initiative aims to strengthen partnerships and ensure stable energy supplies for India amidst global uncertainties, securing vital resources.",
+            "headline": "Ukraine Conflict Updates",
+            "summary": "The Ukraine conflict continues with intensified Russian military actions, including claims of destroying Ukrainian unmanned boats and hitting military supply ships at Yuzhny Port. Russian forces have targeted drone manufacturing facilities in Odessa and missile plants in Kiev, enabling assault operations. Ukraine reports six fatalities and numerous injuries from recent Russian strikes on Sumy and Odesa.",
             "key_points": [
-                "EAM Jaishankar's Gulf tour prioritizes energy security for India.",
-                "The diplomatic initiative aims to strengthen partnerships in the region.",
-                "The goal is to ensure stable energy supplies amidst global uncertainties."
+                "Russia claims destruction of Ukrainian unmanned boats and military supply ships.",
+                "Russian strikes targeted Ukrainian drone and missile manufacturing facilities in Odessa and Kiev.",
+                "Ukraine reports six fatalities and multiple injuries from Russian strikes on Sumy and Odesa.",
+                "The Kremlin states that security guarantees for Ukraine cannot be drafted without Russia's involvement."
             ]
         },
         {
-            "headline": "India closely monitoring developments in West Asia: MEA on US strike near Chabahar port",
-            "summary": "India's Ministry of External Affairs (MEA) is closely monitoring developments in West Asia, particularly following a US strike near Chabahar port. The MEA stated India's concerns regarding regional stability and its strategic interests in the port, emphasizing its importance for regional connectivity.",
+            "headline": "'Very cute': US President Donald Trump welcomes new $1 coin with his face on it",
+            "summary": "A new commemorative US dollar coin featuring President Donald Trump is scheduled for release in autumn 2026, coinciding with America's 250th birthday. The coin's design includes Trump's image alongside traditional American symbols. Critics have raised concerns about the move conflicting with an 1866 law, though the Treasury Department asserts its legality under a 2020 act.",
             "key_points": [
-                "India's MEA is monitoring West Asia after a US strike near Chabahar port.",
-                "India expressed concerns about regional stability.",
-                "Chabahar port holds strategic importance for India's interests."
+                "New US dollar coin will feature President Donald Trump for America's 250th birthday.",
+                "The commemorative coin is slated for release in autumn 2026.",
+                "Critics cite an 1866 law, but the Treasury Department defends its legality under a 2020 act."
             ]
         },
         {
-            "headline": "MEA responds as Canadian police link Nijjar killing to Lawrence Bishnoi gang",
-            "summary": "India's Ministry of External Affairs (MEA) has responded to Canadian police linking the killing of Hardeep Singh Nijjar to the Lawrence Bishnoi gang. The MEA reiterated India's consistent stance on law enforcement cooperation and addressing cross-border crime, emphasizing shared responsibilities.",
+            "headline": "'Certain elements' in Israeli government want endless war, says JD Vance",
+            "summary": "US VP JD Vance has stated that \"certain elements\" within the Israeli government are pushing for a prolonged, ",
             "key_points": [
-                "India's MEA responded to Canadian police linking Nijjar's killing to the Bishnoi gang.",
-                "India reaffirmed its commitment to law enforcement cooperation.",
-                "The response emphasizes addressing cross-border crime between nations."
+                "US VP JD Vance claims \"certain elements\" in Israeli government seek \"endless war.\"",
+                "This highlights potential internal divisions regarding the conflict's duration."
             ]
         },
         {
-            "headline": "India urges safe and unimpeded passage via Strait of Hormuz: MEA in reaction to proposed US naval blockade and 20% toll",
-            "summary": "India's Ministry of External Affairs (MEA) has called for safe and unimpeded passage through the Strait of Hormuz, reacting to a proposed US naval blockade and a 20% toll. This statement underscores India's concern for energy security and unhindered global trade routes, which are critical for its economy.",
+            "headline": "Baltic presidents warn of Russian infrastructure attack plans",
+            "summary": "The presidents of the Baltic states have issued a warning about potential Russian plans to attack critical infrastructure. This concern underscores heightened geopolitical tensions in Europe and raises alarms about regional security. The warning emphasizes the vulnerability of essential services to hostile actions.",
             "key_points": [
-                "India's MEA calls for safe passage through the Strait of Hormuz.",
-                "Reaction to proposed US naval blockade and a 20% toll.",
-                "Underscores India's concerns for energy security and global trade routes."
+                "Baltic presidents warn of potential Russian attacks on critical infrastructure.",
+                "The warning highlights heightened geopolitical tensions in Europe.",
+                "Concerns are raised about regional security and vulnerable essential services."
             ]
         },
         {
-            "headline": "Indonesia to Buy India’s Astra and BrahMos Missiles",
-            "summary": "Indonesia is set to purchase Astra and BrahMos missiles from India, marking a significant development in defense cooperation between the two nations. This deal strengthens India's position as a defense exporter and enhances Indonesia's military capabilities, fostering strategic ties.",
+            "headline": "EU excludes military-age Ukrainian men from temporary protection",
+            "summary": "The European Union has decided to exclude military-age Ukrainian men from its temporary protection scheme. This policy adjustment reflects efforts to encourage their return to Ukraine amid the ongoing conflict. The move aims to support Ukraine's mobilization efforts by having more men available for defense.",
             "key_points": [
-                "Indonesia to acquire Astra and BrahMos missiles from India.",
-                "Marks a significant development in defense cooperation.",
-                "Strengthens India's role as a defense exporter."
+                "EU excludes military-age Ukrainian men from temporary protection scheme.",
+                "The policy aims to encourage their return to Ukraine.",
+                "The decision supports Ukraine's mobilization efforts amidst the conflict."
             ]
         },
         {
-            "headline": "US Targeted Chabahar Port Despite Knowing About the India Link: Ex-Envoy",
-            "summary": "A former envoy stated that the US targeted Chabahar Port despite being aware of its strategic links with India. This highlights the complexities of geopolitical actions in the region and potential implications for India's foreign policy and interests, raising concerns about diplomatic relations.",
+            "headline": "Zelenskyy dismisses Ukraine’s popular Defence Minister Fedorov",
+            "summary": "Ukrainian President Zelenskyy has dismissed his popular Defence Minister Fedorov, an unexpected change in leadership amidst the ongoing conflict. This move could signal a shift in military strategy or an attempt to streamline the defense apparatus. The dismissal has prompted speculation regarding the reasons behind the decision.",
             "key_points": [
-                "US targeted Chabahar Port, despite awareness of India's strategic links.",
-                "Highlights complexities of geopolitical actions in the region.",
-                "Raises potential implications for India's foreign policy and interests."
+                "Ukrainian President Zelenskyy has dismissed Defence Minister Fedorov.",
+                "The unexpected leadership change occurs amidst the ongoing conflict.",
+                "The dismissal could indicate a shift in military strategy."
             ]
         },
         {
-            "headline": "Ukraine forces hit more than 100 Russian vessels in Azov in eight days",
-            "summary": "Ukrainian forces have reportedly struck over 100 Russian vessels in the Sea of Azov within an eight-day period. This significant maritime assault indicates a stepped-up Ukrainian offensive aimed at disrupting Russian naval operations and logistics in the region, intensifying the conflict.",
+            "headline": "Iran executes man over January protests as crackdown on dissent widens",
+            "summary": "Iran has executed a man convicted of arson during the January protests, signaling a widening crackdown on dissent within the country. This action intensifies concerns about human rights and political freedoms. International observers are closely monitoring the situation as authorities continue to suppress opposition.",
             "key_points": [
-                "Ukrainian forces claim to have hit over 100 Russian vessels in the Sea of Azov.",
-                "The attacks occurred within an intense eight-day period.",
-                "Signifies a major Ukrainian offensive to disrupt Russian naval operations."
+                "Iran executes a man convicted of arson during January protests.",
+                "The action signifies a widening crackdown on dissent.",
+                "Concerns are intensifying over human rights and political freedoms in Iran."
             ]
         },
         {
-            "headline": "EU says threats against ICC 'unacceptable' as US targets court",
-            "summary": "The European Union has condemned US threats against the International Criminal Court (ICC) as 'unacceptable,' reiterating its strong support for the court's independence. This stance highlights a growing transatlantic divide over international legal institutions and accountability, impacting global governance.",
+            "headline": "One dead and three missing after boat sinks near Alcatraz Island",
+            "summary": "A boat sinking near Alcatraz Island has resulted in one fatality, with three individuals reported missing. Emergency services are actively conducting search and rescue operations following the tragic incident. The cause of the sinking is currently under investigation.",
             "key_points": [
-                "EU condemns US threats against the International Criminal Court as 'unacceptable'.",
-                "The EU reaffirms its strong support for the ICC's independence.",
-                "Highlights a growing transatlantic divide over international legal institutions."
+                "Boat sinks near Alcatraz Island, resulting in one dead and three missing.",
+                "Search and rescue operations are underway.",
+                "The cause of the incident is under investigation."
             ]
         },
         {
-            "headline": "France flaunts firepower and unity with allies at Bastille Day parade",
-            "summary": "France showcased its military might and allied unity during the Bastille Day parade, a display designed to project strength and solidarity on the global stage. The event underscored France's commitment to defense and its alliances in a complex global security landscape, sending a strong message.",
+            "headline": "Sudan's 'war economy' fuelling conflict, United Nations says",
+            "summary": "The United Nations has stated that Sudan's \"war economy\" is actively fueling the ongoing conflict in the country. This highlights how illicit economic activities and resource control sustain and intensify the violence. The UN emphasizes the urgent need to dismantle these economic drivers of conflict.",
             "key_points": [
-                "France displayed its military might and allied unity at the Bastille Day parade.",
-                "The event was a demonstration of strength and solidarity.",
-                "Underscores France's commitment to defense and international alliances."
-            ]
-        },
-        {
-            "headline": "US strikes Bushehr as Iran's parliament tables bill to control Hormuz",
-            "summary": "The US has launched strikes on Bushehr, Iran, coinciding with Iran's parliament tabling a bill to control the Strait of Hormuz. This simultaneous escalation underscores heightened tensions and a direct confrontation over strategic maritime choke points, pushing the region closer to conflict.",
-            "key_points": [
-                "US launched strikes on Bushehr, Iran.",
-                "Iran's parliament tabled a bill to control the Strait of Hormuz simultaneously.",
-                "Actions signify heightened tensions and direct confrontation over strategic waterways."
-            ]
-        },
-        {
-            "headline": "Brussels warns dialogue with China 'will not suffice'",
-            "summary": "Brussels has issued a warning that mere dialogue with China 'will not suffice' to address pressing issues, signaling a shift towards a more assertive European Union stance. This suggests a growing inclination to complement diplomatic efforts with other measures to tackle economic and political challenges with Beijing.",
-            "key_points": [
-                "Brussels warns that dialogue alone with China is insufficient.",
-                "Signals a shift towards a more assertive EU stance on China.",
-                "Suggests complementary measures beyond diplomacy to address challenges."
-            ]
-        },
-        {
-            "headline": "Ukraine parliament dismisses Prime Minister Svyrydenko",
-            "summary": "Ukraine's parliament has voted to dismiss Prime Minister Svyrydenko, a significant political development amidst the ongoing conflict. This change in leadership could lead to shifts in government strategy and internal dynamics during a critical period for the nation, impacting its war efforts.",
-            "key_points": [
-                "Ukraine's parliament voted to dismiss Prime Minister Svyrydenko.",
-                "This is a significant political change during the ongoing conflict.",
-                "Could lead to shifts in government strategy and internal dynamics."
+                "UN states Sudan's 'war economy' fuels the ongoing conflict.",
+                "Illicit economic activities and resource control sustain the violence.",
+                "The UN calls for dismantling these economic drivers of conflict."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "‘If you don’t want E20, you can buy 100% petrol, but pay more’: Nitin Gadkari",
-            "summary": "Union Minister Nitin Gadkari stated that consumers who don't want E20 (20% ethanol blend) petrol can opt for 100% petrol, but at a higher cost. This clarifies the government's stance on ethanol blending and its impact on fuel choices and pricing, promoting cleaner fuel alternatives.",
+            "headline": "Indian Govt Approves $13.3 Billion Project to Expand Semiconductor Programme",
+            "summary": "The Indian government has approved a substantial $13.3 billion project to significantly expand its semiconductor program. This massive investment underscores India's strategic ambition to become a major player in global semiconductor manufacturing and reduce its reliance on imports. The initiative aims to boost domestic production and create a robust ecosystem for chip fabrication.",
             "key_points": [
-                "Nitin Gadkari confirms option for 100% petrol over E20 blend.",
-                "Purchasing 100% petrol will incur a higher cost.",
-                "Statement clarifies government's stance on ethanol blending policy."
+                "Indian government approves $13.3 billion for semiconductor program expansion.",
+                "Aims to boost domestic semiconductor manufacturing and reduce import reliance.",
+                "Seeks to establish India as a major player in the global chip industry."
             ]
         },
         {
-            "headline": "IBM's 'ugly moment': Worst fall since 1987, $69 bn wiped out — Why did stock crash 25%?",
-            "summary": "IBM shares plummeted 25%, wiping out $69 billion in market value, marking its steepest one-day decline since the 1987 'Black Monday' crash. The sharp fall, dubbed an 'ugly moment,' also impacted other software stocks, raising concerns across the tech sector and investor confidence.",
+            "headline": "Union Cabinet clears Rs 1.9 lakh crore push for chips, mobile phones",
+            "summary": "The Union Cabinet has approved a substantial Rs 1.9 lakh crore incentive package designed to boost the manufacturing of semiconductors and mobile phones in India. This initiative aims to transform India into a global hub for electronics manufacturing, attracting significant investments and fostering technological self-reliance. The move is expected to create numerous jobs and strengthen the domestic electronics supply chain.",
             "key_points": [
-                "IBM shares plunged 25%, erasing $69 billion in market value.",
-                "This marks IBM's worst single-day fall since the 1987 'Black Monday'.",
-                "The stock crash triggered concerns across the broader software sector."
+                "Union Cabinet approves Rs 1.9 lakh crore incentive for chip and mobile phone manufacturing.",
+                "Aims to make India a global hub for electronics manufacturing.",
+                "Expected to attract investments, foster self-reliance, and create jobs."
             ]
         },
         {
-            "headline": "Opinion: India-UK trade deal is about far more than exports",
-            "summary": "The Union commerce minister highlighted that the India-UK free trade deal, effective today, extends benefits beyond Indian exporters to white-collar service sector professionals across various skillsets. This broader impact signifies a comprehensive economic partnership rather than a narrow trade agreement, promising wider economic benefits.",
+            "headline": "India exports $140 million worth of goods to UK at zero duty on Day 1 of trade pact implementation",
+            "summary": "On the very first day of the India-UK trade pact's implementation, India successfully exported goods worth $140 million to the UK at zero duty. This immediate impact highlights the significant benefits and opportunities presented by the newly signed trade agreement for Indian businesses. The zero-duty access is expected to boost Indian exports and strengthen bilateral trade relations.",
             "key_points": [
-                "India-UK free trade deal becomes effective today.",
-                "Benefits extend beyond Indian exporters to white-collar service professionals.",
-                "The deal represents a comprehensive economic partnership, not just trade."
+                "India exported $140 million worth of goods to the UK at zero duty on Day 1 of the new trade pact.",
+                "Highlights immediate benefits and opportunities for Indian businesses.",
+                "Expected to boost Indian exports and bilateral trade relations."
             ]
         },
         {
-            "headline": "Not so ‘treasured’ anymore! Why India, China are stacking up gold and trimming US Treasuries exposure",
-            "summary": "India and China are increasingly accumulating gold reserves while simultaneously reducing their exposure to US Treasuries. This strategic shift reflects a broader de-dollarization trend and a move towards diversifying national reserves amidst global economic uncertainties and geopolitical shifts.",
+            "headline": "TVS arm Home Credit to buy education loan company for Rs 967 crore",
+            "summary": "TVS Group's financial services arm, Home Credit, is set to acquire an education loan company for a significant sum of Rs 967 crore. This strategic acquisition indicates TVS's aggressive expansion in the financial services sector, particularly in the rapidly growing education financing market. The move is expected to enhance Home Credit's market presence and product offerings.",
             "key_points": [
-                "India and China are increasing their gold holdings.",
-                "Both nations are reducing their exposure to US Treasuries.",
-                "This indicates a broader trend of de-dollarization and reserve diversification."
+                "TVS Home Credit is acquiring an education loan company for Rs 967 crore.",
+                "The acquisition marks TVS's expansion in the financial services sector.",
+                "Aims to strengthen presence in the education financing market."
             ]
         },
         {
-            "headline": "Gold Silver Rate Today Live Updates: Gold rallies over 2% to $4,063 as weak US data boosts investor sentiments",
-            "summary": "Gold prices surged over 2%, reaching $4,063, driven by weak US economic data which boosted investor sentiments towards safe-haven assets. This rally reflects market reactions to economic uncertainties and shifts in investment strategies, highlighting gold's traditional role during instability.",
+            "headline": "Ficci chief: It's for industry to take advantage of FTAs",
+            "summary": "The Ficci chief has strongly urged Indian industries to proactively leverage Free Trade Agreements (FTAs) to their full potential. This call-to-action emphasizes the importance for businesses to utilize these pacts for enhanced growth, increased competitiveness, and broader market access. By actively engaging with FTAs, industries can optimize their global trade strategies.",
             "key_points": [
-                "Gold prices surged over 2%, hitting $4,063.",
-                "Weak US economic data fueled investor demand for gold.",
-                "The rally indicates a flight to safe-haven assets amid market uncertainties."
+                "Ficci chief urges Indian industry to fully utilize Free Trade Agreements (FTAs).",
+                "Emphasizes FTAs for enhanced growth and increased competitiveness.",
+                "Aims to optimize global trade strategies for Indian businesses."
             ]
         },
         {
-            "headline": "Wholesale inflation touches 27-month high of 9.9% in June",
-            "summary": "Wholesale inflation in India surged to a 27-month high of 9.9% in June, indicating significant price pressures across various sectors. This rise could impact consumer prices and the broader economic outlook, prompting potential policy responses from the government and central bank.",
+            "headline": "BIG: India-Russia to sign Northern Sea Route cargo pact",
+            "summary": "India and Russia are poised to sign a crucial cargo pact for the Northern Sea Route (NSR), a strategic shipping lane that offers a shorter passage between Europe and Asia. This agreement is expected to significantly boost trade and connectivity between the two nations, opening up new economic opportunities and reducing transit times. The pact underscores growing bilateral cooperation in logistics and maritime trade.",
             "key_points": [
-                "Wholesale inflation in India reached a 27-month high of 9.9% in June.",
-                "The surge reflects significant price pressures across multiple sectors.",
-                "This rise could impact consumer prices and the overall economic outlook."
+                "India and Russia are set to sign a cargo pact for the Northern Sea Route (NSR).",
+                "The agreement aims to boost trade and connectivity, offering new economic opportunities.",
+                "The NSR provides a shorter shipping passage between Europe and Asia."
             ]
         },
         {
-            "headline": "Oil price today: Crude tops $85 a barrel as US restores Strait of Hormuz blockade",
-            "summary": "Crude oil prices have risen above $85 a barrel after the US reportedly restored a blockade of the Strait of Hormuz. This geopolitical development in the critical shipping lane is driving up global oil benchmarks due to supply concerns, creating market volatility.",
+            "headline": "Russian AURUS Cashmere signs India manufacturing deal for wool-blend fabrics",
+            "summary": "Russian company AURUS Cashmere has finalized a significant manufacturing deal in India for the production of wool-blend fabrics. This collaboration highlights growing economic ties and investment opportunities between India and Russia within the textile sector. The agreement is expected to boost local manufacturing and strengthen bilateral trade relations in textiles.",
             "key_points": [
-                "Crude oil prices surpassed $85 a barrel.",
-                "The rise follows reports of a restored US blockade in the Strait of Hormuz.",
-                "Geopolitical tensions in the strait are impacting global oil supply and prices."
+                "Russian AURUS Cashmere signs manufacturing deal in India for wool-blend fabrics.",
+                "The collaboration signifies growing India-Russia economic ties in the textile sector.",
+                "Aims to boost local manufacturing and strengthen bilateral trade."
             ]
         },
         {
-            "headline": "India and Maldives Wrap Up First Round of FTA Negotiations",
-            "summary": "India and Maldives have successfully concluded their first round of Free Trade Agreement (FTA) negotiations, marking a step towards strengthening economic ties. This initial progress sets the stage for future discussions aimed at boosting bilateral trade and investment between the two nations.",
+            "headline": "India is in talks to import wool from Russia’s Kalmykia region",
+            "summary": "India is currently in discussions to import wool from Russia's Kalmykia region, indicating a potential expansion of trade relations between the two countries. This prospective agreement would diversify India's sourcing of raw materials and further strengthen economic cooperation. The talks highlight India's interest in securing diverse and reliable supply chains.",
             "key_points": [
-                "India and Maldives completed their first round of FTA negotiations.",
-                "This signals progress in strengthening bilateral economic relations.",
-                "The talks aim to enhance trade and investment between the two countries."
-            ]
-        },
-        {
-            "headline": "Russia’s Kalmykia eyes wool trade with India",
-            "summary": "Russia's Kalmykia region is actively exploring increased wool trade opportunities with India, aiming to expand bilateral economic ties. This initiative seeks to diversify India's sources for textile raw materials and strengthen commercial links between the two regions.",
-            "key_points": [
-                "Russia's Kalmykia region is exploring increased wool trade with India.",
-                "The initiative aims to strengthen bilateral economic ties.",
-                "It could diversify India's sources for textile raw materials."
-            ]
-        },
-        {
-            "headline": "India-Russia trade many-fold growth on the horizon: Textile Minister",
-            "summary": "India's Textile Minister announced that India-Russia trade is poised for many-fold growth, signaling robust economic cooperation between the two countries. This projection highlights strategic efforts to expand bilateral commerce across various sectors, building on existing partnerships.",
-            "key_points": [
-                "India-Russia trade is projected for many-fold growth.",
-                "The Textile Minister highlighted robust economic cooperation.",
-                "Strategic efforts are underway to expand bilateral commerce."
-            ]
-        },
-        {
-            "headline": "Bharat Tex showcases world’s textile ecosystem — from heritage handlooms to next-gen innovations: Textile Minister",
-            "summary": "Bharat Tex is showcasing the global textile ecosystem, from traditional handlooms to cutting-edge innovations, highlighting India's comprehensive capabilities in the sector. The Textile Minister emphasized the event's role in positioning India as a global textile hub, attracting international attention.",
-            "key_points": [
-                "Bharat Tex features the global textile ecosystem, from handlooms to innovations.",
-                "Highlights India's comprehensive capabilities in the textile sector.",
-                "Aims to position India as a leading global textile hub."
+                "India is negotiating to import wool from Russia's Kalmykia region.",
+                "The potential agreement aims to strengthen trade relations.",
+                "Diversifies India's sourcing of raw materials."
             ]
         },
         {
             "headline": "Oil Slips to $70: What’s Next for Petrol and Inflation in India?",
-            "summary": "Oil prices have dipped to $70, prompting questions about the future impact on petrol prices and inflation within India. This development could offer some relief to consumers and potentially influence the Reserve Bank of India's monetary policy decisions, easing economic pressures.",
+            "summary": "With global oil prices dropping to $70 per barrel, the article explores the significant implications for petrol prices and inflation within India. A sustained decrease in crude oil costs could offer substantial relief for consumers, potentially lowering fuel expenses and curbing inflationary pressures. This development presents a positive outlook for the Indian economy and household budgets.",
             "key_points": [
-                "Oil prices have fallen to $70 per barrel.",
-                "This raises questions about its impact on petrol prices in India.",
-                "Could influence inflation rates and RBI's monetary policy decisions."
+                "Oil prices drop to $70 per barrel, impacting India's economy.",
+                "Could lead to lower petrol prices and reduced inflation in India.",
+                "Presents a positive outlook for Indian consumers and the economy."
             ]
         },
         {
-            "headline": "China's June exports surge 27% from year earlier as AI demand grows",
-            "summary": "China's exports surged by 27% in June compared to the previous year, primarily driven by robust global demand for AI-related products and components. This strong performance highlights China's pivotal role in the technology supply chain and the growing impact of AI on international trade dynamics.",
+            "headline": "How Internationalisation of Indian Rupee Strengthens India's Sovereignty?",
+            "summary": "This analysis delves into how the internationalization of the Indian Rupee contributes to strengthening India's economic sovereignty and global standing. It examines how reduced reliance on foreign currencies for international trade and transactions enhances India's financial independence. Furthermore, it highlights the potential for increased geopolitical influence as the Rupee gains wider acceptance as a global currency.",
             "key_points": [
-                "China's June exports increased 27% year-over-year.",
-                "The surge is largely due to strong global demand for AI-related products.",
-                "Highlights China's crucial role in the technology supply chain."
+                "Internationalization of Indian Rupee strengthens India's economic sovereignty.",
+                "Reduces reliance on foreign currencies for international trade.",
+                "Enhances India's financial independence and geopolitical influence."
             ]
         },
         {
-            "headline": "ECB selects 36 payment providers for digital euro pilot",
-            "summary": "The European Central Bank (ECB) has chosen 36 payment providers to participate in its digital euro pilot project, signaling a significant step towards the potential launch of a central bank digital currency. This selection aims to test various aspects of the digital euro's functionality and user experience before a full rollout.",
+            "headline": "What’s Fuelling India’s Military Stock Surge Amid Global Turmoil",
+            "summary": "The article investigates the key factors driving a significant surge in India's military stock amidst ongoing global turmoil and geopolitical uncertainties. It points to increased domestic defense production, strategic investments in advanced weaponry, and a heightened focus on national security as primary drivers. The surge reflects India's ambition to bolster its defense capabilities and reduce dependence on foreign suppliers.",
             "key_points": [
-                "ECB selected 36 payment providers for the digital euro pilot project.",
-                "This is a significant step towards a potential central bank digital currency.",
-                "The pilot aims to test the digital euro's functionality and user experience."
+                "Examines factors behind India's military stock surge amid global turmoil.",
+                "Key drivers include increased domestic defense production and strategic investments.",
+                "Reflects India's ambition to bolster defense capabilities and self-reliance."
+            ]
+        },
+        {
+            "headline": "China’s AI strength can’t fix debt, ageing and weak demand",
+            "summary": "China's economy is currently struggling with growth rates below target, facing significant structural challenges including mounting debt, an aging population, and weak domestic demand. Despite its advanced capabilities in artificial intelligence, a single technological strength is unlikely to resolve these fundamental and deeply entrenched economic issues. The country needs comprehensive reforms to address its demographic and financial hurdles.",
+            "key_points": [
+                "China's economy is experiencing growth rates below target.",
+                "Faces major challenges including mounting debt, an aging population, and weak demand.",
+                "AI strength is insufficient to resolve these fundamental economic issues."
+            ]
+        },
+        {
+            "headline": "BRICS as Global South Voice: What it Means for World Order",
+            "summary": "This piece examines the burgeoning role of BRICS as a collective voice for the Global South and its profound implications for the evolving world order. It discusses how the expanded bloc is challenging existing geopolitical power structures and promoting a more multilateral approach to global governance. The group's growing influence seeks to amplify the concerns and interests of developing nations.",
+            "key_points": [
+                "BRICS is emerging as a strong collective voice for the Global South.",
+                "It challenges existing geopolitical power structures in the world order.",
+                "Promotes a more multilateral approach to global governance and global equity."
+            ]
+        },
+        {
+            "headline": "AI demand lifts Europe's biggest company ASML's sales forecast",
+            "summary": "Strong global demand for artificial intelligence (AI) technology has significantly boosted the sales forecast for ASML, Europe's largest company and a critical supplier in the semiconductor industry. This upward revision indicates the profound economic impact of the AI boom on leading technology suppliers. ASML's performance reflects the accelerating investment in AI infrastructure worldwide.",
+            "key_points": [
+                "AI demand significantly boosts sales forecast for ASML, Europe's largest company.",
+                "ASML is a critical supplier in the semiconductor industry.",
+                "Highlights the profound economic impact of the AI boom on tech suppliers."
+            ]
+        },
+        {
+            "headline": "Inflation steady at 3.2% in June despite rising electricity prices",
+            "summary": "Inflation remained steady at 3.2% in June, a notable achievement despite an increase in electricity prices. This suggests that other economic factors are effectively counterbalancing the rising cost of energy, contributing to overall price stability. The consistent inflation rate provides a measure of economic predictability amidst varying market pressures.",
+            "key_points": [
+                "Inflation remained steady at 3.2% in June.",
+                "This occurred despite rising electricity prices.",
+                "Other economic factors are balancing energy costs, maintaining price stability."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Everyone wants to kill Google Chrome, and OpenAI's Atlas shows why nobody can",
-            "summary": "Despite widespread attempts to challenge its dominance, Google Chrome remains resilient, a phenomenon exemplified by OpenAI's Atlas project, which struggles to unseat it. This article explores the factors contributing to Chrome's enduring market leadership in the browser wars, including its ecosystem and features.",
+            "headline": "Chandrayaan-3: the day India became a space superpower",
+            "summary": "The monumental success of the Chandrayaan-3 mission marked a pivotal moment, officially establishing India's status as a space superpower. This achievement showcased India's advanced capabilities in lunar exploration and space technology. It demonstrated the country's growing prowess and ambition in the global space race.",
             "key_points": [
-                "Google Chrome maintains its market dominance despite competition.",
-                "OpenAI's Atlas project is cited as an example of failed attempts to unseat it.",
-                "The article analyzes factors contributing to Chrome's enduring leadership."
+                "Chandrayaan-3's success solidified India's position as a space superpower.",
+                "Demonstrated India's advanced capabilities in lunar exploration.",
+                "Showcased the nation's growing prowess in space technology."
             ]
         },
         {
-            "headline": "What's behind Apple's 41-page lawsuit against ChatGPT-maker OpenAI: Trade secrets, talent and the battle for ...",
-            "summary": "Apple has filed a 41-page lawsuit against OpenAI, the creator of ChatGPT, alleging theft of trade secrets and a talent poaching scheme. This legal battle highlights the fierce competition for AI talent and intellectual property within the rapidly evolving artificial intelligence industry, signaling a major industry clash.",
+            "headline": "'Employee revolt' brewing inside ChatGPT-maker OpenAI",
+            "summary": "An \"employee revolt\" is reportedly brewing within OpenAI, the company behind ChatGPT, sparked by significant financial donations (over $215,000) made by a group of employees to an undisclosed cause. This internal dissent points to potential tensions or ideological disagreements within the leading AI research organization. The situation indicates underlying unrest among its workforce.",
             "key_points": [
-                "Apple sued OpenAI for alleged theft of trade secrets and talent poaching.",
-                "The detailed lawsuit spans 41 pages.",
-                "Highlights fierce competition for AI talent and intellectual property."
+                "An \"employee revolt\" is reported within OpenAI, ChatGPT's creator.",
+                "Triggered by over $215,000 in employee donations to an undisclosed cause.",
+                "Suggests internal tensions or disagreements within the company."
+            ]
+        },
+        {
+            "headline": "'Has severely hit projects': Govt tightens Isro exit rules as 120 scientists quit in a year",
+            "summary": "The Indian government has tightened exit rules for scientists at the Indian Space Research Organisation (ISRO) following a concerning trend of 120 resignations within a single year. Officials noted that these departures have \"severely hit projects.\" This measure aims to retain critical talent and protect sensitive research and development within the nation's premier space agency.",
+            "key_points": [
+                "Government tightens ISRO exit rules after 120 scientists quit in a year.",
+                "Resignations have \"severely hit projects.\"",
+                "Aims to retain critical talent and protect sensitive research."
+            ]
+        },
+        {
+            "headline": "New technology helps EPFO clear claims faster",
+            "summary": "The Employees' Provident Fund Organisation (EPFO) is successfully implementing new technology to significantly expedite the processing of claims. This innovative approach aims to improve efficiency, reduce turnaround times for beneficiaries, and enhance the overall service delivery. The technological upgrade is a step towards more streamlined and prompt financial services for employees.",
+            "key_points": [
+                "EPFO is using new technology to speed up claim processing.",
+                "Aims to improve efficiency and reduce turnaround times for beneficiaries.",
+                "Enhances service delivery for financial services to employees."
+            ]
+        },
+        {
+            "headline": "How Microsoft believes AI sovereignty can bridge the global divide",
+            "summary": "Microsoft proposes that fostering AI sovereignty can effectively bridge the global digital divide, enabling nations to control their own AI infrastructure and data. This approach aims to promote equitable AI development worldwide and reduce dependence on dominant tech powers. By empowering countries to manage their AI destinies, it can ensure broader access and fair competition in the AI landscape.",
+            "key_points": [
+                "Microsoft suggests AI sovereignty can bridge the global digital divide.",
+                "Enables nations to control their AI infrastructure and data.",
+                "Aims to promote equitable AI development and reduce dependence on dominant tech powers."
+            ]
+        },
+        {
+            "headline": "UK plans voluntary overnight social media curfew for teens",
+            "summary": "The UK government is reportedly planning to introduce a voluntary overnight social media curfew specifically for teenagers. This initiative aims to address growing concerns about youth mental health, excessive screen time, and its impact on academic performance. The measure seeks to encourage healthier digital habits among adolescents.",
+            "key_points": [
+                "UK government plans a voluntary overnight social media curfew for teens.",
+                "Aims to address youth mental health and excessive screen time concerns.",
+                "Seeks to encourage healthier digital habits among adolescents."
             ]
         },
         {
             "headline": "Russia's new aircraft 'MC-21-310' set to transform civil aviation",
-            "summary": "Russia's new MC-21-310 aircraft is poised to revolutionize civil aviation with its advanced design and capabilities. This development marks a significant step for Russia's aerospace industry, aiming to compete in the global commercial aircraft market and reduce reliance on foreign models.",
+            "summary": "Russia's new MC-21-310 aircraft is poised to bring a significant transformation to civil aviation, offering advanced features and improved efficiency. This modern jetliner promises enhanced passenger comfort and operational capabilities, potentially challenging existing market leaders in the narrow-body segment. Its deployment is expected to reshape air travel experiences.",
             "key_points": [
-                "Russia's new MC-21-310 aircraft is expected to transform civil aviation.",
-                "The aircraft features advanced design and capabilities.",
-                "It represents a significant step for Russia's aerospace industry in global competition."
-            ]
-        },
-        {
-            "headline": "Google faces probe for giving Swiss users fewer options than in the EU",
-            "summary": "Google is under investigation for allegedly offering Swiss users fewer options compared to its European Union counterparts. This probe examines potential discrepancies in digital services and consumer choices, raising questions about equitable access and market practices across different regions.",
-            "key_points": [
-                "Google is investigated for offering fewer options to Swiss users than EU users.",
-                "The probe examines discrepancies in digital services and consumer choices.",
-                "Raises questions about equitable access and market practices across regions."
-            ]
-        },
-        {
-            "headline": "Can AI deliver humanitarian aid faster and safer?",
-            "summary": "The potential of Artificial Intelligence to deliver humanitarian aid more rapidly and safely is being explored through new initiatives. AI systems could optimize logistics, predict crises, and enhance response efficiency in disaster-stricken areas, potentially saving countless lives.",
-            "key_points": [
-                "AI's potential for faster and safer humanitarian aid delivery is being explored.",
-                "AI systems could optimize logistics and predict crisis zones.",
-                "The goal is to enhance response efficiency in disaster-stricken areas."
-            ]
-        },
-        {
-            "headline": "Solar met 25% of EU power needs in June thanks to quick installations",
-            "summary": "Solar energy supplied 25% of the European Union's power needs in June, largely due to rapid installation rates across the bloc. This achievement highlights the growing role of renewable energy in meeting electricity demand and accelerating the transition away from fossil fuels, boosting energy independence.",
-            "key_points": [
-                "Solar energy fulfilled 25% of the EU's power needs in June.",
-                "Rapid installation rates across the EU contributed significantly to this achievement.",
-                "Highlights the growing role of renewables in meeting electricity demand."
+                "Russia's new MC-21-310 aircraft is set to transform civil aviation.",
+                "Offers advanced features, improved efficiency, and enhanced passenger comfort.",
+                "Potentially challenges existing market leaders in the narrow-body segment."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Christopher Nolan on making The Odyssey: Contradiction is one of the most interesting and evocative things that storytelling can deal with",
-            "summary": "Celebrated director Christopher Nolan discussed his approach to making 'The Odyssey,' emphasizing that contradiction is a key element for compelling storytelling. He believes exploring conflicting ideas creates depth and resonance in narrative arcs, making stories more impactful and thought-provoking.",
+            "headline": "Priyanka Chopra lands nomination for Best Actress in an Action Movie",
+            "summary": "Priyanka Chopra has secured a coveted Critics Choice Super Award nomination for Best Actress in an Action Movie, highlighting her strong performance in the genre. This recognition further solidifies her international presence and versatility as an actress. 'Superman' and 'The Boys' led other nominations, showcasing a strong year for action-oriented content.",
             "key_points": [
-                "Christopher Nolan discussed his work on 'The Odyssey'.",
-                "He views contradiction as a vital and evocative storytelling element.",
-                "Nolan believes conflicting ideas enhance narrative depth and impact."
+                "Priyanka Chopra nominated for Best Actress in an Action Movie at Critics Choice Super Awards.",
+                "The nomination highlights her strong performance and international presence.",
+                "'Superman' and 'The Boys' led overall nominations."
             ]
         },
         {
-            "headline": "Christopher Nolan speaks on future of cinema and rejection of AI slop",
-            "summary": "Director Christopher Nolan shared his views on the future of cinema, particularly his strong stance against 'AI slop,' referring to low-quality content generated by artificial intelligence. He emphasized the importance of human creativity and artistic integrity in filmmaking, advocating for traditional craft.",
+            "headline": "Alia's emotional speech steals the show at Akansha's wedding",
+            "summary": "Alia Bhatt delivered a heartfelt and emotional speech at Akansha's wedding, which reportedly became one of the most talked-about moments of the event. Her words resonated deeply with guests, adding a personal and memorable touch to the celebration. The speech underscored her close bond with the bride and her expressive nature.",
             "key_points": [
-                "Christopher Nolan discussed the future of cinema.",
-                "He strongly rejects 'AI slop' or low-quality AI-generated content.",
-                "Nolan emphasizes human creativity and artistic integrity in filmmaking."
+                "Alia Bhatt gave an emotional speech at Akansha's wedding.",
+                "The speech was widely praised and became a highlight of the event.",
+                "It underscored her close bond with the bride."
             ]
         },
         {
-            "headline": "Haaland-mania in Peru sees hundreds of babies named after Norwegian",
-            "summary": "'Haaland-mania' has swept Peru, leading to hundreds of babies being named after the Norwegian football star Erling Haaland. This cultural phenomenon highlights the immense global impact of sports figures and their influence beyond the athletic field, reflecting widespread admiration.",
+            "headline": "Routine Keeping Him Active At 83: Amitabh Bachchan follows disciplined sleep, diet and workouts",
+            "summary": "At the age of 83, legendary actor Amitabh Bachchan maintains an impressive level of activity through a highly disciplined routine encompassing sleep, diet, and workouts. His commitment to regular blogging and consistent health check-ups further supports his overall well-being. This rigorous regimen enables him to remain active and engaged in his profession.",
             "key_points": [
-                "Hundreds of babies in Peru are named after footballer Erling Haaland.",
-                "The phenomenon highlights the global impact of sports figures.",
-                "Reflects the widespread cultural influence of celebrities beyond sports."
+                "Amitabh Bachchan, at 83, maintains an active lifestyle through a disciplined routine.",
+                "His routine includes structured sleep, diet, and workouts.",
+                "Regular blogging and health check-ups contribute to his sustained well-being."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "'Don’t settle for India A, aim for 100 Tests': Ashish Nehra’s advice to Ashok Sharma",
-            "summary": "Former cricketer Ashish Nehra advised promising young talent Ashok Sharma to aspire beyond playing for India A and aim for the significant milestone of 100 Test matches. Nehra's counsel emphasizes long-term vision and dedication in a cricketer's career, encouraging top-tier aspirations.",
+            "headline": "Shubman Gill's chase at Edgbaston showed why India already have Virat Kohli's ODI heir",
+            "summary": "Shubman Gill's exceptional performance in the chase at Edgbaston has convincingly demonstrated his potential as Virat Kohli's successor in One-Day International (ODI) cricket for India. His remarkable innings showcased the temperament, skill, and match-winning ability required for such a crucial role. This display has ignited confidence that India already has a formidable heir in the making.",
             "key_points": [
-                "Ashish Nehra advised Ashok Sharma to aim for 100 Test matches.",
-                "He urged Sharma not to settle for just playing for India A.",
-                "The advice emphasizes long-term vision and dedication in cricket."
+                "Shubman Gill's Edgbaston chase highlights his potential as Virat Kohli's ODI heir.",
+                "His performance showcased temperament, skill, and match-winning ability.",
+                "Ignites confidence in his future role for Indian cricket."
             ]
         },
         {
-            "headline": "India end England's 12-year home stronghold at Edgbaston with six-wicket win",
-            "summary": "India clinched a six-wicket victory against England at Edgbaston, ending England's 12-year home dominance at the venue. Axar Patel's four wickets restricted England to 258, while Shubman Gill's 80 and Patel's unbeaten 57 guided India to chase the target with 28 balls remaining.",
+            "headline": "FIFA World Cup 2026: Argentina's Foreign Ministry issues statement after 'Las Malvinas' banner sparks FIFA controversy",
+            "summary": "Argentina's Foreign Ministry issued a statement regarding the controversial \"Las Malvinas\" banner displayed by their team during FIFA World Cup 2026 celebrations. The political message intertwined with the sporting event sparked significant controversy, drawing international attention. This diplomatic intervention addressed the team's actions and the broader geopolitical implications of the banner.",
             "key_points": [
-                "India defeated England by six wickets at Edgbaston.",
-                "The win ended England's 12-year home stronghold at the venue.",
-                "Axar Patel took four wickets and scored 57 not out.",
-                "Shubman Gill contributed 80 runs to India's chase."
-            ]
-        },
-        {
-            "headline": "FIFA World Cup: Yamal shines as Spain outclass Mbappe’s France to reach their second final",
-            "summary": "Spain advanced to their second World Cup final since 2010 with a dominant 2-0 victory over top-ranked France, spearheaded by the impressive performance of teenage sensation Lamine Yamal. Mikel Oyarzabal converted a first-half penalty, and Pedro Porro sealed the win, setting up a final clash against either Argentina or England.",
-            "key_points": [
-                "Spain defeated France 2-0 to reach the FIFA World Cup final.",
-                "Teenage prodigy Lamine Yamal was pivotal in Spain's victory.",
-                "Mikel Oyarzabal and Pedro Porro scored the goals.",
-                "Spain will face either Argentina or England in the final."
-            ]
-        },
-        {
-            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
-            "summary": "Indian-origin cricketer Jatinder Singh has been named to lead Oman in the upcoming Asia Cup 2025. His appointment marks a significant moment for the Oman cricket team and highlights the growing diversity in international cricket leadership, showcasing talent from diverse backgrounds.",
-            "key_points": [
-                "Indian-origin Jatinder Singh will captain Oman in Asia Cup 2025.",
-                "This marks a significant leadership role for the Oman cricket team.",
-                "Highlights growing diversity in international cricket leadership."
+                "Argentina's Foreign Ministry commented on the controversial 'Las Malvinas' banner.",
+                "The banner was displayed during FIFA World Cup 2026 celebrations.",
+                "The incident sparked controversy due to its political message."
             ]
         },
         {
             "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "An event preview for Neeraj Chopra's participation in the Diamond League Final provides details on his competition, start time, and live telecast information for viewers in India. This highlights the growing national interest in track and field and Chopra's status as a top athlete, drawing significant viewership.",
+            "summary": "An exclusive preview of Neeraj Chopra's much-anticipated event at the Diamond League Final is now available, providing essential details for Indian fans. The preview includes information on the event's precise timing and various live telecast options in India. This ensures that supporters can follow their Olympic champion's performance closely as he competes on the global stage.",
             "key_points": [
-                "Preview for Neeraj Chopra's Diamond League Final event is available.",
-                "Includes details on competition, timing, and live telecast in India.",
-                "Underscores national interest in Chopra's athletic performance."
+                "Preview available for Neeraj Chopra's Diamond League Final event.",
+                "Includes precise timing and live telecast information for India.",
+                "Allows Indian fans to follow their Olympic champion's performance."
             ]
         },
         {
             "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "Prime Minister Modi remarked that chess is experiencing a surge in popularity among Indian youth, as the FIDE World Cup is hosted in India. His statement underscores the government's recognition of chess as a mind sport and its potential for youth development, encouraging mental agility.",
+            "summary": "As India hosts the prestigious FIDE World Cup, Prime Minister Narendra Modi has highlighted the increasing popularity of chess among Indian youth. This statement underscores the growing engagement with the intellectual sport across the country. PM Modi's remarks reflect a broader trend of recognizing and promoting chess as a valuable activity for mental development.",
             "key_points": [
                 "PM Modi notes the increasing popularity of chess among Indian youth.",
-                "Comments made during the FIDE World Cup hosted in India.",
-                "Highlights chess's role in youth development and mental sport."
+                "Statement made as India hosts the FIDE World Cup.",
+                "Highlights growing engagement with chess across the country."
             ]
         },
         {
-            "headline": "France and Spain meet in the most expensive World Cup semi-final ever",
-            "summary": "The FIFA World Cup semi-final between France and Spain was dubbed the most expensive in history, reflecting the immense financial stakes involved in player valuations, broadcast rights, and sponsorship deals. This underscores the massive commercialization of top-tier international football tournaments and their economic impact.",
+            "headline": "Messi's reaction after Argentina players find England goalkeeper's secret penalty notes",
+            "summary": "Lionel Messi and his Argentina teammates created a viral moment after their World Cup semi-final victory over England when they were seen inspecting Jordan Pickford's penalty notes, taped to his water bottle. Messi's amused reaction quickly became one of the tournament's most talked-about moments. The incident added a lighthearted yet memorable touch to their significant win.",
             "key_points": [
-                "France vs. Spain semi-final was labeled the most expensive in World Cup history.",
-                "Reflects immense financial stakes in player valuations and broadcast rights.",
-                "Highlights the significant commercialization of international football tournaments."
+                "Messi and Argentina teammates inspected England goalkeeper's penalty notes.",
+                "The incident occurred after their World Cup semi-final victory.",
+                "Messi's amused reaction became a viral moment of the tournament."
+            ]
+        },
+        {
+            "headline": "Spain knock out France to reach 2026 World Cup final",
+            "summary": "Spain has successfully defeated France, securing their highly coveted spot in the 2026 World Cup final. This victory marks a significant achievement in the tournament, setting the stage for an exciting championship match. Spain's consistent strong performance throughout the competition has culminated in this impressive advancement.",
+            "key_points": [
+                "Spain defeated France to reach the 2026 World Cup final.",
+                "The victory marks a significant achievement in the tournament.",
+                "Highlights Spain's strong performance throughout the competition."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "T-rex fossil ‘Gus’ sells for record $50.1 million at Sotheby’s",
-            "summary": "A 67-million-year-old Tyrannosaurus rex fossil, known as 'Gus,' fetched a record $50.1 million at a Sotheby's auction, making it the most expensive dinosaur fossil ever sold. This sale surpassed previous records, including that of the stegosaurus 'Apex' and the T. rex 'Stan,' highlighting a booming market for rare paleontological specimens.",
+            "headline": "Scientist finds demon cavefish in pool beneath US military base",
+            "summary": "In a remarkable discovery, a scientist has identified a new species of eyeless fish, aptly named the 'demon cavefish,' in Bobcat Cave beneath a US military base. This fascinating creature has uniquely evolved to thrive in complete darkness, exhibiting no eyes or pigmentation. Intriguingly, it cohabits with another sightless predator, showcasing the resilience of unique wildlife in subterranean environments.",
             "key_points": [
-                "T-rex fossil 'Gus' sold for a record $50.1 million at Sotheby's.",
-                "It is now the world's most expensive dinosaur fossil.",
-                "The 67-million-year-old fossil surpassed previous records."
+                "New eyeless fish species, 'demon cavefish,' discovered under a US military base.",
+                "The creature evolved to thrive in complete darkness, lacking eyes and pigmentation.",
+                "It cohabits with another sightless predator, highlighting unique subterranean wildlife."
             ]
         },
         {
-            "headline": "Scientists are racing to solve the mystery of Poland’s 90-year-old Crooked Forest before its bizarre C-shaped pine trees die out forever",
-            "summary": "Scientists are urgently investigating Poland's 90-year-old Crooked Forest to understand why its pine trees grow in a distinctive C-shape before they perish. Researchers aim to unravel this botanical enigma, which remains unexplained despite various theories about human intervention or natural phenomena.",
+            "headline": "Farm left without crops for 15 years turns into wildflower-rich meadow",
+            "summary": "An abandoned Norfolk farm field successfully transformed into a vibrant wildflower-rich meadow over a decade and a half, demonstrating natural ecological restoration. Researchers monitored its evolution post-farming, observing an impressive resurgence of diverse plant species. This evidence suggests that simple, natural restoration techniques, with patience, can often outperform costly commercial methods in reviving ecosystems effectively.",
             "key_points": [
-                "Scientists are studying Poland's 90-year-old Crooked Forest.",
-                "The mystery is the bizarre C-shaped growth of its pine trees.",
-                "Researchers are racing to understand the phenomenon before the trees die out."
+                "An abandoned Norfolk farm field naturally transformed into a wildflower meadow over 15 years.",
+                "Demonstrates impressive resurgence of diverse plant species through natural restoration.",
+                "Suggests patient, natural methods can outperform costly commercial restoration."
             ]
         },
         {
-            "headline": "Indian-origin astronaut Anil Menon lifts-off to ISS: Inside Russia's eight-month mission",
-            "summary": "Indian-origin astronaut Anil Menon has embarked on an eight-month mission to the International Space Station (ISS) aboard a Russian spacecraft. His journey highlights international collaboration in space exploration and marks a significant achievement for the Indian diaspora in science.",
+            "headline": "Scientists tagged thousands of bees and found that just a few do most of the work in every hive",
+            "summary": "A comprehensive study involving thousands of tagged bees revealed a surprising insight: only a small fraction of the bees within a hive perform the majority of the work. This finding offers new understanding into the complex social dynamics and labor distribution among bee colonies. The research challenges previous assumptions about collective effort in insect societies.",
             "key_points": [
-                "Indian-origin astronaut Anil Menon has launched to the ISS.",
-                "He is undertaking an eight-month mission aboard a Russian spacecraft.",
-                "Highlights international collaboration in space and an achievement for the Indian diaspora."
+                "Study revealed a small number of bees do most of the work in a hive.",
+                "Offers new insights into bee social dynamics and labor distribution.",
+                "Challenges previous assumptions about collective effort in bee colonies."
             ]
         },
         {
-            "headline": "Scientists may have solved the 252 million-year-old mystery behind Earth's greatest mass extinction",
-            "summary": "Scientists believe they have uncovered the cause of Earth's greatest mass extinction event, which occurred 252 million years ago and wiped out most life. New research suggests massive volcanic activity in Siberia triggered a cascade of environmental changes, leading to the Permian-Triassic extinction.",
+            "headline": "Are data centres harming bees? Scientists are investigating the impact of electromagnetic fields",
+            "summary": "Scientists are actively investigating whether electromagnetic fields emitted by data centers are negatively impacting bee populations. This crucial research aims to understand the potential environmental effects of rapidly expanding technology infrastructure on vital pollinators. The study seeks to determine if the pervasive electronic signals interfere with bees' navigation or overall health.",
             "key_points": [
-                "Scientists believe they've solved Earth's greatest mass extinction mystery.",
-                "The event occurred 252 million years ago, wiping out most life.",
-                "Massive Siberian volcanic activity is proposed as the primary cause."
+                "Scientists are investigating if data center electromagnetic fields harm bees.",
+                "Research aims to understand environmental effects of technology infrastructure on pollinators.",
+                "Seeks to determine interference with bees' navigation or health."
             ]
         },
         {
-            "headline": "NASA’s New Horizons travelled 3 billion miles over 9 years to reach Pluto – but it was moving too fast to stop when it arrived",
-            "summary": "NASA's New Horizons spacecraft journeyed 3 billion miles over nine years to reach Pluto but was traveling too fast to enter orbit upon arrival. This flyby mission provided unprecedented close-up data and images of the dwarf planet and its moons, revolutionizing our understanding of the outer solar system.",
+            "headline": "Scientists cut climbing vines from a damaged Borneo forest. Its canopy then grew three times faster",
+            "summary": "In a strategic intervention, scientists removed climbing vines from a damaged Borneo forest, resulting in its canopy growing three times faster. This demonstrates how targeted management of invasive species can significantly accelerate forest regeneration and improve ecosystem health. The findings highlight the critical role of such interventions in ecological recovery efforts.",
             "key_points": [
-                "NASA's New Horizons traveled 3 billion miles over 9 years to Pluto.",
-                "The spacecraft performed a flyby due to its high speed, unable to orbit.",
-                "Provided unprecedented data and images of Pluto and its moons."
-            ]
-        },
-        {
-            "headline": "Why do we forget why we walked into a room? The fascinating science behind the 'Doorway Effect'",
-            "summary": "The 'Doorway Effect' describes the common phenomenon of forgetting why one entered a room upon crossing a threshold, and scientists are unraveling its neurological underpinnings. This research suggests that passing through doorways acts as an 'event boundary,' prompting the brain to clear and reset its short-term memory for new environments.",
-            "key_points": [
-                "The 'Doorway Effect' explains forgetting intentions after entering a new room.",
-                "Scientists are studying the neurological basis of this phenomenon.",
-                "Crossing thresholds acts as an 'event boundary,' resetting short-term memory."
-            ]
-        },
-        {
-            "headline": "A 'Super El Nino' is brewing in the Pacific: A weather monster so violent scientists are tempted to hack the clouds",
-            "summary": "A 'Super El Niño,' described as a potentially violent weather phenomenon, is developing in the Pacific Ocean, prompting scientists to consider radical interventions like cloud seeding. This powerful climate pattern is expected to cause extreme weather events globally, from severe droughts to intense rainfall, posing significant challenges.",
-            "key_points": [
-                "A 'Super El Niño' is developing in the Pacific Ocean.",
-                "Scientists are considering cloud seeding as a radical intervention.",
-                "Expected to cause extreme weather events globally, from droughts to heavy rains."
-            ]
-        },
-        {
-            "headline": "Russia launches Soyuz MS-29 into orbit",
-            "summary": "Russia successfully launched the Soyuz MS-29 spacecraft into orbit, heading for the International Space Station (ISS). This mission continues international collaboration in manned spaceflight and resupplies the orbiting laboratory, demonstrating ongoing commitment to space exploration.",
-            "key_points": [
-                "Russia successfully launched the Soyuz MS-29 spacecraft into orbit.",
-                "The mission is bound for the International Space Station (ISS).",
-                "It continues international collaboration in manned spaceflight."
-            ]
-        },
-        {
-            "headline": "Sugar in space? Astronomers find sweet clue to life's origins",
-            "summary": "Astronomers have discovered complex sugar molecules in space, a 'sweet clue' that could offer new insights into the origins of life beyond Earth. This finding suggests that the basic building blocks of life may be more prevalent in the universe than previously thought, fueling astrobiological research.",
-            "key_points": [
-                "Astronomers discovered complex sugar molecules in space.",
-                "This finding offers new insights into the origins of life.",
-                "Suggests life's building blocks may be common throughout the universe."
-            ]
-        },
-        {
-            "headline": "Dutch archaeologists uncover stunning 3,000-year-old Egyptian tomb",
-            "summary": "Dutch archaeologists have unearthed a remarkably preserved 3,000-year-old Egyptian tomb, offering a rare glimpse into ancient burial practices and funerary art. The discovery provides valuable new insights into the history and culture of ancient Egypt, enriching our understanding of its past.",
-            "key_points": [
-                "Dutch archaeologists discovered a remarkably preserved 3,000-year-old Egyptian tomb.",
-                "The tomb offers a rare glimpse into ancient burial practices and funerary art.",
-                "The find provides valuable new insights into ancient Egyptian history and culture."
+                "Scientists removed climbing vines from a damaged Borneo forest.",
+                "The forest canopy grew three times faster after the intervention.",
+                "Highlights how managing invasive species aids forest regeneration."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Blue zone secrets: Why do some Sardinian elders stay so healthy?",
-            "summary": "Researchers are investigating the 'blue zone' secrets of Sardinian elders, who are known for their exceptional longevity and good health. The study explores lifestyle factors, diet, and genetic predispositions that contribute to their extended, healthy lives, hoping to uncover universal health principles.",
+            "headline": "'Not in good shape but ...': Sonam Wangchuk refuses to end fast despite health concerns",
+            "summary": "Sonam Wangchuk continues his 19-day hunger strike despite acknowledging he is \"not in good shape,\" refusing to end his fast. He urged his supporters to join a Parliament march on July 20 instead of asking him to break his protest. Wangchuk believes his ongoing fast sends a powerful message about government accountability, with medical tests consistently showing stable but concerning health results.",
             "key_points": [
-                "Sardinian elders in 'blue zones' are studied for their longevity and health.",
-                "Research focuses on lifestyle, diet, and genetic factors.",
-                "Aims to understand the secrets behind their extended, healthy lives."
+                "Sonam Wangchuk continues his 19-day hunger strike despite health concerns.",
+                "Urges supporters to join a Parliament march instead of asking him to break his fast.",
+                "Believes his protest highlights government accountability.",
+                "Medical tests show stable but concerning health results."
+            ]
+        },
+        {
+            "headline": "Young, slim, and feeling perfectly fine? Why more Indians are being diagnosed with prediabetes without any warning signs",
+            "summary": "A growing number of young, slim Indians are receiving prediabetes diagnoses without exhibiting any typical warning signs, challenging conventional assumptions about the condition. This concerning trend highlights the urgent need for increased awareness and proactive screening, even among seemingly healthy individuals. The lack of symptoms makes early detection particularly difficult, emphasizing lifestyle factors.",
+            "key_points": [
+                "More young, slim Indians are diagnosed with prediabetes without typical warning signs.",
+                "Highlights the urgent need for increased awareness and proactive screening.",
+                "Lack of symptoms makes early detection challenging."
+            ]
+        },
+        {
+            "headline": "Your liver may be silently failing: Doctor reveals 8 warning signs most people mistake for everyday health problems",
+            "summary": "A medical doctor has revealed eight subtle warning signs that could indicate silent liver failure, symptoms often mistakenly attributed to common everyday health problems. Recognizing these crucial indicators early is vital for timely diagnosis and intervention, as liver disease can progress without obvious symptoms. Awareness of these signs can prevent severe complications.",
+            "key_points": [
+                "Doctor reveals 8 subtle warning signs of silent liver failure.",
+                "Symptoms are often mistaken for common everyday health problems.",
+                "Early recognition is vital for timely diagnosis and intervention."
+            ]
+        },
+        {
+            "headline": "French parliament adopts assisted dying bill",
+            "summary": "After years of extensive debate, French Members of Parliament have successfully voted to adopt a bill establishing a right to assisted dying for certain adults suffering from an incurable condition. This landmark decision marks a significant shift in France's approach to end-of-life care and medical ethics. The new legislation is expected to provide greater autonomy for patients facing terminal illnesses.",
+            "key_points": [
+                "French parliament adopts a bill establishing a right to assisted dying.",
+                "Applies to some adults suffering from an incurable condition.",
+                "Marks a significant shift in France's end-of-life care policy."
+            ]
+        },
+        {
+            "headline": "How hot nights are stealing people’s sleep",
+            "summary": "Rising night-time temperatures are increasingly disrupting people's sleep patterns globally, leading to various health issues and decreased productivity. This phenomenon, exacerbated by climate change, highlights a growing public health concern as warmer nights make it difficult to achieve restorative sleep. The continuous lack of quality sleep can have severe long-term health consequences.",
+            "key_points": [
+                "Rising night-time temperatures are disrupting global sleep patterns.",
+                "Leads to various health issues and decreased productivity.",
+                "Exacerbated by climate change, it's a growing public health concern."
+            ]
+        },
+        {
+            "headline": "5 Health benefits of bay leaves: Why this everyday kitchen spice deserves a spot in your diet",
+            "summary": "Bay leaves, a common and aromatic kitchen spice, offer a surprising array of health benefits that warrant their regular inclusion in one's daily diet. These benefits range from aiding digestion and reducing inflammation to possessing antioxidant properties. Incorporating bay leaves can contribute positively to overall wellness and add subtle flavor to meals.",
+            "key_points": [
+                "Bay leaves offer several health benefits, including aiding digestion and reducing inflammation.",
+                "Possess antioxidant properties contributing to overall wellness.",
+                "This everyday kitchen spice deserves a regular spot in your diet."
+            ]
+        },
+        {
+            "headline": "Eye doctor reveals the 7 everyday habits they never skip to protect their vision",
+            "summary": "A leading eye doctor has shared seven daily habits they consistently follow to protect their vision, emphasizing why these simple choices are crucial for long-term eye health. These practices, often overlooked, are essential for maintaining good eyesight and preventing common ocular conditions. The doctor highlights the cumulative impact of small, consistent actions.",
+            "key_points": [
+                "An eye doctor shares 7 daily habits they consistently follow for vision protection.",
+                "Emphasizes the crucial role of simple, consistent choices for long-term eye health.",
+                "These practices are essential for maintaining good eyesight and preventing conditions."
             ]
         },
         {
             "headline": "First Bundibugyo Ebola vaccine to start human trials in the UK",
-            "summary": "The first vaccine specifically designed for the Bundibugyo strain of Ebola is set to begin human trials in the UK. This represents a critical step in combating this particular variant of the deadly virus, offering hope for new preventative measures and global health security.",
+            "summary": "The first vaccine specifically designed to combat the Bundibugyo strain of Ebola is set to commence human trials in the UK. This represents a critical and promising step in developing broader protection against different variants of the deadly Ebola virus. The trials are a crucial phase in accelerating the availability of a much-needed defense against this infectious disease.",
             "key_points": [
-                "First Bundibugyo Ebola vaccine to begin human trials in the UK.",
-                "This is a critical step against a specific, deadly Ebola strain.",
-                "Offers hope for new preventative measures against the virus."
+                "First Bundibugyo Ebola vaccine will begin human trials in the UK.",
+                "A critical step in developing broader protection against Ebola variants.",
+                "Accelerates the availability of defense against this infectious disease."
             ]
         },
         {
             "headline": "Ex-footballers show higher depression and anxiety rates, study finds",
-            "summary": "A new study has revealed that former professional footballers exhibit higher rates of depression and anxiety compared to the general population. The findings highlight the mental health challenges faced by athletes post-retirement, urging for better support systems and awareness within sports communities.",
+            "summary": "A new study has revealed that former professional footballers exhibit significantly higher rates of depression and anxiety compared to the general population. This finding sheds light on the often-overlooked mental health challenges faced by athletes transitioning out of their careers. The research underscores the need for better support systems for ex-footballers.",
             "key_points": [
-                "Study shows ex-footballers have higher rates of depression and anxiety.",
-                "Rates are elevated compared to the general population.",
-                "Findings highlight mental health challenges for retired athletes."
-            ]
-        },
-        {
-            "headline": "Norovirus outbreak affects over 100 people in Portugal",
-            "summary": "A norovirus outbreak has affected over 100 people in Portugal, leading to public health concerns and calls for increased hygiene measures. Authorities are investigating the source and implementing protocols to contain the highly contagious illness, preventing further spread.",
-            "key_points": [
-                "Over 100 people in Portugal are affected by a norovirus outbreak.",
-                "This has raised public health concerns.",
-                "Authorities are investigating the source and implementing containment measures."
+                "Study finds ex-footballers have significantly higher rates of depression and anxiety.",
+                "Highlights mental health challenges faced by athletes post-career.",
+                "Underscores the need for better support systems for former footballers."
             ]
         }
     ]
