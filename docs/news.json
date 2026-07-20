@@ -1,448 +1,484 @@
 {
     "World": [
         {
-            "headline": "'THEY WERE IN BED': Iran KILLS American Troops While 'Asleep'; Missile Storm ROCKS Jordan Base",
-            "summary": "Iran reportedly attacked a Jordan base, killing American troops while they were asleep. This missile storm has rocked the base and significantly escalated tensions in the region.",
+            "headline": "Live Iran claims missile strike on US aircraft in Jordan; two tankers explode in Hormuz",
+            "summary": "Iran has claimed a missile strike on a US aircraft in Jordan, while two tankers reportedly exploded in the Strait of Hormuz. These incidents signal a dangerous escalation in the US-Iran conflict, with potential global implications for energy and security.",
             "key_points": [
-                "Iran attacked a US base in Jordan.",
-                "American troops were killed during the attack while asleep.",
-                "The incident involved a missile storm on the base.",
-                "This event significantly escalates US-Iran tensions."
+                "Iran claims missile strike on US aircraft in Jordan.",
+                "Two tankers exploded in Strait of Hormuz.",
+                "Signifies escalation in US-Iran conflict threatening global energy and security."
             ]
         },
         {
-            "headline": "US forces strike Iran for seventh consecutive night",
-            "summary": "US forces have carried out strikes against Iran for the seventh consecutive night, indicating a sustained and escalating military campaign. This prolonged engagement deepens regional tensions and global concerns.",
+            "headline": "Another US service member killed during Iranian drone detonation",
+            "summary": "A US service member was killed during an ordnance detonation in Iraq amidst escalating US-Iran tensions. This incident follows Iranian missile and drone attacks and US retaliatory strikes, further intensifying the conflict and impacting shipping in the Strait of Hormuz.",
             "key_points": [
-                "US forces struck Iran for seven consecutive nights.",
-                "This marks a sustained and escalating military campaign.",
-                "The actions are deepening regional tensions."
+                "US service member killed in Iraq related to Iranian drone detonation.",
+                "Incident part of escalating US-Iran conflict.",
+                "Impacts shipping in the Strait of Hormuz."
             ]
         },
         {
-            "headline": "'Stop Idiot Zelensky': Ukrainians Erupt Against Own Govt; Chaos In Kyiv On Day 2 | Mykhailo Fedorov",
-            "summary": "Ukrainians are reportedly protesting against their own government, specifically targeting President Zelensky. This unrest has led to chaos in Kyiv on the second day of the demonstrations.",
+            "headline": "US says it struck Iranian forces linked to Jordan attack",
+            "summary": "The US has confirmed striking Iranian forces, stating the action was linked to an attack in Jordan. This retaliation marks a direct escalation in the ongoing tensions and military engagements between the two powers.",
             "key_points": [
-                "Ukrainians are protesting against President Zelensky and their government.",
-                "The protests have caused chaos in Kyiv.",
-                "This indicates internal dissent amidst the ongoing conflict."
+                "US confirms striking Iranian forces.",
+                "Action linked to previous attack in Jordan.",
+                "Marks a direct escalation in US-Iran tensions."
+            ]
+        },
+        {
+            "headline": "Russia Strikes Ukraine's Gas Processing Plant in Kharkov Region: MoD",
+            "summary": "Russia's Ministry of Defense announced a strike on a gas processing plant in Ukraine's Kharkov region. This attack targets critical energy infrastructure amid the ongoing conflict, potentially impacting Ukraine's energy supply.",
+            "key_points": [
+                "Russia struck a gas processing plant in Ukraine's Kharkov region.",
+                "Attack targets critical energy infrastructure.",
+                "Potentially impacts Ukraine's energy supply."
+            ]
+        },
+        {
+            "headline": "At least six dead after Russia's overnight strike on Ukraine",
+            "summary": "An overnight Russian strike on Ukraine has resulted in at least six deaths. This attack further exacerbates the humanitarian toll and destruction caused by the ongoing conflict.",
+            "key_points": [
+                "Russian overnight strike on Ukraine.",
+                "At least six people killed.",
+                "Adds to humanitarian toll of the conflict."
             ]
         },
         {
             "headline": "Ukrainian forces strike 'major' logistics hubs in central Russia",
-            "summary": "Ukrainian forces have reportedly launched strikes against major logistics hubs located in central Russia. These attacks are aimed at disrupting Russian supply lines and military operations.",
+            "summary": "Ukrainian forces reportedly struck major logistics hubs in central Russia. This action, if confirmed, signifies Ukraine's capability to target deeper into Russian territory, impacting military supply chains.",
             "key_points": [
-                "Ukrainian forces targeted major logistics hubs in central Russia.",
-                "The strikes aim to disrupt Russian supply chains.",
-                "This represents a tactical move in the ongoing conflict."
+                "Ukrainian forces reportedly struck major logistics hubs in central Russia.",
+                "Signifies Ukraine's capability to target deeper into Russian territory.",
+                "Impacts Russian military supply chains."
+            ]
+        },
+        {
+            "headline": "Over 370 Drones Flew Toward Moscow Region From Friday Evening: Moscow Mayor",
+            "summary": "The Moscow Mayor reported that over 370 drones were launched towards the Moscow region since Friday evening. This large-scale drone assault indicates an intensified effort to target the Russian capital region.",
+            "key_points": [
+                "Over 370 drones targeted Moscow region.",
+                "Reported by the Moscow Mayor.",
+                "Indicates intensified attacks on the capital."
+            ]
+        },
+        {
+            "headline": "US Targeted Chabahar Port Despite Knowing About the India Link: Ex-Envoy",
+            "summary": "A former envoy revealed that the US targeted Chabahar Port despite being aware of its critical link to India's strategic interests. This action highlights complex geopolitical dynamics and challenges India's regional connectivity initiatives.",
+            "key_points": [
+                "US targeted Chabahar Port despite India's strategic link.",
+                "Highlights complex geopolitical dynamics.",
+                "Challenges India's regional connectivity initiatives."
+            ]
+        },
+        {
+            "headline": "Arizona mass shooting: 10 injured after gunman opens fire in Tucson",
+            "summary": "A mass shooting occurred in downtown Tucson, Arizona, injuring at least ten people early Sunday. Police officers responded, engaging and shooting the suspected gunman, who sustained life-threatening injuries, while the other nine victims are in critical condition.",
+            "key_points": [
+                "Mass shooting in downtown Tucson, Arizona.",
+                "Ten people injured, including the suspected gunman shot by police.",
+                "Nine victims remain in critical condition."
+            ]
+        },
+        {
+            "headline": "Japan Anti-Government Protest Draws 25,000 Despite Record Heat",
+            "summary": "Approximately 25,000 people participated in an anti-government protest in Japan, despite record-high temperatures. The large turnout underscores significant public dissatisfaction with the current administration.",
+            "key_points": [
+                "25,000 people protested against the Japanese government.",
+                "Occurred despite record heat.",
+                "Highlights significant public dissatisfaction."
+            ]
+        },
+        {
+            "headline": "Andrew and Tristan Tate arrested in Miami as UK seeks extradition",
+            "summary": "Andrew and Tristan Tate were arrested in Miami, with the UK seeking their extradition. This international legal development follows charges or investigations against the controversial figures.",
+            "key_points": [
+                "Andrew and Tristan Tate arrested in Miami.",
+                "UK seeking their extradition.",
+                "International legal development."
+            ]
+        },
+        {
+            "headline": "Spain records 70,000 hectares burned this year amid wildfires",
+            "summary": "Spain has reported 70,000 hectares of land burned this year due to ongoing wildfires. This extensive damage highlights the severe environmental impact and challenges posed by the fire season.",
+            "key_points": [
+                "70,000 hectares burned in Spain due to wildfires.",
+                "Highlights severe environmental impact.",
+                "Presents challenges during the fire season."
             ]
         },
         {
             "headline": "Death toll from the two earthquakes that hit Venezuela hits 5,069",
-            "summary": "The combined death toll from two recent earthquakes that struck Venezuela has reached 5,069. This natural disaster has caused widespread devastation and a massive humanitarian crisis in the country.",
+            "summary": "The death toll from two recent earthquakes in Venezuela has tragically risen to 5,069. This catastrophic event has caused widespread devastation and immense loss of life in the country.",
             "key_points": [
-                "Two recent earthquakes in Venezuela caused 5,069 deaths.",
-                "The disaster led to widespread devastation.",
-                "A major humanitarian crisis is ongoing in the country."
+                "Venezuela earthquake death toll reaches 5,069.",
+                "Result of two recent earthquakes.",
+                "Caused widespread devastation."
             ]
         },
         {
-            "headline": "Tsunami alert in Mexico and Guatemala after 7.3 magnitude quake",
-            "summary": "A 7.3 magnitude earthquake has triggered a tsunami alert for coastal regions of Mexico and Guatemala. Authorities are urging residents to take immediate precautions against potential sea surges.",
+            "headline": "China rescuers race to find trapped people after landslide",
+            "summary": "Chinese rescuers are conducting a large-scale operation to find people trapped after a landslide in Pengshui County, Chongqing municipality. The disaster buried part of a residential area, leading to an unknown number of casualties.",
             "key_points": [
-                "A 7.3 magnitude earthquake hit Mexico and Guatemala.",
-                "A tsunami alert has been issued for coastal areas.",
-                "Residents are advised to take immediate precautions."
+                "Landslide in China's Pengshui County.",
+                "Rescuers searching for trapped people.",
+                "Residential area buried, casualties unknown."
             ]
         },
         {
-            "headline": "US-Canada Tariff War ESCALATES; Ontario Premier ANNIHILATES Trump Over Wildfire Remark",
-            "summary": "The tariff war between the US and Canada is escalating, with tensions highlighted by Ontario's Premier strongly criticizing Donald Trump. The criticism specifically addresses Trump's remarks concerning wildfires.",
+            "headline": "Trump and Sánchez meet at World Cup final after two years of tension",
+            "summary": "US President Donald Trump and Spanish President Sánchez met at the World Cup final, marking their first encounter after two years of diplomatic tension. Their meeting at the global event signifies a notable moment in international relations.",
             "key_points": [
-                "US-Canada tariff dispute is worsening.",
-                "Ontario Premier publicly condemned Trump.",
-                "The dispute involves Trump's comments on wildfires."
-            ]
-        },
-        {
-            "headline": "US missile strike destroys civilians’ drinking water in Iran: reports",
-            "summary": "Reports indicate that a US missile strike in Iran has destroyed civilian drinking water infrastructure. This alleged attack raises serious humanitarian concerns amidst the escalating conflict.",
-            "key_points": [
-                "Reports claim US missile strike destroyed Iranian civilian water supply.",
-                "This raises significant humanitarian concerns.",
-                "The incident occurred amid ongoing conflict in the region."
+                "Trump and Sánchez met at World Cup final.",
+                "First meeting after two years of tension.",
+                "Significant moment in international relations."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Punjab National Bank Q1FY27 net profit up 213% to Rs 5253 crore",
-            "summary": "Punjab National Bank reported a significant surge in its Q1FY27 net profit, increasing by 213% to Rs 5253 crore. This substantial growth indicates strong financial performance for the quarter.",
+            "headline": "Live Stock market today: BSE Sensex sheds 500 points, NSE Nifty50 opens below 24,200",
+            "summary": "The Indian stock market experienced a decline today, with the BSE Sensex dropping 500 points and the NSE Nifty50 opening below 24,200. This downturn reflects current investor sentiment and market conditions.",
             "key_points": [
-                "PNB's net profit rose by 213% in Q1FY27.",
-                "The profit reached Rs 5253 crore.",
-                "This reflects strong quarterly financial results."
+                "Indian stock market declines.",
+                "BSE Sensex sheds 500 points.",
+                "NSE Nifty50 opens below 24,200."
             ]
         },
         {
-            "headline": "New money? India's currency might soon get a plastic makeover",
-            "summary": "India's currency is potentially on the verge of a significant transformation, with talks of a plastic makeover for its banknotes. This move could introduce more durable and secure currency into circulation.",
+            "headline": "Oil prices jump 3% as US-Iran conflict intensifies, Brent crude tops $90 per barrel",
+            "summary": "Oil prices surged by 3%, with Brent crude exceeding $90 per barrel, as the US-Iran conflict intensified. The escalating tensions in the Middle East are directly impacting global energy markets and supply chains.",
             "key_points": [
-                "India is considering transitioning to plastic currency.",
-                "The move aims to enhance durability and security of banknotes.",
-                "This would be a major change for the country's financial system."
+                "Oil prices jump 3%, Brent crude tops $90/barrel.",
+                "Driven by intensifying US-Iran conflict.",
+                "Directly impacts global energy markets and supply chains."
             ]
         },
         {
-            "headline": "IRDAI launches comic book series to simplify life insurance for consumers",
-            "summary": "IRDAI has initiated a comic book series designed to demystify life insurance for the average consumer. This innovative approach aims to make complex financial products more accessible and understandable.",
+            "headline": "International gold slips as Middle East tensions push crude higher",
+            "summary": "Gold and silver prices are slipping internationally, primarily driven by rising Middle East tensions that are pushing crude oil prices higher. This complex interplay of geopolitical developments and commodity markets is influencing investor sentiment and bullion prices.",
             "key_points": [
-                "IRDAI created a comic book series.",
-                "The goal is to simplify life insurance concepts.",
-                "This initiative targets wider consumer understanding."
+                "International gold and silver prices are falling.",
+                "Middle East tensions are driving up crude oil prices.",
+                "Geopolitical events are influencing investor sentiment."
             ]
         },
         {
-            "headline": "India's power sector set for strong FY27 growth on rising demand, capacity additions: Report",
-            "summary": "A new report predicts robust growth for India's power sector in FY27, driven by increasing energy demand and significant capacity additions. This outlook signals a positive trajectory for the country's energy infrastructure.",
+            "headline": "Apple raises subscription prices in India",
+            "summary": "Apple has increased its subscription prices in India, which will impact users of various services. This adjustment reflects a strategic decision by the tech giant in the Indian market.",
             "key_points": [
-                "India's power sector is expected strong growth in FY27.",
-                "Growth is fueled by rising demand.",
-                "Capacity additions are also contributing to this expansion."
+                "Apple raises subscription prices in India.",
+                "Will affect Indian users of Apple services.",
+                "Strategic pricing decision by Apple."
             ]
         },
         {
-            "headline": "ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return",
-            "summary": "Individuals who sold shares, property, or cryptocurrency this year need to be aware of specific tax implications before filing their income tax return. Proper reporting of these transactions is crucial to avoid issues.",
+            "headline": "PNB targets $2.5bn via FCNR(B)",
+            "summary": "Punjab National Bank (PNB) aims to raise $2.5 billion through Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits. This move is part of the bank's strategy to bolster its foreign currency reserves and expand its financial operations.",
             "key_points": [
-                "Specific rules apply for ITR filing after selling assets like shares, property, or crypto.",
-                "Taxpayers need to understand these implications.",
-                "Accurate reporting of such sales is essential."
+                "PNB targets $2.5 billion via FCNR(B) deposits.",
+                "Aims to boost foreign currency reserves.",
+                "Part of financial expansion strategy."
             ]
         },
         {
-            "headline": "Sensex soars 965 pts as Q1 results lift mood on Dalaal-Street",
-            "summary": "The Sensex surged by 965 points, boosting market sentiment on Dalaal Street. This positive reaction is attributed to strong Q1 results, indicating a favorable financial climate for investors.",
+            "headline": "Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer",
+            "summary": "India's top five most-valued firms collectively added Rs 1.54 lakh crore to their market capitalization, with TCS leading as the biggest gainer. This surge reflects strong investor confidence and robust performance in the corporate sector.",
             "key_points": [
-                "Sensex experienced a significant rally, gaining 965 points.",
-                "Strong Q1 results were the primary driver.",
-                "This led to a positive mood in the stock market."
+                "Top-5 Indian firms added Rs 1.54 lakh crore to market cap.",
+                "TCS emerged as the biggest gainer.",
+                "Reflects strong investor confidence and corporate performance."
             ]
         },
         {
-            "headline": "How Internationalisation of Indian Rupee Strengthens India's Sovereignty?",
-            "summary": "The article explores how the internationalization of the Indian Rupee contributes to strengthening India's economic sovereignty. This move aims to reduce reliance on foreign currencies and enhance India's global financial standing.",
+            "headline": "From unpaid electric bills to $300M island: Larry Ellison buys Hawaii property 3x the size of SF",
+            "summary": "Tech magnate Larry Ellison, who once struggled with utility bills, has now acquired 98% of a Hawaiian island for $300 million. He plans to transform Lanai into a luxury and sustainable community, showcasing his journey from financial hardship to immense wealth and ambition.",
             "key_points": [
-                "Internationalization of the Indian Rupee enhances national sovereignty.",
-                "It reduces dependence on foreign currencies.",
-                "This boosts India's global financial influence."
+                "Larry Ellison bought 98% of Hawaiian island Lanai for $300 million.",
+                "Plans a luxury and sustainable community.",
+                "Highlights his journey from financial struggle to immense wealth."
             ]
         },
         {
-            "headline": "Oil Slips to $70: What’s Next for Petrol and Inflation in India?",
-            "summary": "With oil prices falling to $70, the article examines the potential implications for petrol prices and inflation rates in India. This decline could offer some relief to consumers and the broader economy.",
+            "headline": "Apple tops Nvidia as world's most valuable company",
+            "summary": "Apple has surpassed Nvidia to become the world's most valuable company, marking a significant shift in market leadership. This reflects strong investor confidence in Apple's diverse portfolio and future growth prospects.",
             "key_points": [
-                "Oil prices dropped to $70.",
-                "This may impact petrol prices in India.",
-                "Potential effects on Indian inflation are discussed."
+                "Apple surpasses Nvidia as world's most valuable company.",
+                "Significant shift in market leadership.",
+                "Reflects strong investor confidence in Apple's portfolio."
             ]
         },
         {
-            "headline": "Dollar hits record high in Iran as rial weakens amid renewed conflict",
-            "summary": "The US dollar has reached a record high against the Iranian rial, which continues to weaken amidst renewed conflict in the region. This financial instability reflects the severe economic pressures on Iran.",
+            "headline": "Indonesia to Buy India’s Astra and BrahMos Missiles",
+            "summary": "Indonesia is set to acquire Astra and BrahMos missiles from India, marking a significant defense deal between the two nations. This procurement strengthens Indonesia's military capabilities and boosts India's position as a defense exporter.",
             "key_points": [
-                "US dollar reached a record high against Iranian rial.",
-                "Iranian rial is weakening due to renewed conflict.",
-                "This indicates severe economic pressure on Iran."
+                "Indonesia to buy Astra and BrahMos missiles from India.",
+                "Significant defense deal between the two nations.",
+                "Strengthens Indonesia's military and India's export position."
             ]
         },
         {
-            "headline": "BlackRock tops $15tn: Where does the financial giant put it all?",
-            "summary": "BlackRock, the world's largest asset manager, has seen its assets under management exceed $15 trillion. The article examines the investment strategies and diverse portfolios where this financial giant deploys its vast capital.",
+            "headline": "India has less than three years left to reach its target of boosting defence exports to over $5 billion by 2029",
+            "summary": "India is rapidly approaching its 2029 target of boosting defense exports to over $5 billion. This ambitious goal highlights the nation's efforts to become a major player in the global defense market and strengthen its indigenous manufacturing.",
             "key_points": [
-                "BlackRock's assets under management surpassed $15 trillion.",
-                "The article explores its investment strategies.",
-                "It discusses where this financial giant deploys its capital."
+                "India aims for $5 billion in defense exports by 2029.",
+                "Highlights efforts to become a global defense player.",
+                "Strengthens indigenous manufacturing."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "India successfully launches first privately developed orbital-class rocket Vikram-1",
-            "summary": "India's first privately developed orbital-class rocket, Vikram-1, successfully reached orbit on its maiden attempt. This historic achievement marks a significant milestone for India's private space sector.",
+            "headline": "Making waves underground: India's first undersea rail tunnel takes shape",
+            "summary": "India's first undersea rail tunnel is progressing, marking a significant engineering feat in infrastructure development. This project aims to enhance connectivity and represents a major advancement in the country's transportation network.",
             "key_points": [
-                "India's Vikram-1 rocket achieved orbit on its first launch.",
-                "It is the country's first privately developed orbital-class rocket.",
-                "This is a historic milestone for India's private space industry."
-            ]
-        },
-        {
-            "headline": "Meet Indian-origin tech leader Uday Ruddaraju, who has become OpenAI's CTO of Compute",
-            "summary": "Uday Ruddaraju, a tech leader of Indian origin, has been appointed as the CTO of Compute at OpenAI. His new role signifies a key position within one of the leading artificial intelligence research organizations.",
-            "key_points": [
-                "Uday Ruddaraju, an Indian-origin tech leader, is now OpenAI's CTO of Compute.",
-                "This is a significant leadership role in a top AI company.",
-                "It highlights Indian talent in global tech."
+                "India's first undersea rail tunnel is under construction.",
+                "Significant infrastructure development.",
+                "Aims to enhance national connectivity."
             ]
         },
         {
             "headline": "India launches first hydrogen-powered passenger train to cut emissions",
-            "summary": "India has launched its inaugural hydrogen-powered passenger train, marking a significant step towards reducing carbon emissions. This initiative aims to decarbonize the railway sector and promote sustainable transportation.",
+            "summary": "India has launched its first hydrogen-powered passenger train, a significant step towards reducing emissions and promoting sustainable transportation. This initiative underscores the country's commitment to green energy and cleaner public transport.",
             "key_points": [
-                "India introduced its first hydrogen-powered passenger train.",
-                "The goal is to cut carbon emissions.",
-                "This is a step towards sustainable transport in the country."
-            ]
-        },
-        {
-            "headline": "Why the EU’s so-called Chat Control law has privacy experts up in arms",
-            "summary": "The proposed EU Chat Control law is facing strong opposition from privacy experts, who are concerned about its implications for digital privacy. Critics argue it could lead to widespread surveillance and undermine encrypted communications.",
-            "key_points": [
-                "EU's Chat Control law is controversial.",
-                "Privacy experts are strongly opposing it.",
-                "Concerns include surveillance and undermining encryption."
-            ]
-        },
-        {
-            "headline": "Apple tops Nvidia as world's most valuable company",
-            "summary": "Apple has surpassed Nvidia to become the world's most valuable company, a significant shift in the global technology market. This change reflects dynamic movements in tech valuations and investor confidence.",
-            "key_points": [
-                "Apple has become the world's most valuable company.",
-                "It surpassed Nvidia for this position.",
-                "This marks a significant change in tech market leadership."
+                "India launched its first hydrogen-powered passenger train.",
+                "Aims to cut emissions and promote sustainable transport.",
+                "Commitment to green energy."
             ]
         },
         {
             "headline": "Four engine failures abort Starship's 13th launch bid at the last second",
-            "summary": "SpaceX's Starship experienced an abort during its 13th launch attempt due to four engine failures just seconds before liftoff. This setback highlights the complex engineering challenges in developing next-generation reusable spacecraft.",
+            "summary": "Starship's 13th launch attempt was aborted at the last second due to four engine failures. This setback highlights the complexities and challenges of advanced rocket development, requiring further engineering adjustments.",
             "key_points": [
-                "Starship's 13th launch attempt was aborted.",
-                "Four engine failures occurred at the last second.",
-                "This points to ongoing challenges in Starship development."
+                "Starship's 13th launch aborted due to engine failures.",
+                "Highlights complexities of advanced rocket development.",
+                "Requires further engineering adjustments."
             ]
         },
         {
-            "headline": "Jealousy, weddings, breakups: When people fall in love with AI",
-            "summary": "As AI technology advances, some individuals are forming deep emotional bonds, including romantic relationships, with artificial intelligence. This phenomenon raises questions about human-AI interaction and the evolving nature of companionship.",
+            "headline": "Xi urges united global AI push as US bans squeeze China's tech access",
+            "summary": "Chinese President Xi Jinping has called for a united global push in artificial intelligence, amidst US bans restricting China's access to critical tech. His appeal underscores China's ambition to lead in AI despite geopolitical challenges.",
             "key_points": [
-                "Some people are developing romantic feelings for AI.",
-                "These relationships involve emotions like jealousy and commitments like 'weddings'.",
-                "It explores the changing dynamics of human companionship."
+                "Xi Jinping calls for united global AI push.",
+                "Amidst US bans on China's tech access.",
+                "Highlights China's AI ambitions despite challenges."
+            ]
+        },
+        {
+            "headline": "Humanoid robots steal the spotlight at Shanghai AI Conference",
+            "summary": "Humanoid robots garnered significant attention at the Shanghai AI Conference, showcasing advancements in artificial intelligence and robotics. Their presence indicates a growing trend towards more sophisticated and human-like robotic applications.",
+            "key_points": [
+                "Humanoid robots prominent at Shanghai AI Conference.",
+                "Highlights advancements in AI and robotics.",
+                "Trend towards sophisticated robotic applications."
+            ]
+        },
+        {
+            "headline": "Russian scientists create world’s first wirelessly charged AA battery",
+            "summary": "Russian scientists have reportedly developed the world's first wirelessly charged AA battery. This innovation could revolutionize portable power solutions, offering greater convenience and efficiency for numerous devices.",
+            "key_points": [
+                "Russian scientists developed world's first wirelessly charged AA battery.",
+                "Potential to revolutionize portable power solutions.",
+                "Offers greater convenience and efficiency."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Yami Gautam and Aditya Dhar celebrate ‘Article 370’ win at the National Awards",
-            "summary": "Yami Gautam and Aditya Dhar are celebrating their film 'Article 370' winning an award at the National Awards. This recognition is a significant achievement for the film and its creators.",
+            "headline": "Nolan's 'The Odyssey' starring scores Rs 70 crore debut in India",
+            "summary": "Christopher Nolan's 'The Odyssey' had a blockbuster opening weekend in India, earning Rs 70 crore. This makes it Nolan's biggest debut film in the country and globally.",
             "key_points": [
-                "Yami Gautam and Aditya Dhar's film 'Article 370' won a National Award.",
-                "The couple is celebrating this significant achievement.",
-                "This highlights the film's success and critical acclaim."
+                "Christopher Nolan's 'The Odyssey' had a massive opening in India.",
+                "Earned Rs 70 crore in its debut weekend.",
+                "Became Nolan's biggest opener in India and worldwide."
             ]
         },
         {
-            "headline": "72nd National Film Awards: Jr NTR celebrates Telugu cinema",
-            "summary": "At the 72nd National Film Awards, Jr NTR celebrated the achievements and recognition received by Telugu cinema. This highlights the growing prominence and success of regional films on a national stage.",
+            "headline": "Taylor Swift and Travis Kelce's wedding invite: 'I won't get into the details of the NDA. But it had teeth,' reveals guest",
+            "summary": "A guest at Taylor Swift and Travis Kelce's wedding revealed that an NDA with significant clauses was required. This detail highlights the high level of privacy surrounding the celebrity couple's event.",
             "key_points": [
-                "Jr NTR lauded Telugu cinema at the 72nd National Film Awards.",
-                "Telugu films received significant recognition.",
-                "This underscores the growing stature of regional cinema."
+                "Taylor Swift and Travis Kelce's wedding.",
+                "Guests signed a strict NDA.",
+                "NDA was described as having 'teeth'."
             ]
         },
         {
-            "headline": "Dhanush says first National Award as director is unforgettable",
-            "summary": "Actor-director Dhanush has described his first National Award as a director as an unforgettable milestone in his career. This achievement marks a significant recognition of his directorial talent.",
+            "headline": "All the A-list celebrities spotted at the 2026 FIFA World Cup Final: From Tom Cruise to Kylie Jenner",
+            "summary": "The 2026 FIFA World Cup Final attracted numerous A-list celebrities, including Tom Cruise and Kylie Jenner. This piece highlights the famous personalities who attended the major sporting event.",
             "key_points": [
-                "Dhanush won his first National Award as a director.",
-                "He considers it an unforgettable career milestone.",
-                "This signifies critical acclaim for his directorial work."
+                "Celebrities attended the FIFA World Cup Final.",
+                "Notable attendees included Tom Cruise and Kylie Jenner.",
+                "Spotlight on A-list personalities at the event."
             ]
         },
         {
-            "headline": "R Madhavan says his son Vedaant's generation of youngsters don't watch Hindi movies or Tamil movies: 'They are watching Korean content, Japanese anime'",
-            "summary": "R Madhavan observed that the younger generation, including his son Vedaant, prefers Korean content and Japanese anime over traditional Hindi or Tamil films. This shift in viewing habits reflects evolving global entertainment consumption.",
+            "headline": "Timothée Chalamet and Kylie Jenner spotted sharing a sweet kiss at the FIFA World Cup",
+            "summary": "Timothée Chalamet and Kylie Jenner were seen sharing a kiss at the FIFA World Cup, confirming their romantic involvement. The celebrity couple's public display of affection garnered attention.",
             "key_points": [
-                "R Madhavan notes a generational shift in content consumption.",
-                "Youngsters prefer Korean content and Japanese anime.",
-                "This indicates a decline in interest for traditional Indian cinema among youth."
+                "Timothée Chalamet and Kylie Jenner seen kissing at World Cup.",
+                "Confirms their relationship status.",
+                "Event drew public attention."
             ]
         },
         {
-            "headline": "Mount Olympus seeks place on UNESCO World Heritage List",
-            "summary": "Mount Olympus, the mythical home of the Greek gods, is actively pursuing a spot on the UNESCO World Heritage List. This nomination aims to recognize and preserve its outstanding cultural and natural significance.",
+            "headline": "Shakira, Madonna and BTS shake up World Cup final",
+            "summary": "The 2026 FIFA World Cup final featured electrifying performances from global superstars Shakira, Madonna, and BTS. Their appearances added a significant entertainment spectacle to the highly anticipated sporting event.",
             "key_points": [
-                "Mount Olympus is nominated for UNESCO World Heritage status.",
-                "The goal is to recognize its cultural and natural importance.",
-                "This would help preserve the iconic site."
+                "Shakira, Madonna, and BTS performed at World Cup final.",
+                "Added significant entertainment to the event.",
+                "Global superstars featured at the sporting spectacle."
             ]
         },
         {
-            "headline": "Oscar-winning Irish actress Brenda Fricker dies aged 81",
-            "summary": "Oscar-winning Irish actress Brenda Fricker has passed away at the age of 81. She was known for her distinguished career in film and television, leaving behind a significant legacy in the acting world.",
+            "headline": "It doesn’t get bigger than this: Maaran team on National Award win",
+            "summary": "The team behind the film 'Maaran' expressed immense joy and pride following their National Award win. They believe this achievement is the pinnacle of their career.",
             "key_points": [
-                "Oscar-winning actress Brenda Fricker died at 81.",
-                "She was an Irish actress with a distinguished career.",
-                "Her death marks a loss for the film industry."
+                "Film 'Maaran' won a National Award.",
+                "Team considers it their biggest achievement.",
+                "Expressed immense joy and pride."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "England beat France 6-4 to clinch FIFA World Cup 2026 bronze medal",
-            "summary": "England defeated France with a score of 6-4 to secure the bronze medal in the FIFA World Cup 2026. This victory marks a significant achievement for the English team in the prestigious tournament.",
+            "headline": "Lionel Messi exits FIFA World Cup in tears and as football's greatest",
+            "summary": "Lionel Messi's FIFA World Cup journey ended in tears after Argentina's loss to Spain in the final. Despite the defeat, he is widely regarded as football's greatest player.",
             "key_points": [
-                "England won the FIFA World Cup 2026 bronze medal.",
-                "They defeated France with a score of 6-4.",
-                "This is a notable accomplishment for the team."
+                "Lionel Messi's final World Cup appearance.",
+                "Argentina lost to Spain in the final.",
+                "Messi solidified his legacy as one of football's greatest."
             ]
         },
         {
-            "headline": "FIFA World Cup Final: Lionel Messi's Argentina eye history, could become first team in 64 years to ...",
-            "summary": "Lionel Messi's Argentina is on the brink of making history in the FIFA World Cup Final, aiming to achieve a feat not seen in 64 years. The team is looking to etch its name into football lore with a unique accomplishment.",
+            "headline": "20-0: How Spain utterly owned Argentina in World Cup final and rendered Messi irrelevant",
+            "summary": "Spain dominated Argentina 1-0 in the World Cup final, with Ferran Torres scoring the decisive goal in extra time. The victory effectively nullified Lionel Messi's impact on the game.",
             "key_points": [
-                "Lionel Messi's Argentina is in the FIFA World Cup Final.",
-                "They are chasing a historic achievement not seen in 64 years.",
-                "The team aims for a unique place in football history."
+                "Spain defeated Argentina 1-0 in World Cup final.",
+                "Ferran Torres scored the winning goal.",
+                "Messi's influence was limited in the match."
             ]
         },
         {
-            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "A preview of Neeraj Chopra's performance at the Diamond League Final is provided, along with details on its telecast time and live coverage in India. Expectations are high for the Indian javelin star at this prestigious event.",
+            "headline": "'He's a disgrace': Argentina star sent off after grabbing Spain player's throat in ugly World Cup final scenes",
+            "summary": "An Argentina player was controversially sent off in the World Cup final for grabbing a Spanish opponent's throat. This incident sparked outrage and marred the major sporting event.",
             "key_points": [
-                "Neeraj Chopra will compete in the Diamond League Final.",
-                "Details for Indian viewers regarding time and telecast are available.",
-                "High expectations are set for his performance."
+                "Argentina player sent off in World Cup final.",
+                "Incident involved grabbing an opponent's throat.",
+                "Caused an 'ugly' scene and sparked outrage."
             ]
         },
         {
-            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "During the FIDE World Cup in India, Prime Minister Modi noted the increasing popularity of chess among Indian youth. This highlights the growing engagement of the younger generation with strategic games in the country.",
+            "headline": "Revealed: The eye-watering amount Spain players will earn for winning the 2026 FIFA World Cup",
+            "summary": "The Spanish players are set to receive a significant payout for their 2026 FIFA World Cup victory. This article details the substantial financial rewards awaiting the team.",
             "key_points": [
-                "PM Modi commented on the rising popularity of chess in India.",
-                "He specifically mentioned youth engagement with the game.",
-                "This was noted during the FIDE World Cup hosted in India."
+                "Spain won the 2026 FIFA World Cup.",
+                "Players will earn a large sum for the victory.",
+                "Substantial financial rewards detailed."
             ]
         },
         {
-            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
-            "summary": "Sarfaraz Khan is in exceptional form, having scored back-to-back centuries, which is sending a strong message to national selectors. His consistent high performance is making a compelling case for higher honors.",
+            "headline": "The Caitlin Clark problem: Indiana Fever guard’s $1,000 penalty sparks concern amid stunning WNBA run",
+            "summary": "Indiana Fever guard Caitlin Clark received a $1,000 penalty, causing concern despite her impressive WNBA performance. This incident raises questions about officiating and player treatment in the league.",
             "key_points": [
-                "Sarfaraz Khan achieved back-to-back centuries.",
-                "His performance is signaling to selectors.",
-                "He is making a strong case for national selection."
-            ]
-        },
-        {
-            "headline": "Deschamps' last match, golden boot race: what is at stake in third-place play-off",
-            "summary": "The third-place play-off match holds significant stakes, including Didier Deschamps' potential final game as coach and the battle for the Golden Boot. This match offers more than just a consolation prize for the teams involved.",
-            "key_points": [
-                "The third-place play-off has high stakes.",
-                "Didier Deschamps might coach his last match.",
-                "The Golden Boot award is also contested."
+                "Caitlin Clark fined $1,000 in WNBA.",
+                "Incident sparks concern amidst her strong performance.",
+                "Raises questions about WNBA officiating."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Nasa's Curiosity rover discovers evidence of an ancient sandstorm preserved in Mars rocks for billions of years",
-            "summary": "NASA's Curiosity rover has uncovered evidence of an ancient sandstorm, perfectly preserved in Martian rocks for billions of years. This discovery provides valuable insights into Mars' historical climate and geological processes.",
+            "headline": "Warming waters push frogs and salamanders to change diets, study finds",
+            "summary": "A new study reveals that warming waters are forcing tadpoles and young amphibians to alter their diets for survival. They are increasing feeding rates and shifting towards more plant material, a strategy that helps them cope with rising energy demands but results in smaller, weaker bodies.",
             "key_points": [
-                "Curiosity rover found evidence of an ancient Martian sandstorm.",
-                "The evidence is preserved in Mars rocks for billions of years.",
-                "This offers insights into Mars' ancient climate."
+                "Warming waters cause amphibians to change diets.",
+                "Increased feeding rates, shift to plant material.",
+                "Strategy for energy demands, but results in smaller bodies.",
+                "Highlights impact of climate change on wildlife."
             ]
         },
         {
-            "headline": "Archaeologists have decoded a 4,000-year-old beer receipt, uncovering fascinating details about ancient drinking culture and society",
-            "summary": "Archaeologists have successfully deciphered a 4,000-year-old beer receipt, revealing intriguing details about ancient drinking habits and societal structures. This discovery provides a unique window into daily life in ancient civilizations.",
+            "headline": "Warming seas are bringing octopus, red mullet and bream into UK waters",
+            "summary": "Warming sea temperatures are causing new marine species like octopus, red mullet, and bream to appear in UK waters. This shift in marine ecosystems reflects the broader impact of climate change on ocean habitats.",
             "key_points": [
-                "A 4,000-year-old beer receipt was decoded by archaeologists.",
-                "It reveals insights into ancient drinking culture.",
-                "The discovery offers details about past societies."
+                "Warming seas attract new species to UK waters.",
+                "Octopus, red mullet, and bream are examples.",
+                "Indicates impact of climate change on marine ecosystems."
             ]
         },
         {
-            "headline": "Why everything Marie Curie and her husband touched is kept in lead-lined boxes till date",
-            "summary": "Objects handled by Marie Curie and her husband Pierre remain stored in lead-lined boxes due to persistent radioactivity from their pioneering work. This practice serves as a stark reminder of the long-term dangers of radiation exposure.",
+            "headline": "DNA from 457 koalas suggests the species nearly went extinct 100,000 years ago, before humans...",
+            "summary": "DNA analysis of 457 koalas suggests the species faced near extinction approximately 100,000 years ago, predating significant human impact. This finding provides crucial historical context for koala conservation efforts.",
             "key_points": [
-                "Marie Curie and Pierre's belongings are stored in lead-lined boxes.",
-                "This is due to residual radioactivity from their work.",
-                "It highlights the lasting dangers of radiation exposure."
+                "Koalas faced near extinction 100,000 years ago.",
+                "Predates significant human impact.",
+                "Informs current conservation strategies."
             ]
         },
         {
-            "headline": "New Iberian rabbit species dated to 2 million years old",
-            "summary": "A new species of Iberian rabbit has been identified, with its origins traced back an astonishing two million years. This discovery provides significant insights into the evolutionary history of rabbits in the region.",
+            "headline": "Russian scientists turn sand into stone using bacteria to build roads in the Arctic",
+            "summary": "Russian scientists are transforming sand into stone using bacteria to construct roads in the Arctic. This innovative biotechnological approach offers a sustainable and robust solution for infrastructure development in challenging polar environments.",
             "key_points": [
-                "A new Iberian rabbit species was discovered.",
-                "It dates back two million years.",
-                "This offers insights into rabbit evolution."
+                "Russian scientists turn sand into stone using bacteria.",
+                "Method for building Arctic roads.",
+                "Innovative and sustainable infrastructure solution."
             ]
         },
         {
-            "headline": "Lake Constance: Wooden shipwreck surprises underwater archaeologists",
-            "summary": "Underwater archaeologists at Lake Constance were surprised by the discovery of a well-preserved wooden shipwreck. This unexpected find offers valuable insights into historical maritime activity in the region.",
+            "headline": "Mediterranean seagrass survives in dim seabed light by expanding its photosynthetic antenna",
+            "summary": "Mediterranean seagrasses can survive in low seabed light by expanding their photosynthetic antenna. This adaptation allows them to maximize light absorption and thrive in challenging underwater environments.",
             "key_points": [
-                "A wooden shipwreck was found in Lake Constance.",
-                "The discovery surprised underwater archaeologists.",
-                "It provides insights into historical maritime activity."
+                "Seagrasses survive in dim light.",
+                "Achieved by expanding photosynthetic antenna.",
+                "Adaptation for challenging underwater environments."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Persistent joint pain in children isn't always growing pains: Doctor explains the early signs of juvenile arthritis parents should never ignore",
-            "summary": "A doctor warns that persistent joint pain in children shouldn't always be dismissed as growing pains, as it could be an early sign of juvenile arthritis. Parents are urged to recognize critical symptoms and seek medical advice.",
+            "headline": "Why you feel tired all the time: Expert reveals how cellular fatigue can affect your energy, brain and overall health",
+            "summary": "An expert explains that persistent tiredness can stem from cellular fatigue, which impacts energy levels, brain function, and overall health. Understanding this concept is crucial for addressing chronic fatigue and improving well-being.",
             "key_points": [
-                "Persistent joint pain in children may not just be growing pains.",
-                "It could indicate early juvenile arthritis.",
-                "Parents should be aware of key symptoms and seek medical attention."
+                "Persistent tiredness linked to cellular fatigue.",
+                "Affects energy, brain, and overall health.",
+                "Understanding is key to addressing chronic fatigue."
             ]
         },
         {
-            "headline": "Doctors warn of fertility risks after Pentagon orders testosterone tests for troops",
-            "summary": "Medical professionals are raising concerns about potential fertility risks among troops following the Pentagon's mandate for testosterone tests. This directive has prompted a discussion about the health implications for service members.",
+            "headline": "Doctor warns these 7 everyday habits can shorten your health span after 50, most people ignore them",
+            "summary": "A doctor has identified seven common everyday habits that can significantly reduce one's health span after the age of 50. Many people tend to overlook these critical lifestyle factors, which can impact long-term well-being.",
             "key_points": [
-                "Pentagon ordered testosterone tests for troops.",
-                "Doctors warn of potential fertility risks associated with these tests.",
-                "This raises health concerns for military personnel."
+                "Seven habits can shorten health span after 50.",
+                "Many people ignore these critical factors.",
+                "Focuses on long-term well-being."
             ]
         },
         {
-            "headline": "Think cataracts only happen after 60? Doctor warns that diabetes is making this eye condition appear decades earlier",
-            "summary": "A doctor indicates that cataracts are now appearing decades earlier than the typical age of 60, largely due to the increasing prevalence of diabetes. This trend highlights a critical link between metabolic health and eye conditions.",
+            "headline": "You don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk",
+            "summary": "A doctor has revealed nine unexpected factors beyond alcohol consumption that can damage the liver. This information is crucial for understanding broader risks to liver health and promoting preventive measures.",
             "key_points": [
-                "Cataracts are appearing earlier than age 60.",
-                "Diabetes is a major factor contributing to this trend.",
-                "This emphasizes the link between diabetes and eye health."
+                "Nine non-alcohol factors can damage the liver.",
+                "Crucial for understanding broader liver health risks.",
+                "Promotes preventive measures."
+            ]
+        },
+        {
+            "headline": "‘Almost one in three people cannot afford a healthy diet’, UN warns",
+            "summary": "The UN has issued a warning that nearly one in three people globally cannot afford a healthy diet. This stark statistic highlights widespread food insecurity and its profound implications for public health and nutrition worldwide.",
+            "key_points": [
+                "UN warns one in three people cannot afford healthy diet.",
+                "Highlights widespread food insecurity.",
+                "Profound implications for public health."
             ]
         },
         {
             "headline": "How to protect your lungs from wildfire smoke",
-            "summary": "Experts provide guidance on how to safeguard respiratory health from the detrimental effects of wildfire smoke. The advice aims to help individuals minimize exposure and protect their lungs during periods of poor air quality.",
+            "summary": "With increasing wildfires, understanding how to protect your lungs from smoke is crucial for public health. This article provides practical advice to minimize respiratory risks during smoke events.",
             "key_points": [
-                "Guidance is offered to protect lungs from wildfire smoke.",
-                "This involves minimizing exposure to smoke.",
-                "The advice is crucial for maintaining respiratory health."
-            ]
-        },
-        {
-            "headline": "Worst week of summer begins as Spain braces for 45ºC heat",
-            "summary": "Spain is entering what is anticipated to be the worst week of summer, with temperatures expected to reach a scorching 45ºC. This severe heatwave poses significant health risks to the population.",
-            "key_points": [
-                "Spain faces its worst summer week with 45ºC temperatures.",
-                "The severe heatwave poses health risks.",
-                "Residents are advised to take precautions."
-            ]
-        },
-        {
-            "headline": "Depression isn't just a winter problem: What to know about summer SAD",
-            "summary": "The article highlights that depression isn't exclusive to winter, explaining the phenomenon of Seasonal Affective Disorder (SAD) that can occur in summer. It provides information on recognizing and managing summer SAD symptoms.",
-            "key_points": [
-                "Depression can also occur in summer, not just winter.",
-                "The article explains Summer Seasonal Affective Disorder (SAD).",
-                "It offers insights into recognizing and managing its symptoms."
+                "Crucial to protect lungs from wildfire smoke.",
+                "Provides practical advice.",
+                "Aims to minimize respiratory risks."
             ]
         }
     ]
