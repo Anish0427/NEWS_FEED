@@ -1,484 +1,747 @@
 {
     "World": [
         {
-            "headline": "Live Iran claims missile strike on US aircraft in Jordan; two tankers explode in Hormuz",
-            "summary": "Iran has claimed a missile strike on a US aircraft in Jordan, while two tankers reportedly exploded in the Strait of Hormuz. These incidents signal a dangerous escalation in the US-Iran conflict, with potential global implications for energy and security.",
+            "headline": "Supreme Court orders new SIT into Ram temple donation theft, will monitor probe",
+            "summary": "The Supreme Court of India has mandated the formation of a new Special Investigation Team (SIT) to investigate the theft of donations made to the Ram temple. The court will actively monitor the progress of this high-profile probe.",
             "key_points": [
-                "Iran claims missile strike on US aircraft in Jordan.",
-                "Two tankers exploded in Strait of Hormuz.",
-                "Signifies escalation in US-Iran conflict threatening global energy and security."
+                "Supreme Court ordered a new SIT for the Ram temple donation theft.",
+                "The court will oversee the investigation process.",
+                "This is a significant development in a sensitive national issue."
             ]
         },
         {
-            "headline": "Another US service member killed during Iranian drone detonation",
-            "summary": "A US service member was killed during an ordnance detonation in Iraq amidst escalating US-Iran tensions. This incident follows Iranian missile and drone attacks and US retaliatory strikes, further intensifying the conflict and impacting shipping in the Strait of Hormuz.",
+            "headline": "Indus Water Treaty in present form no longer exists, Pak aiding terrorism: India",
+            "summary": "India has declared that the Indus Water Treaty, in its current form, is effectively defunct, accusing Pakistan of aiding terrorism. This assertion signals a significant deterioration in relations between the two nuclear-armed neighbors and could have major implications for water sharing.",
             "key_points": [
-                "US service member killed in Iraq related to Iranian drone detonation.",
-                "Incident part of escalating US-Iran conflict.",
-                "Impacts shipping in the Strait of Hormuz."
+                "India states the Indus Water Treaty is no longer valid in its current form.",
+                "India accuses Pakistan of supporting terrorism.",
+                "This marks a significant escalation in India-Pakistan relations."
             ]
         },
         {
-            "headline": "US says it struck Iranian forces linked to Jordan attack",
-            "summary": "The US has confirmed striking Iranian forces, stating the action was linked to an attack in Jordan. This retaliation marks a direct escalation in the ongoing tensions and military engagements between the two powers.",
+            "headline": "Four Indians killed in Russian strike on vessel off Ukrainian port",
+            "summary": "A Russian strike on a vessel off a Ukrainian port has resulted in the deaths of four Indian nationals. This tragic incident highlights the severe human cost of the ongoing conflict and raises concerns for Indians working in war zones.",
             "key_points": [
-                "US confirms striking Iranian forces.",
-                "Action linked to previous attack in Jordan.",
-                "Marks a direct escalation in US-Iran tensions."
+                "Four Indian nationals died in a Russian strike off a Ukrainian port.",
+                "The incident underscores the human cost of the conflict.",
+                "Concerns are raised for Indian citizens in war zones."
             ]
         },
         {
-            "headline": "Russia Strikes Ukraine's Gas Processing Plant in Kharkov Region: MoD",
-            "summary": "Russia's Ministry of Defense announced a strike on a gas processing plant in Ukraine's Kharkov region. This attack targets critical energy infrastructure amid the ongoing conflict, potentially impacting Ukraine's energy supply.",
+            "headline": "PM Modi congratulates Andy Burnham on becoming UK Prime Minister, confident of deepening India-UK ties",
+            "summary": "Prime Minister Narendra Modi extended congratulations to Andy Burnham on his appointment as the UK Prime Minister. Modi expressed confidence that the India-UK relationship would strengthen across various sectors, building on shared democratic values and a comprehensive strategic partnership.",
             "key_points": [
-                "Russia struck a gas processing plant in Ukraine's Kharkov region.",
-                "Attack targets critical energy infrastructure.",
-                "Potentially impacts Ukraine's energy supply."
+                "PM Modi congratulated Andy Burnham on becoming UK PM.",
+                "Modi expects India-UK ties to deepen in key sectors.",
+                "Both nations share democratic values and a strategic partnership."
             ]
         },
         {
-            "headline": "At least six dead after Russia's overnight strike on Ukraine",
-            "summary": "An overnight Russian strike on Ukraine has resulted in at least six deaths. This attack further exacerbates the humanitarian toll and destruction caused by the ongoing conflict.",
+            "headline": "CJP founder Abhijeet Dipke continues sit-in protest at Jantar Mantar amid high security ahead of Parliament session",
+            "summary": "Abhijeet Dipke, founder of the Cockroach Janta Party (CJP), is continuing his sit-in protest at Jantar Mantar. Delhi Police are on high alert with heavy deployments across New Delhi due to the CJP's proposed \"Chalo Sansad\" march and prohibitory orders in effect.",
             "key_points": [
-                "Russian overnight strike on Ukraine.",
-                "At least six people killed.",
-                "Adds to humanitarian toll of the conflict."
+                "CJP founder Abhijeet Dipke is protesting at Jantar Mantar.",
+                "Delhi Police are on high alert ahead of the Monsoon Session and CJP's march.",
+                "Prohibitory orders are enforced, and Jantar Mantar is the only authorized protest venue with prior approval."
             ]
         },
         {
-            "headline": "Ukrainian forces strike 'major' logistics hubs in central Russia",
-            "summary": "Ukrainian forces reportedly struck major logistics hubs in central Russia. This action, if confirmed, signifies Ukraine's capability to target deeper into Russian territory, impacting military supply chains.",
+            "headline": "Sikkim tunnel landslide: Seven dead, several feared trapped as rescue operation continues",
+            "summary": "A tragic landslide at a tunnel in Sikkim has resulted in seven fatalities, with several individuals still feared trapped. Rescue operations are ongoing as authorities work to locate and free those affected by the disaster.",
             "key_points": [
-                "Ukrainian forces reportedly struck major logistics hubs in central Russia.",
-                "Signifies Ukraine's capability to target deeper into Russian territory.",
-                "Impacts Russian military supply chains."
+                "Seven people died in a Sikkim tunnel landslide.",
+                "Several individuals are feared trapped, and rescue operations are active.",
+                "The incident highlights the dangers of natural disasters in the region."
+            ]
+        },
+        {
+            "headline": "Twelve people killed in Jammu & Kashmir flash floods: Report",
+            "summary": "A report confirms that twelve people have tragically lost their lives due to flash floods in Jammu & Kashmir. This natural disaster has caused significant devastation, prompting emergency response efforts in the affected region.",
+            "key_points": [
+                "Twelve people died in flash floods in Jammu & Kashmir.",
+                "The floods caused significant devastation.",
+                "Emergency response efforts are underway."
+            ]
+        },
+        {
+            "headline": "Iran reports 'massive fire' on tankers as US launches 10th night of strikes",
+            "summary": "Iran has reported a \"massive fire\" on several tankers, coinciding with the tenth consecutive night of US strikes in the region. This incident suggests a dangerous escalation of tensions in the Middle East, with potential implications for global energy supplies.",
+            "key_points": [
+                "Iran reported a massive fire on tankers.",
+                "This occurred during the 10th night of US strikes.",
+                "The event signifies escalating tensions in the Middle East."
+            ]
+        },
+        {
+            "headline": "US–Israeli War Against Iran (February 28, 2026–Present)",
+            "summary": "The article details the ongoing US-Israeli war against Iran, which commenced on February 28, 2026. This conflict represents a significant geopolitical development, with far-reaching implications for regional stability and international relations.",
+            "key_points": [
+                "An ongoing US-Israeli war against Iran started on February 28, 2026.",
+                "This represents a major geopolitical conflict.",
+                "It carries significant implications for regional and international stability."
+            ]
+        },
+        {
+            "headline": "Ukraine Struck Tankers at Caspian Pipeline Consortium Marine Terminal: Russian Foreign Ministry",
+            "summary": "The Russian Foreign Ministry has accused Ukraine of striking tankers at the Caspian Pipeline Consortium Marine Terminal. If confirmed, this alleged attack would mark an escalation in the conflict, potentially impacting energy infrastructure.",
+            "key_points": [
+                "Russian Foreign Ministry accuses Ukraine of striking tankers.",
+                "The alleged attack occurred at the Caspian Pipeline Consortium Marine Terminal.",
+                "This could signify an escalation impacting energy infrastructure."
+            ]
+        },
+        {
+            "headline": "Russian Geran drones strike Ukrainian military trains in Zaporozhye region: MoD",
+            "summary": "Russia's Ministry of Defence (MoD) has reported that Russian Geran drones successfully struck Ukrainian military trains in the Zaporozhye region. This operation targets key logistical assets, further impacting Ukraine's military supply lines.",
+            "key_points": [
+                "Russian Geran drones struck Ukrainian military trains.",
+                "The strikes occurred in the Zaporozhye region.",
+                "This targets Ukraine's military logistics and supply lines."
+            ]
+        },
+        {
+            "headline": "Russian Forces Hit Ukraine's Fuel Depots, Transport Hubs, and Drone Boat Workshops: MoD",
+            "summary": "Russia's Ministry of Defence (MoD) has reported that its forces targeted Ukraine's fuel depots, transport hubs, and drone boat workshops. These strikes aim to cripple Ukraine's military logistics and operational capabilities in the ongoing conflict.",
+            "key_points": [
+                "Russian forces struck Ukraine's fuel depots, transport hubs, and drone boat workshops.",
+                "The operations aim to cripple military logistics.",
+                "This impacts Ukraine's operational capabilities in the conflict."
+            ]
+        },
+        {
+            "headline": "Russian Forces Hit Military-Industrial Sites, Logistics Hubs in Kiev: MoD",
+            "summary": "Russia's Ministry of Defence (MoD) announced strikes on military-industrial sites and logistics hubs in Kyiv. These actions are part of ongoing efforts to degrade Ukraine's defense production and supply chains within the capital region.",
+            "key_points": [
+                "Russian forces struck military-industrial sites and logistics hubs in Kyiv.",
+                "The attacks target Ukraine's defense production.",
+                "It aims to impact supply chains in the capital."
+            ]
+        },
+        {
+            "headline": "At Least 7 Killed, 24 Injured in Ukrainian Terrorist Attack on Logistics Centre in Russia",
+            "summary": "A Ukrainian \"terrorist attack\" on a logistics center in Russia has reportedly resulted in at least 7 fatalities and 24 injuries. This incident marks a significant escalation, bringing the conflict's direct impact onto Russian territory and raising concerns about civilian casualties.",
+            "key_points": [
+                "A Ukrainian \"terrorist attack\" on a Russian logistics center caused 7 deaths and 24 injuries.",
+                "This represents a direct impact of the conflict on Russian territory.",
+                "The incident raises concerns about escalation and civilian casualties."
             ]
         },
         {
             "headline": "Over 370 Drones Flew Toward Moscow Region From Friday Evening: Moscow Mayor",
-            "summary": "The Moscow Mayor reported that over 370 drones were launched towards the Moscow region since Friday evening. This large-scale drone assault indicates an intensified effort to target the Russian capital region.",
+            "summary": "The Moscow Mayor reported that over 370 drones were detected flying towards the Moscow region since Friday evening. This massive drone assault indicates a significant escalation of attacks targeting the Russian capital and surrounding areas.",
             "key_points": [
-                "Over 370 drones targeted Moscow region.",
-                "Reported by the Moscow Mayor.",
-                "Indicates intensified attacks on the capital."
+                "Over 370 drones targeted the Moscow region.",
+                "The mayor reported the incident since Friday evening.",
+                "This signifies a major escalation of drone attacks on the capital."
+            ]
+        },
+        {
+            "headline": "Russian Air Defence Forces Down 243 Ukrainian Drones: MoD",
+            "summary": "Russia's Ministry of Defence (MoD) announced that its air defense forces successfully intercepted and downed 243 Ukrainian drones. This report highlights ongoing aerial confrontations and Russia's efforts to counter drone attacks.",
+            "key_points": [
+                "Russian air defense forces downed 243 Ukrainian drones.",
+                "The MoD reported the successful interceptions.",
+                "This indicates ongoing aerial confrontations and counter-drone efforts."
+            ]
+        },
+        {
+            "headline": "Russia Sees No Immediate Path to Renewed Ukraine Negotiations: Kremlin",
+            "summary": "The Kremlin has stated that Russia sees no immediate prospects for renewed negotiations with Ukraine. This declaration indicates a continued stalemate in peace efforts and suggests that the conflict is likely to persist without a diplomatic resolution in sight.",
+            "key_points": [
+                "Kremlin stated no immediate path for Russia-Ukraine negotiations.",
+                "This indicates a continued stalemate in peace efforts.",
+                "The conflict is likely to persist without a diplomatic resolution soon."
+            ]
+        },
+        {
+            "headline": "Five People Injured in Ukrainian Attacks on Russia's Belgorod Region",
+            "summary": "Five people have sustained injuries due to Ukrainian attacks on Russia's Belgorod region. This incident represents a direct impact of the conflict on civilian areas within Russia, raising concerns about border region safety.",
+            "key_points": [
+                "Five people were injured in Ukrainian attacks on Russia's Belgorod region.",
+                "The attacks directly impacted civilian areas.",
+                "Concerns are raised about safety in border regions."
+            ]
+        },
+        {
+            "headline": "Iran forces strike down another US MQ-9 Reaper drone: Report",
+            "summary": "A report indicates that Iranian forces have successfully shot down another US MQ-9 Reaper drone. This incident escalates tensions between Iran and the US, highlighting ongoing military confrontations and technological capabilities in the region.",
+            "key_points": [
+                "Iranian forces reportedly shot down a US MQ-9 Reaper drone.",
+                "The incident escalates US-Iran tensions.",
+                "It highlights military confrontations in the region."
             ]
         },
         {
             "headline": "US Targeted Chabahar Port Despite Knowing About the India Link: Ex-Envoy",
-            "summary": "A former envoy revealed that the US targeted Chabahar Port despite being aware of its critical link to India's strategic interests. This action highlights complex geopolitical dynamics and challenges India's regional connectivity initiatives.",
+            "summary": "A former envoy has alleged that the US deliberately targeted Chabahar Port despite being aware of its strategic link to India. This claim raises concerns about potential diplomatic implications and the complexities of international relations involving critical infrastructure projects.",
             "key_points": [
-                "US targeted Chabahar Port despite India's strategic link.",
-                "Highlights complex geopolitical dynamics.",
-                "Challenges India's regional connectivity initiatives."
+                "Ex-envoy alleged US targeted Chabahar Port despite its India link.",
+                "The claim raises diplomatic concerns.",
+                "It highlights complexities in international relations and infrastructure."
             ]
         },
         {
-            "headline": "Arizona mass shooting: 10 injured after gunman opens fire in Tucson",
-            "summary": "A mass shooting occurred in downtown Tucson, Arizona, injuring at least ten people early Sunday. Police officers responded, engaging and shooting the suspected gunman, who sustained life-threatening injuries, while the other nine victims are in critical condition.",
+            "headline": "Russia Maintains Pressure on Ukraine's Black Sea Supply Routes: MoD",
+            "summary": "Russia's Ministry of Defence (MoD) reports that Russian forces are maintaining pressure on Ukraine's Black Sea supply routes. This ongoing military action aims to disrupt crucial logistics and weaken Ukraine's maritime capabilities.",
             "key_points": [
-                "Mass shooting in downtown Tucson, Arizona.",
-                "Ten people injured, including the suspected gunman shot by police.",
-                "Nine victims remain in critical condition."
+                "Russia's MoD states it maintains pressure on Ukraine's Black Sea routes.",
+                "The action aims to disrupt Ukrainian logistics.",
+                "It targets Ukraine's maritime supply capabilities."
             ]
         },
         {
-            "headline": "Japan Anti-Government Protest Draws 25,000 Despite Record Heat",
-            "summary": "Approximately 25,000 people participated in an anti-government protest in Japan, despite record-high temperatures. The large turnout underscores significant public dissatisfaction with the current administration.",
+            "headline": "‘It’s not about money’: NRI reveals the one big difference he noticed between India and Norway",
+            "summary": "An NRI has highlighted a significant cultural difference between India and Norway, stating that it's not about financial disparities. This observation offers insight into societal values and priorities in both countries.",
             "key_points": [
-                "25,000 people protested against the Japanese government.",
-                "Occurred despite record heat.",
-                "Highlights significant public dissatisfaction."
-            ]
-        },
-        {
-            "headline": "Andrew and Tristan Tate arrested in Miami as UK seeks extradition",
-            "summary": "Andrew and Tristan Tate were arrested in Miami, with the UK seeking their extradition. This international legal development follows charges or investigations against the controversial figures.",
-            "key_points": [
-                "Andrew and Tristan Tate arrested in Miami.",
-                "UK seeking their extradition.",
-                "International legal development."
-            ]
-        },
-        {
-            "headline": "Spain records 70,000 hectares burned this year amid wildfires",
-            "summary": "Spain has reported 70,000 hectares of land burned this year due to ongoing wildfires. This extensive damage highlights the severe environmental impact and challenges posed by the fire season.",
-            "key_points": [
-                "70,000 hectares burned in Spain due to wildfires.",
-                "Highlights severe environmental impact.",
-                "Presents challenges during the fire season."
-            ]
-        },
-        {
-            "headline": "Death toll from the two earthquakes that hit Venezuela hits 5,069",
-            "summary": "The death toll from two recent earthquakes in Venezuela has tragically risen to 5,069. This catastrophic event has caused widespread devastation and immense loss of life in the country.",
-            "key_points": [
-                "Venezuela earthquake death toll reaches 5,069.",
-                "Result of two recent earthquakes.",
-                "Caused widespread devastation."
-            ]
-        },
-        {
-            "headline": "China rescuers race to find trapped people after landslide",
-            "summary": "Chinese rescuers are conducting a large-scale operation to find people trapped after a landslide in Pengshui County, Chongqing municipality. The disaster buried part of a residential area, leading to an unknown number of casualties.",
-            "key_points": [
-                "Landslide in China's Pengshui County.",
-                "Rescuers searching for trapped people.",
-                "Residential area buried, casualties unknown."
-            ]
-        },
-        {
-            "headline": "Trump and Sánchez meet at World Cup final after two years of tension",
-            "summary": "US President Donald Trump and Spanish President Sánchez met at the World Cup final, marking their first encounter after two years of diplomatic tension. Their meeting at the global event signifies a notable moment in international relations.",
-            "key_points": [
-                "Trump and Sánchez met at World Cup final.",
-                "First meeting after two years of tension.",
-                "Significant moment in international relations."
+                "An NRI identified a major non-monetary difference between India and Norway.",
+                "The observation sheds light on cultural and societal values."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Live Stock market today: BSE Sensex sheds 500 points, NSE Nifty50 opens below 24,200",
-            "summary": "The Indian stock market experienced a decline today, with the BSE Sensex dropping 500 points and the NSE Nifty50 opening below 24,200. This downturn reflects current investor sentiment and market conditions.",
+            "headline": "IndiGo places over 1,000 engines’ order for A320s",
+            "summary": "IndiGo, a major Indian airline, has placed a massive order for over 1,000 engines for its Airbus A320 fleet. This significant procurement underscores the airline's expansion plans and the robust growth of India's aviation sector.",
             "key_points": [
-                "Indian stock market declines.",
-                "BSE Sensex sheds 500 points.",
-                "NSE Nifty50 opens below 24,200."
+                "IndiGo ordered over 1,000 engines for its A320 fleet.",
+                "This indicates the airline's major expansion plans.",
+                "It reflects the strong growth in India's aviation sector."
             ]
         },
         {
-            "headline": "Oil prices jump 3% as US-Iran conflict intensifies, Brent crude tops $90 per barrel",
-            "summary": "Oil prices surged by 3%, with Brent crude exceeding $90 per barrel, as the US-Iran conflict intensified. The escalating tensions in the Middle East are directly impacting global energy markets and supply chains.",
+            "headline": "India's top cement maker Q1 profit jumps 17%, ramps up FY28 expansion",
+            "summary": "India's leading cement manufacturer has reported a 17% increase in its Q1 profits and is aggressively ramping up expansion plans for fiscal year 2028. This strong financial performance underscores the robust demand in the construction sector and the company's growth strategy.",
             "key_points": [
-                "Oil prices jump 3%, Brent crude tops $90/barrel.",
-                "Driven by intensifying US-Iran conflict.",
-                "Directly impacts global energy markets and supply chains."
+                "India's top cement maker saw Q1 profit jump by 17%.",
+                "The company is accelerating FY28 expansion plans.",
+                "This reflects strong demand in the construction sector."
             ]
         },
         {
-            "headline": "International gold slips as Middle East tensions push crude higher",
-            "summary": "Gold and silver prices are slipping internationally, primarily driven by rising Middle East tensions that are pushing crude oil prices higher. This complex interplay of geopolitical developments and commodity markets is influencing investor sentiment and bullion prices.",
+            "headline": "India’s exports to Russia & CIS jump 7.7% to $1.1 billion in April-May: Trade Ministry",
+            "summary": "India's Trade Ministry has reported a significant 7.7% surge in exports to Russia and CIS countries, reaching $1.1 billion during April-May. This growth highlights expanding trade relations and new market opportunities for Indian goods.",
             "key_points": [
-                "International gold and silver prices are falling.",
-                "Middle East tensions are driving up crude oil prices.",
-                "Geopolitical events are influencing investor sentiment."
+                "India's exports to Russia and CIS jumped 7.7% to $1.1 billion.",
+                "This occurred during the April-May period.",
+                "It indicates expanding trade relations and market opportunities."
             ]
         },
         {
-            "headline": "Apple raises subscription prices in India",
-            "summary": "Apple has increased its subscription prices in India, which will impact users of various services. This adjustment reflects a strategic decision by the tech giant in the Indian market.",
+            "headline": "India remains fastest-growing major economy despite US-Iran war disruptions, says PM Modi",
+            "summary": "Prime Minister Modi has affirmed that India continues to be the fastest-growing major economy globally, even amidst disruptions caused by the US-Iran war. This statement highlights India's economic resilience in the face of international geopolitical challenges.",
             "key_points": [
-                "Apple raises subscription prices in India.",
-                "Will affect Indian users of Apple services.",
-                "Strategic pricing decision by Apple."
+                "PM Modi stated India is the fastest-growing major economy.",
+                "This growth persists despite disruptions from the US-Iran war.",
+                "It underscores India's economic resilience amid global challenges."
             ]
         },
         {
-            "headline": "PNB targets $2.5bn via FCNR(B)",
-            "summary": "Punjab National Bank (PNB) aims to raise $2.5 billion through Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits. This move is part of the bank's strategy to bolster its foreign currency reserves and expand its financial operations.",
+            "headline": "India's forex boost: RBI's swap scheme raises $20.72 billion so far",
+            "summary": "The Reserve Bank of India's (RBI) swap scheme has significantly boosted India's foreign exchange reserves, accumulating $20.72 billion to date. This strategic initiative helps shore up the country's financial stability and manage currency liquidity.",
             "key_points": [
-                "PNB targets $2.5 billion via FCNR(B) deposits.",
-                "Aims to boost foreign currency reserves.",
-                "Part of financial expansion strategy."
+                "RBI's swap scheme raised $20.72 billion in forex.",
+                "This significantly boosts India's foreign exchange reserves.",
+                "The initiative enhances financial stability and currency management."
             ]
         },
         {
-            "headline": "Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer",
-            "summary": "India's top five most-valued firms collectively added Rs 1.54 lakh crore to their market capitalization, with TCS leading as the biggest gainer. This surge reflects strong investor confidence and robust performance in the corporate sector.",
+            "headline": "Monetisation of assets helps NHAI pare debt",
+            "summary": "The National Highways Authority of India (NHAI) has successfully reduced its debt burden through the monetization of various assets. This strategy highlights an effective approach to financial management for large public infrastructure entities.",
             "key_points": [
-                "Top-5 Indian firms added Rs 1.54 lakh crore to market cap.",
-                "TCS emerged as the biggest gainer.",
-                "Reflects strong investor confidence and corporate performance."
+                "NHAI reduced its debt by monetizing assets.",
+                "This demonstrates an effective financial strategy.",
+                "The move impacts India's infrastructure sector."
             ]
         },
         {
-            "headline": "From unpaid electric bills to $300M island: Larry Ellison buys Hawaii property 3x the size of SF",
-            "summary": "Tech magnate Larry Ellison, who once struggled with utility bills, has now acquired 98% of a Hawaiian island for $300 million. He plans to transform Lanai into a luxury and sustainable community, showcasing his journey from financial hardship to immense wealth and ambition.",
+            "headline": "Coca-Cola adds fizz to India bottling unit IPO plan, appoints JPMorgan & Citi as bankers",
+            "summary": "Coca-Cola is advancing its plans for an Initial Public Offering (IPO) for its India bottling unit, having appointed JPMorgan and Citi as bankers. This move indicates a strategic step to unlock value and expand operations in the vast Indian market.",
             "key_points": [
-                "Larry Ellison bought 98% of Hawaiian island Lanai for $300 million.",
-                "Plans a luxury and sustainable community.",
-                "Highlights his journey from financial struggle to immense wealth."
+                "Coca-Cola plans an IPO for its India bottling unit.",
+                "JPMorgan and Citi appointed as bankers for the IPO.",
+                "This aims to unlock value and expand in the Indian market."
             ]
         },
         {
-            "headline": "Apple tops Nvidia as world's most valuable company",
-            "summary": "Apple has surpassed Nvidia to become the world's most valuable company, marking a significant shift in market leadership. This reflects strong investor confidence in Apple's diverse portfolio and future growth prospects.",
+            "headline": "No move to scrap LTCG tax on equities: Govt",
+            "summary": "The Indian government has clarified that there are no current plans to eliminate the Long-Term Capital Gains (LTCG) tax on equities. This statement provides certainty to investors and indicates a continued policy stance on capital market taxation.",
             "key_points": [
-                "Apple surpasses Nvidia as world's most valuable company.",
-                "Significant shift in market leadership.",
-                "Reflects strong investor confidence in Apple's portfolio."
+                "Indian government confirms no plans to scrap LTCG tax on equities.",
+                "The statement provides clarity for investors.",
+                "It reflects a continued policy stance on capital market taxation."
             ]
         },
         {
-            "headline": "Indonesia to Buy India’s Astra and BrahMos Missiles",
-            "summary": "Indonesia is set to acquire Astra and BrahMos missiles from India, marking a significant defense deal between the two nations. This procurement strengthens Indonesia's military capabilities and boosts India's position as a defense exporter.",
+            "headline": "Not referring cases to internal ombudsman a concern: RBI",
+            "summary": "The Reserve Bank of India (RBI) has expressed concern over banks' failure to refer certain cases to their internal ombudsman. This oversight could undermine grievance redressal mechanisms and impact customer protection in the banking sector.",
             "key_points": [
-                "Indonesia to buy Astra and BrahMos missiles from India.",
-                "Significant defense deal between the two nations.",
-                "Strengthens Indonesia's military and India's export position."
+                "RBI is concerned about banks not using internal ombudsman.",
+                "This oversight affects grievance redressal.",
+                "It impacts customer protection in the banking sector."
             ]
         },
         {
-            "headline": "India has less than three years left to reach its target of boosting defence exports to over $5 billion by 2029",
-            "summary": "India is rapidly approaching its 2029 target of boosting defense exports to over $5 billion. This ambitious goal highlights the nation's efforts to become a major player in the global defense market and strengthen its indigenous manufacturing.",
+            "headline": "At 5% in June, core sector grows fastest in 5 mths",
+            "summary": "India's core sector recorded a 5% growth in June, marking its fastest expansion in five months. This positive performance indicates a strengthening of key foundational industries and provides a boost to overall economic sentiment.",
             "key_points": [
-                "India aims for $5 billion in defense exports by 2029.",
-                "Highlights efforts to become a global defense player.",
-                "Strengthens indigenous manufacturing."
+                "India's core sector grew by 5% in June.",
+                "This is the fastest growth recorded in five months.",
+                "The performance signals strengthening foundational industries and positive economic sentiment."
+            ]
+        },
+        {
+            "headline": "E20 petrol debate: Govt cites data for 23 crore vehicles, finds 'no verified evidence' of widespread engine failure",
+            "summary": "Amidst the E20 petrol debate, the government has cited data from 23 crore vehicles, stating there is \"no verified evidence\" of widespread engine failure. This aims to allay concerns about the ethanol-blended fuel's impact on vehicle performance and durability.",
+            "key_points": [
+                "Government denies widespread engine failure from E20 petrol.",
+                "Data from 23 crore vehicles cited to support the claim.",
+                "Aims to alleviate public concerns about ethanol-blended fuel."
+            ]
+        },
+        {
+            "headline": "Oil Slips to $70: What’s Next for Petrol and Inflation in India?",
+            "summary": "Global oil prices have dropped to $70 per barrel, prompting questions about the implications for petrol prices and inflation in India. This decline could offer some relief to the Indian economy, but its full impact remains to be seen amidst other economic factors.",
+            "key_points": [
+                "Oil prices fell to $70 per barrel.",
+                "This raises questions about petrol prices and inflation in India.",
+                "The decline could offer some economic relief."
+            ]
+        },
+        {
+            "headline": "Indonesia Agreement Fuels Overseas Demand for India's Astra Missile",
+            "summary": "An agreement with Indonesia has sparked increased international demand for India's Astra missile. This development signifies a major boost for India's defense export capabilities and its growing influence in the global arms market.",
+            "key_points": [
+                "Indonesia's agreement boosts international demand for India's Astra missile.",
+                "This is a significant win for India's defense exports.",
+                "It enhances India's position in the global arms market."
+            ]
+        },
+        {
+            "headline": "NSE’s Ahimsa index targets cruelty-free investing",
+            "summary": "The National Stock Exchange (NSE) has launched an 'Ahimsa index,' designed for investors seeking cruelty-free investment options. This initiative allows individuals to align their financial decisions with ethical values, focusing on companies that demonstrate non-violence and sustainability.",
+            "key_points": [
+                "NSE launched an 'Ahimsa index' for cruelty-free investing.",
+                "The index caters to investors seeking ethical investment options.",
+                "It promotes companies aligned with non-violence and sustainability."
+            ]
+        },
+        {
+            "headline": "Fresh threat to global oil supply as Yemen’s Houthis eye Saudi Arabia’s crude exports with maritime blockade",
+            "summary": "A new threat to global oil supply has emerged as Yemen's Houthis are reportedly planning to impose a maritime blockade, potentially jeopardizing Saudi Arabia’s crude exports. This development could lead to significant disruptions in the international energy markets and higher oil prices.",
+            "key_points": [
+                "Yemen's Houthis threaten Saudi Arabia's crude exports.",
+                "A proposed maritime blockade could disrupt global oil supply.",
+                "This poses a fresh risk to international energy markets."
+            ]
+        },
+        {
+            "headline": "Stocks, rupee slide as oil spike fuels pressure",
+            "summary": "Indian stocks and the rupee have experienced a decline, primarily driven by a surge in oil prices which is fueling economic pressure. The volatility underscores the vulnerability of the Indian economy to global energy market fluctuations.",
+            "key_points": [
+                "Indian stocks and rupee declined due to oil price spike.",
+                "Rising oil prices are creating economic pressure.",
+                "This highlights India's vulnerability to global energy markets."
+            ]
+        },
+        {
+            "headline": "Hyundai lays groundwork for mass-market EV launch",
+            "summary": "Hyundai is actively preparing for the launch of its mass-market electric vehicles (EVs), laying the groundwork for widespread adoption. This strategic move signals the company's commitment to the electric transition and its aim to capture a significant share of the evolving EV market.",
+            "key_points": [
+                "Hyundai is preparing for a mass-market EV launch.",
+                "This indicates the company's commitment to electric mobility.",
+                "The strategy aims to capture a significant share of the EV market."
+            ]
+        },
+        {
+            "headline": "Ex-tech execs’ startups find favour with VCs, says report",
+            "summary": "A new report indicates that startups founded by former tech executives are increasingly attracting significant interest from Venture Capitalists (VCs). This trend suggests that VCs value the experience and networks of seasoned tech professionals, leading to favorable investment conditions for their new ventures.",
+            "key_points": [
+                "Startups by ex-tech executives are attracting VCs.",
+                "VCs value the experience and networks of seasoned tech professionals.",
+                "This trend points to a preference for experienced founders in the startup ecosystem."
+            ]
+        },
+        {
+            "headline": "US judge halts Paramount-Warner Bros merger for 14 days amid antitrust challenge by 12 states",
+            "summary": "A US judge has temporarily blocked the proposed merger between Paramount and Warner Bros for 14 days following an antitrust challenge initiated by 12 states. This judicial intervention underscores regulatory concerns over market consolidation in the media industry.",
+            "key_points": [
+                "A US judge halted the Paramount-Warner Bros merger for 14 days.",
+                "The halt follows an antitrust challenge from 12 states.",
+                "This highlights regulatory scrutiny over major media mergers."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Making waves underground: India's first undersea rail tunnel takes shape",
-            "summary": "India's first undersea rail tunnel is progressing, marking a significant engineering feat in infrastructure development. This project aims to enhance connectivity and represents a major advancement in the country's transportation network.",
+            "headline": "Pentagon is angry with Dean W Ball, top executive of Sam Altman's OpenAI, calls him 'supreme village idiot' and reminds him that US government passed a law in 2026 that restricts ...",
+            "summary": "The Pentagon has expressed strong disapproval of Dean W Ball, a top executive at OpenAI, reportedly calling him a \"supreme village idiot.\" The statement also served as a reminder of a 2026 US government law that imposes restrictions, suggesting a potential clash over AI development or policy.",
             "key_points": [
-                "India's first undersea rail tunnel is under construction.",
-                "Significant infrastructure development.",
-                "Aims to enhance national connectivity."
+                "Pentagon criticized OpenAI executive Dean W Ball.",
+                "The criticism referenced a 2026 US law restricting certain activities.",
+                "This indicates potential tension between the government and AI companies."
             ]
         },
         {
-            "headline": "India launches first hydrogen-powered passenger train to cut emissions",
-            "summary": "India has launched its first hydrogen-powered passenger train, a significant step towards reducing emissions and promoting sustainable transportation. This initiative underscores the country's commitment to green energy and cleaner public transport.",
+            "headline": "India's electric flying taxi to revolutionize urban transport",
+            "summary": "India is poised to introduce an electric flying taxi, an innovation expected to revolutionize urban transportation. This development aims to address congestion and offer a futuristic solution for intra-city travel, highlighting India's advancements in aerospace technology.",
             "key_points": [
-                "India launched its first hydrogen-powered passenger train.",
-                "Aims to cut emissions and promote sustainable transport.",
-                "Commitment to green energy."
+                "India is developing an electric flying taxi.",
+                "It is expected to revolutionize urban transport.",
+                "This showcases India's technological advancements in aerospace."
             ]
         },
         {
-            "headline": "Four engine failures abort Starship's 13th launch bid at the last second",
-            "summary": "Starship's 13th launch attempt was aborted at the last second due to four engine failures. This setback highlights the complexities and challenges of advanced rocket development, requiring further engineering adjustments.",
+            "headline": "Canadian billionaire Kevin O'Leary on AI data center causing water scarcity",
+            "summary": "Canadian billionaire Kevin O'Leary addressed concerns about AI data centers contributing to water scarcity, stating that the era of significant water consumption by these facilities is changing. His comments suggest evolving approaches to resource management in the AI industry.",
             "key_points": [
-                "Starship's 13th launch aborted due to engine failures.",
-                "Highlights complexities of advanced rocket development.",
-                "Requires further engineering adjustments."
-            ]
-        },
-        {
-            "headline": "Xi urges united global AI push as US bans squeeze China's tech access",
-            "summary": "Chinese President Xi Jinping has called for a united global push in artificial intelligence, amidst US bans restricting China's access to critical tech. His appeal underscores China's ambition to lead in AI despite geopolitical challenges.",
-            "key_points": [
-                "Xi Jinping calls for united global AI push.",
-                "Amidst US bans on China's tech access.",
-                "Highlights China's AI ambitions despite challenges."
+                "Kevin O'Leary discussed AI data centers and water scarcity.",
+                "He indicated a shift in the industry's water consumption practices.",
+                "His remarks suggest evolving resource management in AI."
             ]
         },
         {
             "headline": "Humanoid robots steal the spotlight at Shanghai AI Conference",
-            "summary": "Humanoid robots garnered significant attention at the Shanghai AI Conference, showcasing advancements in artificial intelligence and robotics. Their presence indicates a growing trend towards more sophisticated and human-like robotic applications.",
+            "summary": "Humanoid robots were the main attraction at the Shanghai AI Conference, capturing significant attention and showcasing advanced capabilities. Their prominence highlights rapid developments in robotics and artificial intelligence, pushing the boundaries of human-robot interaction.",
             "key_points": [
-                "Humanoid robots prominent at Shanghai AI Conference.",
-                "Highlights advancements in AI and robotics.",
-                "Trend towards sophisticated robotic applications."
-            ]
-        },
-        {
-            "headline": "Russian scientists create world’s first wirelessly charged AA battery",
-            "summary": "Russian scientists have reportedly developed the world's first wirelessly charged AA battery. This innovation could revolutionize portable power solutions, offering greater convenience and efficiency for numerous devices.",
-            "key_points": [
-                "Russian scientists developed world's first wirelessly charged AA battery.",
-                "Potential to revolutionize portable power solutions.",
-                "Offers greater convenience and efficiency."
+                "Humanoid robots were a major highlight at the Shanghai AI Conference.",
+                "They demonstrated advanced capabilities.",
+                "This reflects rapid progress in robotics and AI."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Nolan's 'The Odyssey' starring scores Rs 70 crore debut in India",
-            "summary": "Christopher Nolan's 'The Odyssey' had a blockbuster opening weekend in India, earning Rs 70 crore. This makes it Nolan's biggest debut film in the country and globally.",
+            "headline": "'Avengers: Doomsday' tickets SOLD OUT after trailer release",
+            "summary": "Tickets for 'Avengers: Doomsday' have completely sold out following the release of its trailer, indicating massive anticipation among fans. The rapid sales underscore the continued dominance of the Marvel franchise in the entertainment industry.",
             "key_points": [
-                "Christopher Nolan's 'The Odyssey' had a massive opening in India.",
-                "Earned Rs 70 crore in its debut weekend.",
-                "Became Nolan's biggest opener in India and worldwide."
+                "'Avengers: Doomsday' tickets sold out quickly after trailer release.",
+                "This highlights significant fan anticipation for the movie.",
+                "The Marvel franchise continues its strong market performance."
             ]
         },
         {
-            "headline": "Taylor Swift and Travis Kelce's wedding invite: 'I won't get into the details of the NDA. But it had teeth,' reveals guest",
-            "summary": "A guest at Taylor Swift and Travis Kelce's wedding revealed that an NDA with significant clauses was required. This detail highlights the high level of privacy surrounding the celebrity couple's event.",
+            "headline": "Amid Sonam Wangchuk row, Aamir Khan's '3 Idiots' set for re-release",
+            "summary": "Amidst the ongoing Sonam Wangchuk row, Aamir Khan's critically acclaimed film '3 Idiots' is slated for a re-release. This move draws parallels between the film's themes and current societal discussions, potentially reigniting interest in its relevant messages.",
             "key_points": [
-                "Taylor Swift and Travis Kelce's wedding.",
-                "Guests signed a strict NDA.",
-                "NDA was described as having 'teeth'."
+                "Aamir Khan's '3 Idiots' will be re-released.",
+                "The re-release occurs amidst the Sonam Wangchuk controversy.",
+                "This could revive interest in the film's themes relevant to current events."
             ]
         },
         {
-            "headline": "All the A-list celebrities spotted at the 2026 FIFA World Cup Final: From Tom Cruise to Kylie Jenner",
-            "summary": "The 2026 FIFA World Cup Final attracted numerous A-list celebrities, including Tom Cruise and Kylie Jenner. This piece highlights the famous personalities who attended the major sporting event.",
+            "headline": "John Abraham buys Rs 84 crore Bandra West bungalow",
+            "summary": "Bollywood actor John Abraham has reportedly purchased a lavish bungalow in Bandra West for Rs 84 crore. The acquisition, a 1,017.60-sq-metre plot, marks a significant real estate investment for the celebrity.",
             "key_points": [
-                "Celebrities attended the FIFA World Cup Final.",
-                "Notable attendees included Tom Cruise and Kylie Jenner.",
-                "Spotlight on A-list personalities at the event."
+                "John Abraham bought an Rs 84 crore bungalow in Bandra West.",
+                "The property spans 1,017.60 sq-meters.",
+                "This is a notable celebrity real estate acquisition."
             ]
         },
         {
-            "headline": "Timothée Chalamet and Kylie Jenner spotted sharing a sweet kiss at the FIFA World Cup",
-            "summary": "Timothée Chalamet and Kylie Jenner were seen sharing a kiss at the FIFA World Cup, confirming their romantic involvement. The celebrity couple's public display of affection garnered attention.",
+            "headline": "Angel Reese shines at Met Gala 2026, bringing old Hollywood style and spotlight to women’s sports",
+            "summary": "WNBA star Angel Reese made a striking appearance at the Met Gala 2026, showcasing old Hollywood glamour. Her presence at the high-profile event drew significant attention, helping to bring the spotlight to women's sports and female athletes.",
             "key_points": [
-                "Timothée Chalamet and Kylie Jenner seen kissing at World Cup.",
-                "Confirms their relationship status.",
-                "Event drew public attention."
+                "Angel Reese attended the Met Gala 2026, displaying old Hollywood style.",
+                "Her presence generated significant buzz for women's sports.",
+                "This highlights the increasing crossover appeal of athletes in popular culture."
             ]
         },
         {
-            "headline": "Shakira, Madonna and BTS shake up World Cup final",
-            "summary": "The 2026 FIFA World Cup final featured electrifying performances from global superstars Shakira, Madonna, and BTS. Their appearances added a significant entertainment spectacle to the highly anticipated sporting event.",
+            "headline": "Netflix expands NFL partnership with Thanksgiving Eve Packers-Rams game and growing exclusive coverage plans",
+            "summary": "Netflix is significantly expanding its partnership with the NFL, adding an exclusive Thanksgiving Eve game between the Packers and Rams to its offerings. This move signals a growing trend of streaming platforms securing major sports broadcasting rights, aiming to attract and retain subscribers with live content.",
             "key_points": [
-                "Shakira, Madonna, and BTS performed at World Cup final.",
-                "Added significant entertainment to the event.",
-                "Global superstars featured at the sporting spectacle."
+                "Netflix expands NFL partnership, adding exclusive Thanksgiving Eve game.",
+                "The platform is increasing its exclusive sports coverage.",
+                "This highlights streaming services' growing investment in live sports."
             ]
         },
         {
-            "headline": "It doesn’t get bigger than this: Maaran team on National Award win",
-            "summary": "The team behind the film 'Maaran' expressed immense joy and pride following their National Award win. They believe this achievement is the pinnacle of their career.",
+            "headline": "Inside Robert Downey Jr.'s real estate portfolio: From a Hollywood Hills estate to a $10.5 million windmill house",
+            "summary": "This article delves into Robert Downey Jr.'s extensive real estate holdings, showcasing his diverse property investments. His portfolio includes a sprawling Hollywood Hills estate and a unique $10.5 million windmill house.",
             "key_points": [
-                "Film 'Maaran' won a National Award.",
-                "Team considers it their biggest achievement.",
-                "Expressed immense joy and pride."
+                "Robert Downey Jr. owns a significant real estate portfolio.",
+                "His properties range from a Hollywood Hills estate to a $10.5 million windmill house."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Lionel Messi exits FIFA World Cup in tears and as football's greatest",
-            "summary": "Lionel Messi's FIFA World Cup journey ended in tears after Argentina's loss to Spain in the final. Despite the defeat, he is widely regarded as football's greatest player.",
+            "headline": "Method over Madness: Spain's Collective Brilliance Conquers World Cup 2026",
+            "summary": "Spain clinched the FIFA World Cup 2026 title with a decisive extra-time goal from Ferran Torres, showcasing a methodical and dynamic playstyle. This victory mirrored past successes, contrasting sharply with Argentina's struggled and disciplined-challenged performance in the final.",
             "key_points": [
-                "Lionel Messi's final World Cup appearance.",
-                "Argentina lost to Spain in the final.",
-                "Messi solidified his legacy as one of football's greatest."
+                "Spain won the FIFA World Cup 2026 with an extra-time goal from Ferran Torres.",
+                "Their victory was attributed to collective brilliance and methodical play.",
+                "Argentina's performance was marked by a lack of intensity and disciplinary issues."
             ]
         },
         {
-            "headline": "20-0: How Spain utterly owned Argentina in World Cup final and rendered Messi irrelevant",
-            "summary": "Spain dominated Argentina 1-0 in the World Cup final, with Ferran Torres scoring the decisive goal in extra time. The victory effectively nullified Lionel Messi's impact on the game.",
+            "headline": "Argentina players could face FIFA bans after World Cup 2026 final chaos against Spain",
+            "summary": "FIFA has launched an investigation into post-match clashes following Argentina's loss in the World Cup final against Spain. Several Argentine players reportedly confronted Spanish counterparts, potentially leading to FIFA bans for violent conduct and disciplinary action against the Argentine Football Association.",
             "key_points": [
-                "Spain defeated Argentina 1-0 in World Cup final.",
-                "Ferran Torres scored the winning goal.",
-                "Messi's influence was limited in the match."
+                "FIFA is investigating post-match clashes after Argentina's World Cup loss.",
+                "Argentine players may face bans for confrontations with Spanish players.",
+                "The Argentine Football Association could also face disciplinary action."
             ]
         },
         {
-            "headline": "'He's a disgrace': Argentina star sent off after grabbing Spain player's throat in ugly World Cup final scenes",
-            "summary": "An Argentina player was controversially sent off in the World Cup final for grabbing a Spanish opponent's throat. This incident sparked outrage and marred the major sporting event.",
+            "headline": "'Rohit aur Virat ko touch nahi kar payenge': Ashwin makes bold statement supporting their continued selection",
+            "summary": "Ravichandran Ashwin has made a strong statement in support of Rohit Sharma and Virat Kohli's continued presence in the Indian cricket team. He cited their extensive career achievements and significant fan backing as primary reasons for their sustained selection.",
             "key_points": [
-                "Argentina player sent off in World Cup final.",
-                "Incident involved grabbing an opponent's throat.",
-                "Caused an 'ugly' scene and sparked outrage."
+                "Ravichandran Ashwin advocated for Rohit Sharma and Virat Kohli's selection.",
+                "He highlighted their career achievements and fan support.",
+                "Ashwin also noted the lack of similar public backing for bowlers."
             ]
         },
         {
-            "headline": "Revealed: The eye-watering amount Spain players will earn for winning the 2026 FIFA World Cup",
-            "summary": "The Spanish players are set to receive a significant payout for their 2026 FIFA World Cup victory. This article details the substantial financial rewards awaiting the team.",
+            "headline": "Stunning prediction: 'Shreyas Iyer can captain India to a World Cup win'",
+            "summary": "A stunning prediction has emerged suggesting that Shreyas Iyer possesses the leadership qualities to captain India to a World Cup victory. This highlights the growing confidence in his capabilities and potential as a future leader in Indian cricket.",
             "key_points": [
-                "Spain won the 2026 FIFA World Cup.",
-                "Players will earn a large sum for the victory.",
-                "Substantial financial rewards detailed."
+                "Shreyas Iyer is predicted to captain India to a World Cup win.",
+                "The prediction highlights confidence in his leadership.",
+                "It suggests his potential as a future Indian cricket captain."
             ]
         },
         {
-            "headline": "The Caitlin Clark problem: Indiana Fever guard’s $1,000 penalty sparks concern amid stunning WNBA run",
-            "summary": "Indiana Fever guard Caitlin Clark received a $1,000 penalty, causing concern despite her impressive WNBA performance. This incident raises questions about officiating and player treatment in the league.",
+            "headline": "FIDE World Cup in India: PM Modi states 'Chess is gaining popularity among our youth'",
+            "summary": "Prime Minister Narendra Modi, while commenting on the FIDE World Cup being held in India, noted the increasing popularity of chess among Indian youth. His statement highlights the growing engagement of the younger generation with intellectual sports.",
             "key_points": [
-                "Caitlin Clark fined $1,000 in WNBA.",
-                "Incident sparks concern amidst her strong performance.",
-                "Raises questions about WNBA officiating."
+                "PM Modi spoke about the FIDE World Cup in India.",
+                "He observed chess gaining popularity among Indian youth.",
+                "This indicates increasing engagement with intellectual sports."
+            ]
+        },
+        {
+            "headline": "Dipa Karmakar backs Pranati Nayak to end India’s CWG gymnastics medal wait",
+            "summary": "Indian gymnastics star Dipa Karmakar has publicly endorsed Pranati Nayak, expressing confidence in her ability to secure a medal for India at the Commonwealth Games. This backing offers a significant boost to Nayak as she aims to end India's long wait for a gymnastics medal.",
+            "key_points": [
+                "Dipa Karmakar backed Pranati Nayak for a CWG gymnastics medal.",
+                "Nayak aims to end India's long wait for a gymnastics medal.",
+                "Karmakar's endorsement provides a morale boost."
+            ]
+        },
+        {
+            "headline": "Shah Rukh Khan celebrates LA Knight Riders' maiden MLC title after thrilling final win",
+            "summary": "Bollywood superstar Shah Rukh Khan celebrated the LA Knight Riders' inaugural Major League Cricket (MLC) title following their thrilling victory in the final. His enthusiastic reaction highlighted the team's success and the growing popularity of cricket in new markets.",
+            "key_points": [
+                "Shah Rukh Khan celebrated LA Knight Riders' first MLC title.",
+                "The team secured a thrilling victory in the final.",
+                "This spotlights the growing presence of cricket in new markets."
+            ]
+        },
+        {
+            "headline": "NBA trade rumor: $112 million Pelicans forward's future reportedly hinges on LeBron James' next move",
+            "summary": "A significant NBA trade rumor suggests that the future of a $112 million Pelicans forward is directly tied to LeBron James's upcoming career decision. This highlights the substantial influence James holds over the league's player movements and team strategies.",
+            "key_points": [
+                "A $112 million Pelicans forward's trade future depends on LeBron James.",
+                "LeBron James's decisions significantly impact NBA player movements."
+            ]
+        },
+        {
+            "headline": "Will LeBron James join Indiana Pacers? Tyrese Haliburton reveals bombshell response from ex-Laker on his pitch",
+            "summary": "Tyrese Haliburton has disclosed a surprising response from LeBron James regarding a potential move to the Indiana Pacers. This revelation adds a new dimension to the ongoing speculation about James's future in the NBA.",
+            "key_points": [
+                "Tyrese Haliburton received a \"bombshell\" response from LeBron James.",
+                "The response concerns James potentially joining the Indiana Pacers."
+            ]
+        },
+        {
+            "headline": "Enzo Fernández and Valentina Cervantes combined net worth in 2026: How the Argentina footballer built his fortune?",
+            "summary": "This article explores the combined net worth of Argentine footballer Enzo Fernández and Valentina Cervantes in 2026. It details how Fernández accumulated his fortune through his successful football career and related ventures.",
+            "key_points": [
+                "Article details Enzo Fernández and Valentina Cervantes' combined net worth.",
+                "It explains the sources of Fernández's wealth from his football career."
+            ]
+        },
+        {
+            "headline": "Paige Bueckers tops WNBA GM survey as best player to build around ahead of Caitlin Clark and A'ja Wilson",
+            "summary": "In a recent WNBA General Manager survey, Paige Bueckers was ranked as the top player to build a franchise around, surpassing notable names like Caitlin Clark and A'ja Wilson. This recognition underscores her immense talent and potential impact on the league.",
+            "key_points": [
+                "Paige Bueckers ranked highest in WNBA GM survey.",
+                "She was considered the best player to build a franchise around.",
+                "She outranked Caitlin Clark and A'ja Wilson."
+            ]
+        },
+        {
+            "headline": "Tina Charles retires after historic WNBA career as all-time rebounding leader and second highest scorer",
+            "summary": "Tina Charles has announced her retirement from the WNBA, concluding a historic career where she became the all-time rebounding leader and the second-highest scorer. Her departure marks the end of an era for one of the league's most dominant players.",
+            "key_points": [
+                "Tina Charles retired from the WNBA.",
+                "She holds records as the all-time rebounding leader and second-highest scorer.",
+                "Her retirement marks the end of a remarkable career."
+            ]
+        },
+        {
+            "headline": "Azzi Fudd ruled out again as Dallas Wings carefully manage ongoing right knee concerns",
+            "summary": "Azzi Fudd has been ruled out of play once more, as the Dallas Wings continue to meticulously manage her persistent right knee issues. This ongoing situation underscores the challenges athletes face with chronic injuries and teams' efforts in player welfare.",
+            "key_points": [
+                "Azzi Fudd is sidelined again due to ongoing right knee concerns.",
+                "The Dallas Wings are carefully managing her condition.",
+                "This highlights the complexities of athlete injury management."
+            ]
+        },
+        {
+            "headline": "Pat Cummins, Josh Hazlewood and Nathan Lyon return as Australia name squad for Bangladesh Tests",
+            "summary": "Australia has announced its squad for the upcoming Test series against Bangladesh, with key players Pat Cummins, Josh Hazlewood, and Nathan Lyon making their return. Their inclusion bolsters the team's strength and experience for the challenging series.",
+            "key_points": [
+                "Australia named its squad for Bangladesh Tests.",
+                "Key players Pat Cummins, Josh Hazlewood, and Nathan Lyon return.",
+                "Their inclusion strengthens the team for the series."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Warming waters push frogs and salamanders to change diets, study finds",
-            "summary": "A new study reveals that warming waters are forcing tadpoles and young amphibians to alter their diets for survival. They are increasing feeding rates and shifting towards more plant material, a strategy that helps them cope with rising energy demands but results in smaller, weaker bodies.",
+            "headline": "Russian scientists create world’s first wirelessly charged AA battery",
+            "summary": "Russian scientists have developed what is reportedly the world’s first wirelessly charged AA battery. This innovation could revolutionize portable power solutions, offering greater convenience and potentially widespread application in various devices.",
             "key_points": [
-                "Warming waters cause amphibians to change diets.",
-                "Increased feeding rates, shift to plant material.",
-                "Strategy for energy demands, but results in smaller bodies.",
-                "Highlights impact of climate change on wildlife."
-            ]
-        },
-        {
-            "headline": "Warming seas are bringing octopus, red mullet and bream into UK waters",
-            "summary": "Warming sea temperatures are causing new marine species like octopus, red mullet, and bream to appear in UK waters. This shift in marine ecosystems reflects the broader impact of climate change on ocean habitats.",
-            "key_points": [
-                "Warming seas attract new species to UK waters.",
-                "Octopus, red mullet, and bream are examples.",
-                "Indicates impact of climate change on marine ecosystems."
-            ]
-        },
-        {
-            "headline": "DNA from 457 koalas suggests the species nearly went extinct 100,000 years ago, before humans...",
-            "summary": "DNA analysis of 457 koalas suggests the species faced near extinction approximately 100,000 years ago, predating significant human impact. This finding provides crucial historical context for koala conservation efforts.",
-            "key_points": [
-                "Koalas faced near extinction 100,000 years ago.",
-                "Predates significant human impact.",
-                "Informs current conservation strategies."
+                "Russian scientists created the first wirelessly charged AA battery.",
+                "This innovation could revolutionize portable power.",
+                "It offers convenience and wide application potential."
             ]
         },
         {
             "headline": "Russian scientists turn sand into stone using bacteria to build roads in the Arctic",
-            "summary": "Russian scientists are transforming sand into stone using bacteria to construct roads in the Arctic. This innovative biotechnological approach offers a sustainable and robust solution for infrastructure development in challenging polar environments.",
+            "summary": "Russian scientists have developed a groundbreaking method to transform sand into stone using bacteria, intended for building roads in the Arctic. This innovative technique offers a sustainable and resilient solution for infrastructure development in challenging polar environments.",
             "key_points": [
-                "Russian scientists turn sand into stone using bacteria.",
-                "Method for building Arctic roads.",
-                "Innovative and sustainable infrastructure solution."
+                "Russian scientists converted sand into stone using bacteria.",
+                "The method is for building roads in the Arctic.",
+                "This offers a sustainable infrastructure solution for polar regions."
             ]
         },
         {
-            "headline": "Mediterranean seagrass survives in dim seabed light by expanding its photosynthetic antenna",
-            "summary": "Mediterranean seagrasses can survive in low seabed light by expanding their photosynthetic antenna. This adaptation allows them to maximize light absorption and thrive in challenging underwater environments.",
+            "headline": "Texas released 3 million eggs to bring back a toad that disappeared from Houston 50 years ago; one male has now appeared in restored habitat",
+            "summary": "Texas has undertaken a significant conservation effort, releasing three million eggs to reintroduce a toad species that vanished from Houston five decades ago. This initiative has shown a promising early success with the appearance of one male in its restored natural habitat.",
             "key_points": [
-                "Seagrasses survive in dim light.",
-                "Achieved by expanding photosynthetic antenna.",
-                "Adaptation for challenging underwater environments."
+                "Texas released 3 million toad eggs for species reintroduction.",
+                "The toad had been extinct in Houston for 50 years.",
+                "A male toad has been spotted in the restored habitat, marking an early success."
+            ]
+        },
+        {
+            "headline": "Aquarium fish escapes into crater lake, scientists fear biodiversity risk",
+            "summary": "Human-bred flowerhorn cichlids have escaped into Lake Sampaloc in the Philippines, threatening the local ecosystem by outcompeting native fish and disrupting aquaculture. Scientists are concerned about the invasive species' rapid expansion and potential disease transmission, highlighting a global issue of domesticated animals impacting natural habitats.",
+            "key_points": [
+                "Flowerhorn cichlids escaped into Lake Sampaloc, Philippines.",
+                "They threaten native fish and aquaculture, posing a biodiversity risk.",
+                "Experts warn of disease transmission and rapid expansion of the invasive species."
+            ]
+        },
+        {
+            "headline": "Florida returned 500,000 oyster shells to Gulf, creating new reef habitat",
+            "summary": "Florida has successfully restored parts of the Gulf of Mexico by returning over 500,000 tonnes of recycled oyster and clam shells. This initiative has helped rebuild oyster reefs, improve water quality, and led to the resurgence of marine life, including fish, turtles, and dolphins.",
+            "key_points": [
+                "Florida restored Gulf habitats using 500,000 tonnes of recycled shells.",
+                "The effort rebuilt oyster reefs and improved water quality.",
+                "Marine life populations have returned to previous levels."
+            ]
+        },
+        {
+            "headline": "Russian scientists discover new way to tackle global fuel crisis",
+            "summary": "Russian scientists have reportedly discovered a novel method to address the ongoing global fuel crisis. This breakthrough could potentially offer innovative solutions for sustainable energy and reduce reliance on conventional fuel sources.",
+            "key_points": [
+                "Russian scientists found a new method for the global fuel crisis.",
+                "The discovery could offer innovative energy solutions.",
+                "It aims to reduce reliance on conventional fuels."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Why you feel tired all the time: Expert reveals how cellular fatigue can affect your energy, brain and overall health",
-            "summary": "An expert explains that persistent tiredness can stem from cellular fatigue, which impacts energy levels, brain function, and overall health. Understanding this concept is crucial for addressing chronic fatigue and improving well-being.",
+            "headline": "India faces growing urban loneliness crisis, fostering a \"silver economy\" for connection",
+            "summary": "India is grappling with an escalating loneliness crisis, intensified by rapid urbanization and evolving social structures, affecting young migrants and older adults alike. This societal challenge is giving rise to an emerging \"silver economy\" focused on market-based solutions for connection and care.",
             "key_points": [
-                "Persistent tiredness linked to cellular fatigue.",
-                "Affects energy, brain, and overall health.",
-                "Understanding is key to addressing chronic fatigue."
+                "India is experiencing a significant urban loneliness crisis.",
+                "Urbanization and changing social structures contribute to this isolation.",
+                "An emerging \"silver economy\" offers market-based solutions for connection."
             ]
         },
         {
-            "headline": "Doctor warns these 7 everyday habits can shorten your health span after 50, most people ignore them",
-            "summary": "A doctor has identified seven common everyday habits that can significantly reduce one's health span after the age of 50. Many people tend to overlook these critical lifestyle factors, which can impact long-term well-being.",
+            "headline": "Sam Neill's death from pneumonia sparks health concerns; warning signs of deadly lung infection",
+            "summary": "The unfortunate death of actor Sam Neill from pneumonia has raised public health concerns regarding the deadly lung infection. The article outlines critical warning signs of pneumonia, urging awareness and timely medical attention.",
             "key_points": [
-                "Seven habits can shorten health span after 50.",
-                "Many people ignore these critical factors.",
-                "Focuses on long-term well-being."
+                "Actor Sam Neill's death from pneumonia highlighted public health concerns.",
+                "The article details warning signs of the potentially deadly infection.",
+                "It emphasizes the importance of early detection and treatment."
             ]
         },
         {
-            "headline": "You don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk",
-            "summary": "A doctor has revealed nine unexpected factors beyond alcohol consumption that can damage the liver. This information is crucial for understanding broader risks to liver health and promoting preventive measures.",
+            "headline": "Doctor warns these 7 everyday habits can shorten your health span after 50",
+            "summary": "A doctor has issued a warning about seven common everyday habits that can significantly reduce an individual's health span after the age of 50. The advice highlights often-ignored behaviors that negatively impact long-term well-being.",
             "key_points": [
-                "Nine non-alcohol factors can damage the liver.",
-                "Crucial for understanding broader liver health risks.",
-                "Promotes preventive measures."
+                "A doctor identified 7 habits that shorten health span after 50.",
+                "These habits are commonly ignored by many people.",
+                "The warning aims to promote better long-term health."
             ]
         },
         {
-            "headline": "‘Almost one in three people cannot afford a healthy diet’, UN warns",
-            "summary": "The UN has issued a warning that nearly one in three people globally cannot afford a healthy diet. This stark statistic highlights widespread food insecurity and its profound implications for public health and nutrition worldwide.",
+            "headline": "There are four dengue strains; recovery from one offers no protection against others, raising vaccine efficacy questions",
+            "summary": "There are four distinct strains of dengue, and recovering from infection by one strain does not provide immunity against the others. This crucial fact raises significant questions about the efficacy and protective scope of a single dengue vaccine.",
             "key_points": [
-                "UN warns one in three people cannot afford healthy diet.",
-                "Highlights widespread food insecurity.",
-                "Profound implications for public health."
+                "Dengue has four strains, with no cross-immunity upon recovery.",
+                "This complicates protection against future infections.",
+                "It prompts questions about the effectiveness of a single dengue vaccine."
             ]
         },
         {
-            "headline": "How to protect your lungs from wildfire smoke",
-            "summary": "With increasing wildfires, understanding how to protect your lungs from smoke is crucial for public health. This article provides practical advice to minimize respiratory risks during smoke events.",
+            "headline": "A six-year-old entered an iron lung after polio. More than 70 years later, he had become the world’s longest-known survivor",
+            "summary": "A six-year-old boy who contracted polio and was placed in an iron lung has become the world's longest-known survivor of the device, living for over 70 years. His story highlights remarkable human resilience and the historical impact of polio.",
             "key_points": [
-                "Crucial to protect lungs from wildfire smoke.",
-                "Provides practical advice.",
-                "Aims to minimize respiratory risks."
+                "A polio survivor lived for over 70 years in an iron lung.",
+                "He is the world's longest-known survivor using an iron lung.",
+                "The story underscores human resilience and the historical impact of polio."
+            ]
+        },
+        {
+            "headline": "Legionnaires’ disease outbreak: Third person dies in New York City — what you need to know about the deadly infection",
+            "summary": "A Legionnaires’ disease outbreak in New York City has claimed a third life, raising public health concerns. The article provides essential information about the deadly infection, including its causes, symptoms, and prevention.",
+            "key_points": [
+                "A third death reported in NYC's Legionnaires' disease outbreak.",
+                "The article provides crucial information about the infection."
+            ]
+        },
+        {
+            "headline": "Dick Vitale faces another cancer battle as melanoma spreads but remains confident and determined",
+            "summary": "Legendary sports broadcaster Dick Vitale is confronting another battle with cancer as melanoma has spread. Despite the challenging diagnosis, Vitale reportedly remains confident and determined in his fight against the disease.",
+            "key_points": [
+                "Dick Vitale is battling a new cancer diagnosis, with melanoma spreading.",
+                "He maintains a confident and determined outlook.",
+                "The update highlights his ongoing health challenges."
+            ]
+        },
+        {
+            "headline": "From Clarke to Yuvraj: Cricketers who battled cancer with courage",
+            "summary": "This article shines a light on cricketers, from Michael Clarke to Yuvraj Singh, who have courageously battled cancer. Their stories serve as an inspiration, showcasing immense resilience both on and off the field.",
+            "key_points": [
+                "The article highlights cricketers who fought cancer.",
+                "It includes names like Michael Clarke and Yuvraj Singh.",
+                "Their stories symbolize courage and resilience."
+            ]
+        },
+        {
+            "headline": "Why People-Pleasing Develops: Psychologists trace roots in childhood and attachment",
+            "summary": "Psychologists explain that people-pleasing behaviors often stem from childhood experiences and attachment styles. While deeply ingrained, these patterns are not immutable and can be altered through self-awareness and targeted interventions.",
+            "key_points": [
+                "People-pleasing originates from childhood and attachment styles.",
+                "Psychologists state these behavioral patterns are changeable.",
+                "Self-awareness and intervention can help modify such behaviors."
+            ]
+        },
+        {
+            "headline": "Most couples unaware of ideal pregnancy gap; expert reveals safest time for baby No. 2",
+            "summary": "Many couples are unaware of the optimal and safest time to conceive their second child after a previous pregnancy. Experts advise on the ideal inter-pregnancy interval to ensure the best health outcomes for both mother and baby.",
+            "key_points": [
+                "Many couples are uninformed about the safest interval for subsequent pregnancies.",
+                "Experts provide guidance on the ideal gap for a second baby.",
+                "This ensures better health for mother and child."
+            ]
+        },
+        {
+            "headline": "Waking up with a headache every morning? Doctor says timing reveals real cause",
+            "summary": "If you're experiencing daily morning headaches, a doctor suggests that the timing of these headaches can be a crucial indicator of their underlying cause. Understanding the temporal pattern can help diagnose and address the root issue effectively.",
+            "key_points": [
+                "Morning headaches may indicate underlying health issues.",
+                "A doctor suggests the timing of the headache is key to diagnosis.",
+                "Understanding patterns can help identify and treat the cause."
             ]
         }
     ]
