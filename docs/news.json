@@ -1,389 +1,951 @@
 {
     "World": [
         {
-            "headline": "West Bengal to fast-track land acquisition to take trains close to Doklam",
-            "summary": "West Bengal government has approved land acquisition for a new railway line to improve connectivity to the India-China-Bhutan tri-junction area. This project aims to boost tourism in the Jhaldhaka-Bindu-Todey Tangta region and was previously stalled due to state government non-cooperation.",
+            "headline": "$150 million contract for migrant children's lawyers goes to Trump-linked firm",
+            "summary": "A $150 million contract for lawyers representing migrant children has been awarded to a firm with ties to former President Trump. This decision raises concerns about potential conflicts of interest and the impact on the legal representation of vulnerable migrant children.",
             "key_points": [
-                "West Bengal approves land acquisition for new railway line.",
-                "Aims to connect to India-China-Bhutan tri-junction (Doklam area).",
-                "Project will boost tourism and was previously stalled."
+                "Contract worth $150 million awarded to Trump-linked firm.",
+                "Concerns raised over conflicts of interest.",
+                "Impact on legal representation for migrant children."
             ]
         },
         {
-            "headline": "India Begins BRICS Summit Outreach With Official Invitations: Foreign Ministry",
-            "summary": "India has initiated its outreach for the upcoming BRICS Summit by extending official invitations, according to the Foreign Ministry. This move signifies the beginning of preparations for the high-profile international gathering.",
+            "headline": "Jharkhand protests: CID arrests 5 more; students open to dialogue with Soren govt",
+            "summary": "Five more individuals have been arrested by the CID in connection with the Jharkhand protests. Meanwhile, student groups have indicated their willingness to engage in dialogue with the Soren government to resolve the ongoing issues. This development suggests a potential de-escalation of the situation through negotiation.",
             "key_points": [
-                "India has started BRICS Summit outreach.",
-                "Official invitations have been extended.",
-                "Signifies preparation for the international event."
+                "CID arrests 5 more related to Jharkhand protests.",
+                "Student groups open to dialogue with Soren government.",
+                "Potential for de-escalation through negotiation."
             ]
         },
         {
-            "headline": "Day 12 of Jharkhand students' protest: Hemant Soren says govt taking exam row 'very seriously'",
-            "summary": "Jharkhand Chief Minister Hemant Soren reassured students of a fair resolution under the law, responding to mounting allegations of irregularities in recruitment exams. He emphasized that investigations into reported paper leaks are already in progress by government agencies.",
+            "headline": "China's regional ballistic missile arsenal: From DF-11 to DF-27",
+            "summary": "China possesses a diverse array of regional ballistic missiles, ranging from the DF-11 to the DF-27. These missiles represent a significant component of its military capabilities and strategic posture in the region.",
             "key_points": [
-                "Jharkhand CM Hemant Soren addresses exam irregularities.",
-                "Reassures students of fair resolution under law.",
-                "Investigations into paper leaks are ongoing."
+                "China's regional ballistic missile arsenal includes DF-11 to DF-27.",
+                "Represents a significant component of its military capabilities.",
+                "Highlights China's strategic posture in the region."
             ]
         },
         {
-            "headline": "Iran and Oman are working on a plan to reopen the Strait of Hormuz",
-            "summary": "Tehran and Muscat are drafting an agreement to reopen the Strait of Hormuz through shared routes and service fees. However, the plan's implementation depends on Washington lifting its blockade, as President Trump rejects Iranian control or shipping tolls.",
+            "headline": "Plane allowed to take off as Trump's helicopter approached, FAA investigates",
+            "summary": "A commercial plane was cleared for takeoff even as former President Trump's helicopter was nearing the airport, prompting an investigation by the FAA. This incident raises serious questions about air traffic control procedures and safety protocols for VIP movements.",
             "key_points": [
-                "Iran and Oman plan to reopen Strait of Hormuz.",
-                "Agreement involves shared routes and service fees.",
-                "Implementation conditional on US lifting blockade.",
-                "President Trump opposes Iranian control and tolls."
+                "Commercial plane took off near Trump's helicopter.",
+                "FAA launched an investigation into the incident.",
+                "Raises concerns about air traffic control and VIP safety."
             ]
         },
         {
-            "headline": "Man arrested with gun near Trump's California golf course ahead of fundraiser",
-            "summary": "A man was arrested near President Trump's golf course while allegedly monitoring security preparations. Authorities found a loaded pistol and ammunition in his vehicle and home, leading to multiple felony charges.",
+            "headline": "Supreme Court acquits man after 22 years in jail for wrongful conviction",
+            "summary": "The Supreme Court has acquitted a man who spent 22 years in jail following a wrongful conviction. This landmark decision highlights serious flaws in the justice system and the enduring fight for justice.",
             "key_points": [
-                "Man arrested near Trump's California golf course.",
-                "Found with loaded pistol and ammunition in vehicle and home.",
-                "Faces multiple felony charges, pleaded not guilty."
+                "Man acquitted after 22 years due to wrongful conviction.",
+                "Supreme Court decision highlights flaws in justice system.",
+                "Emphasizes the fight for justice."
             ]
         },
         {
-            "headline": "Netanyahu rules out Gaza withdrawal until Hamas disarms",
-            "summary": "Israeli Prime Minister Netanyahu has stated that Israel will not withdraw from Gaza until Hamas is disarmed. This firm stance indicates a continued military presence and pressure on the militant group, signaling a prolonged engagement in the region.",
+            "headline": "Trump reveals what stopped 'biggest attack since World War II' on Iran",
+            "summary": "Former President Trump has claimed to reveal the reason behind the cancellation of what he described as the 'biggest attack since World War II' on Iran. His statement sheds light on the internal decision-making processes regarding potential military action.",
             "key_points": [
-                "Netanyahu rejects Gaza withdrawal.",
-                "Condition is Hamas disarming.",
-                "Indicates continued Israeli military presence."
+                "Trump reveals reason for cancelling major attack on Iran.",
+                "Described the potential attack as 'biggest since World War II'.",
+                "Sheds light on military decision-making processes."
             ]
         },
         {
-            "headline": "Russian Forces Strike Ports, Vessels and Port Infrastructure in Ukraine: MoD",
-            "summary": "Russia's Ministry of Defence reported that its forces conducted strikes on ports, vessels, and port infrastructure in Ukraine. This action continues the ongoing conflict and targets Ukrainian maritime capabilities, according to the Russian MoD.",
+            "headline": "US to reject incomplete visa, green card applications under new rules",
+            "summary": "The US government will now reject incomplete visa and green card applications outright, according to new immigration rules. This policy change aims to streamline the application process but could lead to increased rejections for minor omissions.",
             "key_points": [
-                "Russian forces struck Ukrainian ports and maritime infrastructure.",
-                "Confirmed by Russia's Ministry of Defence.",
-                "Part of ongoing conflict targeting Ukrainian naval assets."
+                "US to reject incomplete visa and green card applications.",
+                "New rules aim to streamline the process.",
+                "May lead to increased rejections for minor omissions."
+            ]
+        },
+        {
+            "headline": "Pakistan crackdown in PoK draws protests on UK streets",
+            "summary": "A crackdown by Pakistani authorities in Pakistan-occupied Kashmir (PoK) has sparked protests on the streets of the UK. The demonstrations highlight international concern over human rights and political developments in the region.",
+            "key_points": [
+                "Pakistan crackdown in PoK.",
+                "Led to protests in the UK.",
+                "Raises international human rights concerns."
+            ]
+        },
+        {
+            "headline": "Video shows petrol bomb attack on Shakib Al Hasan’s home after Hasina presser",
+            "summary": "A video has emerged showing a petrol bomb attack on the home of cricketer Shakib Al Hasan, occurring after Prime Minister Hasina's press conference. The incident suggests politically motivated violence or public unrest, linked to recent political statements.",
+            "key_points": [
+                "Petrol bomb attack on Shakib Al Hasan's home.",
+                "Occurred after PM Hasina's press conference.",
+                "Suggests politically motivated violence or public unrest."
+            ]
+        },
+        {
+            "headline": "Six family members, including two infants, killed in UP house collapse",
+            "summary": "A century-old house in Uttar Pradesh collapsed early Thursday, killing six family members, including two infants, due to heavy rainfall. Neighbors and rescue teams recovered the victims, with one man surviving the tragic incident.",
+            "key_points": [
+                "Six family members, including two infants, died.",
+                "Century-old house collapsed due to heavy rainfall in UP.",
+                "One survivor receiving hospital care."
+            ]
+        },
+        {
+            "headline": "Do Aircraft Carriers Still Matter as Submarine Power Grows?",
+            "summary": "The increasing strength of submarine fleets worldwide raises questions about the continued relevance and strategic importance of aircraft carriers in modern naval warfare. Experts are debating whether these traditional symbols of power can adapt to evolving underwater threats.",
+            "key_points": [
+                "Growth of submarine power challenges aircraft carrier relevance.",
+                "Debate on carriers' strategic importance in modern naval warfare.",
+                "Questions about adapting to evolving underwater threats."
+            ]
+        },
+        {
+            "headline": "Indian Air Force Tests Mi-35 Attack Helicopter in New Anti-Drone Role",
+            "summary": "The Indian Air Force has successfully tested its Mi-35 attack helicopters in a novel anti-drone role. This development signifies India's efforts to enhance its aerial defense capabilities against emerging asymmetric threats.",
+            "key_points": [
+                "IAF tests Mi-35 attack helicopters in anti-drone role.",
+                "Enhances India's aerial defense capabilities.",
+                "Addresses emerging asymmetric threats."
+            ]
+        },
+        {
+            "headline": "India's BRICS Chairmanship to Advance Anti-Corruption Efforts: Russian MFA",
+            "summary": "The Russian Ministry of Foreign Affairs stated that India's BRICS Chairmanship is set to prioritize and advance anti-corruption efforts within the bloc. This indicates a key focus area for India's leadership on the international stage.",
+            "key_points": [
+                "India's BRICS Chairmanship to focus on anti-corruption.",
+                "Statement made by Russian Ministry of Foreign Affairs.",
+                "Highlights a key priority for India's international leadership."
+            ]
+        },
+        {
+            "headline": "US Congressman reacts strongly to India's regulation of foreign funds",
+            "summary": "A US Congressman has expressed strong disapproval regarding India's regulations concerning foreign funds. This reaction signals potential diplomatic friction or differing views on economic sovereignty and foreign investment policies.",
+            "key_points": [
+                "US Congressman expresses disapproval over India's foreign fund regulations.",
+                "Signals potential diplomatic friction.",
+                "Highlights differing views on economic sovereignty."
+            ]
+        },
+        {
+            "headline": "China flexes airborne nuclear strike power for first time",
+            "summary": "China has showcased its airborne nuclear strike capabilities for the first time, signaling a significant escalation in its military prowess. This display underscores its evolving strategic deterrence and military modernization efforts.",
+            "key_points": [
+                "China demonstrates airborne nuclear strike capabilities.",
+                "First time public display marks military escalation.",
+                "Underscores strategic deterrence and modernization."
+            ]
+        },
+        {
+            "headline": "India and Vietnam deepen defence ties",
+            "summary": "India and Vietnam are further strengthening their defense cooperation, indicating a deepening strategic partnership between the two nations. This collaboration aims to enhance regional security and stability.",
+            "key_points": [
+                "India and Vietnam strengthen defense cooperation.",
+                "Indicates deepening strategic partnership.",
+                "Aims to enhance regional security and stability."
+            ]
+        },
+        {
+            "headline": "Trump warns Iran of 'very hard' strike if Hormuz remains closed",
+            "summary": "Former President Trump has issued a stern warning to Iran, threatening a 'very hard' strike if the Strait of Hormuz remains closed. This aggressive stance reiterates international concerns over freedom of navigation and regional stability.",
+            "key_points": [
+                "Trump warns Iran of 'very hard' strike.",
+                "Threat linked to potential closure of Strait of Hormuz.",
+                "Reiterates concerns over freedom of navigation and stability."
+            ]
+        },
+        {
+            "headline": "India's Project Kusha complements S-400 defence system",
+            "summary": "India's indigenous Project Kusha is designed to complement the S-400 air defense system, enhancing the nation's overall aerial defense capabilities. This integration aims to create a more robust and layered security umbrella against aerial threats.",
+            "key_points": [
+                "Project Kusha complements India's S-400 system.",
+                "Aims to enhance aerial defense capabilities.",
+                "Creates a more robust security umbrella."
+            ]
+        },
+        {
+            "headline": "BrahMos becoming weapon of choice for Global South",
+            "summary": "The BrahMos missile system is increasingly being adopted as the weapon of choice by nations in the Global South, reflecting its growing appeal and effectiveness. This trend underscores India's rising influence as a defense exporter and the missile's strategic importance.",
+            "key_points": [
+                "BrahMos missile gaining popularity in Global South.",
+                "Reflects its growing appeal and effectiveness.",
+                "Highlights India's rising influence as a defense exporter."
+            ]
+        },
+        {
+            "headline": "Indonesia agreement boosts overseas demand for India's Astra Missile",
+            "summary": "An agreement with Indonesia has significantly fueled overseas demand for India's Astra missile, indicating growing international interest in Indian defense technology. This deal positions India as a key player in the global arms market.",
+            "key_points": [
+                "Indonesia agreement increases demand for India's Astra missile.",
+                "Indicates growing international interest in Indian defense tech.",
+                "Positions India as a key player in global arms market."
+            ]
+        },
+        {
+            "headline": "Indonesia to buy India's Astra and BrahMos missiles",
+            "summary": "Indonesia is reportedly set to acquire India’s Astra and BrahMos missiles, solidifying defense cooperation between the two countries. This purchase represents a significant boost for India's defense manufacturing and export capabilities.",
+            "key_points": [
+                "Indonesia plans to acquire India's Astra and BrahMos missiles.",
+                "Solidifies defense cooperation between the two nations.",
+                "Boosts India's defense manufacturing and export capabilities."
+            ]
+        },
+        {
+            "headline": "US targeted Chabahar Port despite India link: Ex-Envoy",
+            "summary": "A former envoy has stated that the US deliberately targeted Chabahar Port with sanctions despite being aware of its crucial link to India's regional connectivity projects. This revelation highlights complex geopolitical maneuvering and potential strain on US-India relations.",
+            "key_points": [
+                "US targeted Chabahar Port with sanctions.",
+                "Aware of the port's crucial link to India.",
+                "Highlights geopolitical maneuvering and potential US-India strain."
+            ]
+        },
+        {
+            "headline": "Russian MoD claims securing Ryzhevka settlement in Sumy Region",
+            "summary": "The Russian Ministry of Defense has announced that its army has secured the Ryzhevka settlement in Ukraine's Sumy Region. This claim, if confirmed, marks a tactical advance in the ongoing conflict.",
+            "key_points": [
+                "Russian MoD claims securing Ryzhevka settlement.",
+                "Located in Ukraine's Sumy Region.",
+                "Marks a tactical advance in the ongoing conflict."
+            ]
+        },
+        {
+            "headline": "Russian MoD claims downing 475 Ukrainian drones overnight",
+            "summary": "The Russian Ministry of Defense has reported that its air defense forces shot down 475 Ukrainian drones overnight. This claim highlights the intensity of drone warfare and the ongoing aerial engagements in the conflict.",
+            "key_points": [
+                "Russian MoD claims downing 475 Ukrainian drones.",
+                "Occurred overnight, highlighting intense drone warfare.",
+                "Indicates ongoing aerial engagements in the conflict."
+            ]
+        },
+        {
+            "headline": "Putin holds phone talks with Brazil's President Lula: Kremlin",
+            "summary": "The Kremlin has announced that President Putin held phone talks with Brazil's President Lula. This diplomatic engagement suggests discussions on bilateral relations, international issues, or coordination within multilateral forums like BRICS.",
+            "key_points": [
+                "President Putin and President Lula held phone talks.",
+                "Announced by the Kremlin.",
+                "Discussions likely included bilateral and international issues."
+            ]
+        },
+        {
+            "headline": "Russian forces strike Ukrainian ports, vessels, and infrastructure: MoD",
+            "summary": "Russia's Ministry of Defense has reported that its forces launched strikes against ports, vessels, and port infrastructure in Ukraine. This action targets key logistical and economic assets, likely intensifying the conflict.",
+            "key_points": [
+                "Russian forces struck Ukrainian ports and vessels.",
+                "Targeted port infrastructure.",
+                "Aims at key logistical and economic assets, intensifying conflict."
+            ]
+        },
+        {
+            "headline": "Russian MoD claims securing Baksheevka settlement in Kharkov Region",
+            "summary": "The Russian Ministry of Defense claims its army has secured the settlement of Baksheevka in Ukraine's Kharkov Region. This reported capture suggests further territorial gains in the ongoing conflict.",
+            "key_points": [
+                "Russian MoD claims securing Baksheevka settlement.",
+                "Located in Ukraine's Kharkov Region.",
+                "Suggests further territorial gains in ongoing conflict."
+            ]
+        },
+        {
+            "headline": "6 killed in Ukrainian drone attack on Russian resort town Gelendzhik",
+            "summary": "A Ukrainian drone attack on the Russian resort town of Gelendzhik has reportedly resulted in six fatalities. This incident marks a deadly escalation, bringing direct casualties to a civilian area within Russia.",
+            "key_points": [
+                "Ukrainian drone attack on Russian resort town Gelendzhik.",
+                "Resulted in six fatalities.",
+                "Marks a deadly escalation with civilian casualties."
+            ]
+        },
+        {
+            "headline": "Iran and Oman agree on Strait of Hormuz shipping route; US involved in negotiations.",
+            "summary": "Tehran has announced an agreement with Oman on the geographic shipping route through the Strait of Hormuz, while simultaneously, the US President claims ongoing 'very nice' negotiations with Iran on the same issue. This indicates a complex diplomatic landscape surrounding the vital waterway.",
+            "key_points": [
+                "Iran and Oman agreed on Strait of Hormuz shipping route.",
+                "Tehran claims US was not involved in agreement.",
+                "US President claims 'very nice' ongoing negotiations with Iran."
+            ]
+        },
+        {
+            "headline": "Moroccan prosecutors charge 25 over Ceuta migrant crossings",
+            "summary": "Moroccan prosecutors have charged 25 individuals in connection with migrant crossings into Ceuta. This legal action underscores ongoing efforts to control illegal migration and prosecute those involved in facilitating it.",
+            "key_points": [
+                "25 individuals charged over Ceuta migrant crossings.",
+                "Moroccan prosecutors are leading the legal action.",
+                "Underscores efforts to control illegal migration."
+            ]
+        },
+        {
+            "headline": "Leftist El-Sayed defeats establishment Democrat in Michigan primary",
+            "summary": "Leftist candidate El-Sayed has defeated an establishment Democrat in the Michigan primary, marking a significant upset in US politics. This victory indicates a shift in voter sentiment and potential implications for future elections.",
+            "key_points": [
+                "Leftist El-Sayed wins Michigan primary.",
+                "Defeats establishment Democrat.",
+                "Signals a shift in US voter sentiment."
+            ]
+        },
+        {
+            "headline": "IDF to continue 'proactive' operations in Gaza, military chief states",
+            "summary": "Israel Defense Forces (IDF) military chief has announced that operations in Gaza will continue to be 'proactive.' This statement signals an aggressive stance and ongoing military engagement in the region, aimed at preemptive action.",
+            "key_points": [
+                "IDF to continue 'proactive' operations in Gaza.",
+                "Statement from the military chief.",
+                "Signals aggressive, preemptive military engagement."
+            ]
+        },
+        {
+            "headline": "Ukraine fails to shoot down Russian missiles in overnight strikes",
+            "summary": "Ukraine's air defense reportedly failed to intercept any Russian missiles during overnight strikes, indicating a potential breach in its defense capabilities. This incident highlights the challenges Ukraine faces in countering sustained aerial assaults.",
+            "key_points": [
+                "Ukraine failed to intercept Russian missiles overnight.",
+                "Suggests a breach in air defense capabilities.",
+                "Highlights challenges in countering aerial assaults."
+            ]
+        },
+        {
+            "headline": "Ukraine's former US ambassador faces anti-corruption probe",
+            "summary": "Ukraine's former ambassador to the US is currently under an anti-corruption investigation. This high-profile probe underscores ongoing efforts to tackle corruption within Ukrainian governmental ranks, especially amid international scrutiny.",
+            "key_points": [
+                "Ukraine's ex-US ambassador faces anti-corruption probe.",
+                "High-profile investigation highlights corruption efforts.",
+                "Occurs amid international scrutiny."
+            ]
+        },
+        {
+            "headline": "€1 million lottery ticket found in 5 tonnes of Italian rubbish",
+            "summary": "A €1 million lottery ticket was miraculously recovered among five tonnes of rubbish in Italy. This incredible find highlights the importance of thorough waste management and offers a heartwarming tale of luck.",
+            "key_points": [
+                "€1 million lottery ticket recovered in Italy.",
+                "Found among five tonnes of rubbish.",
+                "Highlights thorough waste management and a stroke of luck."
+            ]
+        },
+        {
+            "headline": "Iceland expels 21 anti-whaling activists",
+            "summary": "Icelandic authorities have ordered the expulsion of 21 anti-whaling activists, according to police. This move underscores the ongoing conflict between conservation groups and countries involved in whaling activities, and Iceland's firm stance against protest interference.",
+            "key_points": [
+                "Iceland expels 21 anti-whaling activists.",
+                "Highlights conflict between conservation groups and whaling nations.",
+                "Underscores Iceland's stance against protest interference."
+            ]
+        },
+        {
+            "headline": "Woman arrested after four stabbed in London's Covent Garden",
+            "summary": "A woman has been arrested following a stabbing incident in London's Covent Garden that left four people wounded. The incident prompted a rapid police response and raised concerns about public safety in the busy area.",
+            "key_points": [
+                "Woman arrested after stabbing in London's Covent Garden.",
+                "Four people were wounded in the incident.",
+                "Raises concerns about public safety."
+            ]
+        },
+        {
+            "headline": "Italy unveils 1,500km trail network dedicated to Saint Francis",
+            "summary": "Italy has launched an extensive 1,500km trail network dedicated to Saint Francis, offering pilgrims and tourists a unique cultural and spiritual journey. This initiative promotes sustainable tourism and celebrates Italy's rich religious heritage.",
+            "key_points": [
+                "Italy unveils 1,500km trail network.",
+                "Dedicated to Saint Francis, offering cultural and spiritual journey.",
+                "Promotes sustainable tourism and religious heritage."
+            ]
+        },
+        {
+            "headline": "EU to release €1.4bn from Russian asset profits to Ukraine",
+            "summary": "The European Union is set to release €1.4 billion generated from the profits of frozen Russian assets to aid Ukraine. This significant financial package aims to provide crucial support for Ukraine's defense and reconstruction efforts amidst the ongoing conflict.",
+            "key_points": [
+                "EU to release €1.4 billion to Ukraine.",
+                "Funds derived from frozen Russian asset profits.",
+                "Aims to support Ukraine's defense and reconstruction."
+            ]
+        },
+        {
+            "headline": "Pope Leo XIV to visit Uruguay, Argentina, and Peru in November",
+            "summary": "Pope Leo XIV is scheduled to embark on a visit to Uruguay, Argentina, and Peru in November. This tour will involve significant diplomatic engagements and religious ceremonies, reinforcing the Vatican's ties with Latin American nations.",
+            "key_points": [
+                "Pope Leo XIV to visit Uruguay, Argentina, and Peru.",
+                "Tour scheduled for November.",
+                "Aims to reinforce Vatican's ties with Latin American nations."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Government may allow fees on UPI payment above Rs 2k",
-            "summary": "The government is considering a small charge on UPI payments exceeding two thousand rupees, applicable only to transactions made to businesses. This change is estimated to affect just five percent of all UPI transactions, with most daily purchases remaining free.",
+            "headline": "RBI Governor states consumers indirectly bearing UPI costs",
+            "summary": "RBI governor Sanjay Malhotra indicated that the costs associated with UPI transactions are already being indirectly borne by consumers through broader economic operations. He stated that introducing explicit fees for merchants would be premature, emphasizing the need to enhance payment infrastructure and utilization while considering the impact on user engagement.",
             "key_points": [
-                "Potential fee for UPI payments over Rs 2,000.",
-                "Applies only to business transactions, not individuals.",
-                "Impacts only 5% of UPI transactions.",
-                "Most daily purchases unaffected."
+                "UPI costs are indirectly borne by consumers.",
+                "RBI governor deems explicit merchant fees premature.",
+                "Focus on enhancing payment infrastructure and utilization."
             ]
         },
         {
-            "headline": "From launch to data, tech to Isro facility, pvt firms to get 30-100% subsidy",
-            "summary": "New government schemes will offer significant financial support, ranging from 30-100% subsidies, to Indian private space companies. These initiatives aim to boost domestic launch capabilities, global competitiveness, and make satellite data and infrastructure more affordable.",
+            "headline": "Crude oil prices slip on Iran-Oman talks, hopes for Hormuz reopening",
+            "summary": "Crude oil prices have experienced a decline following talks between Iran and Oman, which have fueled optimism for a peace deal and the reopening of the Strait of Hormuz. A resolution in the region could ease global oil supply concerns.",
             "key_points": [
-                "Indian private space companies to receive 30-100% government subsidies.",
-                "Support covers launch services, technology transfer, and ISRO facility access.",
-                "Aims to boost domestic capabilities and global competitiveness.",
-                "Makes satellite data and infrastructure more affordable."
+                "Crude oil prices declined after Iran-Oman talks.",
+                "Talks fuel hopes for peace deal and Hormuz reopening.",
+                "Potential to ease global oil supply concerns."
             ]
         },
         {
-            "headline": "Oil Slips to $70: What’s Next for Petrol and Inflation in India?",
-            "summary": "Crude oil prices have dropped to $70, prompting questions about the future impact on petrol prices and inflation within India. This decline could offer some relief to the Indian economy, but its full effect remains to be seen.",
+            "headline": "India to circulate Rs 10 and 20 polymer notes by early FY28",
+            "summary": "India is set to introduce Rs 10 and Rs 20 polymer notes into circulation by early Fiscal Year 2028. This move aligns with global trends in currency manufacturing, aiming for increased durability and security features.",
             "key_points": [
-                "Crude oil price drops to $70.",
-                "Impact on Indian petrol prices and inflation is anticipated.",
-                "Could provide economic relief for India."
+                "India to introduce Rs 10 and Rs 20 polymer notes.",
+                "Expected by early Fiscal Year 2028.",
+                "Aims for increased durability and security."
             ]
         },
         {
-            "headline": "Oil price today: Crude steadies below $80 as Hormuz blockade keeps investors on edge",
-            "summary": "Oil prices slightly increased after declines, with investors watching US-Iran standoff negotiations to restore access to the Strait of Hormuz. While US crude and gasoline inventories rose last week, distillate stocks dropped.",
+            "headline": "RBI keeps repo rate unchanged, projects higher growth and lower inflation",
+            "summary": "The RBI has maintained the repo rate unchanged, signaling stability in its monetary policy. The central bank's outlook anticipates higher economic growth coupled with lower inflation, providing a positive forecast for the Indian economy.",
             "key_points": [
-                "Oil prices steady below $80.",
-                "Investors concerned about US-Iran standoff and Hormuz blockade.",
-                "Negotiations ongoing to resolve conflict and reopen Strait.",
-                "US crude and gasoline inventories up, distillates down."
+                "RBI keeps repo rate unchanged.",
+                "Projects higher economic growth.",
+                "Anticipates lower inflation."
             ]
         },
         {
-            "headline": "HSBC profit jumps as bank unveils major share buyback plan",
-            "summary": "HSBC has reported a significant increase in its profits, leading the bank to announce a major share buyback program. This move is indicative of strong financial performance and a commitment to returning value to shareholders.",
+            "headline": "RBI indicates Tata Sons remains in upper layer",
+            "summary": "The RBI has indicated that Tata Sons continues to be categorized in the upper layer, signifying its significant systemic importance. This classification implies heightened regulatory scrutiny and adherence to stricter compliance standards.",
             "key_points": [
-                "HSBC reports substantial profit increase.",
-                "Bank announces large share buyback plan.",
-                "Reflects strong financial performance."
+                "Tata Sons remains in RBI's upper layer.",
+                "Signifies systemic importance.",
+                "Implies heightened regulatory scrutiny."
             ]
         },
         {
-            "headline": "BP profit more than doubles as Middle East conflict boosts oil prices",
-            "summary": "BP's profits have more than doubled, primarily attributed to the surge in oil prices caused by the ongoing Middle East conflict. The geopolitical tensions have significantly impacted the energy market, benefiting major oil companies.",
+            "headline": "RBI proposes uniform interest rate norms for banks, NBFCs",
+            "summary": "The RBI has put forth a proposal for uniform interest rate norms to be applied across banks and Non-Banking Financial Companies (NBFCs). This aims to bring greater transparency and consistency to lending practices across the financial sector.",
+            "key_points": [
+                "RBI proposes uniform interest rate norms.",
+                "Applies to banks and NBFCs.",
+                "Aims for transparency and consistency in lending."
+            ]
+        },
+        {
+            "headline": "Sebi confirms no rollback of closing auction session",
+            "summary": "Sebi has confirmed that there will be no rollback of the closing auction session. This decision maintains the current market mechanism for price discovery at the end of trading, reinforcing regulatory consistency.",
+            "key_points": [
+                "Sebi confirms no rollback of closing auction session.",
+                "Maintains current market mechanism for price discovery.",
+                "Reinforces regulatory consistency."
+            ]
+        },
+        {
+            "headline": "Top stock recommendations for August 6, 2026",
+            "summary": "A list of top stock recommendations for August 6, 2026, has been released, offering investors potential buying opportunities. These recommendations typically come with analysis on market trends and company performances.",
+            "key_points": [
+                "Top stock recommendations released for August 6, 2026.",
+                "Offers potential buying opportunities for investors.",
+                "Based on market trends and company performance analysis."
+            ]
+        },
+        {
+            "headline": "HDFC declares 'zero tolerance' for unethical practices",
+            "summary": "HDFC has publicly declared a 'zero tolerance' policy for unethical practices within the organization. This firm stance underscores the bank's commitment to maintaining integrity and ethical standards among its employees.",
+            "key_points": [
+                "HDFC implements 'zero tolerance' for unethical practices.",
+                "Underscores commitment to integrity.",
+                "Aims to maintain ethical standards among employees."
+            ]
+        },
+        {
+            "headline": "Airtel Money eyes London listing this year, telco sees ARPU boost",
+            "summary": "Airtel Money is reportedly considering a listing in London this year, a move that could significantly boost its financial standing. The telco is also experiencing an increase in Average Revenue Per User (ARPU), indicating strong subscriber engagement.",
+            "key_points": [
+                "Airtel Money considering London listing this year.",
+                "Potential for significant financial boost.",
+                "Telco sees increase in Average Revenue Per User (ARPU)."
+            ]
+        },
+        {
+            "headline": "India's first Telecom Manufacturing Zone to be established in Gwalior",
+            "summary": "Gwalior is set to host India's first Telecom Manufacturing Zone, a significant step towards boosting indigenous production in the telecom sector. This initiative aims to reduce import reliance and create employment opportunities.",
+            "key_points": [
+                "Gwalior to host India's first Telecom Manufacturing Zone.",
+                "Aims to boost indigenous telecom production.",
+                "Expected to reduce import reliance and create jobs."
+            ]
+        },
+        {
+            "headline": "US secondary sanctions on Russian oil buyers could tighten global supply",
+            "summary": "An expert warns that potential US secondary sanctions on buyers of Russian oil could lead to a significant tightening of global oil supply. Such measures would impact international energy markets and could drive up prices worldwide.",
+            "key_points": [
+                "US secondary sanctions on Russian oil buyers possible.",
+                "Could lead to significant tightening of global oil supply.",
+                "Impacts international energy markets and prices."
+            ]
+        },
+        {
+            "headline": "India's strategic energy shield should include LNG & LPG: Expert",
+            "summary": "An energy expert suggests that India's strategic energy shield should be expanded to encompass Liquefied Natural Gas (LNG) and Liquefied Petroleum Gas (LPG). This would enhance energy security and diversify the nation's energy portfolio.",
+            "key_points": [
+                "India's energy shield should cover LNG and LPG.",
+                "Aims to enhance energy security.",
+                "Diversifies the nation's energy portfolio."
+            ]
+        },
+        {
+            "headline": "Oil slips to $70: Implications for Indian petrol and inflation",
+            "summary": "Global oil prices have dropped to $70, raising questions about the future trajectory of petrol prices and inflation within India. This decline could offer some relief to consumers and potentially influence the Reserve Bank of India's monetary policy decisions.",
+            "key_points": [
+                "Global oil prices dropped to $70.",
+                "Raises questions about Indian petrol prices and inflation.",
+                "Could influence RBI's monetary policy decisions."
+            ]
+        },
+        {
+            "headline": "China slaps export controls on US firms ahead of Xi's Washington visit",
+            "summary": "China has imposed export controls on US firms just before President Xi's visit to Washington. This move intensifies economic tensions between the two powers and could be a strategic bargaining chip ahead of high-level talks.",
+            "key_points": [
+                "China imposes export controls on US firms.",
+                "Ahead of President Xi's visit to Washington.",
+                "Intensifies economic tensions between the two powers."
+            ]
+        },
+        {
+            "headline": "Minimum wages in Europe: Purchasing power vs. pay in 2026",
+            "summary": "An analysis of minimum wages in Europe for 2026 delves into the disparity between actual pay and purchasing power across different countries. This examination highlights economic challenges and living standards within the European Union.",
+            "key_points": [
+                "Analysis of European minimum wages in 2026.",
+                "Examines disparity between actual pay and purchasing power.",
+                "Highlights economic challenges and living standards in EU."
+            ]
+        },
+        {
+            "headline": "Copenhagen's Noma reopens after abuse accusations",
+            "summary": "Copenhagen's renowned restaurant Noma has reopened its doors following a period of closure amidst abuse accusations. The reopening signals an attempt to move forward and re-establish its reputation in the culinary world.",
+            "key_points": [
+                "Noma restaurant in Copenhagen reopens.",
+                "Follows closure due to abuse accusations.",
+                "Aims to re-establish its culinary reputation."
+            ]
+        },
+        {
+            "headline": "Infineon hits revenue record, driven by AI data centers",
+            "summary": "Infineon has achieved record revenues, largely propelled by strong demand from AI data centers. This success underscores the booming market for semiconductors essential to artificial intelligence infrastructure and data processing.",
+            "key_points": [
+                "Infineon reports record revenues.",
+                "Growth driven by demand from AI data centers.",
+                "Highlights booming AI semiconductor market."
+            ]
+        },
+        {
+            "headline": "SpaceX posts smaller loss despite scrutiny over rocket and AI spending",
+            "summary": "SpaceX has reported a smaller loss, even while facing scrutiny over its substantial spending on rocket development and artificial intelligence. This financial performance indicates a pathway towards profitability amidst ambitious technological investments.",
+            "key_points": [
+                "SpaceX reports smaller financial loss.",
+                "Despite scrutiny over rocket and AI spending.",
+                "Indicates pathway towards profitability amidst tech investments."
+            ]
+        },
+        {
+            "headline": "HSBC profit jumps, unveils major share buyback plan",
+            "summary": "HSBC has reported a significant jump in profits and concurrently announced a major share buyback plan. This financial strength reflects robust performance and a strategy to return value to shareholders.",
+            "key_points": [
+                "HSBC reports significant jump in profits.",
+                "Announces a major share buyback plan.",
+                "Reflects robust performance and shareholder value strategy."
+            ]
+        },
+        {
+            "headline": "BP profit more than doubles due to Middle East conflict boosting oil prices",
+            "summary": "BP's profits have more than doubled, primarily benefiting from the surge in oil prices caused by ongoing conflicts in the Middle East. This financial windfall highlights the significant impact of geopolitical instability on global energy markets.",
             "key_points": [
                 "BP's profits more than doubled.",
-                "Attributed to increased oil prices.",
-                "Middle East conflict is the driving factor."
-            ]
-        },
-        {
-            "headline": "TotalEnergies to buy Shell's wind and solar businesses in Europe",
-            "summary": "TotalEnergies has announced its intention to acquire Shell's wind and solar energy businesses across Europe. This acquisition signals a strategic expansion for TotalEnergies in the renewable energy sector and a shift for Shell's European operations.",
-            "key_points": [
-                "TotalEnergies to acquire Shell's European wind and solar assets.",
-                "Strategic move into renewable energy for TotalEnergies.",
-                "Marks a shift for Shell's European green energy portfolio."
+                "Benefited from surging oil prices.",
+                "Linked to Middle East conflict and geopolitical instability."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "SpaceX Falcon 9 upper stage set to crash into Moon, create new lunar crater",
-            "summary": "A discarded upper stage of a SpaceX Falcon 9 rocket is expected to crash into the Moon, creating a new crater. This event is a rare occurrence for such space debris and will provide unique observation opportunities.",
+            "headline": "Electric scooters poised to be future of office commute",
+            "summary": "Electric scooters are emerging as a strong contender for the future of office commutes due to their cost-effectiveness, convenience, and compact size. With dedicated lanes and improved safety, they could significantly reduce road congestion and offer economic benefits to urban authorities.",
             "key_points": [
-                "SpaceX Falcon 9 upper stage will crash into the Moon.",
-                "Expected to create a new lunar crater.",
-                "A rare event for space debris."
+                "Electric scooters are seen as future of office commute.",
+                "Offer cost-effectiveness, convenience, and compact size.",
+                "Could reduce road congestion with dedicated lanes and safety."
             ]
         },
         {
-            "headline": "Meet Roy Kim, 13, who turns air moisture into water for farms",
-            "summary": "A 13-year-old student, Roy Kim, has developed technology that converts air moisture into potable water. This sustainable device uses a Peltier module for condensation and advanced sensors, aiming to alleviate global water challenges for agriculture.",
+            "headline": "Government orders blocking of over 7,000 links involved in film piracy",
+            "summary": "The government has issued orders to block 7,393 links found to be engaged in film piracy. This decisive action is part of an ongoing effort to combat intellectual property theft and protect the interests of the film industry.",
             "key_points": [
-                "13-year-old Roy Kim invented a device to convert air moisture into water.",
-                "Aims to provide sustainable water for farms.",
-                "Uses a Peltier module for condensation and advanced sensors.",
-                "Hopes to address global agricultural water scarcity."
+                "Government ordered blocking of 7,393 film piracy links.",
+                "Action is part of combating intellectual property theft.",
+                "Aims to protect the interests of the film industry."
             ]
         },
         {
-            "headline": "New Russian AI tool spots cancer cells with up to 99.9% accuracy",
-            "summary": "A new artificial intelligence tool developed in Russia boasts an impressive accuracy rate of up to 99.9% in identifying cancer cells. This breakthrough could significantly enhance early cancer detection and diagnosis, offering a major step forward in medical technology.",
+            "headline": "Trai unveils draft service quality norms for network slicing",
+            "summary": "The Telecom Regulatory Authority of India (Trai) has released draft service quality norms specifically for network slicing. These guidelines aim to ensure robust and reliable performance for differentiated services in 5G networks.",
             "key_points": [
-                "New Russian AI tool for cancer detection.",
-                "Achieves up to 99.9% accuracy in spotting cancer cells.",
-                "Potential for significant improvement in diagnosis."
+                "Trai unveils draft service quality norms for network slicing.",
+                "Guidelines aim for robust and reliable 5G network performance.",
+                "Focuses on differentiated services."
             ]
         },
         {
-            "headline": "How the UK is training its 'surgeons of the future' with robots",
-            "summary": "The UK is incorporating robotics into its surgical training programs to prepare the next generation of surgeons. This innovative approach allows trainees to practice complex procedures with precision and enhance their skills using advanced robotic systems.",
+            "headline": "Google rejigs AI leadership as DeepMind CEO shifts role",
+            "summary": "Google has reorganized its AI leadership structure, with the CEO of DeepMind taking on a new role. This strategic realignment aims to enhance the company's focus and capabilities in the rapidly evolving field of artificial intelligence.",
             "key_points": [
-                "UK training surgeons using robotics.",
-                "Aims to prepare future surgeons.",
-                "Enhances precision and skills with advanced systems."
+                "Google reorganizes AI leadership structure.",
+                "DeepMind CEO assumes a new role.",
+                "Aims to enhance AI focus and capabilities."
             ]
         },
         {
-            "headline": "AI demand keeps consumer prices high in 'RAMaggedon' chip crunch",
-            "summary": "The escalating demand for AI technology is contributing to a 'RAMaggedon' chip crunch, consequently keeping consumer prices elevated. The scarcity and high cost of essential memory chips are affecting various tech products and the wider economy.",
+            "headline": "Indian official criticizes Meta for removing PM Modi's video",
+            "summary": "An Indian official has strongly criticized Meta for removing a video featuring Prime Minister Modi, deeming the action 'unpardonable.' This incident highlights ongoing debates about content moderation, platform censorship, and political discourse online.",
             "key_points": [
-                "AI demand drives 'RAMaggedon' chip crunch.",
-                "Leads to high consumer prices.",
-                "Scarcity and cost of memory chips affect tech products."
+                "Indian official criticizes Meta for removing PM Modi's video.",
+                "Deems the action 'unpardonable.'",
+                "Highlights debates on content moderation and censorship."
+            ]
+        },
+        {
+            "headline": "Iran develops indigenous brain-reading technology",
+            "summary": "Iran has successfully developed its own indigenous brain-reading technology, marking a significant advancement in its scientific and technological capabilities. This development could have implications for various fields, including medicine and defense.",
+            "key_points": [
+                "Iran develops indigenous brain-reading technology.",
+                "Marks significant scientific and technological advancement.",
+                "Potential implications for medicine and defense."
+            ]
+        },
+        {
+            "headline": "German police deploy bomb disposal robot at airport after drone find",
+            "summary": "German police deployed a bomb disposal robot at an airport following the discovery of a suspicious drone. The incident highlights heightened security measures and the use of advanced technology to neutralize potential threats in public spaces.",
+            "key_points": [
+                "German police deploy bomb disposal robot at airport.",
+                "Deployment followed discovery of a suspicious drone.",
+                "Highlights use of advanced technology in security measures."
+            ]
+        },
+        {
+            "headline": "Anthropic's 'Project Panama' used shredded books to train AI chatbot",
+            "summary": "Anthropic's 'Project Panama' involved an unusual method of training its AI chatbot: shredding vast quantities of books. This unique approach highlights the innovative and sometimes controversial methods employed in developing advanced artificial intelligence.",
+            "key_points": [
+                "Anthropic used 'Project Panama' for AI chatbot training.",
+                "Involved shredding vast quantities of books.",
+                "Highlights innovative and controversial AI training methods."
+            ]
+        },
+        {
+            "headline": "UK trains 'surgeons of the future' using robots",
+            "summary": "The UK is implementing innovative training programs to prepare its 'surgeons of the future' by integrating robots into their education. This advanced approach aims to enhance precision, efficiency, and safety in surgical procedures.",
+            "key_points": [
+                "UK trains future surgeons using robot integration.",
+                "Aims to enhance precision and efficiency in surgery.",
+                "Advanced approach to surgical education."
+            ]
+        },
+        {
+            "headline": "Apple challenges UK's second attempt to access iCloud data",
+            "summary": "Apple is challenging the UK's second attempt to gain access to iCloud data, reigniting a significant debate over data privacy versus national security. This legal battle highlights the ongoing tension between tech companies and governments regarding user information.",
+            "key_points": [
+                "Apple challenges UK's second attempt to access iCloud data.",
+                "Reignites debate over data privacy versus national security.",
+                "Highlights tension between tech companies and governments."
+            ]
+        },
+        {
+            "headline": "German court rules AI music generator Suno broke copyright rules",
+            "summary": "A German court has ruled that the AI music generator Suno infringed upon copyright rules. This landmark decision sets a precedent for intellectual property rights in the era of artificial intelligence and its creative outputs.",
+            "key_points": [
+                "German court rules AI music generator Suno broke copyright.",
+                "Landmark decision for intellectual property rights.",
+                "Sets precedent for AI and creative outputs."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Shah Rukh Khan SPOTTED at London airport; sparks frenzy at immigration counter - WATCH",
-            "summary": "Bollywood superstar Shah Rukh Khan was seen at London airport, causing a commotion among fans at the immigration counter. His presence sparked a frenzy as onlookers tried to catch a glimpse of the actor.",
+            "headline": "Inside Jennifer Lopez's lavish real estate portfolio",
+            "summary": "Jennifer Lopez's extensive and luxurious real estate holdings are revealed, showcasing her journey from a $4 million LA Summit mansion to her current sprawling Hidden Hills estate. Her properties reflect her success and opulent lifestyle.",
             "key_points": [
-                "Shah Rukh Khan spotted at London airport.",
-                "Caused a frenzy at the immigration counter."
+                "Reveals Jennifer Lopez's lavish real estate holdings.",
+                "Portfolio includes mansions in LA Summit and Hidden Hills.",
+                "Reflects her opulent lifestyle and success."
             ]
         },
         {
-            "headline": "Cristiano Ronaldo’s fiancée Georgina Rodriguez SLAMS the trolls commenting on her body image: 'Where is the standard? Who decides...'",
-            "summary": "Georgina Rodriguez, Cristiano Ronaldo's fiancée, publicly criticized trolls making negative comments about her body image. She questioned societal beauty standards and who defines them, taking a firm stance against online harassment.",
+            "headline": "South Indian OTT releases this week: From 'Kattalan' to 'Uyir'",
+            "summary": "This week features several new South Indian film releases on various OTT platforms, including titles like 'Kattalan' and 'Uyir'. Viewers can anticipate a diverse range of regional content available for streaming.",
             "key_points": [
-                "Georgina Rodriguez slammed trolls.",
-                "Criticized comments on her body image.",
-                "Questioned societal beauty standards."
+                "New South Indian films released on OTT platforms this week.",
+                "Includes titles like 'Kattalan' and 'Uyir'.",
+                "Offers a diverse range of regional content for streaming."
             ]
         },
         {
-            "headline": "'Spider-Man: Brand New Day' crosses USD 1 billion worldwide; becomes second-fastest film to hit milestone",
-            "summary": "The film 'Spider-Man: Brand New Day' has achieved over USD 1 billion at the global box office. It is now the second-fastest movie to reach this significant financial milestone, demonstrating its immense commercial success.",
+            "headline": "Understanding Mercury Retrograde and its implications",
+            "summary": "Mercury retrograde is currently underway, a period often associated with communication disruptions and technological glitches. Astrologers explain the celestial event and its perceived influence on daily life, encouraging caution and reflection.",
             "key_points": [
-                "'Spider-Man: Brand New Day' earned over USD 1 billion worldwide.",
-                "It is the second-fastest film to reach this milestone."
+                "Mercury retrograde is currently underway.",
+                "Associated with communication disruptions and tech glitches.",
+                "Astrologers advise caution and reflection during this period."
             ]
         },
         {
-            "headline": "'Rubberz': Did AI create the song of the summer?",
-            "summary": "The song 'Rubberz' has sparked debate over whether it was created by artificial intelligence. Its sudden popularity and unique sound have led many to question its origins, highlighting the growing influence of AI in music production.",
+            "headline": "Perez Hilton's family releases statement on his well-being after self-harm livestream",
+            "summary": "Perez Hilton's family has issued a statement following his self-harm livestream, emphasizing that their primary focus is on his well-being. They are seeking privacy and support during this difficult time.",
             "key_points": [
-                "'Rubberz' is a popular song.",
-                "Debate surrounds its creation by AI.",
-                "Highlights AI's growing role in music."
+                "Perez Hilton's family releases statement after self-harm livestream.",
+                "Focus is on his well-being.",
+                "Family requests privacy and support."
             ]
         },
         {
-            "headline": "New 007: 'Good bet' that new James Bond revealed in 2026 says producer",
-            "summary": "A producer for the James Bond franchise has indicated that there is a 'good bet' the new actor to play 007 will be revealed in 2026. This announcement fuels anticipation for the next iteration of the iconic spy character.",
+            "headline": "Emma Heming Willis recalls first meeting Bruce Willis while engaged to another",
+            "summary": "Emma Heming Willis shared memories of her initial encounter with Bruce Willis, revealing she was engaged to someone else at the time. She expressed an undeniable fondness for his company from their very first meeting.",
+            "key_points": [
+                "Emma Heming Willis recalls meeting Bruce Willis.",
+                "She was engaged to another man at the time.",
+                "Felt an undeniable fondness for his company."
+            ]
+        },
+        {
+            "headline": "Mustafa Zahid to recreate 'Tera Mera Rishta' for 'Awarapan 2' amidst ban concerns",
+            "summary": "Pakistani singer Mustafa Zahid is reportedly set to recreate his hit song 'Tera Mera Rishta' for 'Awarapan 2', sparking debate due to the existing ban on Pakistani artists. This move suggests a potential workaround or a challenge to the ban for specific projects.",
+            "key_points": [
+                "Mustafa Zahid to recreate 'Tera Mera Rishta' for 'Awarapan 2'.",
+                "Project sparks debate due to ban on Pakistani artists.",
+                "Suggests a potential workaround or challenge to the ban."
+            ]
+        },
+        {
+            "headline": "'Ramayana' to clash with 'Godzilla Minus Zero' for IMAX screens on November 6",
+            "summary": "Two major films, 'Ramayana' and 'Godzilla Minus Zero', are set for a global box office clash on November 6, 2026, competing intensely for premium IMAX screens. 'Ramayana' aims to leverage the festive Diwali window in India, while 'Godzilla Minus Zero' faces strong international competition.",
+            "key_points": [
+                "'Ramayana' and 'Godzilla Minus Zero' clash on Nov 6, 2026.",
+                "Both films competing for premium IMAX screens.",
+                "'Ramayana' targets Diwali window; 'Godzilla' faces international competition."
+            ]
+        },
+        {
+            "headline": "Angel Reese shines at Met Gala 2026, highlighting women's sports",
+            "summary": "Angel Reese made a striking appearance at the Met Gala 2026, showcasing old Hollywood glamour and effectively bringing a spotlight to women's sports. Her presence at the high-profile fashion event helped elevate the visibility of female athletes.",
+            "key_points": [
+                "Angel Reese attended Met Gala 2026.",
+                "Showcased old Hollywood glamour.",
+                "Helped bring a spotlight to women's sports."
+            ]
+        },
+        {
+            "headline": "New James Bond actor 'good bet' to be revealed in 2026, producer says",
+            "summary": "A producer has stated that it's a 'good bet' the new actor to portray James Bond will be revealed in 2026. This announcement fuels anticipation among fans and the industry for the next iteration of the iconic spy franchise.",
             "key_points": [
                 "New James Bond actor likely revealed in 2026.",
-                "Producer hinted at the timeline.",
-                "Builds anticipation for the next 007."
+                "Statement from a producer fuels anticipation.",
+                "Excitement for the next iteration of the iconic spy franchise."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Reality check after Commonwealth Games 2026: India’s boxing renaissance to face ultimate Asian exam",
-            "summary": "Following the Commonwealth Games 2026, India's resurgent boxing talent is set to face a crucial test in the upcoming Asian exam. This will determine the true extent of their progress and potential on a larger stage, indicating the direction of Indian boxing.",
+            "headline": "FIH Women’s Hockey World Cup: Dutch legend Pirmin Blaak coaches Indian goalkeepers",
+            "summary": "Dutch hockey legend Pirmin Blaak is actively coaching Indian goalkeepers Savita and Bichu, preparing them for the upcoming FIH Women’s Hockey World Cup campaign. His expertise aims to fine-tune their skills and enhance India's performance in the tournament.",
             "key_points": [
-                "India's boxing talent faces a reality check after CWG 2026.",
-                "Upcoming Asian exam is the ultimate test.",
-                "Will assess the true progress of India's boxing renaissance."
+                "Pirmin Blaak coaching Indian goalkeepers Savita and Bichu.",
+                "Preparation for FIH Women’s Hockey World Cup.",
+                "Aims to enhance India's performance with his expertise."
             ]
         },
         {
-            "headline": "Para badminton champions left waiting as Rs 5 crore-plus cash awards remain pending",
-            "summary": "Indian para-badminton champions are still awaiting cash awards exceeding Rs 5 crore that were promised to them. This delay in disbursing funds is causing frustration among the athletes, impacting their morale and financial stability.",
+            "headline": "BCCI to standardize fitness tests after England tour debacle",
+            "summary": "Following the disappointing England tour, the BCCI plans to standardize fitness test parameters, including the Bronco and 2K tests. This move aims to ensure consistent fitness evaluation for players and address issues identified in the previous system.",
             "key_points": [
-                "Indian para-badminton champions' cash awards pending.",
-                "Over Rs 5 crore promised awards still not disbursed.",
-                "Delay causing frustration among athletes."
+                "BCCI to standardize fitness test parameters.",
+                "Includes Bronco and 2K tests.",
+                "Aims to ensure consistent fitness evaluation post-England tour."
             ]
         },
         {
-            "headline": "Money and infra won't build Indian football. A sporting culture will",
-            "summary": "The article argues that the primary hindrance to Indian football's growth is not a lack of infrastructure or history, but rather a missing sporting culture. It suggests that a deeper passion for the sport at the grassroots level is essential for its development.",
+            "headline": "Netflix expands NFL partnership, adds Thanksgiving Eve Packers-Rams game",
+            "summary": "Netflix is expanding its partnership with the NFL, notably adding an exclusive Thanksgiving Eve game featuring the Packers and the Rams to its growing sports coverage. This move signifies Netflix's increased investment in live sports and its strategy to attract a broader audience.",
             "key_points": [
-                "Lack of sporting culture is the main issue for Indian football.",
-                "Infrastructure and history are not the primary obstacles.",
-                "Passion for the sport among fans and players is crucial."
+                "Netflix expands NFL partnership.",
+                "Adds exclusive Thanksgiving Eve Packers-Rams game.",
+                "Signifies increased investment in live sports."
             ]
         },
         {
-            "headline": "'You drop me': Ex-cricketer says Rohit Sharma has thrown the ball into selectors' court",
-            "summary": "An ex-cricketer commented that Rohit Sharma's recent statement indicates he has put the onus of selection entirely on the selectors. This suggests a challenge to the selection committee regarding his place in the team.",
+            "headline": "Tina Charles retires as WNBA's all-time rebounding leader",
+            "summary": "WNBA legend Tina Charles has announced her retirement, concluding a historic career where she became the league's all-time leading rebounder and second-highest scorer. Her departure marks the end of an era for women's basketball.",
             "key_points": [
-                "Ex-cricketer comments on Rohit Sharma's statement.",
-                "Suggests Sharma has challenged selectors.",
-                "Implies a shift of selection responsibility to the committee."
+                "Tina Charles retires from WNBA.",
+                "WNBA's all-time rebounding leader.",
+                "Second-highest scorer in league history."
             ]
         },
         {
-            "headline": "“Allar is trying to spin like Rodgers”: Drew Allar’s shocking training camp miss sends Steelers fans into a frenzy while Will Howard steals the spotlight",
-            "summary": "Drew Allar's unexpected miss during training camp has stirred up Steelers fans, drawing comparisons to Aaron Rodgers. Meanwhile, Will Howard has been gaining attention and stealing the spotlight with his performance, creating a buzz among supporters.",
+            "headline": "Paige Bueckers voted best WNBA player to build around in GM survey",
+            "summary": "Paige Bueckers has topped the WNBA General Manager survey as the best player to build a franchise around, ahead of notable talents like Caitlin Clark and A'ja Wilson. This recognition underscores her perceived potential and impact in the league.",
             "key_points": [
-                "Drew Allar's training camp miss caused fan frenzy.",
-                "Compared to Aaron Rodgers' throwing style.",
-                "Will Howard is gaining prominence."
+                "Paige Bueckers tops WNBA GM survey.",
+                "Voted best player to build a franchise around.",
+                "Ahead of Caitlin Clark and A'ja Wilson."
             ]
         },
         {
-            "headline": "Former FIFA Vice President Prince Ali accuses Infantino of 'blackmail'",
-            "summary": "Former FIFA Vice President Prince Ali has publicly accused current FIFA President Gianni Infantino of 'blackmail.' These serious allegations suggest significant internal conflict within the international football organization.",
+            "headline": "Infantino to remain FIFA boss after crisis meeting",
+            "summary": "Gianni Infantino will retain his position as FIFA President following a recent crisis meeting. The decision indicates support for his leadership amidst various challenges and controversies facing the international football governing body.",
             "key_points": [
-                "Prince Ali accuses FIFA President Infantino of blackmail.",
-                "Serious allegations within FIFA.",
-                "Suggests internal conflict in the organization."
+                "Gianni Infantino retains FIFA Presidency.",
+                "Decision made after a crisis meeting.",
+                "Indicates continued leadership despite challenges."
             ]
         },
         {
-            "headline": "55 hours in the water: Polish swimmer crosses Baltic Sea from Sweden to home country",
-            "summary": "A Polish swimmer successfully crossed the Baltic Sea from Sweden to his home country, enduring 55 hours in the water. This remarkable feat showcases extreme endurance and determination, drawing international attention.",
+            "headline": "Portugal legend Luis Figo calls for Infantino's resignation",
+            "summary": "Portugal football legend Luis Figo has publicly criticized FIFA President Gianni Infantino and called for his resignation. This strong statement adds to the pressure on Infantino, following a crisis meeting where he retained his position.",
             "key_points": [
-                "Polish swimmer crossed the Baltic Sea.",
-                "Journey took 55 hours.",
-                "Demonstrates extreme endurance."
+                "Luis Figo criticizes FIFA President Infantino.",
+                "Calls for Infantino's resignation.",
+                "Adds pressure after Infantino retained position."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Scientists discover Greenland sharks can see for centuries, debunking blindness myth",
-            "summary": "Researchers have found that Greenland sharks, previously thought to be blind, possess the ability to see for centuries. This discovery debunks a long-held myth about these ancient creatures, revealing new insights into their biology.",
+            "headline": "Total solar eclipse on August 12: Where to see the biggest eclipse since 1999 in the West Country and across Europe",
+            "summary": "A total solar eclipse, the largest since 1999, is scheduled for August 12. Viewers in the West Country and across Europe are eagerly anticipating this rare celestial event. Special viewing locations and safety precautions are being advised.",
             "key_points": [
-                "Greenland sharks can see for centuries.",
-                "Debunks the myth of their blindness.",
-                "Significant discovery about these long-living animals."
+                "Total solar eclipse on August 12.",
+                "Biggest eclipse since 1999.",
+                "Visible across the West Country and Europe."
             ]
         },
         {
-            "headline": "Why vultures can eat rotten meat without getting sick",
-            "summary": "Scientists have uncovered the biological mechanisms that allow vultures to consume putrid carcasses without falling ill. Their unique digestive system and immune responses enable them to process highly contaminated food safely, highlighting their ecological role.",
+            "headline": "Student reveals ant navigation secrets using 200 ants",
+            "summary": "A young student named Seungah Chung conducted a remarkable experiment using 200 ants, uncovering that these insects primarily rely on visual markers for navigation. Her research earned her acclaim at a science competition and shows promise for inspiring new robotic and autonomous systems.",
             "key_points": [
-                "Vultures can safely eat rotten meat.",
-                "Unique digestive system and immune responses are responsible.",
-                "Prevents them from getting sick from contaminated food."
+                "Student Seungah Chung studied ant navigation.",
+                "Discovered ants use visual markers for navigation.",
+                "Research shows promise for robotics and autonomous systems."
             ]
         },
         {
-            "headline": "Greener streets linked to longer sleep, study suggests",
-            "summary": "A new study suggests a correlation between living on greener streets and experiencing longer sleep durations. The research indicates that access to green spaces may positively impact sleep quality and overall well-being, promoting urban planning considerations.",
+            "headline": "Kazakhstan reintroduces wild tigers after 70-year extinction",
+            "summary": "Kazakhstan has successfully reintroduced adult Amur tigers into the wild, marking their return after a 70-year absence. This conservation milestone follows extensive habitat restoration, prey population efforts, and the development of human-tiger coexistence systems.",
             "key_points": [
-                "Study links greener streets to longer sleep.",
-                "Green spaces may improve sleep quality.",
-                "Suggests positive impact on well-being."
+                "Kazakhstan reintroduces wild tigers after 70 years.",
+                "Follows extensive habitat restoration and prey population efforts.",
+                "Includes comprehensive human-tiger coexistence system."
+            ]
+        },
+        {
+            "headline": "Many Asian oak species lack botanical collection backups",
+            "summary": "A review of 54 Asian oak species revealed that 40 of them lack any form of backup in botanical collections. This highlights a significant vulnerability in conservation efforts, as these species could be lost without proper preservation.",
+            "key_points": [
+                "40 out of 54 Asian oak species lack botanical backups.",
+                "Highlights significant vulnerability in conservation efforts.",
+                "Risk of species loss without proper preservation."
+            ]
+        },
+        {
+            "headline": "UBC scientists develop mixture to keep strawberries fresh",
+            "summary": "Scientists at UBC have developed an innovative mixture designed to extend the freshness of strawberries. This breakthrough could significantly reduce food waste and improve the shelf life of perishable produce.",
+            "key_points": [
+                "UBC scientists developed mixture for strawberry freshness.",
+                "Aims to extend shelf life of perishable produce.",
+                "Could significantly reduce food waste."
+            ]
+        },
+        {
+            "headline": "Scientists accidentally discover plastic recycling method using water and oxygen",
+            "summary": "Researchers have accidentally discovered a groundbreaking method to recycle plastic using only water and oxygen. This serendipitous finding could revolutionize plastic waste management, offering a simpler and more environmentally friendly approach to recycling.",
+            "key_points": [
+                "Accidental discovery of new plastic recycling method.",
+                "Uses only water and oxygen.",
+                "Could revolutionize plastic waste management."
+            ]
+        },
+        {
+            "headline": "Huge SpaceX rocket stage believed to have slammed into Moon",
+            "summary": "A large stage of a SpaceX rocket is believed to have impacted the Moon, creating a new crater on its surface. This unintentional event provides a unique opportunity for scientists to study lunar geology and impact dynamics.",
+            "key_points": [
+                "SpaceX rocket stage impacted the Moon.",
+                "Created a new crater on the lunar surface.",
+                "Offers unique opportunity for lunar geology study."
+            ]
+        },
+        {
+            "headline": "Closer to knowing if life ever existed on Mars",
+            "summary": "Scientists are reportedly closer than ever to determining whether life once existed on Mars, thanks to new research and missions. This ongoing quest to uncover signs of ancient Martian life continues to captivate the scientific community and the public.",
+            "key_points": [
+                "Scientists closer to determining past life on Mars.",
+                "Driven by new research and missions.",
+                "Ongoing quest captivates scientific community."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Menopause is more than the end of periods: Doctor explains its hidden link to heart disease, diabetes, osteoporosis, and memory decline",
-            "summary": "A doctor explains that menopause involves more than just the cessation of periods, highlighting its often-overlooked connections to serious health conditions. These include increased risks of heart disease, diabetes, osteoporosis, and cognitive decline, emphasizing the need for comprehensive care.",
+            "headline": "Dick Vitale faces another cancer battle with melanoma spread",
+            "summary": "Legendary sportscaster Dick Vitale is confronting another battle with cancer as melanoma has spread. Despite the challenging diagnosis, he remains confident and determined in his fight for recovery.",
             "key_points": [
-                "Menopause has broader health implications beyond periods.",
-                "Linked to increased risk of heart disease and diabetes.",
-                "Associated with osteoporosis and memory decline.",
-                "Early awareness and management are crucial."
+                "Dick Vitale faces another cancer battle.",
+                "Melanoma has spread.",
+                "Remains confident and determined despite challenging diagnosis."
             ]
         },
         {
-            "headline": "Breastfeeding myths vs facts: Doctors reveal what really matters, from IVF and pumping to diet, milk supply and returning to work",
-            "summary": "Doctors address common myths and provide factual information about breastfeeding, covering various aspects from IVF and pumping to diet, milk supply, and the practicalities of returning to work. The guidance aims to clarify what truly matters for new mothers.",
+            "headline": "Over 110 ill in US Salmonella outbreak; expert explains spread and prevention",
+            "summary": "More than 110 people in the US have fallen ill due to a Salmonella outbreak, prompting concerns about food safety. A doctor explains how contaminated food spreads the bacteria and provides essential advice on prevention.",
             "key_points": [
-                "Doctors clarify common breastfeeding myths.",
-                "Covers topics like IVF, pumping, diet, and milk supply.",
-                "Includes advice on returning to work while breastfeeding."
+                "Over 110 people ill in US Salmonella outbreak.",
+                "Contaminated food spreads the bacteria.",
+                "Expert provides advice on prevention."
             ]
         },
         {
-            "headline": "Why eating dinner after 7 pm may be silently damaging your health: Doctor explains what happens inside your body at night",
-            "summary": "A doctor explains the potential health risks associated with eating dinner late, specifically after 7 pm. The article details the physiological changes that occur in the body at night, which can lead to silent damage from late-night meals.",
+            "headline": "Normal blood sugar doesn't guarantee health; silent metabolic problem explained",
+            "summary": "A Hyderabad doctor warns that normal blood sugar levels do not always equate to overall health, highlighting a 'silent metabolic problem' that can precede diabetes by years. This often-undetected issue can lead to serious health complications if not addressed early.",
             "key_points": [
-                "Eating dinner after 7 pm may damage health.",
-                "Physiological changes at night impact digestion.",
-                "Can lead to silent health problems over time.",
-                "Highlights importance of early dinner for health."
+                "Normal blood sugar doesn't guarantee overall health.",
+                "'Silent metabolic problem' can precede diabetes by years.",
+                "Early detection crucial to prevent serious complications."
             ]
         },
         {
-            "headline": "Cancer drives rise in charitable wills across Spain",
-            "summary": "An increase in cancer diagnoses is leading to a rise in charitable wills across Spain, as individuals are more frequently choosing to leave legacies to cancer research and support organizations. This trend reflects a growing public awareness and desire to contribute to the fight against the disease.",
+            "headline": "Doctors warn frequent washroom trips may indicate overactive bladder, not just aging",
+            "summary": "Doctors are cautioning that planning daily outings around washroom availability might not just be a sign of aging, but rather an indicator of an overactive bladder. This condition is treatable, and medical consultation can improve quality of life.",
             "key_points": [
-                "Rise in cancer diagnoses in Spain.",
-                "Leads to increased charitable wills for cancer causes.",
-                "Reflects growing public support for cancer research."
+                "Frequent washroom trips may indicate overactive bladder.",
+                "Not necessarily just a sign of aging.",
+                "Condition is treatable with medical consultation."
             ]
         },
         {
-            "headline": "Kids' speech patterns may reveal mental health risks, study finds",
-            "summary": "A recent study suggests that specific speech patterns in children could serve as early indicators of mental health risks. This research opens new avenues for early detection and intervention strategies for pediatric mental health issues.",
+            "headline": "Basque Country halves colon cancer deaths with screening programme",
+            "summary": "The Basque Country has achieved a remarkable milestone by halving colon cancer deaths, attributed to its effective screening programme. This success demonstrates the critical role of early detection and public health initiatives in combating cancer.",
             "key_points": [
-                "Children's speech patterns may indicate mental health risks.",
-                "Study suggests new avenue for early detection.",
-                "Could aid in early intervention strategies."
+                "Basque Country halves colon cancer deaths.",
+                "Success attributed to effective screening programme.",
+                "Demonstrates critical role of early detection in public health."
             ]
         },
         {
-            "headline": "Forget ‘proteinmaxxing’: less protein could help healthier ageing",
-            "summary": "The article challenges the popular 'proteinmaxxing' trend, suggesting that consuming less protein might contribute to healthier aging. Research indicates that a moderate protein intake could have benefits for longevity and age-related health.",
+            "headline": "Moderna begins human trials for Ebola vaccine amid Congo outbreak",
+            "summary": "Moderna has commenced human trials for an Ebola vaccine, spurred by a recent outbreak in Congo. This rapid development effort aims to provide a crucial tool in combating the deadly virus and preventing its spread.",
             "key_points": [
-                "Less protein intake may aid healthier aging.",
-                "Challenges 'proteinmaxxing' trend.",
-                "Moderate protein benefits longevity."
+                "Moderna starts human trials for Ebola vaccine.",
+                "Initiated amid Congo outbreak.",
+                "Aims to combat the deadly virus and prevent spread."
             ]
         },
         {
-            "headline": "Less sugar in early childhood associated with lower dementia risk",
-            "summary": "New research indicates that reduced sugar consumption during early childhood is linked to a lower risk of developing dementia later in life. This finding underscores the long-term impact of early dietary habits on cognitive health.",
+            "headline": "Aeroplane wastewater could help detect next pandemic, study suggests",
+            "summary": "Researchers suggest that analyzing aeroplane wastewater could serve as an early warning system to spot the next pandemic. This innovative approach offers a potential surveillance tool to detect emerging pathogens and prevent widespread outbreaks.",
             "key_points": [
-                "Lower sugar in early childhood linked to reduced dementia risk.",
-                "Highlights long-term impact of early diet.",
-                "Suggests benefits for cognitive health."
+                "Aeroplane wastewater analysis suggested for pandemic detection.",
+                "Could serve as an early warning system.",
+                "Offers potential surveillance for emerging pathogens."
+            ]
+        },
+        {
+            "headline": "Study finds kids' speech patterns may reveal mental health risks",
+            "summary": "A new study indicates that analyzing children's speech patterns could offer early insights into potential mental health risks. This research opens avenues for non-invasive diagnostic tools to identify and address mental health challenges in young individuals sooner.",
+            "key_points": [
+                "Study links kids' speech patterns to mental health risks.",
+                "Offers early insights into potential issues.",
+                "Opens avenues for non-invasive diagnostic tools."
             ]
         }
     ]
