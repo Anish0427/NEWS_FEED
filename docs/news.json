@@ -1,1492 +1,942 @@
 {
     "World": [
         {
-            "headline": "BRICS Summit Highlights Climate Opportunity, Economic Clout, and Calls for Trade Reforms",
-            "summary": "The BRICS summit is underway in India, with leaders like PM Modi emphasizing the bloc's economic power, representing 40% of global GDP, and its historic opportunity to tackle climate change. Indian minister Piyush Goyal urged member nations to dismantle trade barriers, link payment systems, and facilitate professional movement. Meetings between key leaders like Putin, Modi, and Egypt's el-Sisi on the sidelines underscore the summit's diplomatic significance.",
+            "headline": "BRICS Adopts Joint Declaration Following India's Role in Bridging Iran-UAE Divide",
+            "summary": "The BRICS summit concluded with the adoption of a joint declaration, largely thanks to India's successful diplomatic efforts in resolving differences between Iran and the UAE. This achievement underscores India's growing influence in global diplomacy and the bloc's commitment to finding common ground on complex international issues. The declaration signals a unified stance on several global challenges.",
             "key_points": [
-                "BRICS represents 40% of global GDP, highlighting its economic power.",
-                "The bloc is seen as a historic opportunity to tackle climate change.",
-                "India calls for dismantling trade barriers and easy professional movement among BRICS nations.",
-                "High-level bilateral meetings are taking place on the sidelines of the summit."
+                "BRICS nations adopted a joint declaration.",
+                "India played a key role in mediating between Iran and UAE.",
+                "Highlights India's diplomatic influence and BRICS unity."
             ]
         },
         {
-            "headline": "US commemorates 25th anniversary of 9/11 attacks",
-            "summary": "The US is commemorating the 25th anniversary of the 9/11 attacks with solemn tributes at Ground Zero. Victims' relatives read names, paid homage to first responders, and called for national unity, without political speeches.",
+            "headline": "India and UAE Discuss Boosting IMEC, Energy Infrastructure at BRICS Summit",
+            "summary": "India and the UAE held discussions at the BRICS Summit focusing on enhancing the India-Middle East-Europe Economic Corridor (IMEC) and strengthening energy infrastructure. This bilateral engagement aims to foster greater economic cooperation and connectivity between the regions. The talks signal a concerted effort to expand trade routes and energy security.",
+            "key_points": [
+                "India and UAE discussed IMEC and energy infrastructure.",
+                "Discussions held during the BRICS Summit.",
+                "Aims for enhanced economic cooperation and connectivity."
+            ]
+        },
+        {
+            "headline": "PM Modi: Global South Must Shape Global Rules, Not Just Follow",
+            "summary": "Prime Minister Narendra Modi asserted that the Global South should actively participate in shaping international rules, rather than merely adhering to them. This statement, likely made at the BRICS Summit, emphasizes the need for a more inclusive global governance structure. It advocates for the collective voice of developing nations to have a greater impact on international norms and policies.",
+            "key_points": [
+                "PM Modi called for the Global South to shape, not just follow, global rules.",
+                "Stresses need for inclusive global governance.",
+                "Advocates for greater impact of developing nations on international norms."
+            ]
+        },
+        {
+            "headline": "BRICS Calls for Uninterrupted Energy Flow and Infrastructure Protection",
+            "summary": "The BRICS nations have issued a call for ensuring uninterrupted energy flow and robust protection of critical infrastructure. This collective stance highlights the bloc's commitment to global energy security and safeguarding essential resources. The declaration emphasizes cooperation to prevent disruptions and maintain stability in vital sectors.",
+            "key_points": [
+                "BRICS nations advocate for uninterrupted energy flow.",
+                "They also call for the protection of critical infrastructure.",
+                "Highlights commitment to global energy security and stability."
+            ]
+        },
+        {
+            "headline": "Thaw in Ties Deserves to Be Cherished, Says Xi; Modi Stresses Border Peace",
+            "summary": "Chinese President Xi Jinping stated that any thaw in India-China ties should be cherished, while Prime Minister Modi emphasized the essential need for border peace. These statements, likely from the BRICS Summit, highlight the ongoing efforts to manage the complex relationship between the two nations. Both leaders acknowledge the importance of stability for regional harmony.",
+            "key_points": [
+                "President Xi believes thaw in ties should be cherished.",
+                "PM Modi reiterated the importance of border peace.",
+                "Statements reflect ongoing efforts to manage India-China relations."
+            ]
+        },
+        {
+            "headline": "BRICS Opposes Unilateral Trade Measures Like EU Carbon Border Tax",
+            "summary": "The BRICS bloc has voiced its opposition to unilateral trade measures, specifically citing concerns about policies like the European Union's carbon border adjustment mechanism. This stance reflects a collective desire for multilateral trade agreements and a rejection of measures perceived as protectionist or discriminatory. It signals a united front against policies that could impact developing economies.",
+            "key_points": [
+                "BRICS opposes unilateral trade measures.",
+                "Specifically criticizes the EU's carbon border tax.",
+                "Advocates for multilateral trade and fair treatment for developing economies."
+            ]
+        },
+        {
+            "headline": "Kremlin Alleges US Sanctions Pushed BRICS Towards De-Dollarization",
+            "summary": "The Kremlin claims that US sanctions against Russia have inadvertently pushed the BRICS nations towards a strategy of de-dollarization. This suggests that punitive economic measures by the US are prompting the bloc to reduce its reliance on the dollar in international trade and finance. Such a shift could have significant long-term implications for the global financial system.",
+            "key_points": [
+                "Kremlin claims US sanctions on Russia pushed BRICS towards de-dollarization.",
+                "Suggests punitive measures encourage reducing dollar reliance.",
+                "Could have long-term implications for the global financial system."
+            ]
+        },
+        {
+            "headline": "81-Year-Old Seeks PM Modi's Help for CBI Probe in Land Dispute",
+            "summary": "An 81-year-old man, a former schoolmate of Prime Minister Narendra Modi, met the PM to request a CBI investigation into a long-standing land dispute. He alleges encroachment and forged documents related to his property. Following their meeting, municipal authorities have scheduled a hearing, compelling construction company representatives to attend.",
+            "key_points": [
+                "Elderly man met PM Modi over a land dispute.",
+                "Seeks CBI probe into alleged encroachment and forged documents.",
+                "Municipal authorities scheduled a hearing after the meeting."
+            ]
+        },
+        {
+            "headline": "CIA Warned Clinton About Bin Laden's Intent to Strike India Pre-9/11",
+            "summary": "Three years prior to the September 11th attacks, the CIA reportedly informed President Clinton that Osama Bin Laden intended to launch a strike against India. This revelation suggests that the threat posed by Bin Laden's network was known to extend beyond Western targets, highlighting a broader scope of his terror ambitions. The warning underscores intelligence failures or misprioritizations leading up to major terror events.",
+            "key_points": [
+                "CIA warned President Clinton about Bin Laden's plans to strike India.",
+                "Warning issued three years before the 9/11 attacks.",
+                "Highlights the perceived global reach of Bin Laden's terror network."
+            ]
+        },
+        {
+            "headline": "India to Establish New DRDO Missile Testing Range in Bengal",
+            "summary": "India is set to establish another significant missile testing range for the Defence Research and Development Organisation (DRDO) in West Bengal. This expansion will bolster India's defense capabilities and facilitate advanced missile development and testing programs. The new facility underscores the country's ongoing commitment to strengthening its strategic defense infrastructure.",
+            "key_points": [
+                "India is building a new DRDO missile testing range in West Bengal.",
+                "Aims to bolster defense capabilities.",
+                "Will facilitate advanced missile development and testing."
+            ]
+        },
+        {
+            "headline": "Malaysia and Ethiopia Seek Stronger Defense Cooperation with India",
+            "summary": "Malaysia and Ethiopia have expressed interest in strengthening their defense cooperation with India. This move indicates India's growing role as a defense partner and supplier to various nations. Enhanced collaboration could involve joint exercises, technology transfer, and procurement, further boosting India's strategic influence.",
+            "key_points": [
+                "Malaysia and Ethiopia desire stronger defense ties with India.",
+                "Highlights India's growing role as a defense partner.",
+                "Cooperation could involve joint exercises, tech transfer, and procurement."
+            ]
+        },
+        {
+            "headline": "BRICS Summit Success Boosts BJP in Domestic Politics",
+            "summary": "The successful conclusion of the BRICS Summit is seen as providing a significant boost to the BJP in India's domestic political landscape. The diplomatic achievements and visibility gained from hosting and participating in the summit are expected to resonate positively with voters. This success could strengthen the party's image and narrative on the global stage.",
+            "key_points": [
+                "BRICS Summit success is a political boost for BJP.",
+                "Diplomatic achievements expected to positively influence domestic politics.",
+                "Strengthens party's global image and narrative."
+            ]
+        },
+        {
+            "headline": "Ship with 240 Onboard Loses Contact in Java Sea Near Indonesia",
+            "summary": "A ship carrying 240 passengers and crew has lost contact in the Java Sea, in waters near Indonesia. Search and rescue operations are likely underway for the vessel, whose disappearance raises serious concerns for those onboard. Authorities are working to determine the circumstances of the incident and locate the ship.",
+            "key_points": [
+                "Ship carrying 240 people lost contact in Java Sea.",
+                "Incident occurred near Indonesia.",
+                "Search and rescue operations are expected."
+            ]
+        },
+        {
+            "headline": "11 Killed in Russian Attacks on Ukraine as Kyiv Targets Russia's 'Shadow Fleet'",
+            "summary": "At least 11 people have been killed in recent Russian attacks across Ukraine. Simultaneously, Kyiv claims to have struck Russia's 'shadow fleet,' a collection of ships reportedly used to circumvent sanctions and support military operations. These escalating actions underscore the intensified nature of the conflict, with both sides targeting key assets and causing casualties.",
+            "key_points": [
+                "At least 11 killed in Russian attacks on Ukraine.",
+                "Kyiv claims to have struck Russia's 'shadow fleet'.",
+                "Highlights intensified conflict and targeting of key assets."
+            ]
+        },
+        {
+            "headline": "Putin States BRICS' Global Authority and Impact Are Steadily Growing",
+            "summary": "President Putin has asserted that the global authority and impact of the BRICS group are progressively increasing. This statement highlights the growing geopolitical influence of the bloc on the international stage. Putin's remarks underscore the belief that BRICS is becoming a more powerful force in shaping global affairs and challenging existing world orders.",
+            "key_points": [
+                "Putin states BRICS' global authority and impact are increasing.",
+                "Highlights the bloc's growing geopolitical influence.",
+                "Suggests BRICS is shaping global affairs."
+            ]
+        },
+        {
+            "headline": "Putin Warns European Troops in Ukraine Would Lead to War with Russia",
+            "summary": "President Putin issued a stark warning that the deployment of European troops to Ukraine would directly result in a war with Russia. This statement escalates the rhetoric around international involvement in the conflict. It aims to deter NATO and European nations from deeper military engagement, highlighting the potential for broader escalation.",
+            "key_points": [
+                "Putin warns that European troops in Ukraine would mean war with Russia.",
+                "Escalates rhetoric on international involvement.",
+                "Aims to deter deeper military engagement by NATO and European nations."
+            ]
+        },
+        {
+            "headline": "Russian FM Lavrov: Ukraine Peace Settlement Must Recognize Ground Realities",
+            "summary": "Russian Foreign Minister Sergey Lavrov stated that any peace settlement for the Ukraine conflict must acknowledge 'ground realities.' This phrase typically refers to Russia's territorial gains and other military objectives, implying that any resolution must incorporate these outcomes. Lavrov's statement sets a precondition for future peace talks.",
+            "key_points": [
+                "Russian FM Lavrov says Ukraine peace settlement needs 'ground realities'.",
+                "Refers to Russia's territorial gains and military objectives.",
+                "Sets a precondition for future peace talks."
+            ]
+        },
+        {
+            "headline": "Houthis Seize Key Island, Gain Control of Bab el-Mandeb Strait",
+            "summary": "Houthi forces have reportedly seized a key island in the Bab el-Mandeb strait, effectively taking control of the strategic waterway. This development has significant geopolitical implications, as the strait is a vital shipping lane connecting the Red Sea to the Gulf of Aden. The move could impact international trade and regional security.",
+            "key_points": [
+                "Houthis seized a key island in the Bab el-Mandeb strait.",
+                "Gained control of the strategic waterway.",
+                "Significant geopolitical implications for international trade and regional security."
+            ]
+        },
+        {
+            "headline": "US Commemorates 25th Anniversary of 9/11 Attacks",
+            "summary": "The United States is commemorating the 25th anniversary of the September 11th attacks, honoring the victims and first responders. Ceremonies and memorials are being held across the nation, reflecting on the enduring impact of the tragic events. The anniversary serves as a solemn reminder of national resilience and loss.",
             "key_points": [
                 "US commemorates 25th anniversary of 9/11 attacks.",
-                "Tributes held at Ground Zero with victims' relatives.",
-                "Focus on honoring first responders and calling for national unity."
+                "Honoring victims and first responders.",
+                "Solemn reminder of national resilience and loss."
             ]
         },
         {
-            "headline": "Russia & Iran hit out at US 'aggression', pose a challenge for Brics host India",
-            "summary": "Russia and Iran have jointly criticized perceived US 'aggression,' creating a diplomatic challenge for India, which is hosting the BRICS summit. This stance complicates the summit's agenda and India's role as a neutral host.",
+            "headline": "Russia Returns to Mediterranean with Sanctioned 'Syrian Express' Ships",
+            "summary": "Russia has reportedly resumed its presence in the Mediterranean Sea using sanctioned 'Syrian Express' ships. This move indicates Moscow's continued military and logistical operations in the region, despite international sanctions. The deployment underscores Russia's strategic interests and its capacity to circumvent restrictions in supporting its allies.",
             "key_points": [
-                "Russia and Iran criticize perceived US 'aggression'.",
-                "Presents a diplomatic challenge for BRICS host India.",
-                "Complicates the summit's agenda and India's role."
+                "Russia returned to the Mediterranean with sanctioned 'Syrian Express' ships.",
+                "Indicates continued military and logistical operations despite sanctions.",
+                "Underscores Russia's strategic interests and capacity to circumvent restrictions."
             ]
         },
         {
-            "headline": "Saudi Arabia shuts key oil pipeline as Houthis seize strategic Red Sea island",
-            "summary": "Saudi Arabia has shut down a crucial oil pipeline after Houthi forces seized a strategic island in the Red Sea. This development escalates regional tensions and threatens global oil supplies through the vital Bab el-Mandeb strait.",
+            "headline": "Drones from Iraq Attack and Ignite Pipeline in Saudi Arabia",
+            "summary": "Drones reportedly originating from Iraq have attacked and set fire to an oil pipeline in Saudi Arabia. This incident marks a significant escalation of regional tensions and a direct threat to critical energy infrastructure. Investigations will likely focus on identifying the perpetrators and preventing further destabilization in the Middle East.",
             "key_points": [
-                "Saudi Arabia shuts down a crucial oil pipeline.",
-                "Houthi forces seized a strategic Red Sea island.",
-                "Escalates regional tensions and threatens global oil supplies."
+                "Drones from Iraq attacked an oil pipeline in Saudi Arabia.",
+                "The attack resulted in the pipeline catching fire.",
+                "Marks a significant escalation of regional tensions and threat to energy infrastructure."
             ]
         },
         {
-            "headline": "EU pledges €6.1bn for Ukraine, including aid for Patriot interceptors",
-            "summary": "The European Union has pledged €6.1 billion in aid for Ukraine, which includes funding for Patriot interceptors. This substantial support aims to bolster Ukraine's defense capabilities amidst the ongoing conflict.",
+            "headline": "Clues Point to Russian Intelligence in Leipzig Drone Attack",
+            "summary": "Investigations into a drone attack on Leipzig apparently indicate involvement from Russian intelligence services. This suggests a potential escalation of covert operations and sabotage extending into Western European nations. The attribution, if confirmed, would have severe diplomatic repercussions and raise concerns about hybrid warfare tactics.",
             "key_points": [
-                "EU pledges €6.1 billion in aid for Ukraine.",
-                "Funding includes support for Patriot interceptors.",
-                "Aims to bolster Ukraine's defense capabilities."
+                "Drone attack on Leipzig has clues pointing to Russian intelligence.",
+                "Suggests escalation of covert operations into Western Europe.",
+                "Attribution would have severe diplomatic repercussions."
             ]
         },
         {
-            "headline": "US deports Afghan woman after 'alien terrorist' trial over failed mass shooting",
-            "summary": "The United States has deported an Afghan woman following her trial as an 'alien terrorist' in connection with a failed mass shooting attempt. This marks a significant case regarding terrorism and immigration policy.",
+            "headline": "Trump Hopes for 'Reunified' Ireland, Criticizes Europe on Iran War Stance",
+            "summary": "Former President Trump expressed hopes for a 'reunified' Ireland and simultaneously criticized European nations for their stance on the Iran war. His comments touch on both historical political issues and contemporary geopolitical conflicts. This reflects his continued engagement in international discourse, often with controversial takes.",
             "key_points": [
-                "US deports an Afghan woman.",
-                "She was tried as an 'alien terrorist'.",
-                "Connected to a failed mass shooting attempt."
+                "Trump expressed hope for a reunified Ireland.",
+                "Criticized Europe's position on the Iran war.",
+                "Reflects his continued, often controversial, international engagement."
             ]
         },
         {
-            "headline": "Russia, Iran to Further Strengthen Strategic Partnership: Foreign Ministry",
-            "summary": "The Russian Foreign Ministry announced that Russia and Iran intend to further strengthen their strategic partnership. This commitment deepens their cooperation across various sectors, impacting regional and international relations.",
+            "headline": "AfD's Siegmund Sparks Controversy with Comments on Arms and 'Remigration'",
+            "summary": "Comments made by AfD politician Siegmund regarding arms and 'remigration' have ignited significant controversy. His remarks have drawn widespread criticism, highlighting contentious issues within German and European politics. The backlash underscores the sensitivity surrounding immigration policies and historical parallels.",
             "key_points": [
-                "Russia and Iran to strengthen strategic partnership.",
-                "Announced by the Russian Foreign Ministry.",
-                "Deepens cooperation across various sectors."
+                "AfD's Siegmund's comments on arms and 'remigration' caused controversy.",
+                "Remarks drew widespread criticism.",
+                "Highlights contentious issues in German and European politics."
             ]
         },
         {
-            "headline": "Russia returns to Mediterranean with sanctioned 'Syrian Express' ships",
-            "summary": "Russia has redeployed its sanctioned 'Syrian Express' ships to the Mediterranean, signalling its continued naval presence and logistical operations in the region. This move potentially circumvents international sanctions.",
+            "headline": "German Police Bodycam Captures Arrest of Suspected Power Saboteur",
+            "summary": "German police body camera footage has captured the arrest of an individual suspected of power sabotage. The incident highlights concerns about critical infrastructure security and potential threats to public services. Authorities are investigating the motives behind the alleged sabotage and whether it is part of a larger network.",
             "key_points": [
-                "Russia redeploys sanctioned 'Syrian Express' ships to the Mediterranean.",
-                "Signals continued naval presence and logistical operations.",
-                "Potentially circumvents international sanctions."
+                "German police bodycam recorded arrest of suspected power saboteur.",
+                "Highlights concerns about critical infrastructure security.",
+                "Investigation ongoing into motives and potential network involvement."
             ]
         },
         {
-            "headline": "Sonam Wangchuk appeals for support for Ladakh’s fight for democracy, says Centre gave no assurance",
-            "summary": "Sonam Wangchuk, a prominent figure, is appealing for support for Ladakh's ongoing struggle for democratic rights. He states that the central government has not provided any assurances regarding their demands, intensifying the need for external backing.",
+            "headline": "44 Injured in Train Derailment in Northern France",
+            "summary": "A train derailment in northern France has resulted in at least 44 people being injured. Emergency services responded to the scene, providing aid to the casualties and securing the area. Investigations will be launched to determine the cause of the accident, which has disrupted regional transport.",
             "key_points": [
-                "Sonam Wangchuk appeals for support for Ladakh.",
-                "Ladakh is fighting for democratic rights.",
-                "Centre has not provided assurances regarding their demands."
+                "Train derailment in northern France injured at least 44 people.",
+                "Emergency services responded to the scene.",
+                "Investigation into the cause of the accident is underway."
             ]
         },
         {
-            "headline": "Pakistan's Razaullah Khan scripts history, enters record books on Test debut",
-            "summary": "Razaullah Khan of Pakistan made a historic Test debut, smashing nine sixes as a No. 9 batter, setting a new record despite Pakistan's innings defeat. His partnership helped prevent a total collapse.",
+            "headline": "EU Must 'Pin Down' Ukraine's Budget Needs, Says Dombrovskis",
+            "summary": "EU Economy Commissioner Valdis Dombrovskis stated that the European Union needs to 'pin down' Ukraine's precise budget needs. This comment underscores the ongoing financial support required by Ukraine amid the conflict and the EU's commitment to assist in its recovery. Accurately assessing needs is crucial for effective aid allocation and long-term planning.",
             "key_points": [
-                "Razaullah Khan made a historic Test debut for Pakistan.",
-                "Smashed nine sixes as a No. 9 batter, setting a new record.",
-                "Helped prevent a total collapse despite team's innings defeat."
+                "EU Commissioner Dombrovskis said EU must determine Ukraine's budget needs.",
+                "Highlights ongoing financial support from the EU.",
+                "Accurate assessment is crucial for effective aid allocation."
             ]
         },
         {
-            "headline": "'No screams, no clues': After killing wife, 3 daughters, Jaipur man makes tea for father, takes bath and flees",
-            "summary": "A man in Jaipur allegedly murdered his wife and three daughters, then calmly made tea for his father and fled. Authorities are investigating financial and marital strife as possible motives, and are searching for the suspect.",
+            "headline": "Former US Envoy: Military Force Alone Insufficient to Defeat Terrorism",
+            "summary": "A former US envoy has asserted that military force alone is not enough to defeat terrorism. This perspective emphasizes the need for a comprehensive approach that includes diplomatic, economic, and social strategies alongside military action. It highlights the complex nature of combating terrorism and the importance of addressing root causes.",
             "key_points": [
-                "Jaipur man allegedly murdered his wife and three daughters.",
-                "Acted calmly after the crime, then fled.",
-                "Authorities are investigating financial and marital strife as motives."
+                "Former US envoy states military force alone cannot defeat terrorism.",
+                "Advocates for a comprehensive approach including diplomatic and social strategies.",
+                "Highlights the complex nature of combating terrorism."
             ]
         },
         {
-            "headline": "Qaida releases video of Osama's son who was reportedly killed in 2019",
-            "summary": "Al-Qaeda has released a video featuring Osama bin Laden's son, despite previous reports of his death in 2019. This development raises questions about the validity of earlier intelligence and the group's current activities.",
+            "headline": "French Blockade Threatens EU Plan to Expedite English Trade Deals",
+            "summary": "A French blockade is reportedly threatening an EU plan aimed at speeding up trade deals conducted in English. France's resistance likely stems from linguistic and cultural preservation concerns, as well as broader issues of national sovereignty within the EU. This dispute could complicate and delay important international trade negotiations for the bloc.",
             "key_points": [
-                "Al-Qaeda released a video of Osama bin Laden's son.",
-                "His death was reportedly in 2019.",
-                "Raises questions about previous intelligence and group activities."
+                "French blockade threatens EU plan to expedite English trade deals.",
+                "Resistance likely due to linguistic and cultural concerns.",
+                "Could complicate and delay EU international trade negotiations."
             ]
         },
         {
-            "headline": "Upset after being fired, ex-Armyman may have stolen weapons as a form of revenge",
-            "summary": "A retired havildar, possibly motivated by revenge after being fired, stole twelve military firearms from an armoury. His wife's information led to his surrender and the recovery of the weapons hidden in Nagarkurnool district.",
+            "headline": "UK Police Ban Face Coverings at Upcoming Anti-Migrant Protest",
+            "summary": "UK police have issued a ban on face coverings at a planned anti-migrant protest, citing concerns over public order and identification. This measure aims to ensure transparency and accountability during demonstrations. The decision sparks debate around protest rights versus public safety concerns.",
             "key_points": [
-                "Retired havildar stole twelve military firearms.",
-                "Possible motive of revenge after being fired.",
-                "Weapons recovered after his wife provided information."
+                "UK police banned face coverings at an anti-migrant protest.",
+                "Measure aims for public order and identification.",
+                "Sparks debate on protest rights versus public safety."
             ]
         },
         {
-            "headline": "Origins of Special Military Operation: The History of Ukrainian Conflict",
-            "summary": "The article provides an overview of the origins and historical context of the Ukrainian conflict, often referred to as the Special Military Operation (SMO). It aims to explain the factors leading to the ongoing hostilities.",
-            "key_points": [
-                "Overview of the Ukrainian conflict's origins.",
-                "Focuses on the historical context.",
-                "Explains factors leading to ongoing hostilities."
-            ]
-        },
-        {
-            "headline": "US–Israeli War Against Iran (February 28, 2026–Present)",
-            "summary": "The article discusses the ongoing 'US–Israeli War Against Iran' which began on February 28, 2026. It likely details the events, implications, and regional dynamics of this major conflict.",
-            "key_points": [
-                "Covers the ongoing 'US–Israeli War Against Iran'.",
-                "Conflict began on February 28, 2026.",
-                "Details events, implications, and regional dynamics."
-            ]
-        },
-        {
-            "headline": "Ukraine's Nuclear Blackmail: Timeline",
-            "summary": "This article presents a timeline of events related to allegations of 'Ukraine's Nuclear Blackmail'. It details specific instances and developments concerning the use or threat of nuclear capabilities in the context of the conflict.",
-            "key_points": [
-                "Presents a timeline of 'Ukraine's Nuclear Blackmail' allegations.",
-                "Details specific instances and developments.",
-                "Focuses on nuclear capabilities in the context of the conflict."
-            ]
-        },
-        {
-            "headline": "The New START Treaty: The US-Russia Path to Nuclear Limits",
-            "summary": "The article discusses the New START Treaty, outlining the path taken by the US and Russia towards limiting their nuclear arsenals. It highlights the significance of this agreement in global arms control efforts.",
-            "key_points": [
-                "Discusses the New START Treaty.",
-                "Outlines US and Russia's path to nuclear limits.",
-                "Highlights significance in global arms control efforts."
-            ]
-        },
-        {
-            "headline": "What is Cuba bringing to BRICS table?",
-            "summary": "The article examines Cuba's potential contributions and agenda as it engages with the BRICS bloc. It explores what the Caribbean nation aims to bring to discussions and collaborations within the expanded grouping.",
-            "key_points": [
-                "Examines Cuba's potential contributions to BRICS.",
-                "Explores its agenda and aims.",
-                "Focuses on its engagement within the expanded grouping."
-            ]
-        },
-        {
-            "headline": "Russian Army Hits Ukraine's Military Objects, Port Infrastructure: MoD",
-            "summary": "The Russian Ministry of Defense announced that the Russian Army has struck Ukrainian military objects and port infrastructure. These strikes are part of ongoing military operations and impact Ukraine's defense and logistical capabilities.",
-            "key_points": [
-                "Russian Army struck Ukrainian military objects.",
-                "Also hit port infrastructure.",
-                "Part of ongoing military operations, impacting Ukraine's defense."
-            ]
-        },
-        {
-            "headline": "Russia Adds 15 Foreign NGOs to List of Entities Designated as Undesirable",
-            "summary": "Russia has added 15 foreign Non-Governmental Organizations (NGOs) to its list of 'undesirable' entities. This action limits their operations within Russia and reflects tightening regulations on foreign influence.",
-            "key_points": [
-                "Russia adds 15 foreign NGOs to 'undesirable' list.",
-                "Limits their operations within Russia.",
-                "Reflects tightening regulations on foreign influence."
-            ]
-        },
-        {
-            "headline": "Peaceful Settlement of Ukraine Conflict Is Preferable for Russia: Kremlin",
-            "summary": "The Kremlin has stated that a peaceful settlement of the Ukraine conflict is preferable for Russia. This declaration indicates a diplomatic stance, while military operations continue.",
-            "key_points": [
-                "Kremlin states peaceful settlement is preferable for Russia.",
-                "Indicates a diplomatic stance.",
-                "Military operations continue despite this declaration."
-            ]
-        },
-        {
-            "headline": "Russia's FSB Thwarts Ukrainian Plot to Assassinate UK Ambassador in Moscow",
-            "summary": "Russia's FSB claims to have thwarted a Ukrainian plot to assassinate the UK Ambassador in Moscow. This alleged incident highlights the high stakes of geopolitical tensions and intelligence operations.",
-            "key_points": [
-                "Russia's FSB claims to thwart Ukrainian assassination plot.",
-                "Target was the UK Ambassador in Moscow.",
-                "Highlights high stakes of geopolitical tensions."
-            ]
-        },
-        {
-            "headline": "Russia Opens Terrorist Attack Case Into Ukraine's Strike on Krasnodar Territory: Investigators",
-            "summary": "Russian investigators have opened a terrorist attack case into Ukraine's strike on the Krasnodar Territory. This legal classification frames the incident as an act of terrorism, escalating the rhetoric of the conflict.",
-            "key_points": [
-                "Russia opens terrorist attack case.",
-                "Into Ukraine's strike on Krasnodar Territory.",
-                "Escalates conflict rhetoric by classifying it as terrorism."
-            ]
-        },
-        {
-            "headline": "Russia Army Hits Dry Cargo Ship With Military Supplies en Route by Sea to Odessa: MoD",
-            "summary": "The Russian Ministry of Defense reported that its army struck a dry cargo ship carrying military supplies en route to Odessa by sea. This action impacts Ukraine's resupply efforts and naval logistics.",
-            "key_points": [
-                "Russian Army hit a dry cargo ship.",
-                "Ship was carrying military supplies to Odessa.",
-                "Impacts Ukraine's resupply efforts and naval logistics."
-            ]
-        },
-        {
-            "headline": "Four People Died After UAV Attack by Ukrainian Troops on Russia's Novorossiysk: Governor",
-            "summary": "The governor reported that four people died following a UAV attack by Ukrainian troops on Russia's Novorossiysk. This incident marks a civilian casualty event in the ongoing conflict.",
-            "key_points": [
-                "Four people died after UAV attack in Novorossiysk.",
-                "Attack attributed to Ukrainian troops.",
-                "Marks a civilian casualty event in the conflict."
-            ]
-        },
-        {
-            "headline": "Russia to Raise Issue of Protecting Orthodox Ukrainians With US Negotiators – MFA",
-            "summary": "Russia's Ministry of Foreign Affairs (MFA) announced it would raise the issue of protecting Orthodox Ukrainians with US negotiators. This indicates a diplomatic effort to address humanitarian and religious concerns amidst the conflict.",
-            "key_points": [
-                "Russia to raise protection of Orthodox Ukrainians with US negotiators.",
-                "MFA announced this diplomatic effort.",
-                "Aims to address humanitarian and religious concerns."
-            ]
-        },
-        {
-            "headline": "Rubio Says Roadmap on Resuming Talks on Ukraine May Be Developed Within Next Few Weeks",
-            "summary": "Senator Rubio suggested that a roadmap for resuming talks on Ukraine might be developed within the next few weeks. This indicates potential diplomatic efforts towards de-escalation or negotiation in the conflict.",
-            "key_points": [
-                "Senator Rubio suggests roadmap for resuming Ukraine talks.",
-                "May be developed within the next few weeks.",
-                "Indicates potential diplomatic efforts for conflict resolution."
-            ]
-        },
-        {
-            "headline": "Ukraine Peace Settlement Must Recognise Ground Realities: Russian FM Lavrov",
-            "summary": "Russian Foreign Minister Lavrov stated that any Ukraine peace settlement must acknowledge 'ground realities'. This condition implies a demand for recognition of Russia's territorial gains and strategic positions.",
-            "key_points": [
-                "Russian FM Lavrov states Ukraine peace settlement must recognize 'ground realities'.",
-                "Implies demand for recognition of Russia's territorial gains.",
-                "Focuses on strategic positions."
-            ]
-        },
-        {
-            "headline": "Putin and Trump Discuss Ukraine Settlement in Phone Call",
-            "summary": "Russian President Putin and former US President Trump discussed the Ukraine settlement during a phone call. This high-level communication signals ongoing efforts to find a resolution to the conflict, albeit through informal channels.",
-            "key_points": [
-                "Putin and Trump discussed Ukraine settlement.",
-                "Occurred during a phone call.",
-                "Signals ongoing efforts for conflict resolution through informal channels."
-            ]
-        },
-        {
-            "headline": "Russia Always Ready for Talks on Ukrainian Peace: Russian FM Lavrov",
-            "summary": "Russian Foreign Minister Lavrov reiterated that Russia is consistently ready for talks on Ukrainian peace. This statement positions Russia as open to diplomatic solutions while military actions continue.",
-            "key_points": [
-                "Russian FM Lavrov reiterates Russia's readiness for Ukraine peace talks.",
-                "Positions Russia as open to diplomatic solutions.",
-                "Military actions continue despite this stance."
-            ]
-        },
-        {
-            "headline": "NATO Arctic Exercises are Preparation for Military Clash with Russia: Russian Deputy FM",
-            "summary": "The Russian Deputy Foreign Minister asserted that NATO's Arctic exercises are preparations for a potential military clash with Russia. This statement escalates rhetoric and highlights increasing tensions in the Arctic region.",
-            "key_points": [
-                "Russian Deputy FM states NATO Arctic exercises are preparation for military clash with Russia.",
-                "Escalates rhetoric regarding military tensions.",
-                "Highlights increasing tensions in the Arctic region."
-            ]
-        },
-        {
-            "headline": "UK police ban face coverings at planned anti-migrant protest",
-            "summary": "UK police have issued a ban on face coverings at a planned anti-migrant protest. This measure aims to enhance accountability and identification during demonstrations, raising questions about protest rights.",
-            "key_points": [
-                "UK police ban face coverings at anti-migrant protest.",
-                "Aims to enhance accountability and identification.",
-                "Raises questions about protest rights."
-            ]
-        },
-        {
-            "headline": "UK Parliament votes down assisted dying bill in England and Wales",
-            "summary": "The UK Parliament has voted down an assisted dying bill for England and Wales. This decision reflects ongoing societal and ethical debates surrounding end-of-life care and individual autonomy.",
-            "key_points": [
-                "UK Parliament voted down assisted dying bill.",
-                "Applies to England and Wales.",
-                "Reflects ongoing societal and ethical debates on end-of-life care."
-            ]
-        },
-        {
-            "headline": "Norway's Princess Astrid dies two days after King Harald's funeral",
-            "summary": "Norway's Princess Astrid has passed away just two days after the funeral of King Harald. This double loss marks a somber period for the Norwegian royal family and the nation.",
-            "key_points": [
-                "Norway's Princess Astrid has passed away.",
-                "Occurred two days after King Harald's funeral.",
-                "Marks a somber period for the Norwegian royal family."
-            ]
-        },
-        {
-            "headline": "Colombia’s Cali remembers earthquake victims one month on",
-            "summary": "One month after a devastating earthquake, Colombia's city of Cali is remembering its victims. The commemoration reflects ongoing recovery efforts and the community's resilience in the face of tragedy.",
-            "key_points": [
-                "Colombia's Cali remembers earthquake victims one month on.",
-                "Commemoration reflects ongoing recovery efforts.",
-                "Highlights the community's resilience."
-            ]
-        },
-        {
-            "headline": "Military force 'not enough' to defeat terrorism, former US envoy says",
-            "summary": "A former US envoy asserts that military force alone is 'not enough' to defeat terrorism. This perspective emphasizes the need for comprehensive strategies beyond military action, including diplomatic and social approaches.",
-            "key_points": [
-                "Former US envoy states military force alone is 'not enough' for terrorism.",
-                "Emphasizes need for comprehensive strategies.",
-                "Beyond military action, including diplomatic and social approaches."
-            ]
-        },
-        {
-            "headline": "French father jailed for threatening to behead his son’s teacher",
-            "summary": "A French father has been jailed for threatening to behead his son's teacher. This alarming incident highlights extreme reactions to educational disputes and raises concerns about safety in schools.",
+            "headline": "French Father Jailed for Threatening to Behead Son's Teacher",
+            "summary": "A French father has been jailed for threatening to behead his son's teacher, an alarming incident that underscores rising tensions in schools. The severe judicial response reflects the zero-tolerance policy towards such threats. This case highlights concerns about violence against educators and the need for a safe learning environment.",
             "key_points": [
                 "French father jailed for threatening to behead his son's teacher.",
-                "Highlights extreme reactions to educational disputes.",
-                "Raises concerns about safety in schools."
+                "Severe response reflects zero-tolerance policy for such threats.",
+                "Highlights concerns about violence against educators."
             ]
         },
         {
-            "headline": "Spanish official resigns amid questions over Ceuta migrant warnings",
-            "summary": "A Spanish official has resigned amidst growing questions regarding warnings issued during a migrant crisis in Ceuta. The resignation suggests accountability or controversy surrounding the handling of the migration event.",
+            "headline": "UK Parliament Rejects Assisted Dying Bill for England and Wales",
+            "summary": "The UK Parliament has voted down an assisted dying bill, meaning the practice will remain illegal in England and Wales. The decision follows extensive debate on ethical, moral, and medical grounds. This outcome reflects the complex societal divisions on the issue and its implications for end-of-life care legislation.",
             "key_points": [
-                "Spanish official resigns.",
-                "Amidst questions over Ceuta migrant warnings.",
-                "Suggests controversy in the handling of the migration event."
+                "UK Parliament voted down an assisted dying bill.",
+                "Assisted dying remains illegal in England and Wales.",
+                "Decision follows extensive ethical and moral debate."
             ]
         },
         {
-            "headline": "NATO allies successfully foil Russian undersea cable sabotage mission",
-            "summary": "NATO allies successfully foiled a Russian mission to sabotage undersea cables. This incident highlights heightened tensions in critical infrastructure and ongoing covert operations between major powers.",
+            "headline": "NATO Deterrence Weakened by Lack of Response to Russian Attacks",
+            "summary": "A new assessment suggests that NATO's deterrence capabilities have been 'weakened' by a perceived lack of robust response to Russian attacks. This criticism implies that insufficient action or ambiguous responses could embolden adversaries. It raises questions about the alliance's effectiveness in maintaining security and deterring aggression.",
             "key_points": [
-                "NATO allies foiled a Russian undersea cable sabotage mission.",
-                "Highlights heightened tensions in critical infrastructure.",
-                "Indicates ongoing covert operations between major powers."
+                "NATO's deterrence capabilities are perceived as 'weakened'.",
+                "Attributed to a lack of robust response to Russian attacks.",
+                "Raises questions about the alliance's effectiveness."
             ]
         },
         {
-            "headline": "Algeria closes its airspace to UAE after ending diplomatic ties",
-            "summary": "Algeria has closed its airspace to the UAE following the termination of diplomatic ties between the two nations. This move signifies a severe escalation in their bilateral relations, impacting travel and regional stability.",
+            "headline": "Norway FM: Netanyahu Government Pushing Israel into 'Dangerous Place'",
+            "summary": "Norway's Foreign Minister has expressed concern that the Netanyahu government is driving Israel into a 'dangerous place.' This criticism from an international diplomat highlights growing apprehension about Israel's current policies, particularly concerning regional stability and the Palestinian conflict. It reflects international pressure and calls for de-escalation.",
             "key_points": [
-                "Algeria closed its airspace to the UAE.",
-                "Follows termination of diplomatic ties.",
-                "Signifies severe escalation in bilateral relations."
+                "Norway's FM believes Netanyahu government is leading Israel into a 'dangerous place'.",
+                "Highlights international concern over Israel's policies.",
+                "Reflects calls for de-escalation and regional stability."
             ]
         },
         {
-            "headline": "'The Survivor': Why did a Spanish woman lie about being a 9/11 victim?",
-            "summary": "A documentary titled 'The Survivor' investigates why a Spanish woman fabricated her identity as a 9/11 victim. The film explores the psychological and social motivations behind such a deception.",
+            "headline": "Cali, Colombia Remembers Earthquake Victims One Month On",
+            "summary": "Residents of Cali, Colombia, gathered to honor those killed in the August 10 earthquake, one month after the devastating event. Commemorations included releasing white balloons and laying flowers. The city continues to mourn and rebuild, underscoring the long-term impact of natural disasters on communities.",
             "key_points": [
-                "Documentary 'The Survivor' investigates a Spanish woman's fabrication.",
-                "She falsely claimed to be a 9/11 victim.",
-                "Explores psychological and social motivations for the deception."
+                "Cali, Colombia commemorated earthquake victims one month later.",
+                "Residents honored the deceased with balloons and flowers.",
+                "Highlights the long-term impact of natural disasters."
             ]
         },
         {
-            "headline": "Take climate action to win votes, UN executive tells EU politicians",
-            "summary": "A UN executive has advised EU politicians to prioritize climate action as a strategy to win votes. This suggests that environmental policies are increasingly becoming a key factor in electoral success and public support.",
+            "headline": "Major Fire Engulfs Marseille Market Near Saint-Charles Station",
+            "summary": "A major fire has ripped through a market in Marseille, located near the Saint-Charles station. Emergency services are on the scene battling the blaze, which has caused significant damage. The incident disrupts local commerce and raises concerns about safety and potential causes in a bustling urban area.",
             "key_points": [
-                "UN executive advises EU politicians on climate action.",
-                "Suggests prioritizing climate action to win votes.",
-                "Environmental policies becoming a key electoral factor."
+                "Major fire occurred at a market near Marseille's Saint-Charles station.",
+                "Emergency services are combating the blaze.",
+                "Disrupts local commerce and raises safety concerns."
             ]
         },
         {
-            "headline": "Amnesty: Russia's foreign recruit drive amounts to human trafficking",
-            "summary": "Amnesty International alleges that Russia's foreign recruitment drive for its military amounts to human trafficking. This accusation raises serious human rights concerns and international legal implications.",
+            "headline": "US Inflation Holds at 3.4%, Monthly Price Rises Fastest Since May",
+            "summary": "US inflation has held steady at 3.4%, but monthly price increases have accelerated to their fastest pace since May. This data indicates persistent inflationary pressures within the economy, impacting consumer purchasing power. The Federal Reserve will closely monitor these figures for future monetary policy decisions.",
             "key_points": [
-                "Amnesty International alleges Russia's foreign recruit drive is human trafficking.",
-                "Raises serious human rights concerns.",
-                "Has international legal implications."
+                "US inflation remains at 3.4%.",
+                "Monthly price rises are the fastest since May.",
+                "Indicates persistent inflationary pressures and impacts consumer purchasing power."
             ]
         },
         {
-            "headline": "Indian family deported from Canada after asylum claim fails: 'When Canada needed Harish, he was essential'",
-            "summary": "An Indian family has been deported from Canada after their asylum claim was rejected, despite one member's prior essential role in the country. This case highlights the complexities and sometimes harsh realities of asylum and immigration policies.",
+            "headline": "Trump Opens 2.93 Million Acres to New Mining Claims in US",
+            "summary": "Former President Trump has opened 2.93 million acres of national monuments, Bears Ears and Grand Staircase-Escalante, to new mining claims. This move, enacted on September 11, reverses previous protections for these culturally and ecologically significant lands. It is expected to spark environmental and political debate regarding resource extraction versus conservation.",
             "key_points": [
-                "Indian family deported from Canada after asylum claim rejection.",
-                "One member was previously considered essential to Canada.",
-                "Highlights complexities and realities of asylum policies."
-            ]
-        },
-        {
-            "headline": "He came to Canada to study. Then he protested and was ordered to leave. Gurpreet Singh says the intimidation worked, students are now afraid",
-            "summary": "Gurpreet Singh, an international student in Canada, was ordered to leave the country after participating in protests, claiming this intimidation has instilled fear among other students. The case raises concerns about freedom of expression for foreign students.",
-            "key_points": [
-                "Gurpreet Singh, an international student, ordered to leave Canada.",
-                "Follows his participation in protests.",
-                "Raises concerns about freedom of expression for foreign students."
-            ]
-        },
-        {
-            "headline": "Russia’s FSB Detains Man for Sharing Data on Military and Energy Facilities With Ukraine",
-            "summary": "Russia's FSB has detained a man accused of sharing sensitive data on military and energy facilities with Ukraine. This incident highlights ongoing counter-intelligence operations and the cybersecurity dimension of the conflict.",
-            "key_points": [
-                "Russia's FSB detained a man.",
-                "Accused of sharing military and energy data with Ukraine.",
-                "Highlights counter-intelligence and cybersecurity in the conflict."
+                "2.93 million acres of Bears Ears and Grand Staircase-Escalante national monuments opened for mining.",
+                "Action taken by former President Trump on September 11.",
+                "Reverses previous protections, impacting significant ecological and cultural sites."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Ice cream to defence: How Canada’s tariff war with US is boosting local businesses",
-            "summary": "The ongoing tariff dispute between Canada and the US is inadvertently benefiting Canadian local businesses. Industries ranging from ice cream production to defence manufacturing are seeing increased domestic demand and growth due to the trade tensions.",
+            "headline": "RBI Directs Tata Sons to List, Rejects Bid to Remain Private",
+            "summary": "The Reserve Bank of India (RBI) has rejected Tata Sons' request to remain a private entity and has directed the holding company to list on stock exchanges. This decision has significant implications for the conglomerate's corporate structure and transparency. Tata Sons will now need to comply with regulatory requirements for public listing.",
             "key_points": [
-                "Canada-US tariff war is boosting Canadian local businesses.",
-                "Increased domestic demand seen across various industries.",
-                "Sectors from ice cream to defence are experiencing growth."
+                "RBI rejected Tata Sons' plea to remain private.",
+                "Directed Tata Sons to list on stock exchanges.",
+                "Significant implications for the conglomerate's corporate structure and transparency."
             ]
         },
         {
-            "headline": "RBI moves to suck out excess liquidity",
-            "summary": "The Reserve Bank of India (RBI) has implemented measures to absorb excess liquidity from the financial system. This action aims to manage inflation and stabilize monetary conditions.",
+            "headline": "India's Data Centre Market Poised for $90 Billion Infrastructure Opportunity",
+            "summary": "India's booming data center market presents an infrastructure investment opportunity that could reach $90 billion. Driven by rapid digitization and increased data consumption, the country is witnessing significant growth in this sector. This expansion is crucial for supporting India's digital economy and attracting further technological investments.",
             "key_points": [
-                "RBI implemented measures to absorb excess liquidity.",
-                "Aims to manage inflation.",
-                "Intends to stabilize monetary conditions."
+                "India's data center market offers a $90 billion infrastructure opportunity.",
+                "Driven by rapid digitization and increased data consumption.",
+                "Crucial for supporting India's digital economy and attracting tech investments."
             ]
         },
         {
-            "headline": "India-EU FTA draft: European cars, wine, farm goods set for lower tariffs; key changes explained",
-            "summary": "The draft India-EU Free Trade Agreement (FTA) proposes lower tariffs on European cars, wine, and farm goods. Key changes are explained, indicating significant implications for trade relations and consumer markets in both regions.",
+            "headline": "Nvidia Reportedly Considers $10 Billion Investment in Anthropic's IPO",
+            "summary": "Nvidia is reportedly weighing a massive $10 billion investment in AI startup Anthropic's upcoming initial public offering (IPO). This potential move highlights Nvidia's strategic interest in expanding its presence in the artificial intelligence sector and supporting innovative AI development. Such an investment would significantly boost Anthropic's market valuation and growth prospects.",
             "key_points": [
-                "India-EU FTA draft proposes lower tariffs on European goods.",
-                "Applies to cars, wine, and farm goods.",
-                "Significant implications for trade relations and consumer markets."
+                "Nvidia is considering a $10 billion investment in Anthropic's IPO.",
+                "Highlights Nvidia's strategic interest in AI sector expansion.",
+                "Would significantly boost Anthropic's market valuation."
             ]
         },
         {
-            "headline": "US stocks today: Wall Street inches higher as oil prices ease, inflation data calms markets",
-            "summary": "Wall Street saw slight gains as oil prices eased and inflation data provided some market reassurance. This indicates a cautiously optimistic sentiment among investors reacting to economic indicators.",
+            "headline": "Zomato Introduces Additional Fee for Cash-on-Delivery Orders",
+            "summary": "Food delivery platform Zomato has implemented an additional fee for all cash-on-delivery (COD) orders. This new charge aims to encourage digital payments and potentially offset operational costs associated with handling cash transactions. Customers opting for COD will now incur a small extra expense.",
             "key_points": [
-                "Wall Street saw slight gains.",
-                "Oil prices eased, and inflation data calmed markets.",
-                "Indicates cautiously optimistic investor sentiment."
+                "Zomato added a new fee for cash-on-delivery orders.",
+                "Aims to promote digital payments.",
+                "Customers using COD will pay a small extra charge."
             ]
         },
         {
-            "headline": "UPI now dominates merchant payments: Are cards becoming less useful",
-            "summary": "UPI has emerged as the dominant method for merchant payments in India, prompting questions about the diminishing utility of traditional payment cards. This shift reflects a growing preference for digital transactions.",
+            "headline": "Rosatom CEO: BRICS Nuclear Ties Moving into Overdrive",
+            "summary": "The CEO of Rosatom, Russia's state nuclear energy corporation, stated that nuclear ties within the BRICS bloc are 'going into overdrive.' This indicates a significant acceleration in cooperation on nuclear energy projects, potentially involving technology sharing, plant construction, and uranium supply. This enhanced collaboration could bolster energy security and influence for BRICS nations.",
             "key_points": [
-                "UPI dominates merchant payments in India.",
-                "Raises questions about the utility of traditional payment cards.",
-                "Reflects a growing preference for digital transactions."
+                "Rosatom CEO reports BRICS nuclear ties are accelerating.",
+                "Indicates increased cooperation on nuclear energy projects.",
+                "Could bolster energy security and influence for BRICS nations."
             ]
         },
         {
-            "headline": "Indonesia Continues Buying Russian Oil: Energy Minister",
-            "summary": "Indonesia's Energy Minister confirmed that the country continues to purchase Russian oil. This decision highlights Indonesia's energy strategy amid global sanctions and shifting geopolitical dynamics.",
+            "headline": "Russia Seeks Indian Nuclear Specialists for Overseas Projects",
+            "summary": "Russia is looking to engage Indian specialists for its overseas nuclear energy projects, signaling a deepening of scientific and technical cooperation between the two nations. This move could provide significant opportunities for Indian nuclear expertise on the global stage. It also highlights Russia's reliance on international partnerships for its expanding nuclear portfolio.",
             "key_points": [
-                "Indonesia continues to purchase Russian oil.",
-                "Confirmed by the Energy Minister.",
-                "Highlights Indonesia's energy strategy amidst global sanctions."
+                "Russia plans to engage Indian nuclear specialists for overseas projects.",
+                "Signals deepening scientific and technical cooperation with India.",
+                "Offers global opportunities for Indian nuclear expertise."
             ]
         },
         {
-            "headline": "Russia offers Indian workers new opportunities: Sberbank CEO",
-            "summary": "The CEO of Sberbank announced that Russia is opening up new opportunities for Indian workers. This suggests a growing demand for Indian labor in Russia and potentially new bilateral cooperation in employment.",
+            "headline": "Modi-Xi Talks Pivot India-China Ties Towards New Economic Track",
+            "summary": "Discussions between Prime Minister Modi and President Xi Jinping have reportedly redirected India-China relations onto a new economic track. While border issues remain, the focus on economic cooperation suggests a strategic effort to find common ground in trade and investment. This pivot could lead to renewed bilateral economic engagements despite ongoing geopolitical tensions.",
             "key_points": [
-                "Sberbank CEO announces new opportunities for Indian workers in Russia.",
-                "Suggests growing demand for Indian labor.",
-                "Indicates potential new bilateral cooperation in employment."
+                "Modi-Xi talks are shifting India-China relations to a new economic track.",
+                "Focus on economic cooperation despite existing border issues.",
+                "Could lead to renewed bilateral economic engagements."
             ]
         },
         {
-            "headline": "Sberbank CEO reveals largest Russian investment in Indian market",
-            "summary": "The Sberbank CEO revealed details about Russia's largest investment made in the Indian market. This underscores growing economic ties and the scale of Russian commitment to India's economy.",
+            "headline": "Cuba Offers Investment Guarantees to Indian Investors",
+            "summary": "Cuba is actively seeking to attract Indian investors by offering explicit 'guarantees' for their investments within the country. This initiative aims to boost foreign direct investment into the Cuban economy. It signifies Cuba's efforts to diversify its economic partnerships and leverage India's growing investment capabilities.",
             "key_points": [
-                "Sberbank CEO revealed Russia's largest investment in India.",
-                "Underscores growing economic ties.",
-                "Highlights the scale of Russian commitment to India's economy."
+                "Cuba offers explicit guarantees to attract Indian investors.",
+                "Aims to boost foreign direct investment into its economy.",
+                "Signifies efforts to diversify economic partnerships."
             ]
         },
         {
-            "headline": "India-Russia money transfers now take ‘few minutes’: Sberbank CEO",
-            "summary": "According to the Sberbank CEO, money transfers between India and Russia can now be completed in 'few minutes'. This significant improvement in financial infrastructure facilitates faster and more efficient bilateral transactions.",
+            "headline": "Capgemini Sells Subsidiary Following Controversy Over ICE Ties",
+            "summary": "Capgemini has sold one of its subsidiaries after facing controversy regarding its contracts and ties with the US Immigration and Customs Enforcement (ICE). The move comes amidst public scrutiny and criticism over companies' involvement with immigration enforcement agencies. The sale aims to mitigate reputational risks and address concerns raised by activists and stakeholders.",
             "key_points": [
-                "India-Russia money transfers now take 'few minutes'.",
-                "Announced by Sberbank CEO.",
-                "Facilitates faster and more efficient bilateral transactions."
+                "Capgemini sold a subsidiary after controversy over ICE ties.",
+                "Move follows public scrutiny and criticism.",
+                "Aims to mitigate reputational risks."
             ]
         },
         {
-            "headline": "India, Russia central banks already working on digital currency settlements: Sberbank CEO",
-            "summary": "The Sberbank CEO stated that central banks of India and Russia are actively collaborating on digital currency settlements. This initiative aims to streamline cross-border transactions and reduce reliance on traditional financial systems.",
+            "headline": "US Diesel Prices Hit Record $6, Impacting American Farmers During Harvest",
+            "summary": "Diesel prices in the US have reached a record high of $6 per gallon, creating significant financial strain for American farmers as the harvest season commences. The escalating fuel costs directly impact farming operations, increasing expenses for machinery and transportation. This situation threatens agricultural profitability and could affect food prices.",
             "key_points": [
-                "India and Russia central banks are working on digital currency settlements.",
-                "Announced by Sberbank CEO.",
-                "Aims to streamline cross-border transactions and reduce reliance on traditional systems."
+                "US diesel prices hit a record high of $6 per gallon.",
+                "Impacts American farmers during the harvest season.",
+                "Increased costs for farming operations could affect food prices."
             ]
         },
         {
-            "headline": "Sberbank ready to finance Indian SMEs expanding in Russia: CEO",
-            "summary": "Sberbank's CEO announced the bank's readiness to finance Indian Small and Medium-sized Enterprises (SMEs) looking to expand into Russia. This initiative aims to bolster bilateral trade and investment opportunities for Indian businesses.",
+            "headline": "Portugal Diesel Prices Hit Record High, Spain Introduces New Discounts",
+            "summary": "Diesel prices in Portugal have reached a record high, while neighboring Spain has responded by introducing new discounts to mitigate the impact on consumers. This divergence highlights different governmental approaches to tackling energy cost inflation within the European Union. High fuel prices continue to be a significant economic burden across the continent.",
             "key_points": [
-                "Sberbank is ready to finance Indian SMEs expanding into Russia.",
-                "Aims to bolster bilateral trade.",
-                "Creates investment opportunities for Indian businesses."
+                "Diesel prices reached a record high in Portugal.",
+                "Spain introduced new discounts to mitigate high fuel costs.",
+                "Highlights varying governmental responses to energy inflation in Europe."
             ]
         },
         {
-            "headline": "Sberbank makes India-Russia investment its ‘priority number one’: CEO",
-            "summary": "The Sberbank CEO declared that investment in India-Russia relations is now the bank's 'priority number one'. This emphasizes the strategic importance and focus on strengthening economic ties between the two nations.",
+            "headline": "ECB Rate Hike's Impact on Mortgage Borrowers Examined",
+            "summary": "The recent interest rate hike by the European Central Bank (ECB) is expected to significantly affect mortgage borrowers across the Eurozone. The article analyzes how this increase will translate into higher repayment costs for those with variable-rate mortgages and impact new borrowing decisions. This economic shift will influence household finances and the housing market.",
             "key_points": [
-                "Sberbank prioritizes India-Russia investment.",
-                "Declared 'priority number one'.",
-                "Emphasizes strategic importance of strengthening economic ties."
+                "ECB interest rate hike will impact Eurozone mortgage borrowers.",
+                "Expected to increase repayment costs for variable-rate mortgages.",
+                "Will influence household finances and the housing market."
             ]
         },
         {
-            "headline": "A7’s operations with India are growing by more than 50% a year.",
-            "summary": "A7's operations with India are experiencing annual growth of over 50%. This significant expansion highlights the strong business relationship and increasing collaboration between A7 and the Indian market.",
+            "headline": "French Blockade Threatens EU Plan to Expedite English Trade Deals",
+            "summary": "A French blockade is reportedly threatening an EU plan aimed at speeding up trade deals conducted in English. France's resistance likely stems from linguistic and cultural preservation concerns, as well as broader issues of national sovereignty within the EU. This dispute could complicate and delay important international trade negotiations for the bloc.",
             "key_points": [
-                "A7's operations with India are growing by over 50% annually.",
-                "Indicates a strong business relationship.",
-                "Highlights increasing collaboration with the Indian market."
+                "French blockade threatens EU plan to expedite English trade deals.",
+                "Resistance likely due to linguistic and cultural concerns.",
+                "Could complicate and delay EU international trade negotiations."
             ]
         },
         {
-            "headline": "Western sanctions accelerated a multipolar payments system",
-            "summary": "Western sanctions have inadvertently accelerated the development of a multipolar global payments system. This shift reduces reliance on dominant Western financial networks and fosters alternative cross-border transaction methods.",
+            "headline": "ECB Chief Lagarde Rejects Mélenchon's Debt Cancellation Proposal",
+            "summary": "European Central Bank (ECB) President Christine Lagarde has rejected Jean-Luc Mélenchon's proposal for debt cancellation. This firm stance underscores the ECB's commitment to financial stability and its reluctance to engage in policies that could undermine fiscal discipline or currency value. The rejection highlights differing economic philosophies within Europe.",
             "key_points": [
-                "Western sanctions accelerated a multipolar global payments system.",
-                "Reduces reliance on dominant Western financial networks.",
-                "Fosters alternative cross-border transaction methods."
+                "ECB President Christine Lagarde rejected Mélenchon's debt cancellation proposal.",
+                "Underscores ECB's commitment to financial stability.",
+                "Highlights differing economic philosophies within Europe."
             ]
         },
         {
-            "headline": "India-Russia put economic cooperation front & centre ahead of BRICS summit in New Delhi",
-            "summary": "India and Russia are prioritizing economic cooperation ahead of the BRICS summit in New Delhi. This focus aims to strengthen bilateral trade, investment, and strategic partnerships between the two nations.",
+            "headline": "Right to Repair: Spare Parts and Services Remain Overpriced",
+            "summary": "Despite the push for 'right to repair' legislation, spare parts and repair services often remain prohibitively expensive for consumers. This undermines the intent of the movement, which aims to extend product lifespans and reduce electronic waste. The high costs continue to push consumers towards purchasing new devices rather than repairing old ones.",
             "key_points": [
-                "India and Russia prioritize economic cooperation.",
-                "Ahead of the BRICS summit in New Delhi.",
-                "Aims to strengthen bilateral trade, investment, and strategic partnerships."
+                "Spare parts and repair services for electronics remain expensive.",
+                "Undermines 'right to repair' movement goals.",
+                "High costs encourage consumers to buy new devices instead of repairing."
             ]
         },
         {
-            "headline": "Russia’s Pantsir, made in India: a deal to expand India’s defence exports",
-            "summary": "A deal for Russia's Pantsir defense system to be 'made in India' is set to expand India's defense exports. This collaboration signifies a boost for India's indigenous manufacturing and its role as a defense supplier.",
+            "headline": "EU Repair Directive Mandates Manufacturers to Fix Broken Gadgets",
+            "summary": "The European Union's new repair directive now compels manufacturers to fix broken gadgets, aiming to boost sustainability and consumer rights. This legislation ensures that consumers have access to repairs, extending product lifespans and reducing waste. It represents a significant step towards a more circular economy in Europe.",
             "key_points": [
-                "Russia's Pantsir defense system to be 'made in India'.",
-                "Aims to expand India's defense exports.",
-                "Boosts indigenous manufacturing and India's role as a defense supplier."
+                "EU repair directive now requires manufacturers to fix broken gadgets.",
+                "Aims to boost sustainability and consumer rights.",
+                "Significant step towards a more circular economy."
             ]
         },
         {
-            "headline": "Battle-proven S-400 paves way for S-500 in India",
-            "summary": "The successful deployment of Russia's battle-proven S-400 air defense system in India is paving the way for the potential introduction of the more advanced S-500 system. This indicates a deepening of defense ties and technological transfer.",
+            "headline": "EU Right to Repair Could Save Consumers \n12 Billion",
+            "summary": "The implementation of the EU's 'Right to Repair' initiative is projected to save consumers a substantial \n12 billion. By making repairs more accessible and affordable, the directive aims to reduce the financial burden on households and encourage longer product use. This economic benefit highlights the consumer-centric goals of the new regulations.",
             "key_points": [
-                "S-400 air defense system deployment in India is successful.",
-                "Paves the way for the more advanced S-500 system.",
-                "Indicates deepening defense ties and technological transfer."
+                "EU's 'Right to Repair' could save consumers \n12 billion.",
+                "Aims to make repairs more accessible and affordable.",
+                "Highlights consumer-centric goals of new regulations."
             ]
         },
         {
-            "headline": "Russian Crude Adds To India’s Oil Basket Resilience: Expert",
-            "summary": "An expert states that Russian crude oil imports are enhancing India's oil basket resilience. This diversification of energy sources helps India navigate global market volatilities and secure its energy needs.",
+            "headline": "New EU Rules Could Save Consumers Hundreds on Appliance Repairs",
+            "summary": "New European Union rules designed to promote the 'Right to Repair' are anticipated to save consumers hundreds of euros on broken appliances. By enforcing repairability and affordability, these regulations aim to extend the life of products and reduce the need for costly replacements. This initiative targets household savings and sustainable consumption.",
             "key_points": [
-                "Russian crude oil imports enhance India's oil basket resilience.",
-                "Diversifies energy sources.",
-                "Helps India navigate global market volatilities and secure energy needs."
+                "New EU rules for 'Right to Repair' could save consumers hundreds on appliance repairs.",
+                "Aims to extend product life and reduce replacement costs.",
+                "Targets household savings and sustainable consumption."
             ]
         },
         {
-            "headline": "UAE-BrahMos Deal Сould Be Game-Changer For India’s Defence Exports in West Asia: IAF Vet",
-            "summary": "An IAF veteran suggests that a potential UAE-BrahMos deal could be a game-changer for India's defense exports in West Asia. This would significantly boost India's presence in the regional arms market and strengthen strategic partnerships.",
+            "headline": "France Cuts Growth Forecast as Economy Lags European Neighbors",
+            "summary": "France has lowered its economic growth forecast, acknowledging that its economy is lagging behind other European neighbors. This adjustment reflects challenging economic conditions, potentially including inflation, energy costs, and global uncertainties. The revised outlook may prompt governmental policy changes to stimulate growth.",
             "key_points": [
-                "Potential UAE-BrahMos deal could be a game-changer for India's defense exports.",
-                "Significantly boosts India's presence in West Asia arms market.",
-                "Strengthens strategic partnerships."
+                "France cut its economic growth forecast.",
+                "Economy is lagging behind other European neighbors.",
+                "Reflects challenging economic conditions and may prompt policy changes."
             ]
         },
         {
-            "headline": "India Opens Its Nuclear Missile Programme to Private Industry For First Time",
-            "summary": "For the first time, India has opened its nuclear missile program to private industry. This landmark decision aims to accelerate indigenous defense manufacturing and innovation by leveraging private sector capabilities.",
-            "key_points": [
-                "India opens its nuclear missile program to private industry.",
-                "This is a first-time landmark decision.",
-                "Aims to accelerate indigenous defense manufacturing and innovation."
-            ]
-        },
-        {
-            "headline": "Red Flag on the Greenback: Political Risks Are Forcing a Historic Central Bank Pivot",
-            "summary": "Growing political risks are forcing a historic pivot among central banks away from the dominance of the US dollar ('the greenback'). This trend signifies a re-evaluation of global reserve currencies and financial strategies.",
-            "key_points": [
-                "Political risks are forcing a central bank pivot.",
-                "Moving away from the dominance of the US dollar.",
-                "Signifies a re-evaluation of global reserve currencies."
-            ]
-        },
-        {
-            "headline": "Will the FTA With EAEU Reduce India’s Reliance on Western Nations in Critical Sectors?",
-            "summary": "The article analyzes whether a Free Trade Agreement (FTA) with the Eurasian Economic Union (EAEU) could reduce India's reliance on Western nations in critical sectors. It explores the potential for diversified trade and strategic autonomy.",
-            "key_points": [
-                "Analyzes if FTA with EAEU can reduce India’s reliance on Western nations.",
-                "Focuses on critical sectors.",
-                "Explores potential for diversified trade and strategic autonomy."
-            ]
-        },
-        {
-            "headline": "BrahMos for Every Major Indian Warship: What it Means for Naval Operations",
-            "summary": "The potential deployment of BrahMos missiles on every major Indian warship has significant implications for naval operations. This strategic enhancement would boost India's maritime power projection and defense capabilities.",
-            "key_points": [
-                "Potential deployment of BrahMos missiles on every major Indian warship.",
-                "Significant implications for naval operations.",
-                "Boosts India's maritime power projection and defense capabilities."
-            ]
-        },
-        {
-            "headline": "Kamikaze Drones to Add Firepower & Flexibility of Indian Navy's Ships at Sea: Military Veteran",
-            "summary": "A military veteran states that integrating kamikaze drones will significantly enhance the firepower and flexibility of Indian Navy ships at sea. This technological addition would provide crucial tactical advantages in maritime warfare.",
-            "key_points": [
-                "Integrating kamikaze drones will enhance Indian Navy firepower.",
-                "Increases flexibility of ships at sea.",
-                "Provides crucial tactical advantages in maritime warfare."
-            ]
-        },
-        {
-            "headline": "France cuts growth forecast as economy lags behind European neighbours",
-            "summary": "France has revised down its growth forecast as its economy is lagging behind other European neighbors. This indicates economic challenges and potential policy adjustments for the country.",
-            "key_points": [
-                "France cuts its growth forecast.",
-                "Economy lags behind other European neighbors.",
-                "Indicates economic challenges and potential policy adjustments."
-            ]
-        },
-        {
-            "headline": "Russian assets not the focus now, Brussels says as calls grow louder",
-            "summary": "Brussels has stated that freezing Russian assets is not currently its primary focus, despite increasing calls for such action. This position suggests a cautious approach amid ongoing debates on sanctions.",
-            "key_points": [
-                "Brussels not focused on freezing Russian assets.",
-                "Despite increasing calls for such action.",
-                "Suggests a cautious approach amid ongoing sanctions debates."
-            ]
-        },
-        {
-            "headline": "EU Commission pushes all-English trade deals despite French opposition",
-            "summary": "The EU Commission is advocating for all-English trade deals, facing opposition from France. This linguistic preference in negotiations highlights internal EU debates on cultural influence and diplomatic practices.",
-            "key_points": [
-                "EU Commission pushes for all-English trade deals.",
-                "Faces opposition from France.",
-                "Highlights internal EU debates on cultural influence."
-            ]
-        },
-        {
-            "headline": "Europe outspends entire 2025 Russian Arctic gas bill in just 8 months",
-            "summary": "Europe has reportedly spent more on gas in just eight months than its entire projected bill for Russian Arctic gas in 2025. This indicates a significant shift in energy procurement and pricing dynamics amidst geopolitical tensions.",
-            "key_points": [
-                "Europe spent more on gas in 8 months than its 2025 Russian Arctic gas bill.",
-                "Indicates a significant shift in energy procurement.",
-                "Reflects pricing dynamics amidst geopolitical tensions."
-            ]
-        },
-        {
-            "headline": "US inflation holds at 3.4% as monthly price rises hit fastest pace since May",
-            "summary": "US inflation remained at 3.4%, but monthly price increases recorded their fastest pace since May. This indicates persistent inflationary pressures despite the steady headline figure, impacting consumer purchasing power.",
-            "key_points": [
-                "US inflation holds at 3.4%.",
-                "Monthly price rises hit fastest pace since May.",
-                "Indicates persistent inflationary pressures impacting consumer purchasing power."
-            ]
-        },
-        {
-            "headline": "50 CEOs and investors urge Brussels not to dilute the EU Inc law",
-            "summary": "A group of 50 CEOs and investors are urging Brussels not to weaken the EU Inc law. Their plea emphasizes the importance of this legislation for corporate governance and investor confidence within the EU.",
+            "headline": "50 CEOs and Investors Urge Brussels Not to Dilute EU Inc Law",
+            "summary": "Fifty leading CEOs and investors have collectively urged Brussels to refrain from diluting the proposed EU Inc law. This unified plea highlights the business community's strong support for robust corporate governance and accountability measures. They believe a strong law is crucial for fostering fair competition and sustainable business practices across the bloc.",
             "key_points": [
                 "50 CEOs and investors urge Brussels not to dilute the EU Inc law.",
-                "Emphasizes importance for corporate governance.",
-                "Aims to maintain investor confidence within the EU."
-            ]
-        },
-        {
-            "headline": "Azerbaijan’s state oil fund helps launch China-ASEAN investment council",
-            "summary": "Azerbaijan's state oil fund has played a role in launching the China-ASEAN investment council. This initiative aims to foster greater investment and economic cooperation between China, ASEAN nations, and Azerbaijan.",
-            "key_points": [
-                "Azerbaijan’s state oil fund helped launch China-ASEAN investment council.",
-                "Aims to foster greater investment.",
-                "Promotes economic cooperation between China, ASEAN, and Azerbaijan."
-            ]
-        },
-        {
-            "headline": "European bond yields hit multi-year highs as global sell-off continues",
-            "summary": "European bond yields have reached multi-year highs amidst a continuing global sell-off. This market trend reflects investor concerns about inflation, interest rates, and overall economic stability.",
-            "key_points": [
-                "European bond yields hit multi-year highs.",
-                "Occurs amidst a continuing global sell-off.",
-                "Reflects investor concerns about inflation and economic stability."
-            ]
-        },
-        {
-            "headline": "European leisure travel to Saudi Arabia forecast to grow 130% by 2030",
-            "summary": "European leisure travel to Saudi Arabia is projected to increase by a remarkable 130% by 2030. This forecast indicates a significant boom in tourism for Saudi Arabia, driven by new attractions and strategic efforts.",
-            "key_points": [
-                "European leisure travel to Saudi Arabia forecast to grow 130% by 2030.",
-                "Indicates a significant boom in tourism for Saudi Arabia.",
-                "Driven by new attractions and strategic efforts."
-            ]
-        },
-        {
-            "headline": "Qatar Airways passenger numbers recover as carrier expands routes",
-            "summary": "Qatar Airways has seen a recovery in passenger numbers as the carrier continues to expand its routes. This indicates a rebound in air travel demand and successful strategy for market growth.",
-            "key_points": [
-                "Qatar Airways passenger numbers have recovered.",
-                "Carrier continues to expand its routes.",
-                "Indicates a rebound in air travel demand and successful market growth strategy."
-            ]
-        },
-        {
-            "headline": "Rolex Daytona, cash, gold: Former Uttarakhand CM Harish Rawat steps down from Congress posts after ED raid at PA’s home",
-            "summary": "Former Uttarakhand Chief Minister Harish Rawat has resigned from his Congress party posts following an ED raid at his PA's residence, where luxury items like a Rolex Daytona, cash, and gold were seized. The investigation into corruption allegations is ongoing.",
-            "key_points": [
-                "Former Uttarakhand CM Harish Rawat resigns from Congress posts.",
-                "Follows an ED raid at his PA's home.",
-                "Luxury items like Rolex, cash, and gold were seized."
-            ]
-        },
-        {
-            "headline": "Now, you can port FASTag from one bank to another",
-            "summary": "Users can now port their FASTag accounts from one bank to another, offering greater flexibility and convenience. This change simplifies management for motorists and enhances the digital toll collection system.",
-            "key_points": [
-                "FASTag accounts can now be ported between banks.",
-                "Offers greater flexibility and convenience for users.",
-                "Simplifies management for motorists and enhances the digital toll system."
-            ]
-        },
-        {
-            "headline": "Bengaluru metro network expands, but ridership is just a third of projected 30 lakh",
-            "summary": "Despite the expansion of Bengaluru's metro network, its ridership remains significantly lower than the projected 30 lakh passengers. This highlights a gap between infrastructure development and actual public utilization, posing operational challenges.",
-            "key_points": [
-                "Bengaluru metro network has expanded.",
-                "Ridership is only a third of projected 30 lakh passengers.",
-                "Highlights a gap between infrastructure and public utilization."
-            ]
-        },
-        {
-            "headline": "Karnataka minister Satish Jarkiholi’s family funnelled bribe money to buy gold assets in Africa: Enforcement Directorate",
-            "summary": "The Enforcement Directorate alleges that Karnataka minister Satish Jarkiholi's family funneled bribe money to acquire gold assets in Africa. This points to a transnational corruption network and ongoing investigation.",
-            "key_points": [
-                "Karnataka minister Satish Jarkiholi's family accused of funneling bribe money.",
-                "Money used to buy gold assets in Africa.",
-                "Points to a transnational corruption network and ongoing investigation."
-            ]
-        },
-        {
-            "headline": "Indian-origin investor's H-1B prediction: If 10% of Indians stuck in US Green Card backlog return, India’s GDP could rise 1%",
-            "summary": "An Indian-origin investor predicts that if 10% of Indians facing Green Card backlogs in the US return, India's GDP could see a 1% increase. This highlights the potential economic impact of skilled diaspora returning to their home country.",
-            "key_points": [
-                "10% of Indians in US Green Card backlog could return to India.",
-                "Could result in a 1% rise in India's GDP.",
-                "Highlights potential economic impact of returning skilled diaspora."
-            ]
-        },
-        {
-            "headline": "China Southern to resume Guangzhou-Delhi flights after 6 years ahead of Xi's Brics visit",
-            "summary": "China Southern Airlines is set to resume its Guangzhou-Delhi flights after a six-year hiatus, coinciding with President Xi Jinping's visit for the BRICS summit. This signals a potential thaw in travel relations and economic ties between the two nations.",
-            "key_points": [
-                "China Southern resumes Guangzhou-Delhi flights after six years.",
-                "Coincides with President Xi Jinping's BRICS visit.",
-                "Signals potential thaw in travel relations and economic ties."
+                "Highlights business community's strong support for corporate governance.",
+                "Believe a strong law is crucial for fair competition and sustainable practices."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Microsoft’s head of communications is leaving after spending nearly 29 years at company: Read his internal memo to employees",
-            "summary": "Microsoft's head of communications is departing the company after almost three decades. An internal memo to employees detailed his reasons and farewell.",
+            "headline": "India Urgently Needs a Robust Space Act for Industry Growth",
+            "summary": "As India's space industry rapidly develops, there's an urgent need for a stringent Space Act to provide legal support and regulatory clarity. Despite opening the sector in 2020 and establishing IN-SPACe, existing policies have gaps that a comprehensive act would address. This legislation would define company rights, enhance regulation, and bolster India's global standing in space.",
             "key_points": [
-                "Microsoft's head of communications is leaving.",
-                "Spent nearly 29 years at the company.",
-                "Internal memo to employees released regarding his departure."
+                "India's developing space industry urgently needs a Space Act.",
+                "Current policies have gaps despite sector opening in 2020.",
+                "A new act would provide legal support, regulatory clarity, and boost global positioning."
             ]
         },
         {
-            "headline": "Is AI going to 'kill everyone' in ten years?",
-            "summary": "The article delves into the speculative and alarmist question of whether artificial intelligence poses an existential threat to humanity within the next decade. It likely explores different viewpoints and scientific projections on AI's future impact.",
+            "headline": "India Opens Nuclear Missile Program to Private Industry for the First Time",
+            "summary": "In a landmark decision, India has opened its nuclear missile program to private industry for the first time. This move aims to accelerate innovation, enhance production capabilities, and foster a robust domestic defense ecosystem. It signifies a major policy shift, allowing private sector participation in sensitive strategic projects.",
             "key_points": [
-                "Explores the question of AI posing an existential threat to humanity.",
-                "Discusses the timeline of 'ten years'.",
-                "Likely covers various viewpoints and scientific projections on AI's impact."
+                "India opened its nuclear missile program to private industry for the first time.",
+                "Aims to accelerate innovation and enhance production.",
+                "Major policy shift for domestic defense ecosystem."
             ]
         },
         {
-            "headline": "AI corners 80% of all global equity funding in March quarter",
-            "summary": "Artificial intelligence companies attracted a staggering 80% of all global equity funding in the March quarter. This highlights the immense investor confidence and rapid growth in the AI sector.",
+            "headline": "AI Leaders Dario, Altman, Musk Call for Slower AI Development Pace",
+            "summary": "Leading figures in artificial intelligence, including Dario, Sam Altman, and Elon Musk, have collectively voiced the need to slow down the pace of AI development. Their call stems from concerns about safety, ethical implications, and the potential societal impact of rapidly advancing AI. This united front from industry giants underscores growing apprehension within the tech community.",
             "key_points": [
-                "AI companies attracted 80% of global equity funding.",
-                "Achieved this in the March quarter.",
-                "Highlights immense investor confidence and rapid growth in the AI sector."
+                "AI leaders Dario, Altman, and Musk advocate for slowing AI development.",
+                "Concerns cited include safety, ethics, and societal impact.",
+                "Highlights growing apprehension within the tech community."
             ]
         },
         {
-            "headline": "FM calls for tech body for stronger global voice",
-            "summary": "The Finance Minister has advocated for the creation of a dedicated technology body to strengthen India's global voice in the tech sector. This initiative aims to enhance the nation's influence and competitiveness on the international stage.",
+            "headline": "Russia Unveils Fastest Anti-Drone Interceptor Against Ukrainian UAVs",
+            "summary": "Russia has unveiled its fastest anti-drone interceptor, designed to counter Ukrainian Unmanned Aerial Vehicles (UAVs). This new defense system addresses the growing threat posed by drone attacks. The development highlights Russia's focus on enhancing its aerial defense capabilities in response to modern battlefield challenges.",
             "key_points": [
-                "Finance Minister advocates for a dedicated technology body.",
-                "Aims to strengthen India's global voice in the tech sector.",
-                "Enhances the nation's influence and competitiveness internationally."
-            ]
-        },
-        {
-            "headline": "In 2010, India launched Aadhaar Card; 16 years later UIDAI says work underway to take Aadhaar global",
-            "summary": "India launched the Aadhaar Card in 2010, and 16 years later, UIDAI is working to expand its reach globally. This initiative aims to provide Aadhaar-like services or interoperability for Indians living abroad.",
-            "key_points": [
-                "Aadhaar Card was launched in India in 2010.",
-                "UIDAI is now working to take Aadhaar global.",
-                "Aims to provide services for Indians living abroad."
-            ]
-        },
-        {
-            "headline": "Elon Musk reacts to Irish man's discovery that he would have to wait for 14 years to get Indian citizenship",
-            "summary": "Elon Musk has reacted to an Irish man's revelation that obtaining Indian citizenship could take 14 years. This interaction brings attention to the lengthy and complex process of acquiring Indian nationality for foreign citizens.",
-            "key_points": [
-                "Elon Musk reacted to an Irish man's wait for Indian citizenship.",
-                "The process could take 14 years.",
-                "Highlights the lengthy and complex process of acquiring Indian nationality."
-            ]
-        },
-        {
-            "headline": "California governor signs law to limit U-16s social media risks",
-            "summary": "California's governor has signed a new law aimed at limiting social media risks for users under the age of 16. This legislative move reflects growing concerns about the impact of social media on young people's well-being.",
-            "key_points": [
-                "California governor signs law to limit social media risks.",
-                "Applies to users under the age of 16.",
-                "Reflects concerns about social media's impact on young people's well-being."
-            ]
-        },
-        {
-            "headline": "Russia Unveils its Fastest Anti-Drone Interceptor to Counter Ukrainian UAVs",
-            "summary": "Russia has unveiled its fastest anti-drone interceptor, designed to counter Ukrainian Unmanned Aerial Vehicles (UAVs). This new technology aims to bolster Russian air defense capabilities against drone threats.",
-            "key_points": [
-                "Russia unveils its fastest anti-drone interceptor.",
+                "Russia unveiled its fastest anti-drone interceptor.",
                 "Designed to counter Ukrainian UAVs.",
-                "Aims to bolster Russian air defense capabilities."
+                "Enhances Russia's aerial defense capabilities against modern threats."
             ]
         },
         {
-            "headline": "The Netherlands, Spain push for EU-wide minimum age on social media",
-            "summary": "The Netherlands and Spain are advocating for an EU-wide minimum age for social media use. This initiative aims to protect young people from online risks and standardize regulations across member states.",
+            "headline": "OpenAI Reverses Stance, Calls for Binding National AI Safety Rules",
+            "summary": "OpenAI has made a significant U-turn, now advocating for binding national AI safety rules after previously resisting such regulation. This shift reflects growing concerns within the AI community about the rapid development and potential risks of advanced AI. Their call for regulation underscores the urgency of establishing governance frameworks.",
             "key_points": [
-                "Netherlands and Spain push for EU-wide social media minimum age.",
-                "Aims to protect young people from online risks.",
-                "Seeks to standardize regulations across member states."
+                "OpenAI reversed its stance, now calls for binding national AI safety rules.",
+                "Reflects growing concerns about rapid AI development and risks.",
+                "Underscores urgency of establishing AI governance frameworks."
             ]
         },
         {
-            "headline": "Right to repair: Spare parts and services still too expensive",
-            "summary": "Despite the EU's new 'Right to Repair' directive aimed at making manufacturers fix broken gadgets and saving consumers money, spare parts and services often remain too expensive. This highlights ongoing challenges in consumer protection and sustainability efforts.",
+            "headline": "Anthropic Reports Stopping AI Misuse in Cyberattacks and Bioweapons Research",
+            "summary": "AI company Anthropic has announced that it successfully intervened to prevent the misuse of its AI systems for purposes like cyberattacks and bioweapons research. This revelation highlights the critical security measures and ethical safeguards being developed within the AI industry. It underscores the ongoing challenges of ensuring responsible AI deployment.",
             "key_points": [
-                "EU has a 'Right to Repair' directive.",
-                "Aims for manufacturers to fix broken gadgets and save consumers money.",
-                "Spare parts and services often remain too expensive."
+                "Anthropic claims to have stopped AI misuse for cyberattacks and bioweapons.",
+                "Highlights critical security measures and ethical safeguards in AI.",
+                "Underscores challenges of responsible AI deployment."
             ]
         },
         {
-            "headline": "AI 'hollowing out' youth's capabilities, PISA founder tells Euronews",
-            "summary": "The founder of PISA, a global education assessment program, warns that AI is 'hollowing out' the capabilities of youth. This raises concerns about the impact of artificial intelligence on cognitive development and skill acquisition in younger generations.",
+            "headline": "3D-Printed Food Transitions from Niche to Potential Future Technology",
+            "summary": "3D-printed food is evolving from a niche technology into a potential future solution for customized nutrition and sustainable food production. Advancements allow for precise control over ingredients, textures, and nutritional content. While still developing, it holds promise for addressing dietary needs and reducing waste.",
+            "key_points": [
+                "3D-printed food is moving from niche to a future technology.",
+                "Allows for precise control over ingredients, textures, and nutrition.",
+                "Holds promise for customized diets and sustainable production."
+            ]
+        },
+        {
+            "headline": "PISA Founder Warns AI is 'Hollowing Out' Youth Capabilities",
+            "summary": "The founder of the PISA education assessment has warned Euronews that artificial intelligence is 'hollowing out' the capabilities of young people. This concern suggests that over-reliance on AI tools might hinder the development of critical thinking, problem-solving, and other essential skills in students. It prompts a debate on the role of AI in education and its long-term impact on learning.",
             "key_points": [
                 "PISA founder warns AI is 'hollowing out' youth capabilities.",
-                "Raises concerns about AI's impact on cognitive development.",
-                "Affects skill acquisition in younger generations."
+                "Suggests over-reliance on AI may hinder critical thinking skills.",
+                "Prompts debate on AI's role and impact on education."
             ]
         },
         {
-            "headline": "OpenAI makes U-turn and calls for binding national AI safety rules",
-            "summary": "OpenAI has made a U-turn, now advocating for binding national AI safety rules. This shift reflects growing awareness of AI's potential risks and the need for robust regulatory frameworks to ensure responsible development.",
+            "headline": "Macron and Von der Leyen Advocate for Stronger European Space Sector",
+            "summary": "French President Macron and EU Commission President Ursula von der Leyen have voiced their support for a stronger European space sector during discussions in Paris. Their backing signals a strategic commitment to boost Europe's capabilities in space exploration, satellite technology, and independent access to space. This joint effort aims to enhance Europe's competitive edge globally.",
             "key_points": [
-                "OpenAI calls for binding national AI safety rules.",
-                "Marks a U-turn in their previous stance.",
-                "Reflects growing awareness of AI's potential risks and need for regulation."
+                "Macron and von der Leyen support a stronger European space sector.",
+                "Signals strategic commitment to boost Europe's space capabilities.",
+                "Aims to enhance Europe's global competitive edge in space."
             ]
         },
         {
-            "headline": "Anthropic says it stopped AI misuse for cyberattacks and bioweapons",
-            "summary": "Anthropic reports that it successfully prevented the misuse of its AI for purposes like cyberattacks and bioweapons. This highlights ongoing efforts by AI developers to implement safeguards and ethical guidelines against harmful applications.",
+            "headline": "11-Year-Old Invents $38 Moss Filter Removing 95% of Lead",
+            "summary": "An 11-year-old inventor has successfully created an inexpensive moss-based filter, costing only $38, capable of removing up to 95% of lead from water. This innovative and accessible technology offers a promising solution for communities affected by lead contamination. The invention demonstrates the potential of young minds to tackle significant environmental challenges.",
             "key_points": [
-                "Anthropic claims to have stopped AI misuse.",
-                "Prevented use for cyberattacks and bioweapons.",
-                "Highlights efforts to implement safeguards against harmful AI applications."
-            ]
-        },
-        {
-            "headline": "Japanese company unveils 'robot ambulance' for on-site humanoid repairs",
-            "summary": "A Japanese company has unveiled a 'robot ambulance' designed for on-site repairs of humanoid robots. This innovative solution aims to improve efficiency in robot maintenance and reduce downtime.",
-            "key_points": [
-                "Japanese company unveils 'robot ambulance'.",
-                "Designed for on-site humanoid robot repairs.",
-                "Aims to improve efficiency in robot maintenance and reduce downtime."
-            ]
-        },
-        {
-            "headline": "iPhone 18 Pro and iPhone 18 Pro Max pre-orders start today: Time, how and where to pre-order and what not to miss",
-            "summary": "Pre-orders for the iPhone 18 Pro and iPhone 18 Pro Max begin today, with details on timing, ordering process, and essential information provided. This marks the availability of Apple's latest premium smartphones.",
-            "key_points": [
-                "iPhone 18 Pro and iPhone 18 Pro Max pre-orders start today.",
-                "Details on timing, ordering process, and essential information provided.",
-                "Marks the availability of Apple's latest premium smartphones."
-            ]
-        },
-        {
-            "headline": "‘I would do nothing’: Y Combinator CEO Garry Tan’s advice to OpenAI, Anthropic on alleged Chinese AI model copying",
-            "summary": "Y Combinator CEO Garry Tan advises OpenAI and Anthropic to 'do nothing' regarding alleged Chinese AI model copying. His stance suggests a strategic approach to intellectual property disputes in the rapidly evolving AI landscape.",
-            "key_points": [
-                "Y Combinator CEO advises OpenAI and Anthropic to 'do nothing'.",
-                "Regarding alleged Chinese AI model copying.",
-                "Suggests a strategic approach to AI intellectual property disputes."
+                "11-year-old invented a $38 moss filter.",
+                "Filter can remove up to 95% of lead from water.",
+                "Offers an innovative and accessible solution for lead contamination."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Preity Zinta on new chapter: Actor talks comeback, kids & social media",
-            "summary": "Actress Preity Zinta discusses her new life chapter, including her return to acting, experiences with motherhood, and her engagement with social media. She provides insights into balancing her personal and professional life.",
+            "headline": "Mahira Khan Announces Second Pregnancy: How It Differs From the First",
+            "summary": "Pakistani actress Mahira Khan, at 41, has announced her second pregnancy. The article explores why a second pregnancy can be a distinctly different experience compared to the first, touching on physical and emotional changes. Her announcement brings a personal touch to the broader topic of maternal experiences.",
             "key_points": [
-                "Preity Zinta discusses her comeback to acting.",
-                "Talks about her experiences with motherhood.",
-                "Shares insights on her engagement with social media."
+                "Mahira Khan, 41, is pregnant with her second child.",
+                "Second pregnancies often differ significantly from the first.",
+                "Article discusses potential physical and emotional changes."
             ]
         },
         {
-            "headline": "Pink breaks her silence on Macklemore row; shares 1000-word Israel-Palestine note",
-            "summary": "Pop singer Pink has addressed the controversy involving Macklemore, releasing a detailed 1000-word statement on the Israel-Palestine conflict. Her statement clarifies her stance on the sensitive geopolitical issue.",
+            "headline": "Dharmendra's First Love Was Hamida, Predating Hema Malini",
+            "summary": "Veteran actor Dharmendra's first love was Hamida, a relationship that occurred long before his marriage to Hema Malini. This historical insight into his personal life reveals an earlier significant romantic connection. It provides a deeper look into the celebrity's past beyond his widely known marriages.",
             "key_points": [
-                "Pink breaks silence on Macklemore row.",
-                "Released a 1000-word note on the Israel-Palestine conflict.",
-                "Clarifies her stance on the geopolitical issue."
+                "Dharmendra's first love was Hamida.",
+                "This relationship predates his marriage to Hema Malini.",
+                "Provides insight into the actor's early personal life."
             ]
         },
         {
-            "headline": "Sebastian Stan: 'The Batman: Part II' feels like making 'The Godfather Part II'",
-            "summary": "Actor Sebastian Stan compares the experience of filming 'The Batman: Part II' to the iconic 'The Godfather Part II'. He suggests the sequel carries a similar gravitas and importance in its genre.",
+            "headline": "Ian Somerhalder Embraces Farm Life Post-'The Vampire Diaries'",
+            "summary": "Actor Ian Somerhalder, known for his role in 'The Vampire Diaries', has transitioned to a sustainable farm life after his acting career. He now focuses on environmental initiatives and living off the land with his family. This move marks a significant shift from his Hollywood lifestyle to one centered on nature and conservation.",
             "key_points": [
-                "Sebastian Stan compares 'The Batman: Part II' to 'The Godfather Part II'.",
-                "Suggests the sequel carries similar gravitas.",
-                "Highlights its importance in the genre."
+                "Ian Somerhalder moved to farm life after 'The Vampire Diaries'.",
+                "Focuses on sustainable living and environmental initiatives.",
+                "Significant lifestyle change from Hollywood."
             ]
         },
         {
-            "headline": "Lady Gaga and Michael Polansky welcome first child together; make first appearance with baby: PICS",
-            "summary": "Pop superstar Lady Gaga and Michael Polansky have welcomed their first child. Her well-known nickname 'Mother Monster' takes on a new personal significance with this development, as they were photographed with their newborn.",
+            "headline": "May el-Toukhy's 'Woman Unknown' Wins Top Prize at Venice Film Festival",
+            "summary": "May el-Toukhy's drama 'Woman Unknown' has been awarded the top prize at the Venice Film Festival. The film depicts the life of a young nanny who marries her wealthy employer but harbors a secret threatening her new status. This prestigious award recognizes the film's artistic merit and narrative depth.",
             "key_points": [
-                "Lady Gaga and Michael Polansky welcomed their first child.",
-                "They made their first public appearance with the baby.",
-                "Her 'Mother Monster' nickname takes on new personal significance."
+                "May el-Toukhy's 'Woman Unknown' won the top prize at Venice Film Festival.",
+                "Film portrays a nanny marrying a widower with a hidden secret.",
+                "Prestigious award for artistic merit."
             ]
         },
         {
-            "headline": "Two years ago, couple sold everything to buy 300-year-old abandoned Duncombe House in Staffordshire",
-            "summary": "A couple sold all their belongings to purchase and restore a 300-year-old abandoned mansion, Duncombe House, in Staffordshire. During the restoration, they discovered hidden treasures, including swords, maps, and Victorian safes, left by past residents.",
+            "headline": "Gaza Documentary ‘NAZA’ Wows Venice, Breaks Standing Ovation Record",
+            "summary": "The Gaza documentary ‘NAZA’ has captivated audiences at the Venice Film Festival, receiving widespread acclaim and reportedly breaking the standing ovation record. The film, which likely offers a poignant look into life in Gaza, has resonated deeply with viewers and critics. Its success highlights the power of cinema to convey impactful human stories.",
             "key_points": [
-                "Couple sold everything to buy 300-year-old abandoned mansion.",
-                "Discovered hidden treasures during restoration.",
-                "Found items like swords, maps, and Victorian safes."
+                "Gaza documentary ‘NAZA’ received widespread acclaim at Venice Film Festival.",
+                "Reportedly broke the standing ovation record.",
+                "Highlights the film's power to convey impactful human stories."
             ]
         },
         {
-            "headline": "TV star Sarah Khalifa faces death penalty in Egypt — what comes next?",
-            "summary": "Egyptian TV star Sarah Khalifa is facing the death penalty, raising international attention and questions about the legal proceedings. The article explores the next steps in her high-profile case.",
+            "headline": "Glastonbury Fans Outraged Over 'Historically High' 2027 Ticket Prices",
+            "summary": "Fans of the Glastonbury music festival are expressing outrage, calling the 'historically high' ticket prices for 2027 a 'scam.' The significant price increase has led to widespread frustration and concerns about accessibility. This backlash highlights the growing tension between demand for popular events and their escalating costs.",
             "key_points": [
-                "Egyptian TV star Sarah Khalifa faces the death penalty.",
-                "Case is raising international attention.",
-                "Questions arise about the legal proceedings."
+                "Glastonbury fans are furious over 'historically high' 2027 ticket prices.",
+                "Significant price increase led to widespread frustration.",
+                "Highlights tension between event demand and escalating costs."
             ]
         },
         {
-            "headline": "Gaza documentary ‘NAZA’ wows Venice and breaks standing ovation record",
-            "summary": "The Gaza documentary ‘NAZA’ has received widespread acclaim at the Venice Film Festival, breaking a standing ovation record. This film brings a powerful narrative from Gaza to an international audience.",
+            "headline": "Vivian Wilson Criticizes AI and Elon Musk in Desigual Fashion Campaign",
+            "summary": "Vivian Wilson, Elon Musk's estranged child, has used a new Desigual fashion campaign to express criticism towards artificial intelligence and her father. This public statement through a fashion platform draws attention to family tensions and broader societal concerns about AI development. It offers a personal and artistic commentary on complex technological and familial issues.",
             "key_points": [
-                "Gaza documentary 'NAZA' received widespread acclaim at Venice Film Festival.",
-                "Broke a standing ovation record.",
-                "Brings a powerful narrative from Gaza to international audience."
-            ]
-        },
-        {
-            "headline": "'A scam': Glastonbury fans furious over music festival's historically high ticket prices for 2027",
-            "summary": "Glastonbury festival fans are expressing outrage over the 'historically high' ticket prices for the 2027 event, labeling it a 'scam.' This controversy highlights concerns about affordability and access to major cultural events.",
-            "key_points": [
-                "Glastonbury fans are outraged over 2027 ticket prices.",
-                "Prices are 'historically high', labeled a 'scam'.",
-                "Highlights concerns about affordability and access to major cultural events."
-            ]
-        },
-        {
-            "headline": "Vivian Wilson hits out at AI and estranged father Elon Musk in new Desigual fashion campaign",
-            "summary": "Vivian Wilson, Elon Musk's estranged daughter, has criticized AI and her father in a new Desigual fashion campaign. This public statement draws attention to her personal views and relationship with her prominent parent.",
-            "key_points": [
-                "Vivian Wilson criticizes AI and Elon Musk.",
-                "Did so in a new Desigual fashion campaign.",
-                "Draws attention to her personal views and relationship with her father."
-            ]
-        },
-        {
-            "headline": "Nicolas Cage's Malibu mansion severely damaged by massive sinkhole",
-            "summary": "Nicolas Cage's Malibu mansion has sustained severe damage due to a massive sinkhole. This natural disaster impacts the property of the well-known actor, highlighting environmental risks in the region.",
-            "key_points": [
-                "Nicolas Cage's Malibu mansion severely damaged.",
-                "Damage caused by a massive sinkhole.",
-                "Highlights environmental risks in the region."
+                "Vivian Wilson criticized AI and her estranged father Elon Musk.",
+                "Comments made through a new Desigual fashion campaign.",
+                "Highlights family tensions and societal concerns about AI."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "Ben Shelton reaches US Open final, one win away from ending America’s 22-year wait",
-            "summary": "Ben Shelton has advanced to the US Open final, placing him one victory away from breaking America's 22-year drought for a men's singles champion. This achievement marks a significant moment for American tennis.",
+            "headline": "Indian Wrestling Faces New Challenges After Asian Games Legacy",
+            "summary": "Indian wrestling is confronting a new set of tests, following a rich history of glory at the Asian Games. The sport, which has consistently brought medals to the country, now grapples with evolving challenges, potentially related to athlete development, governance, or international competition. This period will be crucial for maintaining its strong legacy and future performance.",
             "key_points": [
-                "Ben Shelton reached the US Open final.",
-                "One win away from ending America's 22-year wait for a men's singles champion.",
-                "Marks a significant moment for American tennis."
+                "Indian wrestling faces new challenges despite past Asian Games success.",
+                "Evolving challenges could impact athlete development and performance.",
+                "Crucial period for maintaining the sport's legacy."
             ]
         },
         {
-            "headline": "Harita Bhadra: India's second-fastest woman with a jewellery brand",
-            "summary": "Harita Bhadra, India's second-fastest woman sprinter, is preparing for her first international competition. She also manages a handmade jewellery brand, balancing her athletic career with entrepreneurial pursuits.",
+            "headline": "India's Stand in World Test Championship After England's Whitewash of Pakistan",
+            "summary": "The article analyzes India's position in the World Test Championship points table following England's decisive 3-0 whitewash victory over Pakistan. This result has implications for the standings and potentially India's path to the championship final. Cricket fans are eager to see how the recent series affects the qualification scenarios.",
             "key_points": [
-                "Harita Bhadra is India's second-fastest woman sprinter.",
-                "Preparing for her first international competition.",
-                "Also manages a handmade jewellery brand, balancing athletics with entrepreneurship."
+                "Examines India's position in World Test Championship standings.",
+                "Follows England's 3-0 whitewash victory against Pakistan.",
+                "Impacts India's potential qualification for the final."
             ]
         },
         {
-            "headline": "Playing by No Rules: How Politics Seeks to Take Over International Sports",
-            "summary": "The article explores how political agendas are increasingly attempting to dominate international sports, often disregarding established rules and traditions. It discusses the growing intersection of politics and global athletics.",
+            "headline": "Magnus Carlsen Suffers First GCL 2026 Loss to Alireza Firouzja",
+            "summary": "Chess grandmaster Magnus Carlsen experienced his first defeat in GCL 2026, losing to Alireza Firouzja's Triveni Continental Kings. Despite the upset, the result did not alter the overall standings. Home team American Gambits failed to qualify for the finals, their hopes dashed by a time defeat for Nihal Sarin, setting them up for a third-place playoff.",
             "key_points": [
-                "Politics is increasingly attempting to dominate international sports.",
-                "Often disregards established rules and traditions.",
-                "Discusses the growing intersection of politics and global athletics."
+                "Magnus Carlsen lost his first GCL 2026 game to Alireza Firouzja.",
+                "American Gambits missed out on the finals due to Nihal Sarin's time defeat.",
+                "The result did not change the overall league standings."
             ]
         },
         {
-            "headline": "Stunning prediction! 'Shreyas Iyer can captain India to a World Cup win'",
-            "summary": "A stunning prediction suggests that Shreyas Iyer has the potential to captain India to a World Cup victory. This forecast fuels discussion among cricket enthusiasts about his leadership capabilities and future role in the national team.",
+            "headline": "Sabalenka Reacts Angrily After US Open Loss to Rybakina",
+            "summary": "Aryna Sabalenka displayed frustration after her US Open final defeat to Elena Rybakina, smashing her racket and hitting a ball into the crowd. Rybakina secured her first US Open title, beating Sabalenka 6-4, 5-7, 6-2, a victory that also propelled her to the WTA world No. 1 ranking. Sabalenka's outburst reflects the high stakes and emotional intensity of Grand Slam finals.",
             "key_points": [
-                "Prediction: Shreyas Iyer can captain India to a World Cup win.",
-                "Fuels discussion among cricket enthusiasts.",
-                "Highlights his potential leadership capabilities."
-            ]
-        },
-        {
-            "headline": "From Clarke to Yuvraj: Cricketers who battled cancer with courage",
-            "summary": "The article highlights several cricketers, including Michael Clarke and Yuvraj Singh, who have courageously battled cancer. It celebrates their resilience both on and off the field, inspiring many.",
-            "key_points": [
-                "Highlights cricketers like Michael Clarke and Yuvraj Singh.",
-                "They courageously battled cancer.",
-                "Celebrates their resilience on and off the field."
-            ]
-        },
-        {
-            "headline": "201 wickets, one favourite: Tendulkar's pick will surprise you",
-            "summary": "Sachin Tendulkar, with 201 wickets to his name, has revealed his favorite wicket, a choice that is expected to surprise many cricket fans. This personal insight from the legend offers a unique perspective on his career.",
-            "key_points": [
-                "Sachin Tendulkar revealed his favorite wicket.",
-                "Expected to surprise many cricket fans.",
-                "Offers unique insight into his career."
-            ]
-        },
-        {
-            "headline": "Asia Cup 2025: Indian-origin Jatinder Singh to led Oman",
-            "summary": "Indian-origin cricketer Jatinder Singh has been appointed to lead Oman in the Asia Cup 2025. This marks a significant milestone for him and for Oman cricket on the international stage.",
-            "key_points": [
-                "Indian-origin cricketer Jatinder Singh to lead Oman.",
-                "Will captain in the Asia Cup 2025.",
-                "Marks a significant milestone for him and Oman cricket."
-            ]
-        },
-        {
-            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "This article provides a preview of Neeraj Chopra's performance at the Diamond League Final, including event timings and live telecast information for Indian viewers. Fans can follow his quest for another major title.",
-            "key_points": [
-                "Preview of Neeraj Chopra's performance at the Diamond League Final.",
-                "Includes event timings.",
-                "Provides live telecast information for Indian viewers."
-            ]
-        },
-        {
-            "headline": "FIDE WC in India: PM Modi says 'Chess is gaining popularity among our youth'",
-            "summary": "Prime Minister Modi, speaking at the FIDE World Cup in India, highlighted the growing popularity of chess among Indian youth. He emphasized the intellectual benefits and the sport's increasing engagement in the country.",
-            "key_points": [
-                "PM Modi speaks at FIDE World Cup in India.",
-                "Highlights growing popularity of chess among Indian youth.",
-                "Emphasizes intellectual benefits and increasing engagement."
-            ]
-        },
-        {
-            "headline": "Jos Buttler Exclusive Interview: I owe Jayawardene for letting me open in T20",
-            "summary": "In an exclusive interview, Jos Buttler credits Mahela Jayawardene for his success as a T20 opener. He acknowledges Jayawardene's pivotal role in allowing him to take on that position, transforming his batting career.",
-            "key_points": [
-                "Jos Buttler credits Mahela Jayawardene for his T20 opening success.",
-                "Acknowledges Jayawardene's pivotal role.",
-                "Highlights the transformation in his batting career."
-            ]
-        },
-        {
-            "headline": "'We can't forget Pahalgam': Sehwag under fire for promoting IND vs PAK",
-            "summary": "Virender Sehwag is facing criticism for promoting an India vs. Pakistan match, with many reminding him of the 'Pahalgam' incident. The controversy highlights the sensitivity surrounding sporting events between the two nations given their geopolitical history.",
-            "key_points": [
-                "Virender Sehwag criticized for promoting India vs. Pakistan match.",
-                "Reminded of the 'Pahalgam' incident.",
-                "Highlights sensitivity in sporting events between the two nations."
-            ]
-        },
-        {
-            "headline": "Sehwag junior arrives! Aaryavir Sehwag smashes boundaries for fun",
-            "summary": "Aaryavir Sehwag, son of cricketing legend Virender Sehwag, is making headlines for his impressive batting skills, 'smashing boundaries for fun.' This suggests a promising future for the young cricketer.",
-            "key_points": [
-                "Aaryavir Sehwag, Virender Sehwag's son, shows impressive batting skills.",
-                "Is 'smashing boundaries for fun'.",
-                "Suggests a promising future in cricket."
-            ]
-        },
-        {
-            "headline": "Why Fender’s 35-minute ton from 1920 remains unbeaten after 106 years",
-            "summary": "The article revisits Fender's remarkable 35-minute century from 1920, explaining why this cricketing feat remains unbeaten after 106 years. It delves into the historical context and extraordinary nature of the achievement.",
-            "key_points": [
-                "Revisits Fender's 35-minute century from 1920.",
-                "Explains why the cricketing feat remains unbeaten after 106 years.",
-                "Delves into its historical context and extraordinary nature."
-            ]
-        },
-        {
-            "headline": "'Two reasons': Why was Dhoni promoted over Yuvraj? Sachin breaks silence",
-            "summary": "Sachin Tendulkar has finally broken his silence on the decision to promote MS Dhoni over Yuvraj Singh in a crucial match, revealing 'two reasons' behind the strategic move. This provides insight into a long-debated cricketing decision.",
-            "key_points": [
-                "Sachin Tendulkar breaks silence on Dhoni's promotion over Yuvraj.",
-                "Reveals 'two reasons' for the strategic move.",
-                "Provides insight into a long-debated cricketing decision."
-            ]
-        },
-        {
-            "headline": "Hanuma Vihari joins Tripura after leaving Andhra Pradesh",
-            "summary": "Hanuma Vihari has officially joined the Tripura cricket team after parting ways with Andhra Pradesh. This move marks a new chapter in his domestic cricket career.",
-            "key_points": [
-                "Hanuma Vihari joins the Tripura cricket team.",
-                "Leaves Andhra Pradesh.",
-                "Marks a new chapter in his domestic career."
-            ]
-        },
-        {
-            "headline": "'I have to go back again ... ': Rohit Sharma opens up",
-            "summary": "Rohit Sharma has opened up about needing to 'go back again,' hinting at a period of reflection or a strategic return to basics in his cricketing approach. His statement offers a glimpse into his mindset.",
-            "key_points": [
-                "Rohit Sharma opens up about needing to 'go back again'.",
-                "Hints at a period of reflection or strategic return to basics.",
-                "Offers a glimpse into his cricketing mindset."
-            ]
-        },
-        {
-            "headline": "Sarfaraz on fire! Back-to-back tons send strong message to selectors",
-            "summary": "Sarfaraz Khan is in exceptional form, delivering back-to-back centuries that send a strong message to national selectors. His consistent high performance is making a compelling case for his inclusion in higher-level cricket.",
-            "key_points": [
-                "Sarfaraz Khan is in exceptional form.",
-                "Delivers back-to-back centuries.",
-                "Sends a strong message to national selectors for inclusion."
+                "Aryna Sabalenka showed frustration after losing US Open final.",
+                "Elena Rybakina won her first US Open title, defeating Sabalenka 6-4, 5-7, 6-2.",
+                "Rybakina's win also secured her WTA world No. 1 ranking."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Scientists fitted GPS collars to 17 lions and 14 hyenas expecting hyenas to follow lions",
-            "summary": "Scientists conducted a study by fitting GPS collars to lions and hyenas, with an initial hypothesis that hyenas would primarily follow lions. This research aims to understand the interaction and predatory dynamics between these two species.",
+            "headline": "India Urgently Needs a Robust Space Act for Industry Growth",
+            "summary": "As India's space industry rapidly develops, there's an urgent need for a stringent Space Act to provide legal support and regulatory clarity. Despite opening the sector in 2020 and establishing IN-SPACe, existing policies have gaps that a comprehensive act would address. This legislation would define company rights, enhance regulation, and bolster India's global standing in space.",
             "key_points": [
-                "Scientists fitted GPS collars to lions and hyenas.",
-                "Initial hypothesis: hyenas would follow lions.",
-                "Aims to understand interaction and predatory dynamics."
+                "India's developing space industry urgently needs a Space Act.",
+                "Current policies have gaps despite sector opening in 2020.",
+                "A new act would provide legal support, regulatory clarity, and boost global positioning."
             ]
         },
         {
-            "headline": "Washington built wildlife bridges over a busy highway; more than 10,000 animals have crossed",
-            "summary": "Wildlife bridges constructed over a busy highway in Washington have proven highly successful, facilitating over 10,000 animal crossings. This initiative aims to reduce wildlife fatalities and reconnect fragmented habitats.",
+            "headline": "11-Year-Old Invents $38 Moss Filter Removing 95% of Lead",
+            "summary": "An 11-year-old inventor has successfully created an inexpensive moss-based filter, costing only $38, capable of removing up to 95% of lead from water. This innovative and accessible technology offers a promising solution for communities affected by lead contamination. The invention demonstrates the potential of young minds to tackle significant environmental challenges.",
             "key_points": [
-                "Wildlife bridges built over a highway in Washington.",
-                "Over 10,000 animals have crossed, proving successful.",
-                "Aims to reduce wildlife fatalities and reconnect habitats."
+                "11-year-old invented a $38 moss filter.",
+                "Filter can remove up to 95% of lead from water.",
+                "Offers an innovative and accessible solution for lead contamination."
             ]
         },
         {
-            "headline": "Hawaii’s 124-year-old red mangroves now threaten native waterbirds and waterways",
-            "summary": "Red mangroves, introduced to Hawaii 124 years ago, are now posing a significant threat to native waterbirds and local waterways. Their invasive growth disrupts ecosystems and impacts indigenous species.",
+            "headline": "Indonesia Remains on High Alert with 127 Active Volcanoes and Millions Exposed",
+            "summary": "Indonesia, home to 127 active volcanoes, maintains a state of high alert due to the significant risk these geological features pose to millions of its inhabitants. The country's frequent seismic activity and volcanic eruptions necessitate continuous monitoring and preparedness. This ongoing vigilance is crucial for disaster mitigation in a highly vulnerable region.",
             "key_points": [
-                "Red mangroves in Hawaii, introduced 124 years ago, are threatening native species.",
-                "Posing a threat to native waterbirds.",
-                "Disrupting local waterways and ecosystems through invasive growth."
+                "Indonesia has 127 active volcanoes, exposing millions to risk.",
+                "Country remains on high alert due to frequent seismic and volcanic activity.",
+                "Continuous monitoring and preparedness are crucial for disaster mitigation."
             ]
         },
         {
-            "headline": "NASA once celebrated her rise from a bridge to the agency then fired her",
-            "summary": "A woman whose remarkable journey from homelessness to working at NASA was once celebrated has reportedly been fired from the agency. This raises questions about her employment circumstances after her inspiring story gained recognition.",
+            "headline": "Danube Delta Starved of Sediment for Decades Due to Giant Dams",
+            "summary": "The Danube Delta, a vital wetland ecosystem, has been deprived of crucial sediment for decades due to the construction of two large dams upstream. This interruption in natural sediment flow has significantly impacted the delta's delicate ecological balance and its ability to sustain its unique biodiversity. Scientists are studying the long-term effects of this environmental change.",
             "key_points": [
-                "Woman's journey from homelessness to NASA was celebrated.",
-                "She has reportedly been fired from the agency.",
-                "Raises questions about her employment circumstances."
+                "Two giant dams upstream starved the Danube Delta of sediment.",
+                "Decades of sediment deprivation have impacted the delta's ecosystem.",
+                "Affects biodiversity and natural balance of the wetland."
             ]
         },
         {
-            "headline": "127 active volcanoes, millions exposed: Why Indonesia remains on alert",
-            "summary": "Indonesia, home to 127 active volcanoes, remains under high alert, with millions of its population exposed to potential eruptions. The article explains the geological risks and the continuous monitoring efforts in the volcanic archipelago.",
+            "headline": "Released Wild Donkeys Create Desert Oasis in Israel Over 44 Years",
+            "summary": "In 1982, Israel released 28 wild donkeys, and over 44 years, these animals have unexpectedly transformed a barren landscape into a thriving desert oasis. Their actions, such as digging for water and dispersing seeds, have profoundly impacted the ecosystem. This serves as a remarkable example of how rewilding efforts can lead to significant ecological restoration.",
             "key_points": [
-                "Indonesia has 127 active volcanoes.",
-                "Millions of its population are exposed to potential eruptions.",
-                "The country remains on high alert with continuous monitoring efforts."
+                "28 wild donkeys released in Israel in 1982 created a desert oasis.",
+                "Over 44 years, they transformed a barren landscape.",
+                "Example of rewilding's impact on ecological restoration."
             ]
         },
         {
-            "headline": "French astronaut: Europe must 'maximise scientific return' from ISS",
-            "summary": "A French astronaut urged Europe to 'maximize scientific return' from its involvement with the International Space Station (ISS). This call emphasizes the importance of leveraging space research for scientific advancement.",
+            "headline": "Trout Stocking Displaced Sierra Nevada Yellow-Legged Frogs from 92% of Range",
+            "summary": "The practice of stocking non-native trout has caused a drastic decline in the Sierra Nevada yellow-legged frog population, pushing them out of 92% of their historical range. This highlights the severe ecological consequences of introducing invasive species, even for recreational purposes. Conservationists are now working to restore the native frog populations and mitigate the damage.",
             "key_points": [
-                "French astronaut urges Europe to maximize scientific return from ISS.",
-                "Emphasizes leveraging space research.",
-                "Aims for scientific advancement."
+                "Trout stocking displaced Sierra Nevada yellow-legged frogs from 92% of their range.",
+                "Highlights severe ecological impact of introducing non-native species.",
+                "Conservation efforts are underway to restore native frog populations."
             ]
         },
         {
-            "headline": "Mediterranean’s wind and solar plans surpass the US, finds analysis",
-            "summary": "An analysis reveals that the Mediterranean region's wind and solar energy development plans now surpass those of the US. This indicates a significant push towards renewable energy in the Mediterranean.",
+            "headline": "1,600-Year-Old Skeleton Found in Roman Jar Hints at Desperate Escape",
+            "summary": "Archaeologists have unearthed a 1,600-year-old human skeleton inside a Roman jar, revealing clues of a desperate attempt to escape. The unusual burial suggests a tragic end, possibly during a time of conflict or natural disaster. This rare discovery offers a poignant glimpse into the challenges faced by ancient populations.",
             "key_points": [
-                "Mediterranean region's wind and solar plans surpass the US.",
-                "Indicates a significant push towards renewable energy.",
-                "Revealed by an analysis of development plans."
+                "Archaeologists found a 1,600-year-old skeleton in a Roman jar.",
+                "Discovery suggests a desperate escape attempt.",
+                "Offers a rare glimpse into ancient populations' challenges."
             ]
         },
         {
-            "headline": "No more landfill: how Tilos became the world's first zero-waste island",
-            "summary": "The Greek island of Tilos has achieved the status of the world's first zero-waste island, demonstrating a successful model for sustainable living and waste management. This initiative serves as an inspiration for other communities globally.",
+            "headline": "Deer Habituate to Deterrents, Human Shouts Most Effective Initially",
+            "summary": "Research indicates that deer quickly learn to ignore various deterrents, with human shouts initially being the most effective scare tactic. However, habituation soon blunts the effect of even human presence. This study highlights the challenges in deterring wildlife and suggests a need for diverse and unpredictable methods to keep deer away from human-populated areas or crops.",
             "key_points": [
-                "Greek island of Tilos became the world's first zero-waste island.",
-                "Demonstrates a successful model for sustainable living.",
-                "Serves as an inspiration for other communities globally."
+                "Deer quickly habituate to various deterrents.",
+                "Human shouts are initially the most effective scare tactic.",
+                "Suggests need for diverse and unpredictable deterrent methods."
             ]
         },
         {
-            "headline": "Macron and von der Leyen back stronger European space sector in Paris",
-            "summary": "French President Macron and EU Commission President von der Leyen have expressed support for strengthening the European space sector during a meeting in Paris. This initiative aims to boost Europe's competitiveness and independence in space technology.",
+            "headline": "PISA Founder Warns AI is 'Hollowing Out' Youth Capabilities",
+            "summary": "The founder of the PISA education assessment has warned Euronews that artificial intelligence is 'hollowing out' the capabilities of young people. This concern suggests that over-reliance on AI tools might hinder the development of critical thinking, problem-solving, and other essential skills in students. It prompts a debate on the role of AI in education and its long-term impact on learning.",
             "key_points": [
-                "Macron and von der Leyen back stronger European space sector.",
-                "Aims to boost Europe's competitiveness.",
-                "Seeks independence in space technology."
+                "PISA founder warns AI is 'hollowing out' youth capabilities.",
+                "Suggests over-reliance on AI may hinder critical thinking skills.",
+                "Prompts debate on AI's role and impact on education."
             ]
         },
         {
-            "headline": "3D printing to colonise Mars after the Moon: the biomaterials tested by scientists",
-            "summary": "Scientists are testing biomaterials for 3D printing, with the aim of using this technology to colonize Mars after the Moon. This research is crucial for developing self-sustaining habitats and infrastructure in extraterrestrial environments.",
+            "headline": "Macron and Von der Leyen Advocate for Stronger European Space Sector",
+            "summary": "French President Macron and EU Commission President Ursula von der Leyen have voiced their support for a stronger European space sector during discussions in Paris. Their backing signals a strategic commitment to boost Europe's capabilities in space exploration, satellite technology, and independent access to space. This joint effort aims to enhance Europe's competitive edge globally.",
             "key_points": [
-                "Scientists are testing biomaterials for 3D printing.",
-                "Aims to colonize Mars after the Moon.",
-                "Crucial for developing self-sustaining extraterrestrial habitats."
+                "Macron and von der Leyen support a stronger European space sector.",
+                "Signals strategic commitment to boost Europe's space capabilities.",
+                "Aims to enhance Europe's global competitive edge in space."
             ]
         },
         {
-            "headline": "Is Europe’s largest carbon capture project ‘a pass to keep polluting’?",
-            "summary": "The article critically examines Europe's largest carbon capture project, questioning whether it serves as a genuine climate solution or merely a 'pass to keep polluting.' It delves into the effectiveness and ethical implications of such technologies.",
+            "headline": "Europe's Largest Carbon Capture Project Questioned as 'License to Pollute'",
+            "summary": "Europe's largest carbon capture project is facing scrutiny, with critics questioning if it provides a 'pass to keep polluting' rather than truly reducing emissions. Concerns revolve around whether such technologies delay the transition to renewable energy or enable industries to maintain high emission levels. This debate highlights the complexities of climate change mitigation strategies.",
             "key_points": [
-                "Critically examines Europe's largest carbon capture project.",
-                "Questions if it's a genuine climate solution or a 'pass to pollute'.",
-                "Delves into effectiveness and ethical implications of carbon capture technologies."
+                "Europe's largest carbon capture project faces scrutiny.",
+                "Critics question if it's a 'pass to keep polluting'.",
+                "Debate highlights complexities of climate change mitigation."
             ]
         },
         {
-            "headline": "Will El Niño put Galápagos wildlife at risk?",
-            "summary": "The article explores the potential risks that the El Niño phenomenon poses to the unique wildlife of the Galápagos Islands. It discusses how changes in ocean temperatures and weather patterns could impact the fragile ecosystem and its species.",
+            "headline": "El Niño Poses Risk to Galápagos Wildlife",
+            "summary": "The recurring El Niño phenomenon is predicted to put the unique wildlife of the Galápagos Islands at significant risk. Changes in ocean temperature and weather patterns can disrupt marine ecosystems, food availability, and breeding cycles for many species. Conservationists are monitoring the situation closely, preparing for potential impacts on this fragile environment.",
             "key_points": [
-                "Explores potential risks of El Niño to Galápagos wildlife.",
-                "Discusses impact on the unique and fragile ecosystem.",
-                "Focuses on changes in ocean temperatures and weather patterns."
-            ]
-        },
-        {
-            "headline": "Pupils getting worse at reading, maths and science, PISA study shows",
-            "summary": "A PISA study reveals a decline in pupils' performance in reading, maths, and science. This global assessment highlights concerns about educational standards and the need for pedagogical improvements.",
-            "key_points": [
-                "PISA study shows decline in pupils' performance in reading, maths, and science.",
-                "Highlights concerns about global educational standards.",
-                "Indicates a need for pedagogical improvements."
-            ]
-        },
-        {
-            "headline": "El Niño effect: Jump in number of districts at both extremes of rainfall",
-            "summary": "The El Niño effect is causing a noticeable increase in the number of districts experiencing both extremely high and extremely low rainfall. This highlights the severe and varied impact of climate phenomena on weather patterns.",
-            "key_points": [
-                "El Niño effect causes a jump in extreme rainfall districts.",
-                "Some areas experience extremely high, others extremely low rainfall.",
-                "Highlights the varied impact of climate phenomena on weather patterns."
-            ]
-        },
-        {
-            "headline": "In 1870, goats were left on a tiny Seychelles island; 50 years later, conservationists had to eradicate them to save its native ecosystem",
-            "summary": "In 1870, goats were introduced to a small Seychelles island; half a century later, conservationists had to eradicate them to protect the native ecosystem. This illustrates the long-term ecological damage caused by invasive species.",
-            "key_points": [
-                "Goats introduced to a Seychelles island in 1870.",
-                "Conservationists eradicated them 50 years later to save the ecosystem.",
-                "Illustrates long-term ecological damage by invasive species."
+                "El Niño phenomenon predicted to risk Galápagos wildlife.",
+                "Changes in ocean temperature and weather disrupt ecosystems.",
+                "Conservationists are monitoring for potential impacts."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "80 lakh HPV vaccine doses given since Feb launch",
-            "summary": "Since its launch in February, 80 lakh doses of the HPV vaccine have been administered. This indicates a significant public health effort to combat HPV-related diseases.",
+            "headline": "Cardiologist Questions Health Claims of Expensive A2 Ghee",
+            "summary": "A cardiologist suggests that merely buying expensive A2 ghee based on health perceptions might not be enough, advising consumers to look beyond labels. The article implies that marketing claims surrounding A2 ghee's superior health benefits require closer scrutiny. This guidance encourages informed dietary choices rather than relying solely on popular trends.",
             "key_points": [
-                "80 lakh doses of HPV vaccine administered since February launch.",
-                "Indicates a significant public health effort.",
-                "Aims to combat HPV-related diseases."
+                "Cardiologist warns against blindly trusting A2 ghee's health claims.",
+                "Suggests that the 'A2' label alone isn't sufficient for health benefits.",
+                "Encourages consumers to make informed dietary choices."
             ]
         },
         {
-            "headline": "“I’m too young to have cancer”: Why young Indians are dismissing warning signs that should not be ignored",
-            "summary": "Many young Indians are dismissing early cancer warning signs due to a perception of being 'too young' for the disease. The article stresses the importance of recognizing and acting on these symptoms to improve early detection and outcomes.",
+            "headline": "Global Nutrition Experts Support FSSAI Warning Labels, Advocate Stricter Rules",
+            "summary": "Global nutrition experts have voiced their support for the FSSAI's proposed warning labels on food products in India, while also urging for stricter implementation rules. This endorsement highlights international recognition of India's efforts to promote healthier eating habits. The push for stricter regulations aims to enhance public health outcomes and reduce consumption of unhealthy foods.",
             "key_points": [
-                "Young Indians dismiss early cancer warning signs.",
-                "Perception of being 'too young' for cancer.",
-                "Stresses importance of recognizing symptoms for early detection."
+                "Global nutrition experts support FSSAI's warning labels.",
+                "They advocate for stricter implementation rules.",
+                "Aims to promote healthier eating habits and improve public health."
             ]
         },
         {
-            "headline": "Signs Of Myositis: Experts flag subtle weakness and fatigue; early checks help control symptoms",
-            "summary": "Experts are highlighting subtle signs of Myositis, such as weakness and fatigue, emphasizing that early checks are crucial for symptom control. Awareness of these indicators can lead to timely diagnosis and management.",
+            "headline": "FSSAI Orders Recall of Two Food Products",
+            "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued a recall for two specific food products. This action is taken to protect public health due to concerns over safety or quality standards. Consumers are advised to check their products and follow recall instructions.",
             "key_points": [
-                "Experts flag subtle signs of Myositis: weakness and fatigue.",
-                "Early checks are crucial for symptom control.",
-                "Awareness leads to timely diagnosis and management."
+                "FSSAI ordered the recall of two food products.",
+                "Action taken due to safety or quality concerns.",
+                "Consumers should check products and follow instructions."
             ]
         },
         {
-            "headline": "No pain, no problem? Doctor explain why a painless breast lump can still be an early warning sign of cancer",
-            "summary": "Doctors explain that a painless breast lump can still be an early warning sign of cancer, debunking the myth that only painful lumps are concerning. This emphasizes the importance of self-examination and medical consultation regardless of pain.",
+            "headline": "Can Blood Pressure Medication Cause Erectile Dysfunction? Experts Weigh In",
+            "summary": "Leading medical experts address the common concern of whether blood pressure medication can lead to erectile dysfunction. The article provides insights and answers, helping individuals understand the potential side effects and management strategies. This information is crucial for patients managing hypertension and related health concerns.",
             "key_points": [
-                "Painless breast lumps can be an early sign of cancer.",
-                "Debunks the myth that only painful lumps are concerning.",
-                "Emphasizes self-examination and medical consultation regardless of pain."
+                "Experts discuss link between blood pressure medication and erectile dysfunction.",
+                "Provides insights on potential side effects.",
+                "Aids patients in managing hypertension and related health issues."
             ]
         },
         {
-            "headline": "Chef Pankaj Bhadouria shares the anti-cancer foods she eats",
-            "summary": "Chef Pankaj Bhadouria shares her personal diet featuring anti-cancer foods she incorporates into her meals. This provides insights into dietary choices that may help in cancer prevention.",
+            "headline": "Keanu Reeves' Childhood Highlights Power of Stable Adult Care, Backed by Research",
+            "summary": "Keanu Reeves' challenging childhood is highlighted to demonstrate the profound impact a single stable adult can have on a child's resilience. Research supports that consistent, steady care from even one adult can significantly contribute to a child's positive development and ability to overcome adversity. This underscores the importance of support systems for young individuals.",
             "key_points": [
-                "Chef Pankaj Bhadouria shares her anti-cancer diet.",
-                "Incorporates specific foods into her meals.",
-                "Provides insights into dietary choices for cancer prevention."
+                "Keanu Reeves' childhood used as an example of resilience.",
+                "A stable adult can significantly impact a child's development.",
+                "Research confirms the power of consistent care in fostering resilience."
             ]
         },
         {
-            "headline": "10 surprising food combinations and the science behind why they work",
-            "summary": "The article reveals ten surprising food combinations and explains the scientific reasons behind their effectiveness. It delves into how certain pairings can enhance nutrient absorption or provide unique health benefits.",
+            "headline": "Darker Bedroom Environment Benefits Heart Health",
+            "summary": "Research suggests that maintaining a darker bedroom environment can contribute to better heart health. Exposure to light during sleep can disrupt natural circadian rhythms, potentially impacting cardiovascular function. This finding highlights a simple lifestyle adjustment that could have positive health implications.",
             "key_points": [
-                "Reveals ten surprising food combinations.",
-                "Explains the scientific reasons behind their effectiveness.",
-                "Delves into enhanced nutrient absorption and unique health benefits."
+                "Darker bedroom environments are linked to better heart health.",
+                "Light exposure during sleep can disrupt circadian rhythms.",
+                "Suggests a simple lifestyle adjustment for cardiovascular benefits."
             ]
         },
         {
-            "headline": "How to make 19-calorie chocolate brownies for weight loss",
-            "summary": "A recipe is provided for making 19-calorie chocolate brownies, aimed at individuals focused on weight loss. This offers a healthier alternative for satisfying sweet cravings within a calorie-controlled diet.",
+            "headline": "1.6 Million French Women Warned of Tumor Risk from Desogestrel Contraceptives",
+            "summary": "Approximately 1.6 million women in France using desogestrel-containing contraceptives have been issued a warning regarding a potential tumor risk. This health alert prompts immediate concerns for users and healthcare providers. Authorities are likely advising consultation with doctors to review contraception options in light of the new information.",
             "key_points": [
-                "Recipe for making 19-calorie chocolate brownies is provided.",
-                "Aimed at individuals focused on weight loss.",
-                "Offers a healthier alternative for sweet cravings."
+                "1.6 million French women warned about tumor risk from desogestrel contraceptives.",
+                "Health alert prompts concerns for users and healthcare providers.",
+                "Users advised to consult doctors for contraception options review."
             ]
         },
         {
-            "headline": "Understanding the tradition of Dahi Handi and how to make curd at home",
-            "summary": "The article explains the tradition of Dahi Handi and provides instructions on how to prepare curd at home. It combines cultural insights with practical health-oriented food preparation.",
+            "headline": "One-Third of Global Population Exposed to Second-Hand Smoke",
+            "summary": "A staggering one-third of the world's population is exposed to second-hand smoke, highlighting a pervasive public health challenge. This widespread exposure carries significant health risks, including respiratory and cardiovascular diseases. The statistic underscores the ongoing need for stronger smoke-free policies and public awareness campaigns globally.",
             "key_points": [
-                "Explains the tradition of Dahi Handi.",
-                "Provides instructions on how to prepare curd at home.",
-                "Combines cultural insights with practical health-oriented food preparation."
+                "One-third of the world's population exposed to second-hand smoke.",
+                "Widespread exposure poses significant health risks.",
+                "Highlights need for stronger smoke-free policies globally."
             ]
         },
         {
-            "headline": "PM Narendra Modi praises the goodness of ‘Indian avocados’: 5 delicious desi dishes made with avocados to try at home",
-            "summary": "Prime Minister Narendra Modi has praised 'Indian avocados,' prompting a discussion of five delicious desi dishes that can be prepared with them at home. This highlights the nutritional benefits and versatility of locally grown avocados.",
+            "headline": "Healthcare Dominates Sweden's Election Amid Big Promises and Few Easy Fixes",
+            "summary": "Healthcare has emerged as a dominant issue in Sweden's upcoming election, with political parties making grand promises but offering few easy solutions. Public dissatisfaction with healthcare services is pushing it to the forefront of the political agenda. The debate highlights the complex challenges of funding and delivering universal healthcare.",
             "key_points": [
-                "PM Narendra Modi praises 'Indian avocados'.",
-                "Highlights 5 delicious desi dishes to make with them.",
-                "Emphasizes nutritional benefits and versatility of local avocados."
+                "Healthcare is a dominant issue in Sweden's election.",
+                "Political parties make big promises with few easy fixes.",
+                "Highlights complex challenges of funding and delivering universal healthcare."
             ]
         },
         {
-            "headline": "From German Green Beans to Buttery Garlic Beans: French Beans dishes that are a protein overload",
-            "summary": "The article presents various French bean dishes, from German Green Beans to Buttery Garlic Beans, highlighting them as a 'protein overload.' It offers diverse recipes that are both tasty and rich in protein.",
+            "headline": "'Serious Failings' Reported in Paris-Region Psychiatric Emergency Units",
+            "summary": "Several psychiatric emergency units in Paris-region hospitals are reportedly suffering from 'serious failings.' This concerning report points to systemic issues in mental health crisis care, potentially affecting patient outcomes and staff well-being. The findings will likely prompt calls for urgent reforms and increased investment in psychiatric services.",
             "key_points": [
-                "Presents various French bean dishes.",
-                "Highlights them as a 'protein overload'.",
-                "Offers diverse, protein-rich recipes."
+                "'Serious failings' reported in psychiatric emergency units in Paris region.",
+                "Points to systemic issues in mental health crisis care.",
+                "Likely to prompt calls for urgent reforms and increased investment."
             ]
         },
         {
-            "headline": "The perfect skin paradox: When treating your skin makes it worse",
-            "summary": "The 'perfect skin paradox' explores instances where excessive or incorrect skincare treatments can actually exacerbate skin problems. It advises caution and informed choices in beauty routines.",
+            "headline": "EU and Spain Data on World Suicide Prevention Day Highlight Trends",
+            "summary": "On World Suicide Prevention Day, new data from the EU and Spain shed light on current trends and challenges in suicide prevention. The statistics offer critical insights into demographic patterns and risk factors, informing public health strategies. This report underscores the ongoing need for mental health support and awareness campaigns.",
             "key_points": [
-                "Explores the 'perfect skin paradox'.",
-                "Excessive or incorrect skincare can worsen skin problems.",
-                "Advises caution and informed choices in beauty routines."
+                "New EU and Spain data released on World Suicide Prevention Day.",
+                "Highlights current trends and challenges in suicide prevention.",
+                "Informs public health strategies and mental health awareness."
             ]
         },
         {
-            "headline": "5 things to do after an ear piercing to support faster healing",
-            "summary": "The article provides five essential tips to promote faster healing after an ear piercing. These practical steps aim to prevent infection and ensure a smooth recovery process.",
+            "headline": "Mental Preparation as Crucial as Physical for Surgery",
+            "summary": "Experts emphasize that mental preparation for surgery is equally as important as physical readiness. A patient's psychological state can significantly impact recovery outcomes, pain management, and overall experience. This highlights the value of psychological support and mindfulness techniques in pre-surgical care.",
             "key_points": [
-                "Provides five tips for faster ear piercing healing.",
-                "Aims to prevent infection.",
-                "Ensures a smooth recovery process."
-            ]
-        },
-        {
-            "headline": "Three minutes of all-out exercise may trigger more health-related changes in the blood than 90 minutes of moderate cycling: New study explains why",
-            "summary": "A new study suggests that just three minutes of intense exercise can induce more significant health-related blood changes than 90 minutes of moderate cycling. The article explains the underlying physiological reasons for this disparity.",
-            "key_points": [
-                "New study suggests 3 minutes of intense exercise is more impactful than 90 minutes of moderate cycling.",
-                "Triggers more significant health-related blood changes.",
-                "Explains underlying physiological reasons for this disparity."
-            ]
-        },
-        {
-            "headline": "The darker your bedroom, the better for your heart",
-            "summary": "Research suggests that maintaining a darker bedroom environment can be beneficial for heart health. This highlights the importance of sleep quality and light exposure in cardiovascular well-being.",
-            "key_points": [
-                "Darker bedroom environment can be beneficial for heart health.",
-                "Highlights importance of sleep quality.",
-                "Focuses on light exposure in cardiovascular well-being."
-            ]
-        },
-        {
-            "headline": "Desogestrel contraceptives: 1.6 million French women warned of tumour risk",
-            "summary": "Approximately 1.6 million French women using Desogestrel contraceptives have been warned about a potential tumor risk. This public health alert necessitates medical consultation and re-evaluation of contraceptive choices.",
-            "key_points": [
-                "1.6 million French women warned of potential tumor risk.",
-                "Linked to Desogestrel contraceptives.",
-                "Necessitates medical consultation and re-evaluation of contraceptive choices."
-            ]
-        },
-        {
-            "headline": "A third of the world’s population exposed to second-hand smoke",
-            "summary": "A significant public health concern reveals that one-third of the global population is exposed to second-hand smoke. This underscores the widespread health risks and the need for stronger anti-smoking policies worldwide.",
-            "key_points": [
-                "One-third of the global population is exposed to second-hand smoke.",
-                "Underscores widespread health risks.",
-                "Highlights the need for stronger anti-smoking policies worldwide."
-            ]
-        },
-        {
-            "headline": "Healthcare is driving Sweden's election: Big promises, few easy fixes",
-            "summary": "Healthcare has emerged as a central issue driving Sweden's upcoming election, with politicians making big promises but facing few easy solutions. This highlights public concern and the complexity of healthcare reform.",
-            "key_points": [
-                "Healthcare is a central issue in Sweden's upcoming election.",
-                "Politicians are making big promises.",
-                "Few easy fixes exist for the complex issue."
-            ]
-        },
-        {
-            "headline": "Psychiatric emergency units: 'serious failings' in several Paris-region hospitals",
-            "summary": "Reports indicate 'serious failings' in psychiatric emergency units across several hospitals in the Paris region. This raises concerns about the quality of mental health care and the adequacy of resources for urgent psychiatric needs.",
-            "key_points": [
-                "Reports indicate 'serious failings' in Paris-region psychiatric emergency units.",
-                "Raises concerns about the quality of mental health care.",
-                "Highlights inadequacy of resources for urgent psychiatric needs."
-            ]
-        },
-        {
-            "headline": "World Suicide Prevention Day: what do latest EU and Spain data show",
-            "summary": "On World Suicide Prevention Day, the article examines the latest data from the EU and Spain regarding suicide rates and prevention efforts. It provides insights into trends and areas of focus for public health initiatives.",
-            "key_points": [
-                "Examines latest EU and Spain data for World Suicide Prevention Day.",
-                "Focuses on suicide rates and prevention efforts.",
-                "Provides insights into trends and public health initiatives."
-            ]
-        },
-        {
-            "headline": "Getting mind ready for surgery is as important as physical preparation",
-            "summary": "The article emphasizes that mental preparation for surgery is as crucial as physical readiness. It highlights the psychological aspects of recovery and the role of mindset in surgical outcomes.",
-            "key_points": [
-                "Mental preparation for surgery is as crucial as physical readiness.",
-                "Highlights psychological aspects of recovery.",
-                "Emphasizes the role of mindset in surgical outcomes."
+                "Mental preparation for surgery is as important as physical.",
+                "Psychological state impacts recovery and pain management.",
+                "Highlights value of psychological support in pre-surgical care."
             ]
         }
     ]
