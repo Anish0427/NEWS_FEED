@@ -1,315 +1,403 @@
 {
     "World": [
         {
-            "headline": "US launches 'secret' strikes on Iran’s Qeshm Island as peace talks teeter along",
-            "summary": "The US has reportedly conducted covert strikes on Iran's Qeshm Island while peace negotiations remain precarious. These actions introduce significant tension into an already fragile diplomatic environment between the two nations. The situation raises concerns about potential escalation and the future of regional stability.",
+            "headline": "3-storey structure collapses near Delhi's Chawri Bazaar Metro station, fatalities feared",
+            "summary": "A three-storey building under construction crashed down in Chawri Bazaar, Old Delhi, resulting in at least two fatalities and fears of more people trapped. Six fire units and rescue vehicles were dispatched for immediate rescue operations, with senior officers supervising efforts to locate those possibly trapped in the debris.",
             "key_points": [
-                "US launched 'secret' strikes on Iran’s Qeshm Island.",
-                "Strikes occurred amidst teetering peace talks.",
-                "The actions heighten tensions and raise escalation concerns."
+                "Three-storey building collapsed near Chawri Bazaar Metro station.",
+                "At least two fatalities confirmed, more feared trapped.",
+                "Rescue operations are ongoing with multiple fire units."
             ]
         },
         {
-            "headline": "Russia Hits Ukraine's Energy Complex Objects Used for Armed Forces: MoD",
-            "summary": "Russia's Ministry of Defense announced that its forces have struck Ukrainian energy complex objects, asserting these facilities were being used by the armed forces. These targeted attacks aim to disrupt Ukraine's military capabilities and infrastructure. The strikes signify continued escalation in the conflict.",
+            "headline": "Bengaluru father arrested for allegedly beating daughter’s boyfriend to death",
+            "summary": "In a tragic incident in Bengaluru, a 22-year-old man was violently killed after being discovered by his girlfriend's father, Anand, while together at his residence. Overcome with rage, Anand attacked Kiran, inflicting critical injuries that led to his demise, leading to his arrest by the police.",
             "key_points": [
-                "Russia struck Ukrainian energy complex objects.",
-                "MoD claims facilities were used by armed forces.",
-                "Attacks aim to disrupt military capabilities.",
-                "Signifies continued conflict escalation."
+                "Bengaluru father arrested for fatal assault.",
+                "Allegedly beat daughter's 22-year-old boyfriend to death.",
+                "Police investigation is ongoing."
             ]
         },
         {
-            "headline": "1 killed, 13 rescued after unidentified aerial object strikes Indian vessel near Oman",
-            "summary": "An Indian seafarer from Gujarat was killed when an unidentified aerial object struck the MSV AL JUSUFI vessel off the Oman coast. The remaining 13 crew members were successfully rescued by the Omani Coast Guard. Indian authorities are coordinating with Oman for survivor assistance and repatriation.",
+            "headline": "US sanctions Indian couple, linked firms over maritime fraud aiding Iran’s oil trade",
+            "summary": "The US has imposed sanctions on an Indian couple and their associated companies for their alleged involvement in maritime fraud that facilitated Iran's oil trade. This action aims to disrupt illicit networks supporting Iran's economy amidst ongoing international pressure.",
             "key_points": [
-                "Indian seafarer killed by aerial object strike near Oman.",
-                "13 other crew members rescued by Omani Coast Guard.",
-                "Indian authorities are working with Oman for repatriation."
+                "US sanctions Indian couple and linked firms.",
+                "Sanctions are for maritime fraud aiding Iran’s oil trade.",
+                "Aims to disrupt illicit networks supporting Iran's economy."
             ]
         },
         {
-            "headline": "US midterm elections 2026: What they are, why they matter and when results will be out",
-            "summary": "The US midterm elections are scheduled for November 3, impacting control of Congress and local offices. Voters will elect members to the House and Senate, which will determine legislative control. Current Republican majorities are at stake, with Democrats aiming for net gains.",
+            "headline": "Indian-origin Nithya Raman elected Los Angeles mayor",
+            "summary": "Indian-origin Nithya Raman has been elected as the mayor of Los Angeles, securing a victory over Karen Bass. This marks a significant political achievement for the Indian diaspora in the United States.",
             "key_points": [
-                "Midterm elections are on November 3, 2026, for Congress and local offices.",
-                "Results will decide control of the House and Senate.",
-                "Republicans currently hold majorities, with Democrats seeking gains."
+                "Nithya Raman, of Indian origin, elected LA mayor.",
+                "Defeated Karen Bass.",
+                "Significant political achievement for the Indian diaspora."
             ]
         },
         {
-            "headline": "How Rahul Gandhi made 'vote chori' the Opposition's biggest political battle",
-            "summary": "Rahul Gandhi's allegations of electoral irregularities have become a central rallying point for India's INDIA bloc, transforming into a major political battle. This campaign has solidified his position as a key Opposition agenda-setter, prompting questions about the extent of his growing political influence.",
+            "headline": "CJP takes jibe at Centre over funding claim, questions 'vote chori, paper leak, berozgari'",
+            "summary": "The Chief Justice of Pakistan (CJP) has taken a jibe at the Indian Centre, questioning issues like \"vote chori,\" \"paper leak,\" and \"berozgari\" (unemployment) while referencing a funding claim. This highlights political rhetoric and accusations between the two nations.",
             "key_points": [
-                "Rahul Gandhi's 'vote chori' allegations are a rallying point for the INDIA bloc.",
-                "The campaign has become the Opposition's biggest political battle.",
-                "It has strengthened Gandhi's role as an Opposition agenda-setter."
+                "CJP criticized Indian Centre over funding claim.",
+                "Questioned issues like 'vote chori', 'paper leak', 'unemployment'.",
+                "Highlights political rhetoric between India and Pakistan."
             ]
         },
         {
-            "headline": "European troops to rehearse post-war Ukraine deployment in Poland",
-            "summary": "European nations are preparing for a significant military exercise in Poland to rehearse the deployment of troops in post-war Ukraine. This initiative, established in 2025 with headquarters in Paris, is independent of NATO and has minimal US involvement. It signals Europe's commitment to regional security.",
+            "headline": "French fried: Texas Republican faces consequences for anti-Indian politics",
+            "summary": "A Texas Republican politician is facing repercussions, described as \"French fried,\" for engaging in anti-Indian politics. This highlights the growing influence of the Indian diaspora and the political consequences of policies perceived as hostile towards India.",
             "key_points": [
-                "European troops to rehearse post-war Ukraine deployment in Poland.",
-                "Exercise is independent of NATO, with minimal US involvement.",
-                "Signals Europe's commitment to regional security."
+                "Texas Republican suffered consequences for anti-Indian politics.",
+                "Highlights Indian diaspora's growing influence.",
+                "Shows political consequences of perceived hostile policies."
+            ]
+        },
+        {
+            "headline": "Another Mahadev case accused arrested in UAE, India seeks extradition",
+            "summary": "Another individual implicated in the Mahadev online betting scam has been apprehended in the UAE, prompting India to initiate extradition proceedings. This development signifies ongoing international efforts to combat financial crimes and bring perpetrators to justice.",
+            "key_points": [
+                "Accused in Mahadev case arrested in UAE.",
+                "India is seeking extradition.",
+                "Part of ongoing international efforts against financial crime."
+            ]
+        },
+        {
+            "headline": "US making trade with India conditional on geopolitical alignment: Expert",
+            "summary": "An expert states that the US is conditioning trade with India on geopolitical alignment, a stance unlikely to change post-midterm elections. This highlights structural frictions in US-India ties over issues like Russia, technology, and strategic autonomy.",
+            "key_points": [
+                "US links trade with India to geopolitical alignment.",
+                "Midterm results unlikely to change this stance.",
+                "Highlights structural frictions in US-India ties over Russia, technology, autonomy."
+            ]
+        },
+        {
+            "headline": "Elon Musk’s $446m gamble on Republicans backfires",
+            "summary": "Elon Musk's substantial $446 million investment in Republican candidates did not yield the desired electoral outcomes, as his preferred candidates lost key races. This defeat could pose challenges for his AI expansion plans and lead to increased regulatory scrutiny.",
+            "key_points": [
+                "Elon Musk invested $446 million in Republicans; preferred candidates lost.",
+                "Defeat could complicate his AI expansion plans.",
+                "May invite greater regulatory scrutiny."
+            ]
+        },
+        {
+            "headline": "El Niño Fuels Stronger Typhoons: scientists see ‘very, very scary findings’; governments race to prepare",
+            "summary": "Scientists are observing alarming findings indicating that El Niño is contributing to the formation of stronger typhoons globally. Governments worldwide are now expediting preparations to mitigate the potential devastating impacts of these intensified weather events.",
+            "key_points": [
+                "El Niño is causing stronger typhoons globally.",
+                "Scientists report 'very, very scary findings'.",
+                "Governments are rushing to prepare for impacts."
+            ]
+        },
+        {
+            "headline": "Russia Developing Transport Corridors Between Europe, Asia: Foreign Ministry",
+            "summary": "Russia's Foreign Ministry stated that the country is actively developing new transport corridors connecting Europe and Asia. This strategic initiative aims to bolster trade, logistics, and economic cooperation across continents.",
+            "key_points": [
+                "Russia developing new transport corridors.",
+                "Connecting Europe and Asia.",
+                "Aims to boost trade, logistics, and economic cooperation."
+            ]
+        },
+        {
+            "headline": "Hong Kong activist Joshua Wong sentenced to 10 years for collusion",
+            "summary": "Prominent Hong Kong democracy activist Joshua Wong has been sentenced to 10 years in prison for collusion. This severe penalty underscores Beijing's tightening grip on dissent in the city.",
+            "key_points": [
+                "Joshua Wong sentenced to 10 years for collusion.",
+                "Severe penalty highlights Beijing's tightening grip on dissent.",
+                "Prominent Hong Kong democracy activist affected."
             ]
         }
     ],
     "Business": [
         {
-            "headline": "Oil prices edge higher after reported US strike on Iran's Qeshm Island, reviving supply concerns",
-            "summary": "Oil prices experienced an increase following reports of US strikes on Iran's Qeshm Island, which immediately raised concerns about global supply. The geopolitical tensions in the region have a direct impact on the stability and availability of crude oil. This situation could lead to market volatility.",
+            "headline": "Sensex, Nifty Rally Drivers: indices add over ₹6.9 lakh cr wealth; crude slide, FIIs lift mood",
+            "summary": "Indian stock indices Sensex and Nifty have collectively added over ₹6.9 lakh crore in wealth, driven by a global crude oil price slide and increased buying by Foreign Institutional Investors (FIIs). These factors have significantly bolstered market sentiment.",
             "key_points": [
-                "Oil prices rose after US strikes on Iran's Qeshm Island.",
-                "The strikes revived concerns about oil supply.",
-                "Geopolitical tensions in the region impact market stability."
+                "Sensex and Nifty added ₹6.9 lakh crore wealth.",
+                "Crude oil prices slid, boosting market.",
+                "FIIs increased buying, lifting market mood."
             ]
         },
         {
-            "headline": "India eyes $32B in defence production by 2029",
-            "summary": "India aims to achieve $32 billion in defense production by 2029, a significant target reflecting its push for self-reliance and boosting indigenous manufacturing. This ambition is expected to create jobs, reduce import dependence, and strengthen the country's strategic capabilities. The initiative aligns with national economic and security goals.",
+            "headline": "Cabinet nod for Rs 2,814 cr plan to support critical mineral processing",
+            "summary": "The Indian Cabinet has approved a ₹2,814 crore plan aimed at supporting and boosting the processing of critical minerals within the country. This strategic initiative seeks to enhance India's self-reliance in key industrial resources and reduce import dependency.",
             "key_points": [
-                "India targets $32 billion in defense production by 2029.",
-                "Aims for self-reliance and indigenous manufacturing.",
-                "Expected to create jobs and strengthen strategic capabilities."
+                "Indian Cabinet approved ₹2,814 crore plan.",
+                "Aims to support critical mineral processing in India.",
+                "Enhances self-reliance in industrial resources and reduces import dependency."
             ]
         },
         {
-            "headline": "FM Nirmala Sitharaman weighs in on Tata row: 'Should be resolved amicably, internally'",
-            "summary": "Finance Minister Nirmala Sitharaman has commented on the ongoing dispute within the Tata Group, stating that it should be resolved amicably and internally. She emphasized that such corporate matters should not spill out into the public domain. The government is observing the situation closely.",
+            "headline": "Gold smuggling hits 50 tonnes in India as 15% import duty widens price gap",
+            "summary": "India is witnessing a surge in gold smuggling, with an estimated 50 tonnes being illegally imported, largely due to a 15% import duty that has widened the price gap between domestic and international markets. This duty creates a significant incentive for illegal trade.",
             "key_points": [
-                "FM Sitharaman urged Tata Group to resolve internal dispute amicably.",
-                "She stressed that the matter should not become public.",
-                "The government is monitoring the situation."
+                "Gold smuggling increased to 50 tonnes in India.",
+                "15% import duty widened price gap.",
+                "Duty creates significant incentive for illegal trade."
             ]
         },
         {
-            "headline": "India’s clean energy sector offers $220B investment opportunity by 2030: Modi",
-            "summary": "Prime Minister Modi stated that India's clean energy sector presents a substantial investment opportunity of $220 billion by 2030. This highlights the government's focus on sustainable development and attracting capital into renewable energy projects. Such investment is crucial for meeting India's energy demands and climate goals.",
+            "headline": "What Trump defeat could mean for Indian H-1B visa holders, Russian oil & trade deal",
+            "summary": "The defeat of Donald Trump in the US midterms could bring significant changes for India, particularly impacting H-1B visa holders, the trade relationship concerning Russian oil, and potential bilateral trade deals. This political shift necessitates a re-evaluation of India's strategic approach.",
             "key_points": [
-                "PM Modi highlights $220B clean energy investment opportunity by 2030.",
-                "Emphasizes focus on sustainable development.",
-                "Crucial for India's energy demands and climate goals."
+                "Trump's defeat impacts Indian H-1B visa holders.",
+                "Implications for Russian oil trade with India.",
+                "Potential changes to bilateral trade deals affecting India."
             ]
         },
         {
-            "headline": "John Ternus’ first earnings as Apple CEO: iPhone sales are up, Mac has its best year ever, but ever-so expensive memory is a worry for Apple’s holiday quarter",
-            "summary": "In John Ternus's first earnings report as Apple CEO, iPhone sales showed an increase and Mac achieved its best year ever. However, the rising cost of memory components is identified as a potential concern for Apple's upcoming holiday quarter. This could impact profit margins and product pricing.",
+            "headline": "Ficci seeks exemption from LTCG for listed shares",
+            "summary": "The Federation of Indian Chambers of Commerce & Industry (Ficci) is advocating for an exemption from Long Term Capital Gains (LTCG) tax for listed shares. This move aims to incentivize investment in the stock market and boost economic activity.",
             "key_points": [
-                "iPhone sales are up, Mac had its best year under new CEO John Ternus.",
-                "Expensive memory is a concern for Apple's holiday quarter.",
-                "This could affect profit margins and pricing."
+                "Ficci requests LTCG exemption for listed shares.",
+                "Aims to incentivize stock market investment.",
+                "Intends to boost economic activity."
             ]
         },
         {
-            "headline": "Success of India's UPI & RuPay Card Unnerving US: Expert",
-            "summary": "An expert claims that the success and widespread adoption of India's Unified Payments Interface (UPI) and RuPay card are unsettling for the United States. This suggests that the indigenous digital payment systems are viewed as a potential challenge to the dominance of established international payment networks. It highlights India's growing influence in global financial technology.",
+            "headline": "Oil's slide lifts rupee, gold up 3%",
+            "summary": "The recent decline in global crude oil prices has positively impacted the Indian rupee, leading to its appreciation. Concurrently, gold prices have seen a notable increase of 3%, reflecting shifts in commodity markets.",
             "key_points": [
-                "India's UPI and RuPay success is 'unnerving' the US.",
-                "Indigenous digital payment systems challenge international networks.",
-                "Highlights India's growing influence in global FinTech."
+                "Crude oil slide strengthened Indian rupee.",
+                "Gold prices increased by 3%.",
+                "Reflects shifts in global commodity markets."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Can India Achieve Self-Reliance in Critical Technologies by 2047?",
-            "summary": "This article explores India's ambitious goal of achieving self-reliance in critical technologies by 2047, a target aligned with its centenary of independence. It likely discusses the challenges, strategies, and key sectors involved in this endeavor. The pursuit of technological autonomy is crucial for national security and economic growth.",
+            "headline": "Meta under scanner as Delhi Police files FIR over child abuse content: NHRC",
+            "summary": "Meta is facing scrutiny after Delhi Police registered an FIR against the company regarding child abuse content found on its platforms, prompting intervention from the National Human Rights Commission (NHRC). This action highlights growing concerns about online safety and content moderation.",
             "key_points": [
-                "India aims for self-reliance in critical technologies by 2047.",
-                "Explores challenges, strategies, and key sectors.",
-                "Crucial for national security and economic growth."
+                "Meta faces scrutiny from Delhi Police and NHRC.",
+                "FIR filed over child abuse content on platforms.",
+                "Raises concerns about online safety and content moderation."
             ]
         },
         {
-            "headline": "OpenAI takes steps to widen ChatGPT's reach",
-            "summary": "OpenAI is actively implementing measures to broaden the accessibility and user base of its popular AI chatbot, ChatGPT. These steps aim to integrate the technology into more platforms and applications. The goal is to make advanced AI tools available to a wider audience, increasing its societal impact.",
+            "headline": "AI tools to flag H-1B visa discrepancies amid stringent US immigration checks",
+            "summary": "As US immigration checks become more rigorous, AI tools are expected to play a crucial role in flagging discrepancies in H-1B visa filings. This enhanced scrutiny aims to streamline the visa process while ensuring compliance and detecting potential fraud.",
             "key_points": [
-                "OpenAI is expanding ChatGPT's accessibility and user base.",
-                "Measures include integrating the AI into more platforms.",
-                "The aim is to make AI tools available to a wider audience."
+                "US immigration checks for H-1B visas are stricter.",
+                "AI tools will identify discrepancies in filings.",
+                "Aims for compliance and fraud detection in visa processes."
             ]
         },
         {
-            "headline": "Why Kaveri Engine Could be Game-Changer for India's Aerospace Sector?",
-            "summary": "The Kaveri engine, an indigenous turbofan engine project, is being examined for its potential to be a game-changer for India's aerospace sector. This article likely discusses its development, capabilities, and strategic importance in reducing reliance on foreign technology for military and civilian aircraft. Success could significantly boost India's defense and aviation industries.",
+            "headline": "Success of India's UPI & RuPay Card Unnerving US: Expert",
+            "summary": "An expert suggests that the widespread success of India's UPI and RuPay card payment systems is causing unease in the US. This highlights the growing global influence of India's indigenous financial technology.",
             "key_points": [
-                "Kaveri engine seen as a potential game-changer for India's aerospace sector.",
-                "Indigenous project aims to reduce reliance on foreign technology.",
-                "Could boost India's defense and aviation industries."
+                "India's UPI and RuPay success unnerving US.",
+                "Highlights global influence of India's FinTech.",
+                "Suggests a competitive landscape in digital payments."
             ]
         },
         {
-            "headline": "Why are supermarket freezers being hacked across Europe?",
-            "summary": "Supermarket freezers across Europe are reportedly being subjected to hacking incidents, raising concerns about cybersecurity in consumer infrastructure. This unusual trend suggests vulnerabilities in interconnected systems and the potential for disruption to essential services. Investigations are likely underway to understand the motives and methods behind these attacks.",
+            "headline": "Larry Page's intended donation to Elon Musk reversed after AI argument",
+            "summary": "Google co-founder Larry Page had intended to donate his billions to Elon Musk, but their friendship and this plan changed dramatically due to an argument over artificial intelligence. This ideological clash highlights differing visions for the future of AI among tech titans.",
             "key_points": [
-                "Supermarket freezers in Europe are being hacked.",
-                "Raises cybersecurity concerns in consumer infrastructure.",
-                "Suggests vulnerabilities in interconnected systems."
+                "Larry Page planned to donate billions to Elon Musk.",
+                "An argument over AI changed this plan and their friendship.",
+                "Highlights differing AI visions among tech leaders."
             ]
         },
         {
-            "headline": "Reddit challenges Australia's under-16 social media ban, calls it 'ill thought out'",
-            "summary": "Reddit has voiced strong opposition to Australia's proposed ban on social media access for individuals under 16, describing the policy as \"ill thought out.\" The platform argues that such a ban could negatively impact youth engagement and digital literacy. This stance highlights ongoing debates about online safety and censorship.",
+            "headline": "Researcher Aniket Bera builds drone to track people without GPS",
+            "summary": "Researcher Aniket Bera has developed an innovative drone capable of tracking people without relying on GPS technology. This advancement could have significant implications for surveillance, search and rescue operations, and other applications where GPS signals are unavailable or unreliable.",
             "key_points": [
-                "Reddit opposes Australia's proposed social media ban for under-16s.",
-                "The platform calls the policy \"ill thought out.\"",
-                "Concerns are raised about youth engagement and digital literacy."
+                "Aniket Bera developed a drone that tracks people without GPS.",
+                "Could have significant implications for surveillance and rescue.",
+                "Useful where GPS signals are unavailable or unreliable."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "Rs 5 crore threat to Tusshar Kapoor: Mumbai Crime Branch finds no Bishnoi gang link",
-            "summary": "Bollywood actor Tusshar Kapoor received an extortion call demanding Rs 5 crore from someone impersonating a member of the Bishnoi gang. However, the Mumbai Crime Branch's preliminary investigation found no link to the actual gang. Police suspect the caller used the gang's name to instill fear and extort money.",
+            "headline": "Karan Johar Hails Ramayana: Calls film a ‘miracle’",
+            "summary": "Filmmaker Karan Johar has publicly praised the film 'Ramayana,' describing it as a \"miracle\" in an Instagram note, urging his followers to watch it. This contributes to the film's growing positive reception and anticipation.",
             "key_points": [
-                "Tusshar Kapoor received a Rs 5 crore extortion threat.",
-                "Caller claimed to be from the Bishnoi gang.",
-                "Mumbai Crime Branch found no actual gang link.",
-                "Police believe it was an impersonator seeking extortion."
+                "Karan Johar praised 'Ramayana' on Instagram.",
+                "Called the film a 'miracle'.",
+                "Urged fans to watch it, boosting its reception."
             ]
         },
         {
-            "headline": "'Fahadh should hear this': Nazriya Nazim's funny reaction to Suriya-Jyotika comparison",
-            "summary": "Actress Nazriya Nazim had a humorous reaction to comparisons made between her husband Fahadh Faasil and the South Indian celebrity couple Suriya-Jyotika. Her witty comment \"Fahadh should hear this\" quickly garnered attention. This highlights the ongoing public interest in celebrity relationships and dynamics.",
+            "headline": "‘Ramayana’ Twitter reviews: Yash’s Ravana, VFX win praise, story criticized",
+            "summary": "Early Twitter reviews for 'Ramayana' highlight strong praise for Yash's portrayal of Ravana and the film's visual effects. However, the overall story and narrative have drawn some criticism, creating mixed reactions online.",
             "key_points": [
-                "Nazriya Nazim reacted humorously to comparisons involving Fahadh Faasil and Suriya-Jyotika.",
-                "Her comment \"Fahadh should hear this\" went viral.",
-                "The event reflects public fascination with celebrity dynamics."
+                "Yash's Ravana and VFX praised in 'Ramayana' reviews.",
+                "Film's story received criticism.",
+                "Generated mixed reactions on social media."
             ]
         },
         {
-            "headline": "Vivienne Jolie legally drops her father Brad Pitt’s surname",
-            "summary": "Vivienne Jolie, daughter of Angelina Jolie and Brad Pitt, has legally removed her father's surname, Pitt, from her name. She will now be known solely as Vivienne Jolie. This move follows a similar decision by her older sister and signals further shifts in the family's public identity.",
+            "headline": "‘Ramayana: Rise of a Legend’ to challenge ‘Godzilla Minus Zero’ at global box office",
+            "summary": "The Indian epic 'Ramayana: Rise of a Legend' is projected to challenge 'Godzilla Minus Zero' at the global box office, with expectations of a surprising USD 75 million haul. This indicates strong international interest and potential for Indian cinema on the global stage.",
             "key_points": [
-                "Vivienne Jolie legally dropped her father's surname, Pitt.",
-                "She will now be known as Vivienne Jolie.",
-                "This follows a similar action by her older sister."
+                "'Ramayana' expected to compete with 'Godzilla Minus Zero' globally.",
+                "Projected to earn USD 75 million.",
+                "Highlights potential for Indian cinema internationally."
             ]
         },
         {
-            "headline": "Paris Jackson is demanding that her father’s estate pay alleged dues worth USD 600 million",
-            "summary": "Paris Jackson, daughter of the late Michael Jackson, is reportedly seeking USD 600 million in alleged unpaid dues from her father's estate. This demand suggests ongoing financial complexities and disputes surrounding the vast inheritance. The situation could lead to legal proceedings.",
+            "headline": "Farhad Samji begins writing Rajkumar Hirani's next film, 'Munna Bhai 3'",
+            "summary": "Farhad Samji has reportedly commenced writing the script for Rajkumar Hirani's highly anticipated next film, 'Munna Bhai 3'. This news signals the progression of the beloved franchise, exciting fans awaiting its return.",
             "key_points": [
-                "Paris Jackson is demanding USD 600 million from her father's estate.",
-                "The demand relates to alleged unpaid dues.",
-                "This indicates ongoing financial complexities within the estate."
+                "Farhad Samji is writing 'Munna Bhai 3'.",
+                "It is Rajkumar Hirani's highly anticipated next film.",
+                "Signals progression of the beloved franchise."
+            ]
+        },
+        {
+            "headline": "RJ Mahvash's podcast clip sparks Yuzvendra Chahal cheating rumours",
+            "summary": "A podcast clip featuring RJ Mahvash has ignited rumors of cricketer Yuzvendra Chahal's alleged cheating. The unverified claims have generated significant discussion and speculation on social media.",
+            "key_points": [
+                "RJ Mahvash podcast clip caused controversy.",
+                "Sparked Yuzvendra Chahal cheating rumors.",
+                "Unverified claims generated social media discussion."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "IND vs NZ: Virat Kohli on the verge of breaking Sachin Tendulkar's big record",
-            "summary": "Virat Kohli is close to surpassing Sachin Tendulkar's record for the third-highest run-scorer for India in ODIs played in New Zealand. He needs 139 more runs to break Tendulkar's mark of 652 runs. This upcoming series holds significant importance for Kohli's individual milestone.",
+            "headline": "Virat Kohli's 38th birthday: 38 stats on his unparalleled legacy",
+            "summary": "On his 38th birthday, a compilation of 38 statistics celebrates Virat Kohli's exceptional career, highlighting his numerous records and unique legacy in cricket. The article cements his status as 'The King' of the sport.",
             "key_points": [
-                "Virat Kohli is close to breaking Sachin Tendulkar's ODI record in New Zealand.",
-                "He needs 139 more runs to surpass 652 runs.",
-                "This milestone is a key focus for the upcoming series."
+                "Celebrates Virat Kohli's 38th birthday with 38 stats.",
+                "Showcases his exceptional career, records, and unique legacy.",
+                "Cements his status as 'The King' of cricket."
             ]
         },
         {
-            "headline": "India-Pakistan 2027 World Cup clash draws 84 lakh ticket requests for 34,000 capacity stadium",
-            "summary": "The highly anticipated India-Pakistan clash in the 2027 World Cup has generated an unprecedented demand for tickets, with 84 lakh (8.4 million) requests for a stadium with only 34,000 capacity. This overwhelming response highlights the immense passion and rivalry surrounding matches between these two cricketing nations.",
+            "headline": "Sachin Tendulkar praises Joe Root as he nears Test record",
+            "summary": "Sachin Tendulkar lauded Joe Root's potential, recalling his impressive debut in 2012, as Root now approaches Tendulkar's record for most Test runs. Tendulkar also suggested restructuring ODI cricket for better balance between bat and ball.",
             "key_points": [
-                "India-Pakistan 2027 World Cup match saw 8.4 million ticket requests.",
-                "The stadium capacity is only 34,000.",
-                "Demand highlights immense passion and rivalry."
+                "Sachin Tendulkar praised Joe Root's batting skills.",
+                "Joe Root is nearing Tendulkar's Test run record.",
+                "Tendulkar suggested restructuring ODI cricket."
             ]
         },
         {
-            "headline": "Why India's 99th GM had to do it twice: Latest mystery of Indian chess, VS Rathanvel",
-            "summary": "VS Rathanvel's journey to becoming India's 99th Grandmaster faced a unique hurdle as FIDE initially did not recognize his rating achievement. Despite completing norms in 2022, he had to cross the 2500 rating mark again due to an unusual technicality. He finally secured the rating in Hungary, ending a four-year wait.",
+            "headline": "FIDE World Cup in India: PM Modi highlights chess's growing popularity",
+            "summary": "During the FIDE World Cup in India, Prime Minister Narendra Modi remarked on the increasing popularity of chess among Indian youth. His statement underscores the game's growing appeal and its potential as a mental sport in the country.",
             "key_points": [
-                "VS Rathanvel had to achieve his GM rating twice.",
-                "FIDE initially didn't recognize his 2022 rating.",
-                "He finally secured the required 2500 rating in Hungary.",
-                "The process involved setbacks and a four-year wait."
+                "FIDE World Cup held in India.",
+                "PM Modi noted chess's growing popularity among Indian youth.",
+                "Underscores the game's appeal as a mental sport."
             ]
         },
         {
-            "headline": "Diamond League Final: Neeraj Chopra's event preview, time and live telecast in India",
-            "summary": "The Diamond League Final will feature Indian javelin thrower Neeraj Chopra, with details on his event preview, timings, and live telecast information for viewers in India. This event is highly anticipated as Chopra is a prominent athlete and a medal hope for the nation.",
+            "headline": "Diamond League Final: Neeraj Chopra's event preview, time, and live telecast in India",
+            "summary": "A detailed preview for Neeraj Chopra's event at the Diamond League Final is provided, including broadcast times and live telecast information for Indian viewers. Fans can plan to watch the javelin star compete on the global stage.",
             "key_points": [
-                "Neeraj Chopra will compete in the Diamond League Final.",
-                "Event preview, timings, and live telecast details are available for India.",
-                "Chopra is a major medal hope for the nation."
+                "Preview of Neeraj Chopra's Diamond League Final event.",
+                "Includes event time and live telecast details for India.",
+                "Allows fans to watch the javelin star compete."
+            ]
+        },
+        {
+            "headline": "Sarfaraz hits back-to-back tons, sends strong message to selectors",
+            "summary": "Sarfaraz Khan has delivered impressive back-to-back centuries, showcasing exceptional form and sending a strong message to national selectors. His consistent performance could push his case for a spot in higher-level cricket.",
+            "key_points": [
+                "Sarfaraz Khan scored back-to-back centuries.",
+                "Showcased exceptional form.",
+                "Sent strong message to national selectors.",
+                "Could push his case for higher-level cricket."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "Rare 4K deep-sea fish footage: Barreleye, with transparent head, glowing green eyes caught in film",
-            "summary": "Scientists have captured rare 4K deep-sea footage of a barreleye fish, known for its transparent head and glowing green eyes. This unique discovery offers new insights into deep-sea marine life and adaptations to extreme environments. The detailed video provides an unprecedented view of this elusive creature.",
+            "headline": "Zorba, the dog who protected Assam’s rhinos, tracked 60+ poachers",
+            "summary": "Meet Zorba, a remarkable dog credited with protecting Assam’s rhinos by tracking down over 60 poachers and following blood trails for 1.5 km. His heroic efforts have been instrumental in wildlife conservation efforts.",
             "key_points": [
-                "Rare 4K footage of barreleye fish captured.",
-                "Fish has a transparent head and glowing green eyes.",
-                "Discovery provides new insights into deep-sea marine life."
+                "Zorba the dog protected Assam’s rhinos.",
+                "Tracked over 60 poachers over 1.5 km blood trails.",
+                "Instrumental in wildlife conservation efforts."
             ]
         },
         {
-            "headline": "In 1992, 28,800 unsinkable rubber ducks fell from a ship into the sea; even three decades later, scientists are tracking their path",
-            "summary": "In 1992, a cargo ship accident released 28,800 plastic toy ducks into the ocean, which oceanographers used to study currents. Collaborating with beachcombers and using simulations, scientists tracked their paths for over three decades, revealing crucial data on global ocean connectivity. This unexpected event provided a unique natural experiment for oceanographic research.",
+            "headline": "Dinosaur blood chemistry hints from 115-million-year-old fossil",
+            "summary": "A 115-million-year-old dinosaur fossil has yielded traces of heme and collagen, providing unprecedented insights into dinosaur blood chemistry. This discovery offers valuable clues for understanding prehistoric life and biological preservation.",
             "key_points": [
-                "28,800 rubber ducks fell into the sea in 1992.",
-                "Scientists tracked their path for over three decades.",
-                "Used to study ocean currents and global ocean connectivity."
+                "115-million-year-old dinosaur fossil analyzed.",
+                "Yielded traces of heme and collagen.",
+                "Provides insights into dinosaur blood chemistry and prehistoric life."
             ]
         },
         {
-            "headline": "IISc develops 3D-printed model to study how cancer drugs penetrate tumours",
-            "summary": "Researchers at IISc have successfully developed a 3D-printed model designed to enhance the study of how cancer drugs permeate into tumours. This innovative model provides a more accurate and controlled environment for drug penetration analysis. The development could significantly advance cancer treatment research by allowing for better drug efficacy testing.",
+            "headline": "Hawaii’s rare tree snails return to wild after 33 years",
+            "summary": "After 33 years, Hawaii's rare tree snails are being reintroduced to the wild, following a near extinction event caused by a predator introduced to combat garden pests. Only 11 snails survived previously, making this a significant conservation milestone.",
             "key_points": [
-                "IISc developed a 3D-printed model for cancer drug study.",
-                "Model helps analyze drug penetration into tumours.",
-                "Aims to advance cancer treatment research."
+                "Hawaii’s rare tree snails reintroduced to wild after 33 years.",
+                "Survived near extinction caused by introduced predator.",
+                "Significant conservation milestone with only 11 previous survivors."
             ]
         },
         {
-            "headline": "Did climate change stop the onset of a new ice age?",
-            "summary": "A compelling scientific theory suggests that anthropogenic climate change may have inadvertently prevented the onset of a new ice age. Researchers are investigating whether human activities, particularly greenhouse gas emissions, have altered natural climate cycles to such an extent. This hypothesis highlights the profound and complex impact of human actions on Earth's long-term climate trajectory.",
+            "headline": "King cobras struggle in Thailand's agricultural landscapes",
+            "summary": "King cobras in Thailand face significant challenges moving through agricultural areas, as identified by researchers. Forest fragments and canal-side vegetation are crucial habitats, highlighting the impact of human development on wildlife corridors.",
             "key_points": [
-                "Theory suggests climate change prevented a new ice age.",
-                "Human greenhouse gas emissions may have altered natural cycles.",
-                "Highlights complex impact of human actions on Earth's climate."
+                "King cobras struggle moving through Thai agricultural areas.",
+                "Forest fragments and canal-side vegetation are crucial habitats.",
+                "Highlights impact of human development on wildlife corridors."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "WHO chief: Ebola outbreak shows urgent need for pandemic treaty",
-            "summary": "The Director-General of the WHO has stated that the current Ebola outbreak underscores the critical need for a new international pandemic treaty. Such a treaty would aim to improve global preparedness, response, and equitable access to resources during future health crises. The severity of the outbreak highlights vulnerabilities in existing global health frameworks.",
+            "headline": "Delhi 9-year-old student dies after cardiac arrest",
+            "summary": "A 9-year-old student in Delhi tragically passed away following a cardiac arrest, raising concerns about children's heart health. The incident prompts questions about the prevalence of such conditions in young individuals and preventive measures.",
             "key_points": [
-                "WHO chief calls for a new pandemic treaty due to Ebola outbreak.",
-                "Treaty aims to improve global preparedness and response.",
-                "Also focuses on equitable access to resources during crises."
+                "9-year-old Delhi student died from cardiac arrest.",
+                "Raises concerns about children's heart health.",
+                "Prompts questions on prevalence and preventive measures for young individuals."
             ]
         },
         {
-            "headline": "Spain introduces paid menopause sick leave from December 2026",
-            "summary": "Spain is set to implement paid sick leave for women experiencing symptoms of menopause, starting from December 2026. This landmark policy aims to acknowledge and support women's health needs in the workplace. The move positions Spain as a pioneer in addressing menopause-related challenges through national legislation.",
+            "headline": "Centre proposes immediate suspension of licences for substandard drugs",
+            "summary": "The Indian Centre has proposed immediate suspension of licences for manufacturers found producing substandard drugs. This stringent measure aims to enhance drug quality, ensure patient safety, and hold pharmaceutical companies accountable.",
             "key_points": [
-                "Spain to introduce paid menopause sick leave from December 2026.",
-                "Policy aims to support women's health in the workplace.",
-                "Positions Spain as a pioneer in menopause-related legislation."
+                "Centre proposes immediate license suspension for substandard drug manufacturers.",
+                "Aims to enhance drug quality and ensure patient safety.",
+                "Holds pharmaceutical companies accountable."
             ]
         },
         {
-            "headline": "What happens to the brain when you eat peanuts daily? New study reveals striking results",
-            "summary": "A new study has revealed striking results regarding the effects of daily peanut consumption on brain function. Researchers investigated the neurological changes and cognitive benefits or drawbacks associated with regular intake. The findings could offer valuable insights into diet and brain health.",
+            "headline": "Changing NEET-PG to rank-based system won’t fix structural problems, doctors say",
+            "summary": "Doctors argue that merely changing the NEET-PG examination to a rank-based system will not resolve its underlying structural problems. They emphasize the need for broader reforms to address systemic issues within medical education and admission processes.",
             "key_points": [
-                "New study examines daily peanut consumption and brain effects.",
-                "Reveals striking results on neurological changes.",
-                "Offers insights into diet and brain health."
+                "Doctors criticize rank-based NEET-PG change.",
+                "Believe it won't fix structural problems in medical education.",
+                "Advocate for broader reforms in medical education and admission processes."
             ]
         },
         {
-            "headline": "Managing daily fatigue in arthritis: Expert tips to improve energy and mobility",
-            "summary": "Experts have provided practical tips for individuals managing daily fatigue associated with arthritis, focusing on strategies to enhance energy levels and improve mobility. The advice includes lifestyle adjustments, exercise recommendations, and pain management techniques. These insights aim to help patients cope more effectively with chronic fatigue.",
+            "headline": "Noida airport proposed as one of 10 new gateways for drug imports",
+            "summary": "Noida airport is among 10 new locations proposed to serve as gateways for drug imports into India. This expansion aims to streamline and enhance the efficiency of pharmaceutical supply chains, supporting the country's healthcare needs.",
             "key_points": [
-                "Experts offer tips for managing arthritis-related fatigue.",
-                "Focus on improving energy and mobility.",
-                "Includes lifestyle, exercise, and pain management advice."
+                "Noida airport proposed as a new gateway for drug imports.",
+                "One of 10 new locations for pharmaceutical supply chain efficiency.",
+                "Aims to support India's healthcare needs through streamlined imports."
+            ]
+        },
+        {
+            "headline": "Custom-made drug from The Hague aids 7 Indian children",
+            "summary": "A custom-made drug developed in The Hague has been successfully administered to seven children in India, offering hope for specific medical conditions. This highlights international collaboration in specialized pediatric healthcare.",
+            "key_points": [
+                "Custom-made drug developed in The Hague administered to 7 Indian children.",
+                "Offers hope for specific medical conditions.",
+                "Highlights international collaboration in specialized pediatric healthcare."
+            ]
+        },
+        {
+            "headline": "Cardiologist warns normal health reports can still hide heart risks",
+            "summary": "A cardiologist explains that even with normal routine health reports, significant heart risks can remain hidden, as basic checks may miss crucial indicators. Healthy adults are advised to look beyond standard tests and consider more comprehensive assessments for true cardiovascular health.",
+            "key_points": [
+                "Normal health reports can hide significant heart risks.",
+                "Routine tests may miss crucial indicators of cardiovascular issues.",
+                "Healthy adults should consider more comprehensive assessments."
             ]
         }
     ]
