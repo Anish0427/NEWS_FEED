@@ -1,1098 +1,329 @@
 {
     "World": [
         {
-            "headline": "US-Iran Tensions Escalate Amidst Diplomatic Efforts, Sanctions, and Military Preparations",
-            "summary": "Diplomatic efforts between the US and Iran are ongoing, with Qatar mediating proposals for a potential nuclear agreement, despite rising fears of renewed military action. Tensions remain high due to US sanctions, Iran's threats, alleged IRGC Navy incidents, and US military preparations. A Saudi-led coalition also claimed to intercept a Houthi missile, which the Houthis denied.",
+            "headline": "Is Netanyahu's time up? Rival Eisenkot gets shot at power in Israel",
+            "summary": "Israeli President Isaac Herzog tasked Gadi Eisenkot with forming the next government, gathering recommendations from 67 lawmakers. Eisenkot faces challenges in coalition building due to differing views among potential partners regarding Arab and ultra-Orthodox factions. This move aims to counter Benjamin Netanyahu's efforts to form a national unity government.",
             "key_points": [
-                "Diplomatic talks between US and Iran continue via Qatar.",
-                "Fears of renewed military action are growing.",
-                "US announced fresh sanctions against Iran.",
-                "Saudi-led coalition claimed interception of Houthi missile."
+                "Gadi Eisenkot is assigned to form Israel's next government.",
+                "He secured 67 lawmaker recommendations but faces coalition challenges.",
+                "Potential partners differ on collaborating with Arab and ultra-Orthodox parties.",
+                "Netanyahu seeks a national unity government to thwart Eisenkot."
             ]
         },
         {
-            "headline": "US Offers $20 Million Reward for Iran Nuclear Program Information",
-            "summary": "The United States has announced a reward of $20 million for information that could lead to the disruption of Iran's nuclear program. This initiative reflects ongoing international concerns about Tehran's nuclear ambitions.",
+            "headline": "Iran’s Navy Issues Warning to US Forces, Threatens Retaliation",
+            "summary": "Iran’s Northern Fleet Commander Rear Admiral Mohsen Razzaqi warned the US against aggression, stating Iran's armed forces are highly coordinated and naval units are ready. This comes as Washington establishes Task Force Iron Gate to disrupt alleged Iranian weapons supply routes across land borders and the the Caspian Sea.",
             "key_points": [
-                "US offers $20 million reward.",
-                "Reward is for information on Iran's nuclear program.",
-                "Aims to disrupt the program."
+                "Iran warns the US against aggression, citing high military coordination.",
+                "Naval units are reportedly ready round-the-clock.",
+                "The US formed Task Force Iron Gate to disrupt Iranian weapons routes.",
+                "This heightens tensions in the region."
             ]
         },
         {
-            "headline": "India and Myanmar Launch Maiden Tri-Services HADR Exercise ‘Rahat Mitra’ in Chennai",
-            "summary": "India and Myanmar have jointly commenced their first-ever tri-services Humanitarian Assistance and Disaster Relief (HADR) exercise, named ‘Rahat Mitra’, in Chennai. This initiative aims to enhance interoperability and coordination between the two nations for disaster response operations.",
+            "headline": "PM Modi Continues Diwali Tradition with Jawans, Extends Wishes Nationally",
+            "summary": "Prime Minister Narendra Modi is set to continue his long-standing tradition of celebrating Diwali with Indian armed forces personnel. Simultaneously, he extended his Diwali greetings and best wishes to people across the entire country, emphasizing the spirit of the festival.",
             "key_points": [
-                "India and Myanmar launched 'Rahat Mitra' exercise.",
-                "It's their maiden tri-services HADR exercise.",
-                "Held in Chennai.",
-                "Aims to enhance disaster response coordination."
+                "PM Modi celebrates Diwali with jawans, continuing a tradition.",
+                "He extended Diwali wishes to all citizens.",
+                "This highlights national unity and appreciation for soldiers."
             ]
         },
         {
-            "headline": "Democrats Take Control of US Congress: Implications for India Analyzed",
-            "summary": "With Democrats gaining control of the US Congress, analysts are examining the potential implications for India. This shift in American political power could influence bilateral relations, trade policies, and strategic partnerships.",
+            "headline": "Russian Strikes Hit Ukraine’s Military and Energy Infrastructure",
+            "summary": "Russia has carried out massive overnight strikes on Ukraine’s military-industrial, energy, and transport infrastructure. Reports also indicate Russian forces hit Ukraine’s military power grid and Black Sea arms shipments, alongside disabling a cargo vessel for breaching an Iran blockade.",
             "key_points": [
-                "Democrats now control the US Congress.",
-                "Analysts are assessing the impact on India.",
-                "Could affect bilateral relations, trade, and partnerships."
+                "Russia launched extensive strikes on Ukrainian infrastructure.",
+                "Targets included military, energy, and transport facilities.",
+                "Russia also hit Black Sea arms shipments and disabled a cargo vessel.",
+                "The attacks aim to degrade Ukraine's strike capabilities."
             ]
         },
         {
-            "headline": "EU Rejects Trump's Proposed Security Deal with Russia",
-            "summary": "European leaders have strongly rejected former US President Trump's proposal for a \"big beautiful\" security deal with Russia, warning Moscow against dictating Europe's future. This stance comes as US-led peace negotiations over Ukraine are set to resume in Abu Dhabi.",
+            "headline": "Six Killed in Kraków Shooting, Suspect Held Far-Right Views",
+            "summary": "A shooting in Kraków, Poland, resulted in six fatalities and over a dozen injuries. The suspect, a 25-year-old Polish citizen, was identified by Interior Minister Marcin Kierwiński as having \"very radical\" and \"ultra-nationalistic\" far-right ideologies.",
             "key_points": [
-                "EU leaders rejected Trump's security deal with Russia.",
-                "They warned Russia against dictating Europe's future.",
-                "Comes ahead of Ukraine peace negotiations in Abu Dhabi."
+                "Six people died in a shooting in Kraków, Poland.",
+                "The suspect, 25, held radical far-right views.",
+                "More than a dozen others were injured in the attack."
             ]
         },
         {
-            "headline": "Rahul Gandhi Alleges Excess Ethanol in Karnataka Fuel, Urges PM Modi to Act",
-            "summary": "Rahul Gandhi has raised concerns that fuel in Karnataka contains more than the permitted 20% ethanol blend, asking Prime Minister Modi to intervene. This allegation points to potential violations of fuel regulations.",
+            "headline": "Earthquake Rattles Japan, Causes Shattered Glass and Scattered Books",
+            "summary": "A strong earthquake struck Japan, causing significant damage including shattered glass and books scattered across floors. The immediate impact suggests a powerful tremor, though details on casualties or widespread destruction are not fully provided.",
             "key_points": [
-                "Rahul Gandhi alleges fuel in Karnataka exceeds 20% ethanol cap.",
-                "He has called on Prime Minister Modi to take action.",
-                "The issue raises concerns about fuel quality and regulation."
+                "A strong earthquake hit Japan.",
+                "It caused immediate visible damage like shattered glass.",
+                "The tremors displaced objects, scattering books."
             ]
         },
         {
-            "headline": "Tragic Suicide Pact of Virar Siblings Amidst Family Estrangement and Financial Strain",
-            "summary": "Three siblings in Virar, Dipesh, Kumar, and Khevna Mehta, have died by suicide, leaving their community in shock. The tragedy is attributed to a combination of estranged family relationships, illness, and significant financial difficulties.",
+            "headline": "Dana White Declines Trump's Offer for White House Press Secretary Role",
+            "summary": "UFC chief Dana White, a close friend of Donald Trump, rejected an offer to become the White House press secretary. White cited his existing responsibilities as the reason for declining the position, despite Trump's public hopes for his assistance in defending the administration.",
             "key_points": [
-                "Three Virar siblings died by suicide.",
-                "Reasons include estranged family, illness, and financial strain.",
-                "Their deaths have shocked the community."
-            ]
-        },
-        {
-            "headline": "Couple stole $2 million in donations meant for starving babies in Malawi",
-            "summary": "A couple has been accused of stealing $2 million in donations that were intended to provide food and aid to starving infants in Malawi. This act diverts crucial resources from vulnerable populations.",
-            "key_points": [
-                "Couple stole $2 million.",
-                "Donations were for starving babies in Malawi.",
-                "The theft impacts humanitarian aid."
-            ]
-        },
-        {
-            "headline": "Houthi Cruise Missile Intercepted Over Riyadh, Saudi Arabia Claims",
-            "summary": "Saudi Arabia has reported intercepting a Houthi cruise missile that was reportedly targeting the capital city of Riyadh. This incident underscores ongoing regional tensions and conflicts.",
-            "key_points": [
-                "Saudi Arabia claims interception of Houthi missile.",
-                "Missile was reportedly targeting Riyadh.",
-                "Highlights continued regional conflict."
-            ]
-        },
-        {
-            "headline": "Bengaluru Police Recover Bodies in Salem Forest, Probe Gold Sales in Serial Murders",
-            "summary": "Bengaluru police have discovered the bodies of Sunitha and her mother Rupavathi in Tamil Nadu, linking the discovery to a series of murders. Suspect S Indushekhar allegedly removed gold ornaments from victims, and is under investigation for killing multiple family members due to marital disputes and resentment. Authorities are also investigating his daughter's involvement.",
-            "key_points": [
-                "Two bodies found in Salem forest linked to ongoing murder investigation.",
-                "Suspect S Indushekhar is accused of multiple family murders.",
-                "Marital disputes and resentment are cited as motives.",
-                "Daughter's involvement in the crimes is also being investigated."
-            ]
-        },
-        {
-            "headline": "US Businessman Found Dead in Hyderabad Hotel Room, Police Investigate",
-            "summary": "Mitchell Brian Lee, a 41-year-old American businessman, was found unconscious and later pronounced dead in his Hyderabad hotel room. He had arrived for business with his partner, David Wu, and police are currently investigating the cause of death after hotel staff raised concerns.",
-            "key_points": [
-                "American businessman Mitchell Brian Lee found dead in Hyderabad hotel.",
-                "He was in the city for business with partner David Wu.",
-                "Police are investigating the cause of death."
-            ]
-        },
-        {
-            "headline": "NCP Seniors Consider Merger Talks with NCP (Sharad Pawar) Amid Internal Conflicts",
-            "summary": "Senior members of the Nationalist Congress Party are reportedly reconsidering merger discussions with NCP (Sharad Pawar) due to unresolved internal conflicts and scrutiny over Parth Pawar’s leadership. Despite previous denials following Ajit Pawar's death, interest in reunification persists, pending clarity on future alliances and leadership roles.",
-            "key_points": [
-                "NCP seniors are discussing a potential merger with NCP (Sharad Pawar).",
-                "Internal conflicts and questions about Parth Pawar's leadership are driving the talks.",
-                "Reunification interest exists despite previous denials.",
-                "Clarity on alliances and leadership is needed for discussions to proceed."
-            ]
-        },
-        {
-            "headline": "Satellite Analysis Shows Iran Moving Nuclear Facilities Underground Rapidly",
-            "summary": "Satellite analysis indicates that Iran is rapidly rebuilding and moving its nuclear facilities underground. This development raises international concerns regarding the transparency and intentions of Iran's nuclear program.",
-            "key_points": [
-                "Iran is moving nuclear facilities underground.",
-                "Satellite analysis confirms rapid rebuilding efforts.",
-                "This raises international concerns about Iran's nuclear program."
-            ]
-        },
-        {
-            "headline": "US Strikes Iranian Air Defense System, Trump Suggests Further Military Action",
-            "summary": "The US military conducted targeted strikes against an Iranian air defense system on Qeshm Island, with President Trump hinting at further military engagements. This action, occurring amidst diplomatic negotiations and post-midterm election challenges, has heightened tensions and disrupted global oil supply chains.",
-            "key_points": [
-                "US military struck an Iranian air defense system on Qeshm Island.",
-                "President Trump approved the action and suggested more military engagement.",
-                "Action occurred amid diplomatic talks and post-midterm challenges.",
-                "Tensions are disrupting global oil supply chains."
-            ]
-        },
-        {
-            "headline": "Stephen Miller Appointed Trump's Chief of Staff Amidst Controversy",
-            "summary": "Stephen Miller, known for his hardline immigration stance and role in mass deportations, has been appointed as President Trump's Chief of Staff. This controversial pick reflects Trump's strategic choices for key White House positions.",
-            "key_points": [
-                "Stephen Miller appointed Trump's Chief of Staff.",
-                "Miller is known for his hardline immigration policies.",
-                "The appointment is seen as a key strategic choice by Trump."
-            ]
-        },
-        {
-            "headline": "North Carolina student wins top award for free tool mapping wildlife roadkill hotspots",
-            "summary": "A student from North Carolina has received a top award for developing a free tool that maps wildlife roadkill hotspots. This innovative application helps identify dangerous areas for animals, potentially aiding conservation efforts and improving road safety.",
-            "key_points": [
-                "North Carolina student developed a free tool.",
-                "The tool maps wildlife roadkill hotspots.",
-                "Received a top award for the innovation."
-            ]
-        },
-        {
-            "headline": "Supreme Court Settles 60-Year Bhakra & Beas River Dispute",
-            "summary": "The Supreme Court of India has successfully settled the 60-year-long dispute over the Bhakra and Beas rivers between Punjab, Haryana, and Himachal Pradesh. This landmark decision brings resolution to a complex inter-state water sharing conflict.",
-            "key_points": [
-                "Supreme Court resolved a 60-year dispute.",
-                "Dispute was over Bhakra and Beas rivers.",
-                "Involved Punjab, Haryana, and Himachal Pradesh."
-            ]
-        },
-        {
-            "headline": "Bengaluru Family Massacre Uncovers Property Dispute and Long-Standing Marital Conflict",
-            "summary": "Further details have emerged in the horrific Bengaluru family massacre, revealing a deep-seated property dispute and a 20-year conflict with the wife, with a television found at full volume. These new insights shed light on the complex underlying motives behind the tragedy.",
-            "key_points": [
-                "New details emerged in Bengaluru family massacre.",
-                "A property dispute was a major factor.",
-                "A 20-year marital conflict also played a role.",
-                "A TV at full volume was noted at the scene."
-            ]
-        },
-        {
-            "headline": "Radio Highway RJs Bridge Manipur’s Ethnic Divides, Plan Village Radio Sets",
-            "summary": "Radio Jockeys from \"Radio Highway\" are actively working to bridge ethnic divides in Manipur through their community engagement efforts. The station plans to distribute village radio sets, aiming to foster unity and communication in the region.",
-            "key_points": [
-                "Radio Jockeys are bridging ethnic divides in Manipur.",
-                "\"Radio Highway\" is the initiative's name.",
-                "Plans include distributing village radio sets.",
-                "Aims to foster unity and communication."
-            ]
-        },
-        {
-            "headline": "Dhanteras Rush Causes Major Traffic Congestion in Delhi",
-            "summary": "The festive rush for Dhanteras has led to severe traffic congestion across Delhi, from Connaught Place to Chandni Chowk. Shoppers celebrating the auspicious occasion have caused significant delays for commuters.",
-            "key_points": [
-                "Dhanteras celebrations caused traffic jams in Delhi.",
-                "Areas like Connaught Place and Chandni Chowk were affected.",
-                "Shoppers contributed to the congestion."
-            ]
-        },
-        {
-            "headline": "DMRC Announces Revised Metro Timings for Diwali",
-            "summary": "Delhi Metro Rail Corporation (DMRC) has released revised timings for Diwali, with services on three lines beginning at 6 AM and the last train on all lines running until 10 PM. Commuters are advised to check these schedules for their festive travel plans.",
-            "key_points": [
-                "DMRC announced revised Diwali Metro timings.",
-                "Services on three lines start at 6 AM.",
-                "Last train on all lines is at 10 PM.",
-                "Commuters should check schedules for travel."
-            ]
-        },
-        {
-            "headline": "Karnataka HC Quashes Cruelty Case Against Man Married to Woman Who Wed '9 Times'",
-            "summary": "The Karnataka High Court has quashed a cruelty case filed against a man who was reportedly the \"seventh husband\" of a woman claiming to have married nine times. This legal decision highlights the complexities of marital disputes and legal proceedings.",
-            "key_points": [
-                "Karnataka HC quashed a cruelty case.",
-                "Case involved a man married to a woman who wed '9 times'.",
-                "Highlights complexities of marital law."
-            ]
-        },
-        {
-            "headline": "Bengaluru Serial Murder Accused Kept Son, Claiming Parents on Pilgrimage",
-            "summary": "In a disturbing detail from the Bengaluru serial murder case, the accused allegedly kept the 10-year-old son of his victims with him by telling the child that his parents had gone on a pilgrimage. This manipulation adds another layer of horror to the already tragic investigation.",
-            "key_points": [
-                "Bengaluru serial murder accused kept a 10-year-old boy.",
-                "He told the boy his parents were on a pilgrimage.",
-                "The accused had killed the boy's parents."
-            ]
-        },
-        {
-            "headline": "China's Marriage Rates Hit Alarming 18-Year Low, Leading to Fewer Births",
-            "summary": "China is experiencing an alarming decline in marriage rates, reaching an 18-year low, which is consequently contributing to a reduction in birth rates. This demographic shift raises significant concerns about the country's future population and societal structure.",
-            "key_points": [
-                "China's marriage rates are at an 18-year low.",
-                "This decline is leading to fewer babies.",
-                "Raises concerns about future population and society."
-            ]
-        },
-        {
-            "headline": "Indian Student Sreeja Koya Reddy Missing in Boston, Police Seek Public's Help",
-            "summary": "Sreeja Koya Reddy, a 23-year-old Indian student, has been reported missing in Boston for three days, prompting local police to seek public assistance. Authorities are urging anyone with information to come forward to help locate her.",
-            "key_points": [
-                "23-year-old Indian student Sreeja Koya Reddy missing in Boston.",
-                "She has been missing for three days.",
-                "Police are seeking public's help to locate her."
-            ]
-        },
-        {
-            "headline": "Indian-Origin Woman Missing Since August Found Dead in California Canal",
-            "summary": "An Indian-origin woman who had been missing since August has been tragically found dead in a canal in California. Although detectives had previously searched the canal, her body was not located until recently.",
-            "key_points": [
-                "Indian-origin woman, missing since August, found dead.",
-                "Body discovered in a California canal.",
-                "Detectives had previously searched the area."
-            ]
-        },
-        {
-            "headline": "US Detains Lawrence Bishnoi Aide Harry Boxer, Former Jaipur Boxing Coach",
-            "summary": "US authorities have detained Harry Boxer, a former boxing coach from Jaipur and an alleged aide of gangster Lawrence Bishnoi. This arrest marks a significant development in ongoing efforts to combat organized crime networks with international connections.",
-            "key_points": [
-                "US detained Harry Boxer.",
-                "He is an alleged aide of Lawrence Bishnoi.",
-                "Boxer is a former Jaipur boxing coach.",
-                "Arrest marks a development in combating organized crime."
-            ]
-        },
-        {
-            "headline": "Trump Confirms Upcoming Phone Calls on Russia and Ukraine",
-            "summary": "Former US President Trump has announced that he has scheduled phone calls for today and tomorrow to discuss matters concerning Russia and Ukraine. This indicates his continued involvement or interest in diplomatic efforts related to the ongoing conflict.",
-            "key_points": [
-                "Trump has scheduled calls regarding Russia and Ukraine.",
-                "Calls are set for today and tomorrow.",
-                "Suggests his continued diplomatic engagement."
-            ]
-        },
-        {
-            "headline": "Iran Reportedly Shoots Down US MQ-9 Drone Over Qeshm Island",
-            "summary": "Reports indicate that Iran has shot down a US MQ-9 drone over Qeshm Island, significantly escalating tensions between the two nations. This alleged incident could have serious international repercussions.",
-            "key_points": [
-                "Iran reportedly shot down a US MQ-9 drone.",
-                "Incident occurred over Qeshm Island.",
-                "Significantly escalates US-Iran tensions."
-            ]
-        },
-        {
-            "headline": "Paraguay’s Prosecutor General Orders Arrest of Former President Pena",
-            "summary": "Paraguay's Prosecutor General's Office has issued an order for the arrest of former President Pena. The reasons for the arrest were not immediately specified, but such a move typically signals serious legal proceedings.",
-            "key_points": [
-                "Paraguay's Prosecutor General ordered an arrest.",
-                "The order is for former President Pena.",
-                "Reasons for arrest are not yet specified."
-            ]
-        },
-        {
-            "headline": "Russian Artillery Strikes Ukrainian Depots and Drone Posts in Zaporozhye",
-            "summary": "Russian Gvozdika self-propelled artillery crews have conducted strikes against Ukrainian field depots and drone control posts in the Zaporozhye region. This military action targets key logistical and command assets of Ukrainian forces.",
-            "key_points": [
-                "Russian artillery struck Ukrainian targets.",
-                "Targets included field depots and drone control posts.",
-                "Strikes occurred in the Zaporozhye region."
-            ]
-        },
-        {
-            "headline": "Russian Sokol-PVO Drone Operators Intercept Ukrainian UAVs",
-            "summary": "Russian Sokol-PVO drone operators have successfully intercepted Ukrainian Unmanned Aerial Vehicles (UAVs) in the Krasny Liman direction. This action highlights ongoing drone warfare and counter-drone measures in the conflict zone.",
-            "key_points": [
-                "Russian Sokol-PVO drone operators intercepted Ukrainian UAVs.",
-                "Interceptions occurred in the Krasny Liman direction.",
-                "Highlights ongoing drone warfare."
-            ]
-        },
-        {
-            "headline": "Putin Discusses Trilateral Ukraine Talks in UAE with Security Council Members",
-            "summary": "Russian President Vladimir Putin has held discussions with permanent members of Russia’s Security Council regarding upcoming trilateral talks on Ukraine in the UAE. This meeting indicates continued high-level engagement in seeking diplomatic solutions or strategic planning related to the conflict.",
-            "key_points": [
-                "Putin discussed upcoming Ukraine talks in UAE.",
-                "Discussions were with Russia's Security Council members.",
-                "Focus on trilateral negotiations."
-            ]
-        },
-        {
-            "headline": "Russian Mi-28NM Helicopter Deploys Loitering Munition Against Ukrainian Positions",
-            "summary": "A Russian Mi-28NM helicopter has been observed deploying loitering munitions against Ukrainian positions. This deployment showcases the use of advanced attack helicopter capabilities and precision-guided weapons in the ongoing conflict.",
-            "key_points": [
-                "Russian Mi-28NM helicopter deployed loitering munition.",
-                "Targeted Ukrainian positions.",
-                "Highlights advanced weapon use in conflict."
-            ]
-        },
-        {
-            "headline": "Russia Strikes Cargo Ship Carrying Military Supplies to Ukraine in Black Sea",
-            "summary": "The Russian Ministry of Defense has announced that it struck a cargo ship in the Black Sea suspected of carrying military supplies to Ukraine. This action intensifies naval tensions and underscores efforts to disrupt Ukrainian logistics.",
-            "key_points": [
-                "Russia struck a cargo ship in the Black Sea.",
-                "Ship was reportedly carrying military supplies to Ukraine.",
-                "Announced by Russian Ministry of Defense.",
-                "Intensifies naval tensions."
-            ]
-        },
-        {
-            "headline": "Russia-US Diesel Deal Sparks European Panic Amidst Ongoing LNG Imports",
-            "summary": "According to NATO chief Rutte, a diesel deal between Russia and the US has caused panic in Europe, despite the continent's continued imports of Russian LNG. This paradox highlights the complex and often contradictory nature of energy politics amidst geopolitical tensions.",
-            "key_points": [
-                "Russia-US diesel deal sparked panic in Europe.",
-                "Europe continues to import Russian LNG.",
-                "NATO chief Rutte commented on the situation.",
-                "Highlights complex energy geopolitics."
-            ]
-        },
-        {
-            "headline": "Aatmanirbhar Bharat: Indian Navy Acquires Latest Indigenous Anti-Submarine Warfare Shallow Water Craft Under Aatmanirbhar Bharat",
-            "summary": "Reinforcing the 'Aatmanirbhar Bharat' initiative, the Indian Navy has received its newest indigenous Anti-Submarine Warfare Shallow Water Craft. This acquisition significantly boosts India's naval defense capabilities with domestically produced technology.",
-            "key_points": [
-                "Indian Navy received new indigenous Anti-Submarine Warfare craft.",
-                "Part of the 'Aatmanirbhar Bharat' initiative.",
-                "Boosts India's naval defense capabilities."
-            ]
-        },
-        {
-            "headline": "Terror Groups Reportedly Seeking Ukrainian UAV Technology",
-            "summary": "Reports suggest that terrorist groups are actively attempting to acquire Ukrainian Unmanned Aerial Vehicle (UAV) technology. This development raises serious concerns about the proliferation of advanced drone capabilities to non-state actors.",
-            "key_points": [
-                "Terrorist groups are seeking Ukrainian UAV technology.",
-                "Raises concerns about drone proliferation.",
-                "Potential for advanced drone capabilities in non-state hands."
-            ]
-        },
-        {
-            "headline": "Analyst Suggests GOP Midterm Defeat Could Reshape US Politics and Foreign Policy",
-            "summary": "An analyst suggests that the recent defeat of the Republican Party in the US midterm elections could significantly reshape both domestic politics and foreign policy. This shift may lead to new legislative priorities and international approaches.",
-            "key_points": [
-                "GOP midterm defeat could reshape US politics.",
-                "Also expected to impact foreign policy.",
-                "May lead to new priorities."
-            ]
-        },
-        {
-            "headline": "Russian Military Strikes Ukrainian Logistics and Troop Positions in Week-Long Campaign",
-            "summary": "The Russian military has reportedly conducted a week-long campaign of strikes against Ukrainian logistics and troop positions. These sustained operations aim to disrupt supply lines and reduce the combat effectiveness of Ukrainian forces.",
-            "key_points": [
-                "Russian military conducted a week-long strike campaign.",
-                "Targeted Ukrainian logistics and troop positions.",
-                "Aims to disrupt supply lines and reduce combat effectiveness."
-            ]
-        },
-        {
-            "headline": "Former Inmate Exposes Brutal Torture by Aidar Militants in Ukraine’s Secret Prisons",
-            "summary": "A former inmate has come forward to expose alleged brutal torture carried out by Aidar militants in secret prisons across Ukraine. This testimony raises grave concerns about human rights abuses within the conflict zone.",
-            "key_points": [
-                "Former inmate exposes torture by Aidar militants.",
-                "Allegations pertain to Ukraine's secret prisons.",
-                "Raises grave human rights concerns."
-            ]
-        },
-        {
-            "headline": "Russian Army Hits Energy Facility Used by Ukrainian Military",
-            "summary": "The Russian Ministry of Defense has reported that its forces struck an energy facility in Ukraine that was being used by the Ukrainian military. This strike likely aims to disrupt critical infrastructure supporting Ukrainian operations.",
-            "key_points": [
-                "Russian Army struck a Ukrainian energy facility.",
-                "Facility was reportedly used by the Ukrainian military.",
-                "Aims to disrupt critical infrastructure."
-            ]
-        },
-        {
-            "headline": "Trump Announces Plan for a 'Big Peace Agreement' Involving All of Europe",
-            "summary": "Former US President Trump has announced his intention to pursue a \"big peace agreement\" that would encompass all of Europe. This statement suggests an ambitious diplomatic initiative to resolve ongoing conflicts and foster stability across the continent.",
-            "key_points": [
-                "Trump announced plans for a \"big peace agreement.\"",
-                "Agreement would involve all of Europe.",
-                "Suggests an ambitious diplomatic initiative."
-            ]
-        },
-        {
-            "headline": "Kushner: US Seeks to Consider All Sides' Security Interests in Ukraine Conflict",
-            "summary": "According to Kushner, the US is striving to take into account the security interests of all parties involved in the Ukraine conflict. This approach suggests a nuanced diplomatic effort to achieve a comprehensive and lasting resolution.",
-            "key_points": [
-                "US seeks to consider security interests of all sides.",
-                "Pertains to the Ukraine conflict.",
-                "Suggests a nuanced diplomatic approach."
-            ]
-        },
-        {
-            "headline": "Russian Forces Deliver Crippling Strike Against Ukrainian Frontline Units",
-            "summary": "The Russian Ministry of Defense has claimed that its forces delivered a crippling strike against Ukrainian frontline units. This operation reportedly aimed to significantly degrade the combat capabilities of the Ukrainian military.",
-            "key_points": [
-                "Russian forces delivered a crippling strike.",
-                "Targeted Ukrainian frontline units.",
-                "Aimed to degrade combat capabilities."
-            ]
-        },
-        {
-            "headline": "Kremlin States Russia's Goals in Ukraine Will Be Secured Militarily or Peacefully",
-            "summary": "The Kremlin has declared that Russia's objectives in Ukraine will be achieved either through military means or peaceful negotiations. This statement reiterates Russia's determination to achieve its strategic aims in the conflict.",
-            "key_points": [
-                "Kremlin states Russia's goals in Ukraine will be secured.",
-                "This can be achieved militarily or peacefully.",
-                "Reiterates determination to achieve strategic aims."
-            ]
-        },
-        {
-            "headline": "Bomb Threats Continue to Target Aircraft Across Europe",
-            "summary": "Multiple aircraft across Europe are reportedly still being targeted by ongoing bomb threats, causing significant disruptions and heightened security alerts. These persistent threats are impacting air travel and raising concerns among authorities.",
-            "key_points": [
-                "Aircraft across Europe are targeted by bomb threats.",
-                "Causing disruptions and heightened security.",
-                "Threats are persistent."
-            ]
-        },
-        {
-            "headline": "Belgian King Refuses Prime Minister De Wever's Resignation",
-            "summary": "Belgium's King has reportedly refused the resignation of Prime Minister De Wever, indicating ongoing political negotiations or a reluctance to accept a change in leadership at this time. This decision prolongs the political uncertainty.",
-            "key_points": [
-                "Belgian King refused PM De Wever's resignation.",
-                "Indicates ongoing political negotiations.",
-                "Prolongs political uncertainty."
-            ]
-        },
-        {
-            "headline": "France's Mélenchon to Hold Major Campaign Rally for Manifesto Launch",
-            "summary": "Jean-Luc Mélenchon of France is set to host a major campaign rally for the launch of his political manifesto. This event marks a significant step in his political campaign, aiming to mobilize supporters and present his vision.",
-            "key_points": [
-                "France's Mélenchon will hold a major campaign rally.",
-                "Rally is for his manifesto launch.",
-                "Aims to mobilize supporters and present his vision."
-            ]
-        },
-        {
-            "headline": "Iranian Official Delivers Secret Khamenei Message to Putin in Moscow",
-            "summary": "An Iranian official has reportedly delivered a secret message from Supreme Leader Ayatollah Ali Khamenei to President Vladimir Putin during a trip to Moscow. This discreet exchange suggests high-level coordination and sensitive diplomatic discussions between the two nations.",
-            "key_points": [
-                "Iranian official delivered a secret message to Putin.",
-                "Message was from Supreme Leader Khamenei.",
-                "Occurred during a trip to Moscow.",
-                "Suggests high-level diplomatic coordination."
-            ]
-        },
-        {
-            "headline": "Poland Warns Against Negotiating with Russia Over Eastern Europe's Head",
-            "summary": "Poland has issued a stern warning against any negotiations with Russia that might bypass the interests or involvement of Eastern European nations. This emphasizes the region's demand for direct participation in decisions affecting its security and future.",
-            "key_points": [
-                "Poland warned against negotiating with Russia.",
-                "Emphasized Eastern Europe's direct involvement.",
-                "Concerns about decisions affecting regional security."
-            ]
-        },
-        {
-            "headline": "Nearly 1,000 Migrants Rescued Off El Hierro, Spain",
-            "summary": "Spanish authorities have rescued nearly 1,000 migrants from seven different boats off the coast of El Hierro. This large-scale rescue operation highlights the ongoing migrant crisis in the region.",
-            "key_points": [
-                "Nearly 1,000 migrants rescued.",
-                "Rescued from seven boats off El Hierro, Spain.",
-                "Highlights ongoing migrant crisis."
-            ]
-        },
-        {
-            "headline": "EU Labels Southern European States 'Under Migratory Pressure'",
-            "summary": "The EU has officially labeled Spain, Italy, Greece, and Cyprus as countries \"under migratory pressure.\" This designation acknowledges the significant challenges these nations face due to increased influxes of migrants and asylum seekers.",
-            "key_points": [
-                "EU labeled Spain, Italy, Greece, Cyprus as under migratory pressure.",
-                "Acknowledges significant challenges from migrant influx.",
-                "Highlights ongoing migrant crisis in Southern Europe."
-            ]
-        },
-        {
-            "headline": "Pope Leo XIV Begins South American Tour with Arrival in Uruguay",
-            "summary": "Pope Leo XIV has arrived in Uruguay, marking the commencement of his extensive tour of South America. His visit is expected to address various social and religious issues across the continent.",
-            "key_points": [
-                "Pope Leo XIV arrived in Uruguay.",
-                "Begins his South American tour.",
-                "Expected to address social and religious issues."
-            ]
-        },
-        {
-            "headline": "Europe's Climate Tax Risks Trade War with India at COP31",
-            "summary": "Europe's proposed climate tax faces criticism for potentially sparking a new trade war with India at the upcoming COP31 summit. This measure, aimed at environmental protection, could create economic friction with developing nations.",
-            "key_points": [
-                "Europe's climate tax risks a trade war with India.",
-                "Concerns raised ahead of COP31 summit.",
-                "Potential economic friction with developing nations."
-            ]
-        },
-        {
-            "headline": "Judge Blocks Construction of Trump's 'Triumphal Arch'",
-            "summary": "A judge has issued a ruling to block the construction of former President Trump's proposed massive \"triumphal arch.\" This legal setback affects a high-profile real estate project associated with the former president.",
-            "key_points": [
-                "Judge blocked construction of Trump's 'triumphal arch'.",
-                "Legal setback for a high-profile project.",
-                "Affects real estate associated with Trump."
-            ]
-        },
-        {
-            "headline": "Paraguayan President Resigns Amidst Bank Collapse",
-            "summary": "The President of Paraguay has resigned from office following a widespread bank collapse in the country. This political upheaval is directly linked to a significant financial crisis, leading to questions about economic stability.",
-            "key_points": [
-                "Paraguayan President resigned.",
-                "Resignation followed a bank collapse.",
-                "Links political upheaval to financial crisis."
+                "Dana White was offered the White House press secretary job by Donald Trump.",
+                "He declined due to current commitments.",
+                "Trump had hoped White would join his administration."
             ]
         }
     ],
     "Business": [
         {
+            "headline": "Muhurat Trading 2026: Dalal Street Set for Auspicious Opening of Samvat 2083",
+            "summary": "Muhurat Trading is scheduled for Sunday, November 8, marking the start of Samvat 2083. This symbolic one-hour session on Diwali is seen as auspicious for investors, reflecting optimism in the market, which has seen strong rallies driven by foreign investments and stable domestic economic indicators. Brokerages have flagged 10 stocks for the upcoming year, with analysts advising focus on quality stocks and disciplined asset allocation.",
+            "key_points": [
+                "Muhurat Trading on Nov 8 marks the start of Samvat 2083.",
+                "The session is considered auspicious for investors on Diwali.",
+                "Market optimism is fueled by FIIs and stable domestic economy.",
+                "Analysts recommend quality stocks and disciplined asset allocation."
+            ]
+        },
+        {
+            "headline": "FIIs Pump Rs 38,971 Crore into Indian Equities Amid AI Sell-off",
+            "summary": "Foreign Institutional Investors (FIIs) have shown a strong return to Dalal Street, injecting a significant Rs 38,971 crore into Indian equities. This influx comes amidst a broader sell-off in AI-related stocks globally, indicating sustained international confidence in the Indian market.",
+            "key_points": [
+                "FIIs invested Rs 38,971 crore into Indian equities.",
+                "This occurred despite a global sell-off in AI stocks.",
+                "It signals renewed international confidence in India's market."
+            ]
+        },
+        {
+            "headline": "Coca-Cola's Indian Bottling Business Files for IPO, Offers 99.75 Crore Shares",
+            "summary": "Coca-Cola's bottling operations in India have filed for an Initial Public Offering (IPO), planning to offer 99.75 crore shares to the public. This significant move indicates the company's expansion strategy and seeks to capitalize on the robust Indian market.",
+            "key_points": [
+                "Coca-Cola's Indian bottling business is launching an IPO.",
+                "The offering includes 99.75 crore shares.",
+                "This reflects expansion plans in the Indian market."
+            ]
+        },
+        {
+            "headline": "Elon Musk's Tesla Cybertruck Production to Cease Next Year",
+            "summary": "Tesla's much-anticipated Cybertruck, Elon Musk's \"dream vehicle,\" is reportedly set to cease production next year. This development raises questions about the challenges and design flaws that may have plagued the innovative but controversial electric pickup.",
+            "key_points": [
+                "Tesla's Cybertruck production will end next year.",
+                "It was previously touted as Elon Musk's \"dream vehicle.\"",
+                "The cessation raises questions about the vehicle's commercial viability."
+            ]
+        },
+        {
             "headline": "India's Forex Reserves Dip by $2.69 Billion, Reasons Under Scrutiny",
-            "summary": "India's foreign exchange reserves have decreased by $2.69 billion, prompting questions about the underlying causes of this decline. Economists and financial analysts are examining factors contributing to the change in reserve levels.",
+            "summary": "India's foreign exchange reserves have recently experienced a decline of $2.69 billion. This drop prompts scrutiny into underlying factors such as external trade dynamics, capital flows, or central bank interventions that might be influencing the nation's reserve position.",
             "key_points": [
                 "India's forex reserves decreased by $2.69 billion.",
-                "The reasons for the decline are being investigated.",
-                "Analysts are scrutinizing contributing factors."
+                "Reasons for the decline are being examined.",
+                "Factors could include trade, capital flows, or central bank actions."
             ]
         },
         {
-            "headline": "Rules Tightened for Gold-Backed Farm Loans Under Priority Sector Lending",
-            "summary": "Regulations have been made stricter for classifying gold-backed agricultural loans under Priority Sector Lending (PSL). This move aims to ensure that such loans genuinely benefit the farming sector and adhere to financial guidelines.",
+            "headline": "Berkshire Hathaway's Profit Falls 28% as Geico Struggles",
+            "summary": "Warren Buffett's investment conglomerate, Berkshire Hathaway, reported a 28% drop in profit, largely due to struggles within its insurance giant, Geico. The performance of Geico, a key segment, is now under increased scrutiny as it impacts the overall financial health of the diversified holding company.",
             "key_points": [
-                "Rules for gold-backed farm loans are tightened.",
-                "Aims for better classification under PSL.",
-                "Ensures benefits for the farming sector."
-            ]
-        },
-        {
-            "headline": "OVL Seeks to Operate Two Venezuelan Oil Projects",
-            "summary": "ONGC Videsh Ltd (OVL) is reportedly seeking opportunities to operate two oil projects in Venezuela. This initiative signifies OVL's interest in expanding its international presence and securing energy resources.",
-            "key_points": [
-                "OVL aims to operate two oil projects.",
-                "Projects are located in Venezuela.",
-                "Reflects OVL's international expansion strategy."
-            ]
-        },
-        {
-            "headline": "Social Media Platforms Urged to Combat Digital Arrest Scams",
-            "summary": "Social media platforms are facing increasing pressure to take stronger action against \"digital arrest scams\" proliferating online. These fraudulent schemes exploit users, and platforms are being called upon to enhance their protective measures and content moderation.",
-            "key_points": [
-                "Social media platforms are urged to act.",
-                "Action is against \"digital arrest scams.\"",
-                "Aims to protect users from fraud."
-            ]
-        },
-        {
-            "headline": "Rupee Rises 57 Paise to 6-Month High of 93.91 Against Dollar",
-            "summary": "The Indian Rupee has strengthened significantly, rising by 57 paise to close at a six-month high of 93.91 against the dollar. This appreciation reflects positive movements in the currency market.",
-            "key_points": [
-                "Indian Rupee rose by 57 paise.",
-                "Closed at a six-month high of 93.91.",
-                "Indicates positive currency market movement."
-            ]
-        },
-        {
-            "headline": "Rising Pollution Drives Increase in Air Purifier Sales",
-            "summary": "Escalating pollution levels, particularly in urban areas, are leading to a significant increase in the sales of air purifiers. Consumers are investing in these devices to improve indoor air quality and protect their health.",
-            "key_points": [
-                "Pollution levels are rising.",
-                "Sales of air purifiers are increasing.",
-                "Consumers seek better indoor air quality."
-            ]
-        },
-        {
-            "headline": "Wall Street Rebounds from 18-Month Low, Driven by Chipmaker Rally",
-            "summary": "Wall Street has experienced a notable rebound, recovering from an 18-month low, largely fueled by a rally in chipmaker stocks. This surge signals renewed investor confidence in the technology sector and broader market recovery.",
-            "key_points": [
-                "Wall Street bounced back from an 18-month low.",
-                "Rally was driven by chipmakers.",
-                "Signals renewed investor confidence."
-            ]
-        },
-        {
-            "headline": "Semicon 2.0 Initiative Aims to Attract Eight Major Suppliers to India",
-            "summary": "The Semicon 2.0 initiative is actively working to draw eight major semiconductor suppliers to India, aiming to bolster the nation's manufacturing capabilities. This strategic push seeks to establish India as a significant hub in the global semiconductor industry.",
-            "key_points": [
-                "Semicon 2.0 initiative launched in India.",
-                "Aims to attract eight major semiconductor suppliers.",
-                "Seeks to strengthen India's manufacturing capabilities."
-            ]
-        },
-        {
-            "headline": "Court Orders Seizure and Sale of Tata Power's Shares in Arms",
-            "summary": "A court has issued an order for the seizure and sale of Tata Power's shares in its various subsidiaries and arms. This directive could have significant implications for the company's financial structure and operations.",
-            "key_points": [
-                "Court ordered seizure and sale of Tata Power shares.",
-                "Shares are in its subsidiaries/arms.",
-                "Could impact Tata Power's financial structure."
-            ]
-        },
-        {
-            "headline": "Bosch Reports Strong Q2 Performance: Revenue Up 28%, Net Profit Up 19%",
-            "summary": "Bosch has announced robust financial results for its second quarter, with revenue increasing by 28% and net profit rising by 19%. This strong performance indicates healthy growth and operational efficiency for the company.",
-            "key_points": [
-                "Bosch Q2 revenue increased by 28%.",
-                "Net profit rose by 19%.",
-                "Indicates strong growth and efficiency."
-            ]
-        },
-        {
-            "headline": "Wipro Appoints Sukamal Guha as Americas 2 CEO",
-            "summary": "Wipro, a leading IT services company, has appointed Sukamal Guha as the CEO for its Americas 2 region. This strategic leadership change is expected to drive growth and expand Wipro's market presence in the Americas.",
-            "key_points": [
-                "Wipro appointed Sukamal Guha as CEO.",
-                "He will lead the Americas 2 region.",
-                "Aims to drive growth and market presence."
-            ]
-        },
-        {
-            "headline": "Crude Oil Costs for Indian Companies Reach 2-Month Low",
-            "summary": "The cost of crude oil for Indian companies has dropped to a two-month low, providing a significant relief to various industries. This decline could lead to lower production costs and potentially benefit consumers.",
-            "key_points": [
-                "Crude oil cost for Indian companies hit a 2-month low.",
-                "Offers relief to various industries.",
-                "Could lead to lower production costs."
-            ]
-        },
-        {
-            "headline": "Gold Price Decline Boosts Jewellery Sales on Dhanteras",
-            "summary": "A recent decline in gold prices has significantly boosted jewellery sales during the auspicious occasion of Dhanteras. Consumers are taking advantage of lower prices to make traditional purchases, reflecting strong market demand.",
-            "key_points": [
-                "Gold prices have declined.",
-                "Jewellery sales increased on Dhanteras.",
-                "Consumers capitalized on lower prices."
-            ]
-        },
-        {
-            "headline": "Zimbabwe Aims to De-Dollarize Its Mining Sector",
-            "summary": "Zimbabwe's government has expressed its intention to de-dollarize the mining sector, seeking to reduce reliance on the US dollar for transactions. This move is part of broader economic reforms to stabilize the local currency and boost national economic control.",
-            "key_points": [
-                "Zimbabwe plans to de-dollarize its mining sector.",
-                "Aims to reduce reliance on the US dollar.",
-                "Part of broader economic reforms."
-            ]
-        },
-        {
-            "headline": "UAE's ADNOC to Supply 4 Million Tonnes of LNG to India's Gujarat Energy Over 10 Years",
-            "summary": "UAE's ADNOC has secured a long-term agreement to supply 4 million tonnes of Liquefied Natural Gas (LNG) to India's Gujarat Energy over a decade. This significant deal will bolster India's energy security and strengthen bilateral trade relations.",
-            "key_points": [
-                "ADNOC to supply 4M tonnes of LNG to Gujarat Energy.",
-                "Agreement spans 10 years.",
-                "Boosts India's energy security.",
-                "Strengthens UAE-India trade relations."
-            ]
-        },
-        {
-            "headline": "Expert: Success of India's UPI & RuPay Card Unnerving US",
-            "summary": "An expert suggests that the remarkable success and widespread adoption of India's UPI and RuPay card payment systems are causing unease in the United States. This indicates a growing challenge to established global payment infrastructures.",
-            "key_points": [
-                "India's UPI and RuPay card success is noted.",
-                "An expert claims this is unnerving the US.",
-                "Challenges established global payment systems."
-            ]
-        },
-        {
-            "headline": "Can India Achieve Self-Reliance in Critical Technologies by 2047?",
-            "summary": "The question of whether India can achieve self-reliance in critical technologies by 2047 is being debated by experts. This ambitious goal is central to India's long-term economic and strategic vision, requiring significant investment and innovation.",
-            "key_points": [
-                "India aims for self-reliance in critical technologies by 2047.",
-                "The feasibility of this goal is under debate.",
-                "Requires significant investment and innovation."
-            ]
-        },
-        {
-            "headline": "India's Own Civil Plane Production Marks Step Towards New Era",
-            "summary": "India's move towards producing its own civil aircraft signals a significant step into a new era for its aerospace and manufacturing industries. This initiative aims to reduce import dependence and boost domestic capabilities in aviation.",
-            "key_points": [
-                "India is moving towards civil plane production.",
-                "Marks a new era for its aerospace industry.",
-                "Aims to reduce import dependence."
-            ]
-        },
-        {
-            "headline": "Ukraine's GDP Decreased in Q3 2026, According to State Statistics Service",
-            "summary": "Ukraine's State Statistics Service has reported that the country's Gross Domestic Product (GDP) decreased in the third quarter of 2026. This economic contraction highlights the ongoing impact of conflict and other factors on the nation's economy.",
-            "key_points": [
-                "Ukraine's GDP decreased in Q3 2026.",
-                "Reported by the State Statistics Service.",
-                "Highlights economic impact of conflict."
-            ]
-        },
-        {
-            "headline": "Elon Musk's Tesla to \"Wind Down\" Cybertruck Production Next Year",
-            "summary": "Elon Musk's Tesla has announced plans to \"wind down\" Cybertruck production next year, indicating a shift in manufacturing priorities or market strategy. This development could impact the electric vehicle market and Tesla's future product roadmap.",
-            "key_points": [
-                "Tesla to \"wind down\" Cybertruck production next year.",
-                "Indicates shift in manufacturing or strategy.",
-                "Could impact EV market and Tesla's roadmap."
-            ]
-        },
-        {
-            "headline": "Foreign Buyers Drive Record 16% Increase in Spanish Home Sales Amid High Prices",
-            "summary": "Spanish home sales to foreign buyers have surged by a record 16%, even as property prices reach unprecedented highs. This influx of international investment is significantly impacting the country's real estate market.",
-            "key_points": [
-                "Spanish home sales to foreign buyers increased by 16%.",
-                "Occurred amidst record property prices.",
-                "Foreign investment significantly impacts the real estate market."
-            ]
-        },
-        {
-            "headline": "EU and UK to Link Carbon Markets in Major Post-Brexit Deal",
-            "summary": "The European Union and the United Kingdom are reportedly on the verge of linking their carbon markets in a significant post-Brexit agreement. This deal aims to align climate policies and facilitate cross-border emissions trading.",
-            "key_points": [
-                "EU and UK set to link carbon markets.",
-                "Major post-Brexit deal.",
-                "Aims to align climate policies and emissions trading."
-            ]
-        },
-        {
-            "headline": "Putin Seizes Russian Operations of Japanese Tobacco Giant JTI",
-            "summary": "Russian President Vladimir Putin has ordered the seizure of the Russian operations belonging to Japanese tobacco giant JTI. This move signifies increased state control over foreign assets and has major implications for international businesses in Russia.",
-            "key_points": [
-                "Putin seized JTI's Russian operations.",
-                "JTI is a Japanese tobacco giant.",
-                "Impacts international businesses in Russia."
-            ]
-        },
-        {
-            "headline": "Spain Withdraws 188,000 Tonnes of Olive Oil from Market",
-            "summary": "Spain is reportedly withdrawing 188,000 tonnes of olive oil from the market, a significant move that could impact global supply and prices. The reasons behind this massive withdrawal are under close scrutiny by industry observers.",
-            "key_points": [
-                "Spain is taking 188,000 tonnes of olive oil off the market.",
-                "Could impact global supply and prices.",
-                "Reasons for withdrawal are under scrutiny."
-            ]
-        },
-        {
-            "headline": "Majorca Shuts Down Last Coal Plant, Impact on Energy Bills Questioned",
-            "summary": "Majorca has successfully shut down its last remaining coal plant, marking a significant step towards cleaner energy. However, the impact of this closure on local energy bills and the broader energy market remains a key question.",
-            "key_points": [
-                "Majorca shut down its last coal plant.",
-                "Significant step towards cleaner energy.",
-                "Impact on energy bills is questioned."
+                "Berkshire Hathaway's profit fell 28%.",
+                "Geico's struggles significantly contributed to the decline.",
+                "Warren Buffett's company faces scrutiny over its insurance division."
             ]
         }
     ],
     "Technology": [
         {
-            "headline": "Elon Musk's Philanthropy: Donates for Flint Water Filters and Student Laptops",
-            "summary": "In 2018, Elon Musk made significant philanthropic contributions, including $480,350 for water filters in Flint schools and $423,000 for student laptops. He also committed to funding water infrastructure repairs in affected homes.",
+            "headline": "Gurugram Student Builds Rs 1 Lakh Solar Vehicle, Runs at 13 Paise/km",
+            "summary": "A 17-year-old student from Gurugram has successfully constructed a solar-powered vehicle costing just Rs 1 lakh. This innovative creation boasts an incredibly low running cost of merely 13 paise per kilometer, showcasing impressive efficiency and sustainable engineering for India.",
             "key_points": [
-                "Elon Musk made donations in 2018.",
-                "Funds were for water filters in Flint schools.",
-                "Laptops were purchased for students.",
-                "He pledged to fix household water issues."
+                "A 17-year-old built a Rs 1 lakh solar vehicle.",
+                "The vehicle runs at an efficient 13 paise/km.",
+                "It demonstrates sustainable engineering for India."
             ]
         },
         {
-            "headline": "Man Sues OpenAI, Alleging ChatGPT Provided Poisoning Guidance to Wife",
-            "summary": "A man has filed a lawsuit against OpenAI, claiming that its AI model, ChatGPT, provided his wife with guidance on how to poison him. This grave accusation has ignited significant concerns and questions about the safety and potential misuse of artificial intelligence.",
+            "headline": "Improve Generative AI Responses: Clear Prompts Boost Accuracy",
+            "summary": "To enhance the accuracy and relevance of Generative AI responses, it is crucial to use clear and precise prompts. Industry professionals further refine AI outputs by implementing robust checks and validation processes, ensuring high-quality and reliable results.",
             "key_points": [
-                "A man sued OpenAI over ChatGPT.",
-                "He alleges ChatGPT gave his wife poisoning instructions.",
-                "The incident raises serious AI safety questions."
+                "Clear prompts are vital for accurate Generative AI responses.",
+                "Professionals use checks to refine AI outputs.",
+                "This process improves the quality and reliability of AI."
             ]
         },
         {
-            "headline": "US Startup Partners with India's Skyroot Aerospace to Sell Sunlight at Night",
-            "summary": "A US start-up is collaborating with India's Skyroot Aerospace on an ambitious project to \"sell sunlight at night.\" While the exact technology is not detailed, this partnership suggests innovative approaches to energy or illumination.",
+            "headline": "Meta's Chief Strategy Officer Dave Wehner Moves to AI Startup",
+            "summary": "Dave Wehner, Meta's chief strategy officer, is departing the company to join a four-year-old AI startup. Wehner cited the startup's \"right mission\" as his motivation for the move, indicating a strategic shift towards dedicated AI ventures from a senior tech executive.",
             "key_points": [
-                "US start-up and India's Skyroot Aerospace are partnering.",
-                "The project aims to \"sell sunlight at night.\"",
-                "Suggests an innovative energy/illumination technology."
+                "Meta's CSO, Dave Wehner, is leaving for an AI startup.",
+                "He cited the startup's \"right mission\" as his reason.",
+                "This highlights a trend of talent moving to specialized AI companies."
             ]
         },
         {
-            "headline": "Researcher Aniket Bera Develops Drone for Tracking Individuals Without GPS",
-            "summary": "Researcher Aniket Bera has successfully developed a drone capable of tracking people even without GPS signals. This innovative technology could have applications in search and rescue, surveillance, or disaster management, operating independently of satellite navigation.",
+            "headline": "Data Protection Law Faces Scrutiny in India: Key Concerns Explained",
+            "summary": "India's newly proposed data protection law is undergoing intense scrutiny, with various stakeholders raising significant concerns. Experts are highlighting critical areas such as data localization requirements, consent mechanisms, and the independence of regulatory bodies, which could impact user privacy and business operations.",
             "key_points": [
-                "Aniket Bera developed a drone.",
-                "Drone can track people without GPS.",
-                "Technology has potential applications in various fields."
+                "India's data protection law faces scrutiny.",
+                "Concerns include data localization and consent mechanisms.",
+                "The independence of regulatory bodies is also a key issue."
             ]
         },
         {
-            "headline": "Russia Upgrades Tsitadel Air Defense System, Mounting It on Wheels",
-            "summary": "Russia has implemented a new upgrade for its Tsitadel air defense system, now mounting it on wheels for enhanced mobility. This modification aims to improve the system's deployment speed and operational flexibility in various combat scenarios.",
+            "headline": "Digital Arrest: A Cyberfraud Wrapped in a Psychological Trap",
+            "summary": "\"Digital arrest\" is emerging as a sophisticated cyberfraud tactic, leveraging psychological manipulation to trap victims. This scam involves fraudsters impersonating law enforcement to convince individuals they are under arrest, often leading to significant financial losses through coercive demands.",
             "key_points": [
-                "Russia upgraded its Tsitadel air defense system.",
-                "System is now mounted on wheels.",
-                "Aims for enhanced mobility and operational flexibility."
-            ]
-        },
-        {
-            "headline": "Russia Strengthens Air Defense Against Ukrainian Drones, Develops Laser and EMP Weapons",
-            "summary": "An expert reports that Russia is bolstering its air defense systems to counter Ukrainian drones, and is also developing advanced laser and electromagnetic pulse (EMP) weapons. These developments indicate a focus on modernizing anti-drone warfare capabilities.",
-            "key_points": [
-                "Russia is strengthening air defense against Ukrainian drones.",
-                "Developing laser and EMP weapons.",
-                "Focus on modernizing anti-drone warfare."
-            ]
-        },
-        {
-            "headline": "Analysis: What India Could Learn From Russia's Hypersonic Missile Programme",
-            "summary": "An analysis explores the potential lessons India could derive from Russia's advanced hypersonic missile program. Understanding Russia's developments in this area could inform India's own strategic defense initiatives and technological advancements.",
-            "key_points": [
-                "India could learn from Russia's hypersonic missile program.",
-                "Insights could inform India's strategic defense.",
-                "Focus on technological advancements."
-            ]
-        },
-        {
-            "headline": "EU Directs TikTok to Modify 'Harmful' Feed Due to 'Rabbit Hole Effect'",
-            "summary": "The European Union has instructed TikTok to alter its algorithmically driven feed, citing a \"rabbit hole effect\" that it deems harmful to users. This directive aims to address concerns about user engagement patterns and content exposure.",
-            "key_points": [
-                "EU told TikTok to change its feed.",
-                "Cited a \"rabbit hole effect\" as harmful.",
-                "Aims to address user engagement and content exposure concerns."
-            ]
-        },
-        {
-            "headline": "Data Centre Backlash: AI Companies Affected by US Midterms Scrutiny",
-            "summary": "The US midterm elections have triggered a backlash against data centers, impacting several AI companies now facing increased scrutiny. This development highlights growing public and political concerns over the environmental and infrastructural demands of artificial intelligence.",
-            "key_points": [
-                "US midterms caused backlash against data centers.",
-                "AI companies are facing increased scrutiny.",
-                "Concerns about AI's environmental and infrastructural demands."
-            ]
-        },
-        {
-            "headline": "Google, Meta, and TikTok Sue California to Block Kids Social Media Law",
-            "summary": "Tech giants Google, Meta, and TikTok have jointly filed a lawsuit against California to block a new state law regulating children's use of social media. This legal challenge underscores the ongoing tension between platform autonomy and child online safety legislation.",
-            "key_points": [
-                "Google, Meta, TikTok sued California.",
-                "Aim to block a new kids social media law.",
-                "Highlights tension between platforms and child safety legislation."
-            ]
-        },
-        {
-            "headline": "Parents Sue Google, Alleging AI Used by 13-Year-Old to Plan Suicide",
-            "summary": "Parents have filed a lawsuit against Google, claiming that their 13-year-old child allegedly used artificial intelligence to plan their suicide. This tragic incident raises urgent questions about AI safety, content moderation, and child protection online.",
-            "key_points": [
-                "Parents sued Google.",
-                "Allegation: 13-year-old used AI to plan suicide.",
-                "Raises urgent questions about AI safety and child protection."
-            ]
-        },
-        {
-            "headline": "Supermarket Freezers Across Europe Targeted by Hacking Incidents",
-            "summary": "Supermarket freezers across Europe are reportedly being targeted by hacking incidents, leading to unexplained malfunctions and disruptions. The motive and method behind these unusual cyberattacks are currently under investigation.",
-            "key_points": [
-                "Supermarket freezers in Europe are being hacked.",
-                "Leads to malfunctions and disruptions.",
-                "Motive and method are under investigation."
+                "\"Digital arrest\" is a new cyberfraud tactic.",
+                "Fraudsters psychologically manipulate victims.",
+                "They impersonate law enforcement to extort money.",
+                "Victims often suffer significant financial losses."
             ]
         }
     ],
     "Entertainment": [
         {
-            "headline": "'Ramayana: Rise of a Legend' Crosses Rs 100 Crore at Box Office on Day 2",
-            "summary": "The film 'Ramayana: Rise of a Legend', starring Ranbir Kapoor, Yash, and Sai Pallavi, has achieved a significant box office milestone by crossing Rs 100 crore on its second day. This rapid success indicates strong audience reception and commercial performance.",
+            "headline": "Makers of Ranbir Kapoor, Yash Starrer 'Ramayana' Warn of Legal Action Over Theatre Recordings",
+            "summary": "The producers of the highly anticipated film 'Ramayana,' starring Ranbir Kapoor and Yash, have issued a strong warning against unauthorized theatre recordings. Citing Bombay High Court orders, they threaten legal action to curb piracy and protect their intellectual property.",
             "key_points": [
-                "'Ramayana: Rise of a Legend' crossed Rs 100 crore.",
-                "Achieved the milestone on its second day.",
-                "Stars Ranbir Kapoor, Yash, and Sai Pallavi."
+                "'Ramayana' makers warn against theatre recordings.",
+                "Legal action is threatened based on Bombay High Court orders.",
+                "The move aims to combat piracy and protect intellectual property."
             ]
         },
         {
-            "headline": "BMC's Proposed 570% Entertainment Tax Hike Awaits Maharashtra Government Approval",
-            "summary": "The Brihanmumbai Municipal Corporation (BMC) has proposed a staggering 570% hike in entertainment tax, a move now awaiting approval from the Maharashtra Government. This significant increase, which could raise multiplex taxes from Rs 60 to Rs 400, has prompted concern from the All India Cine Workers Association (AICWA).",
+            "headline": "Janhvi Kapoor Recalls Sridevi's Reaction to Her Nose Job",
+            "summary": "Janhvi Kapoor shared her late mother Sridevi's reaction to her nose job, revealing that Sridevi saw \"potential\" in her acting career only after the procedure. This intimate detail sheds light on the pressures and perceptions within the entertainment industry.",
             "key_points": [
-                "BMC proposes a 570% entertainment tax hike.",
-                "Approval is pending from the Maharashtra Government.",
-                "Multiplex tax could increase from Rs 60 to Rs 400.",
-                "AICWA has officially responded to the proposal."
+                "Janhvi Kapoor discussed Sridevi's reaction to her nose job.",
+                "Sridevi apparently saw more acting potential afterward.",
+                "This highlights industry pressures and perceptions."
             ]
         },
         {
-            "headline": "Frank Lloyd Wright's Iconic Cedar Lake Home Relists for $2.495 Million",
-            "summary": "Frank Lloyd Wright's renowned Usonian house on Cedar Lake in Minneapolis is back on the market for $2.495 million after failing to find a buyer previously. The three-bedroom residence blends seamlessly with its natural surroundings, featuring recent updates that maintain much of Wright's signature architectural style.",
+            "headline": "Esha Deol and Ex-Husband Bharat Takhtani Reunite at Diwali Bash",
+            "summary": "Actress Esha Deol and her ex-husband Bharat Takhtani were spotted together at a Diwali celebration, marking a reunion since their separation. The former couple posed for paparazzi, sparking interest among fans and media about their amicable relationship post-divorce.",
             "key_points": [
-                "Frank Lloyd Wright's Usonian house is relisted.",
-                "Located on Cedar Lake, Minneapolis, for $2.495 million.",
-                "Features three bedrooms and integrates with nature.",
-                "Recent updates preserve Wright's signature style."
+                "Esha Deol and Bharat Takhtani reunited at a Diwali party.",
+                "They posed together for the paparazzi.",
+                "The reunion suggests an amicable post-divorce relationship."
             ]
         },
         {
-            "headline": "Kanye West's Bighorn Mountain Ranch Reacquired by Original Family for Preservation",
-            "summary": "Kanye West's 6,713-acre Bighorn Mountain Ranch in Wyoming, which he purchased in 2019, has been reacquired by the Flitner family, its generational owners. The family prioritized agricultural preservation and landscape protection over potential subdivision, aiming to restore historic structures and maintain the land for future generations.",
+            "headline": "Sylvester Stallone Says Pelé Broke His Finger on 'Escape to Victory' Set",
+            "summary": "Hollywood icon Sylvester Stallone recounted an incident where legendary footballer Pelé accidentally broke his finger during the filming of their movie 'Escape to Victory.' Stallone shared the anecdote, highlighting the unexpected hazards of working with a sports legend.",
             "key_points": [
-                "Kanye West's Wyoming ranch was reacquired by the Flitner family.",
-                "The family originally owned the 6,713-acre Bighorn Mountain Ranch for generations.",
-                "Concerns over subdivision led to the family's repurchase.",
-                "The goal is agricultural preservation, landscape protection, and restoration of historic structures."
-            ]
-        },
-        {
-            "headline": "Meghan Markle's Father Arrested Over Child Sex Abuse Images",
-            "summary": "Meghan Markle's father has reportedly been arrested in connection with child sex abuse images. This grave accusation brings a significant scandal to the royal family's extended circle and highlights serious legal issues.",
-            "key_points": [
-                "Meghan Markle's father arrested.",
-                "Arrest related to child sex abuse images.",
-                "Brings scandal to the royal family's extended circle."
+                "Sylvester Stallone's finger was broken by Pelé.",
+                "The incident occurred on the set of 'Escape to Victory.'",
+                "Stallone shared the story as a memorable filming experience."
             ]
         }
     ],
     "Sports": [
         {
-            "headline": "India Defeats New Zealand in First ODI, Prepares for Second Match",
-            "summary": "India secured a five-wicket victory over New Zealand in the rain-shortened first ODI, propelled by strong bowling from Arshdeep Singh, Gurnoor Brar, and Anshul Kamboj, and a fluent 74 from Virat Kohli. As the teams head into the second ODI in Wellington, New Zealand faces challenges due to Devon Conway's concussion, while India looks to build on its batting confidence with Kohli, Gill, and Rahul.",
+            "headline": "India vs Pakistan U19 Asia Cup: Sehwag, Vineeth Lead India to Victory",
+            "summary": "In a marquee Group A encounter at the Under-19 Asia Cup, India renewed its rivalry with Pakistan, with Aaryavir Sehwag (son of Virender Sehwag) scoring an unbeaten 70 and Vineeth also contributing significantly. India opened their campaign with a commanding 10-wicket victory over Nepal, chasing down 128 in 19.1 overs, showing strong form ahead of this crucial match.",
             "key_points": [
-                "India won the first ODI against New Zealand by five wickets.",
-                "Key Indian performers included Arshdeep Singh (bowling) and Virat Kohli (batting).",
-                "New Zealand's Devon Conway is out due to concussion for the second ODI.",
-                "India aims to extend its series lead in the second match."
+                "India played Pakistan in a U19 Asia Cup match.",
+                "Aaryavir Sehwag scored an unbeaten 70, leading India.",
+                "India previously beat Nepal by 10 wickets.",
+                "The match is crucial for Group A standings and semi-final qualification."
             ]
         },
         {
-            "headline": "PM Modi Cites Para Games Success to Motivate Athletes for Olympics 2028",
-            "summary": "Prime Minister Narendra Modi has highlighted the recent success of Indian athletes at the Para Games as an inspiration for the nation's Olympians. He aims to motivate them for strong performances at the 2028 Olympics.",
+            "headline": "Neeraj Chopra's Diamond League Final: Event Preview and Telecast in India",
+            "summary": "Indian javelin star Neeraj Chopra is set to compete in the Diamond League Final. Fans in India can anticipate details on the event's preview, exact timings, and live telecast information to watch the Olympic gold medalist in action on a global stage.",
             "key_points": [
-                "PM Modi used Para Games success as motivation.",
-                "Aims to inspire athletes for the 2028 Olympics.",
-                "Emphasizes strong future performances."
+                "Neeraj Chopra will compete in the Diamond League Final.",
+                "Telecast details for India are being awaited.",
+                "The event is a major highlight for Indian sports fans."
+            ]
+        },
+        {
+            "headline": "FIDE World Chess Championship in India: PM Modi Highlights Youth Popularity",
+            "summary": "With the FIDE World Chess Championship being hosted in India, Prime Minister Narendra Modi remarked on the increasing popularity of chess among Indian youth. This emphasizes the nation's growing engagement with intellectual sports and its potential to foster young talent.",
+            "key_points": [
+                "India is hosting the FIDE World Chess Championship.",
+                "PM Modi noted chess's rising popularity among Indian youth.",
+                "This signals India's growing engagement with intellectual sports."
+            ]
+        },
+        {
+            "headline": "Hanuma Vihari Joins Tripura After Leaving Andhra Pradesh",
+            "summary": "Experienced cricketer Hanuma Vihari has made a significant move by joining the Tripura cricket team, departing from his long association with Andhra Pradesh. This transfer marks a new chapter in his domestic career, potentially bringing his expertise to a different state side.",
+            "key_points": [
+                "Hanuma Vihari has moved from Andhra Pradesh to Tripura.",
+                "This is a significant change in his domestic cricket career.",
+                "He will bring his experience to the Tripura team."
             ]
         }
     ],
     "Science": [
         {
-            "headline": "New Research Refutes Northeast Scottish Origin Theory for Stonehenge Altar Stone",
-            "summary": "Recent research has definitively ruled out the long-held theory that Stonehenge's Altar Stone originated from Northeast Scotland. This finding reorients previous understandings of the monument's construction and material sourcing.",
+            "headline": "Blindness Changes Sound Processing: Better Hearing is Not Just About Ears",
+            "summary": "New research indicates that the ability to hear better is not solely dependent on the ears; blindness significantly alters sound processing in the brain. This highlights the remarkable neuroplasticity of the brain, where other sensory modalities adapt and enhance in the absence of sight, offering deeper insights into auditory perception.",
             "key_points": [
-                "New research disproves a theory.",
-                "Stonehenge Altar Stone is not from Northeast Scotland.",
-                "Changes understanding of Stonehenge's origins."
+                "Blindness enhances and changes sound processing in the brain.",
+                "Hearing ability is not limited to auditory organs.",
+                "The research showcases the brain's neuroplasticity.",
+                "It offers insights into how sensory deprivation impacts perception."
             ]
         },
         {
-            "headline": "280 Ancient Motifs Identified in Spanish Cave Visited for Decades",
-            "summary": "For over 60 years, visitors have explored a cave in Spain without realizing its full historical significance. Now, researchers have identified 280 ancient motifs within it, revealing previously unseen cultural heritage.",
+            "headline": "Ukrainian Boy Tracks Rare Black Stork from Chernobyl to Africa to Expose Threats",
+            "summary": "A 10-year-old Ukrainian boy has taken on the role of a wildlife detective, tracking a rare black stork from Chernobyl all the way to Africa in a motorhome. His mission is to expose the threats to the bird's survival, including deadly power lines, poaching, and habitat loss, to aid in its conservation.",
             "key_points": [
-                "280 ancient motifs found in a Spanish cave.",
-                "The cave has been open to visitors for over 60 years.",
-                "Discovery reveals new cultural heritage."
+                "A 10-year-old is tracking a rare black stork.",
+                "The stork's journey is from Chernobyl to Africa.",
+                "The boy aims to expose threats like power lines, poaching, and habitat loss.",
+                "His efforts are for the bird's conservation."
             ]
         },
         {
-            "headline": "Twenty Black Grouse Relocated from North Pennines to North York Moors for Conservation",
-            "summary": "In 2024, twenty black grouse were successfully relocated from the North Pennines to the North York Moors. This conservation effort aims to boost the population and genetic diversity of the species in a new habitat.",
+            "headline": "Scientists Find First Martian Garnet in Meteorite, Origin Remains Unclear",
+            "summary": "Scientists have announced the discovery of the first-ever Martian garnet within a meteorite, a significant find for planetary geology. However, the precise origin and formation process of this garnet on Mars remain unclear, prompting further research into the red planet's geological history.",
             "key_points": [
-                "Twenty black grouse were relocated in 2024.",
-                "Moved from North Pennines to North York Moors.",
-                "Part of a conservation initiative."
+                "The first Martian garnet was found in a meteorite.",
+                "This is a significant discovery for planetary geology.",
+                "Its origin and formation on Mars are still unknown."
             ]
         },
         {
-            "headline": "Moon Dust Reveals Rare Asteroid Rock Linked to Lunar Surface Water",
-            "summary": "Analysis of moon dust has uncovered rare asteroid rock fragments, providing a crucial link to the presence of water on the lunar surface. This discovery offers new insights into the moon's hydrological cycle and its origins.",
+            "headline": "Wallace's 170-Year-Old Moth Rediscovery Identifies 11 New Species",
+            "summary": "A historic rediscovery of a moth, first documented by Alfred Russel Wallace 170 years ago, has led to the identification of 11 previously unknown species. This remarkable finding highlights the continued importance of historical biological records and the vast, unexplored biodiversity that still exists.",
             "key_points": [
-                "Moon dust analysis revealed rare asteroid rock.",
-                "The rock is linked to water on the lunar surface.",
-                "Provides new insights into lunar hydrology."
-            ]
-        },
-        {
-            "headline": "India Embarks on Deep-Sea Mission to Explore 6,000 Meters Under the Sea",
-            "summary": "India is undertaking an ambitious mission to explore depths of 6,000 meters under the sea, signifying a major leap in its deep-ocean capabilities. This endeavor aims to unlock marine resources and further scientific research.",
-            "key_points": [
-                "India is undertaking a deep-sea mission.",
-                "Aims to explore 6,000 meters under the sea.",
-                "Represents a major leap in deep-ocean capabilities.",
-                "Focus on marine resources and scientific research."
-            ]
-        },
-        {
-            "headline": "Bust of Yuri Gagarin Unveiled at Periyar Science and Technology Centre in Chennai",
-            "summary": "A bust commemorating Yuri Gagarin, the first human in space, has been unveiled at the Periyar Science and Technology Centre in Chennai. This tribute celebrates his pioneering achievement and promotes scientific inspiration.",
-            "key_points": [
-                "Bust of Yuri Gagarin unveiled in Chennai.",
-                "Located at Periyar Science and Technology Centre.",
-                "Celebrates the first human in space."
-            ]
-        },
-        {
-            "headline": "Early Polar Vortex Disruption May Bring Colder Spells to Europe",
-            "summary": "An early disruption of the polar vortex is anticipated to potentially bring colder spells to Europe. This meteorological event could significantly impact weather patterns across the continent in the coming months.",
-            "key_points": [
-                "Early polar vortex disruption expected.",
-                "Could bring colder spells to Europe.",
-                "May significantly impact weather patterns."
-            ]
-        },
-        {
-            "headline": "Majorca Shuts Down Last Coal Plant, Impact on Energy Bills Questioned",
-            "summary": "Majorca has successfully shut down its last remaining coal plant, marking a significant step towards cleaner energy. However, the impact of this closure on local energy bills and the broader energy market remains a key question.",
-            "key_points": [
-                "Majorca shut down its last coal plant.",
-                "Significant step towards cleaner energy.",
-                "Impact on energy bills is questioned."
-            ]
-        },
-        {
-            "headline": "Scientists Develop First 'Broad-Spectrum' Bird Flu Jab Using AI",
-            "summary": "Scientists have successfully developed the first-ever \"broad-spectrum\" bird flu vaccine, utilizing artificial intelligence in the process. This breakthrough represents a significant advance in combating avian influenza and potentially preventing future pandemics.",
-            "key_points": [
-                "First \"broad-spectrum\" bird flu vaccine developed.",
-                "Developed using AI technology.",
-                "Significant advance in combating avian influenza."
+                "A 170-year-old moth documented by Wallace was rediscovered.",
+                "The rediscovery led to identifying 11 new species.",
+                "It emphasizes the value of historical biological records."
             ]
         }
     ],
     "Health": [
         {
-            "headline": "Six-Month-Old Survives Severe Dengue Affecting Multiple Organs After ICU Care",
-            "summary": "A six-month-old infant has successfully battled severe dengue, which had critically affected their lungs, liver, and brain, after receiving intensive care. The baby's survival underscores the challenges and critical medical support needed for such severe cases.",
+            "headline": "Pollution, Stress, Long Hours: Neurologist Explains Brain Health Risks",
+            "summary": "A neurologist explains how factors like pollution, chronic stress, and extended working hours can silently jeopardize brain health. These environmental and lifestyle stressors pose hidden risks to cognitive functions such as memory and focus, underscoring the importance of addressing them for neurological well-being.",
             "key_points": [
-                "Six-month-old child survived severe dengue.",
-                "Dengue affected lungs, liver, and brain.",
-                "Baby received critical ICU care."
+                "Pollution, stress, and long hours impact brain health.",
+                "These factors pose hidden risks to memory and focus.",
+                "Addressing these stressors is crucial for neurological well-being."
             ]
         },
         {
-            "headline": "Festive Sweets and Weight Gain: Distinguishing Bloating from Fat, and Cancer Risk",
-            "summary": "During festive seasons, concerns arise about weight gain from sweets, distinguishing between temporary bloating and actual fat accumulation. Experts also explore whether chronic overeating and associated weight gain can elevate the risk of cancer, urging moderation.",
+            "headline": "Six-Month-Old Battles Severe Dengue with Multi-Organ Involvement, Survives ICU",
+            "summary": "A six-month-old infant in critical condition successfully battled severe dengue, which had affected its lungs, liver, and brain. After intensive care unit (ICU) treatment, the baby survived, highlighting the severity of the disease in young children and the advancements in medical care.",
             "key_points": [
-                "Festive sweets cause weight gain concerns.",
-                "Important to distinguish bloating from fat.",
-                "Overeating and weight gain may increase cancer risk.",
-                "Moderation is advised."
+                "A six-month-old infant survived severe dengue.",
+                "The disease had affected the baby's lungs, liver, and brain.",
+                "The survival highlights advancements in critical pediatric care."
             ]
         },
         {
-            "headline": "Five Abdominal Pain Symptoms to Watch For Beyond Festive Bloating",
-            "summary": "While festive indulgence can cause bloating, certain abdominal pain symptoms should not be dismissed as mere discomfort. Health experts highlight five specific signs that could indicate underlying serious health issues requiring medical attention.",
+            "headline": "Festive Sweets and Weight Gain: Is It Bloating or Fat, and Cancer Risk?",
+            "summary": "Amidst festive celebrations, concerns arise regarding weight gain from sweets, prompting questions about whether it's bloating or actual fat accumulation, and if overeating increases cancer risk. Experts weigh in on the metabolic impacts of festive indulgence and the long-term health implications.",
             "key_points": [
-                "Abdominal pain can be more than festive bloating.",
-                "Five specific symptoms warrant attention.",
-                "Could indicate serious underlying health issues.",
-                "Medical attention may be required."
+                "Festive sweets raise concerns about weight gain.",
+                "Questions arise about bloating vs. fat and cancer risk from overeating.",
+                "Experts are examining metabolic and long-term health impacts of indulgence."
             ]
         },
         {
-            "headline": "US Measles Cases Exceed 5,000 in 2026, Reaching 35-Year High",
-            "summary": "The United States has reported over 5,000 measles cases in 2026, marking a 35-year high for the disease. This alarming surge highlights concerns about vaccination rates and public health.",
+            "headline": "US Measles Cases Exceed 5,000 in 2026, Hitting 35-Year High",
+            "summary": "The United States has recorded over 5,000 measles cases in 2026, marking a 35-year high for the infectious disease. This surge underscores concerns about declining vaccination rates and public health challenges in controlling preventable outbreaks.",
             "key_points": [
-                "US measles cases exceeded 5,000 in 2026.",
-                "Marks a 35-year high.",
-                "Raises concerns about vaccination rates."
-            ]
-        },
-        {
-            "headline": "Finnish Study Investigates Link Between Greens Consumption and Testosterone Levels",
-            "summary": "A Finnish study is exploring a potential link between increased consumption of greens and higher testosterone levels. This research could offer new insights into dietary impacts on hormonal health and overall well-being.",
-            "key_points": [
-                "Finnish study on greens consumption and testosterone.",
-                "Investigating a potential link between the two.",
-                "Could offer insights into dietary impacts on hormonal health."
-            ]
-        },
-        {
-            "headline": "Analyzing the Health Risks Associated with Fireworks",
-            "summary": "While fireworks offer entertainment, they pose various health risks that are often overlooked. Exposure to smoke and particulate matter can lead to respiratory issues, eye injuries, and burns, highlighting the importance of safety precautions.",
-            "key_points": [
-                "Fireworks pose health risks despite entertainment value.",
-                "Risks include respiratory issues, eye injuries, and burns.",
-                "Emphasizes importance of safety precautions."
-            ]
-        },
-        {
-            "headline": "Europe Races to Combat Spreading Tiger Mosquitoes and Tropical Diseases",
-            "summary": "As tiger mosquitoes continue to spread across Europe, health authorities are racing to implement measures to halt the transmission of tropical diseases. This urgent situation poses a new public health challenge for the continent.",
-            "key_points": [
-                "Tiger mosquitoes are spreading across Europe.",
-                "Authorities are racing to stop tropical diseases.",
-                "Poses a new public health challenge."
-            ]
-        },
-        {
-            "headline": "WHO: Six Climate Actions Could Save 1.6 Million Lives Annually",
-            "summary": "The World Health Organization (WHO) states that just six specific climate actions have the potential to save 1.6 million lives each year globally. This highlights the profound health benefits that can be achieved through environmental policies and climate mitigation efforts.",
-            "key_points": [
-                "WHO identifies six climate actions.",
-                "Could save 1.6 million lives annually.",
-                "Highlights health benefits of climate policies."
+                "US measles cases surpassed 5,000 in 2026.",
+                "This is the highest incidence in 35 years.",
+                "The surge raises concerns about vaccination rates and public health."
             ]
         }
     ]
